@@ -1,0 +1,96 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>A real thrill</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Lemon Frozen Yogurt with a Blueberry Stripe</h2>
+    <h3 class="subtitle">Adapted slightly from <span style="font-style: italic;"><a href="http://www.amazon.com/Jenis-Splendid-Ice-Creams-Home/dp/1579654363/?_encoding=UTF8&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325" target="_blank">Jeni’s Splendid Ice Creams at Home</a></span></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-08-22T22:10:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/ice-cream/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Be sure to let the frozen yogurt sit and thaw slightly &#8211; for 5 or 10 minutes, say &#8211; before you scoop and serve it. The texture is best that way. Also, I use Brown Cow brand yogurt.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>Blueberry sauce:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups blueberries          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup sugar (or a bit less, if your berries are especially sweet)          </div>
+                      <h3>Frozen yogurt base:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 quart plain low-fat yogurt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups whole milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. cornstarch          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 ounces (4 Tbsp.) cream cheese, softened          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup heavy cream          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup light corn syrup          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Zest from 1 lemon (reserved from below)          </div>
+                      <h3>Lemon syrup:</h3>                  <div class="ingredient" itemprop="ingredients">
+            2 to 4 lemons          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 Tbsp. sugar          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>ONE DAY AHEAD:</p>
+<p>To make the blueberry sauce, put the blueberries and sugar in a small saucepan, stir to mix, and bring to a boil over medium heat. Reduce the heat and simmer, stirring occasionally, until the berries are very tender and the sauce is slightly thickened, about 8 minutes. Remove from the heat, and let cool. Refrigerate until cold before using.</p>
+<p>To begin the frozen yogurt base, place a sieve over a bowl, and line it with two layers of cheesecloth. Pour the yogurt into the sieve, cover with plastic wrap, and refrigerate for 6 to 8 hours to drain. Discard the liquid, and measure out 1 ¼ cups drained yogurt. Set aside. [You will have some drained yogurt left over, and it’s delicious for breakfast.]</p>
+<p>THE DAY OF:</p>
+<p>First, make the lemon syrup. Using a vegetable peeler, remove the zest from 1 lemon in large strips; reserve for the frozen yogurt base. Then juice enough of the lemons to yield ½ cup. Combine the lemon juice and sugar in a small saucepan, and bring to a boil over medium-high heat, stirring to dissolve the sugar. Remove from the heat and let cool.</p>
+<p>Put 2 tablespoons of the milk in a small bowl, add the cornstarch, and whisk until you have a smooth slurry.</p>
+<p>In a medium bowl, whisk the cream cheese until smooth.</p>
+<p>Fill a large bowl with ice and a little bit of cold water.</p>
+<p>Combine the remaining milk, the cream, sugar, corn syrup, and strips of lemon zest in a 4-quart saucepan. Bring to a rolling boil over medium-high heat, and boil for exactly 4 minutes. Remove from the heat, and slowly whisk in the cornstarch slurry. Return the pan to the heat, and continue to cook, stirring with a heatproof spatula, until slightly thickened, about 1 minute more. Remove from the heat, and then gradually whisk the hot milk mixture into the cream cheese until smooth. Add the reserved 1 ¼ cups drained yogurt and the lemon syrup. Whisk until smooth.</p>
+<p>Pour the mixture into a 1-gallon Ziploc freezer bag, and submerge the sealed bag in the ice bath. Let stand, adding more ice as necessary, until cold, about 30 minutes.</p>
+<p>Remove the strips of lemon zest from the frozen yogurt base. (I did this by pouring it through a mesh strainer directly into the ice cream machine.) Pour the mixture into the canister of an ice cream machine, and spin until thick and creamy.</p>
+<p>Pack the frozen yogurt into a storage container, alternating spoonfuls of yogurt with spoonfuls of the blueberry sauce, and do not mix them. (You’re basically creating pockets and splotches of sauce within the frozen yogurt.) Press a sheet of parchment directly against the surface, and seal with an airtight lid. Freeze until firm, at least 4 hours.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 1 generous quart</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

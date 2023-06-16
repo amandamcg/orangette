@@ -1,0 +1,80 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Call it a meal</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Parmesan-Roasted Cauliflower</h2>
+    <h3 class="subtitle">Adapted from Bon Appétit and Allie Lewis Clapp</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-03-22T03:14:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>One word of caution: don’t slice the onions too thinly here, or they’ll be more likely to burn.  I’d aim for ½-inch-thick slices, if I were you.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 head cauliflower, trimmed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 medium onion, sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 thyme sprigs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 unpeeled garlic cloves          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 tablespoons olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Parmesan or Grana Padano, for grating          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 425°F, and line a rimmed sheet pan with parchment.</p>
+<p>Place the cauliflower on a cutting board, and slice it top-down into roughly 1/3-inch slices. Some of the slices will crumble, and that’s fine. Scoop all of the cauliflower into a large bowl, and add the onion, thyme, garlic, and olive oil. Toss well. Season to taste with salt and black pepper.</p>
+<p>Arrange the mixture in a single layer on the prepared sheet pan. Roast, tossing occasionally, until the cauliflower is mostly tender, golden brown, and caramelized at the edges, 25-30 minutes. Take the pan out of the oven, and grate a generous amount of Parmesan over the vegetables. (The original recipe calls for ½ cup, but I didn’t measure mine; I just eyeballed it.) Return the pan to the oven, and continue to roast for another 5 or 10 minutes. You’re basically cooking it to eye: you want the cauliflower to be nicely caramelized, but you don’t want the onions to burn.</p>
+<p>Serve hot or at room temperature.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 2 to 4 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

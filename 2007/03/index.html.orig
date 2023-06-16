@@ -1,0 +1,354 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+  <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
+
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
+  <meta name="apple-mobile-web-app-title" content="Orangette">
+  <meta name="application-name" content="Orangette">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="https://orangette.net/wp-content/themes/orangette/assets/icons/mstile-144x144.png">
+  <meta name="msapplication-config" content="https://orangette.net/wp-content/themes/orangette/assets/icons/browserconfig.xml">
+
+    <meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>March 2007 | Orangette</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="March 2007 | Orangette" />
+	<meta property="og:url" content="https://orangette.net/2007/03/" />
+	<meta property="og:site_name" content="Orangette" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@mollyorangette" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://orangette.net/#website","url":"https://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://orangette.net/2007/03/#webpage","url":"https://orangette.net/2007/03/","name":"March 2007 | Orangette","isPartOf":{"@id":"https://orangette.net/#website"},"breadcrumb":{"@id":"https://orangette.net/2007/03/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://orangette.net/2007/03/"]}]},{"@type":"BreadcrumbList","@id":"https://orangette.net/2007/03/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://orangette.net/"},{"@type":"ListItem","position":2,"name":"Archives for March 2007"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+  <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+</head>
+  <body class="archive date sidebar-primary">
+    <!--[if lt IE 9]>
+      <div class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <nav class="off-canvas-nav">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+  <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div></nav>
+    <div class="container" id="top">
+      <header class="page-header" role="banner">
+  <h1 class="header--title">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    </a>
+  </h1>
+  <button class="search-toggle icon-search2" data-behavior="open-search"></button>
+  <button class="nav-toggle" data-behavior="open-nav"></button>
+</header>
+      <div class="page-content">
+        <main class="content-left has-sidebar" role="document">
+          
+  <h1 class="page-title" itemprop="name">Month: <span>March 2007</span></h1>
+
+
+  
+<article class="post--single post-1502 post type-post status-publish format-standard hentry category-uncategorized" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <div class="kicker">
+      <time class="updated" datetime="2007-03-27T01:35:00+00:00">Tuesday, March 27, 2007</time>
+    </div>
+    <h1 class="title" >
+      <a href="https://orangette.net/2007/03/hot-sauce/">Hot sauce</a>
+    </h1>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    <p>I hope you’ll bear with me.   I wish I could say otherwise, but the truth is, I’ve still got my head in <a href="http://orangette.blogspot.com/2007/03/into-pantry.html">the pantry closet</a>.   There may be tiny flowers popping out of the hedge of the house across the street, but where springtime is concerned, the produce section isn’t quite so forthcoming.  I bought a bundle of early-season asparagus a few days ago, but the spears were watery and dull, as though their flavor were still hidden away under the soil, hibernating for winter.  I saw spring onions at the market yesterday, but even they were a little wimpy and anemic, picked a week too soon.  Thank heavens, I say, for the pantry, my little haven from the seasons.  This week, once again, it did us proud.  It brought forth a bag of <span style="font-style:italic;">chiles de árbol</span> and from it, a bang-up hot sauce.</p>
+<p>Now, before I go any further, you should know one thing: Brandon is a hot sauce fiend.  As of this writing, our refrigerator contains eight bottles of assorted hot sauce.  That’s three more than five, and only two less than ten.  We are the only people in this house.  That means that hot sauce outnumbers us four to one.  I could have guessed it would be this way from our first date, I suppose, when he made a salad dressing – a delicious one at that – consisting of lime juice, olive oil, and a copious amount of Vietnamese <a href="http://www.huyfong.com/no_frames/garlic.htm">chili garlic sauce</a>.  My lips were ablaze, and that was <span style="font-style:italic;">before</span> any hanky-panky.  I have since watched him plow through a few squeeze bottles of <a href="http://www.huyfong.com/no_frames/sriracha.htm">sriracha</a>, not to mention vials of <a href="http://www.tapatiohotsauce.com/index.aspx">Tapatio</a>, <a href="http://www.cholula.com/">Cholula</a>, and similar sauces.  Cholula, he tells me, was once his favorite.  Recently, however, its makers seem to have changed the chile blend – from <span style="font-style:italic;">piquin</span> to <span style="font-style:italic;">piquin</span> and <span style="font-style:italic;">árbol</span> – and, he says sadly, it doesn’t taste the same.  You should have seen him the first time he noticed the difference.  He was genuinely distraught.  I am marrying a man who is serious about his hot sauce.  Luckily, I like it too, although eight bottles <span style="font-style:italic;">does</span> seem a little excessive.</p>
+<p>Anyway, all this to say that Brandon likes hot sauce, and that this weekend, for the second time in only a few weeks, he <span style="font-style:italic;">made</span> hot sauce.  The collection in our refrigerator has just accepted its ninth member.  It’s a nice one.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/221cf-baked_beans006-41.jpg"><img decoding="async" src="http://orangette.net/wp-content/uploads/2015/09/221cf-baked_beans006-41.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5046638657422119170" border="0" /></a><br />The sauce in question comes from Mexican cooking guru <a href="http://en.wikipedia.org/wiki/Rick_Bayless">Rick Bayless</a>, whose recipes do not disappoint.  Once, when I was eighteen, I went to a dinner in Oklahoma at which he was the guest chef, and let me tell you, the man is <span style="font-style:italic;">good</span>.  I was especially enamored of his Yucatecan fresh coconut pie.  I ate my slice, half of my mother’s, and the last bit from the plate of the woman at the end of the table.  A few weeks later, my mother and I made the pie ourselves.  None of the usual methods worked to pry open the coconut, so we went outside and pitched it, <a href="http://en.wikipedia.org/wiki/Four_square">four square</a>-style, at the driveway.  It split with a spectacular crack, sending shards of coconut under the car, and the resulting pie was stupendously good.  Rick Bayless is a great man.  His recipe for <i>chile de árbol</i> hot sauce is just one more reason why.</p>
+<p>Rich and nutty with sesame and pumpkin seeds, smelling of warmth and chiles and places with plenty of sun, this homemade blend is the new favorite of the house.  Even the merest whiff at the jar – lightly smoky and with a wallop of spice – makes my stomach start to grumble.  It’s toasty and complex and creamy-textured.  It’s also tinted that lovely orange color that interior designers tell people to paint their dining rooms.   And as luck has it, it’s very easy to make.  A little fiddly, maybe, with <a href="http://www.flickr.com/photos/molly_orangette/435320245/">all those chiles to be stemmed</a>, but well worth the trouble.  We like it with beans of any sort, and with chips and beer.  We’ve even sneaked it into Malena’s, our local taqueria, to dribble it into tacos, corn tortillas, and guacamole.  For those who don’t mind mixing cuisines, it’s also a winner with <a href="http://orangette.blogspot.com/2005/05/little-family-large-appetite.html">hummus</a> and <a href="http://orangette.blogspot.com/2007/03/into-pantry.html">mujadara</a>, its comrades from the pantry closet.  It’ll keep things warm for a while around here, which is more than I can say for the weather.</p>
+<p><span style="font-weight:bold;">Chile de Árbol Hot Sauce</span><br />Adapted from <a href="http://www.amazon.com/Authentic-Mexican-20th-Anniversary-Ed/dp/0061373265/ref=pd_bbs_sr_1/002-8667791-0268065?ie=UTF8&amp;s=books&amp;qid=1174930480&amp;sr=8-1"><span style="font-style:italic;">Authentic Mexican: Regional Cooking from the Heart of Mexico</span></a>, by Rick Bayless</p>
+<p>Rick Bayless arranges the steps of this recipe in a different order, but for efficiency’s sake, we’ve changed things up a bit.  Bayless called for stemming and seeding the chiles first, but it’s a time-consuming process that can be done easily while other parts of the recipe – like toasting seeds and such – are underway.</p>
+<p>1 ½ Tbsp. sesame seeds<br />1 tsp. dried oregano<br />1 scant teaspoon salt<br />2 large cloves garlic, peeled and roughly chopped<br />¾ cup apple cider vinegar<br />2 Tbsp. shelled raw pumpkin seeds<br />1 ¼ oz. (about 50-60 mixed-size) dried <span style="font-style:italic;">chiles de árbol</span><br />¼ tsp. cumin seeds (or a generous ¼ tsp. ground)<br />1/8 tsp. ground allspice<br />A big pinch of ground cloves<br />Water</p>
+<p>Place a skillet over medium-low heat.  Add the sesame seeds and toast, shaking the pan occasionally, for several minutes, until they turn golden and pop.</p>
+<p>While the sesame seeds toast, put the oregano, salt, garlic, and vinegar in the blender.  When the sesame seeds are ready, scrape them in as well.</p>
+<p>Return the skillet to the stove, turn the heat up to medium, and add the pumpkin seeds.  When the first one pops, stir frequently for a few minutes, until all are golden and have popped up into a rounded shape.  Add them to the blender.</p>
+<p>While the pumpkin seeds warm and toast, start prepping the chiles.  Pull off their stems; then gently roll them between your thumb and fingers, pressing gently to loosen the seeds inside.  Break them in half, shake out as many seeds as possible, and add them to the blender.</p>
+<p>In a mortar or spice grinder, pulverize the cumin, allspice, and cloves.  Add them to the blender.  Blend for several minutes, until the mixture is orange-red, a bright brick color, and feels quite smooth when a drop is rubbed between your fingers.</p>
+<p>Strain the sauce through a medium-mesh sieve, stirring and pressing on the solids with a spoon.  There will be a fair amount – a few tablespoons’ worth – of chile seeds, skins, sesame hulls, and other debris left in the sieve.  Rick Bayless discards this thick paste, but Brandon likes to save it.  (It’s milder than the finished sauce, and he likes to dip chips into it.  He also puts it in black beans.  First, he sautés some chopped onion in olive oil; then he adds a bit of chile paste and lets it cook a little; then he adds a can or two of drained beans.)</p>
+<p>The strained sauce will be somewhat thick and creamy.  You can leave it as is, or you can add some water to thin it.  Rick Bayless suggests adding ¾ cup.  The first time Brandon made this, he didn’t add any water, and he loved the resulting sauce.  The second time, he added ½ cup water, and it made for a lovely consistency.</p>
+<p>Whatever you choose to do, pour the sauce into a jar or container with a tight-fitting lid, and refrigerate it for 24 hours before serving.</p>
+<p><span style="font-style:italic;">Note</span>: Refrigerated, this sauce will keep indefinitely, and it tastes even better (and gets pleasantly milder) over time.  Brandon liked it very much after 24 hours, but he <span style="font-style:italic;">loved</span> it, and I mean <span style="font-style:italic;">loved it</span>, after a week.</p>
+<p>Yield: About 1 cup (if you added ½ cup water)</p>
+  </div>
+  <footer class="post-meta">
+    <nav class="post-utility-nav">
+  <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=Hot%20sauce&url=https%3A%2F%2Forangette.net%2F2007%2F03%2Fhot-sauce%2F" onclick="window.open(this.href, 'twitter-share', 'width=550,height=285'); return false;" title="Twitter"></a>
+          <a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Forangette.net%2F2007%2F03%2Fhot-sauce%2F&t=Hot%20sauce" onclick="window.open(this.href, 'facebook-share', 'width=580,height=300'); return false;" title="Facebook"></a>
+          <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Forangette.net%2F2007%2F03%2Fhot-sauce%2F&media=&description=Hot%20sauce" data-pin-custom="true" title="Pinterest"></a></nav>
+                  <a href="https://orangette.net/2007/03/hot-sauce/#comments" class="comment-toggle">Comments</a>
+      </footer>
+</article>
+  <article class="post-1505 post type-post status-publish format-standard hentry category-uncategorized">
+  <header class="post-header">
+    <div class="kicker">
+      <time class="updated" datetime="2007-03-19T23:41:00+00:00">Monday, March 19, 2007</time>
+    </div>
+    <h2 class="title"><a href="https://orangette.net/2007/03/into-the-pantry/">Into the pantry</a></h2>
+  </header>
+  <figure class="post-figure hero">
+    <a href="https://orangette.net/2007/03/into-the-pantry/">
+          </a>
+  </figure>
+  <div class="post__summary">
+    <p>I love winter foods. You know I do. You’ve been listening to me yap about them for a long time now. I’m always trotting out some strange, frost-nipped something: a Brussels sprout here, an old celery root there, an unruly head of escarole that no one else wants. It’s what I do. I’ve got a reputation to keep. But I have to tell you, this winter has rung me out. I’m tired. I’m through. If I have to eat another cabbage, I’m going to fall to my knees and cry. That’s pretty much what I felt like doing at the market on Saturday morning, as I stared out over the sea of winter produce. Pretty though it was – so&hellip;</p>
+    <a href="https://orangette.net/2007/03/into-the-pantry/" class="post-more">Read more</a>
+  </div>
+</article>
+  <article class="post-1508 post type-post status-publish format-standard hentry category-uncategorized">
+  <header class="post-header">
+    <div class="kicker">
+      <time class="updated" datetime="2007-03-13T08:16:00+00:00">Tuesday, March 13, 2007</time>
+    </div>
+    <h2 class="title"><a href="https://orangette.net/2007/03/the-wait-and-the-wonky-molasses/">The wait and the wonky molasses</a></h2>
+  </header>
+  <figure class="post-figure hero">
+    <a href="https://orangette.net/2007/03/the-wait-and-the-wonky-molasses/">
+          </a>
+  </figure>
+  <div class="post__summary">
+    <p>A while ago, around my nineteenth birthday, I had my tarot cards read by a woman named Marlene. Sadly, I don’t recall the faintest bit of what the cards said. It’s kind of disappointing, to tell you the truth. If I came seeking answers to some juicy question, I’ve long since forgotten what it was. (Not that anything juicy had happened to me yet, but that’s another story.) I’m not even sure how I found Marlene, other than to say that some female members of my family have a weakness for such things, including yours truly. I remember only two real tidbits of my meeting with her, and neither amounts to much. First, there was the squirrel thing. When she&hellip;</p>
+    <a href="https://orangette.net/2007/03/the-wait-and-the-wonky-molasses/" class="post-more">Read more</a>
+  </div>
+</article>
+  <article class="post-1514 post type-post status-publish format-standard hentry category-uncategorized">
+  <header class="post-header">
+    <div class="kicker">
+      <time class="updated" datetime="2007-03-06T15:46:00+00:00">Tuesday, March 6, 2007</time>
+    </div>
+    <h2 class="title"><a href="https://orangette.net/2007/03/carrot-kale-carry-on/">Carrot, kale, carry-on</a></h2>
+  </header>
+  <figure class="post-figure hero">
+    <a href="https://orangette.net/2007/03/carrot-kale-carry-on/">
+          </a>
+  </figure>
+  <div class="post__summary">
+    <p>I may be the first person in history to say such a thing, but I sort of miss airplane food. I don’t mean those roast beef sandwiches in foil packets, the spongy ones that look like they’ve been sat upon, or the pizza pockets warmed in plastic baggies. I mean real food. I’m talking about the stuff of twenty years ago, back when airfare bought not only a seat but also a tray of somewhat edible food. Back then, eating on the plane was kind of fun. You could file all sorts of requests for elaborate special meals, and some of them were actually pretty good. My parents were fond of the “Cold Seafood” option, which usually came with shrimp&hellip;</p>
+    <a href="https://orangette.net/2007/03/carrot-kale-carry-on/" class="post-more">Read more</a>
+  </div>
+</article>
+
+<nav class="navigation posts-navigation left-nav" role="navigation">
+  <div class="left"></div>
+      <div class="center"><a href="https://orangette.net/recipes/">See all recipes</a></div>
+    <div class="right"></div>
+</nav>
+        </main><!-- /.main -->
+                  <aside class="content-right">
+            <header class="right-header">
+  <a href="https://orangette.net/about/">
+    <h2 class="title">hellooooo</h2>
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+  </a>
+</header>
+<nav class="right-nav">
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div>  <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+</nav>
+<div class="right-section">
+  <h3 class="right-heading">
+    <a href="https://orangette.net/books/">My Books</a>
+  </h3>
+  <div class="right-diptych">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+      </a>
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+      </a>
+      </div>
+  <div class="right-image-link">
+    <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+    </a>
+  </div>
+</div>
+<div class="right-section bordered">
+  <h4 class="right-subheading">Featured Posts</h4>
+  <ul class="right-post-list">
+          <li>
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
+          <div class="thumb">
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">April 7, 2014</div>
+            <h5 class="title">That word is eat</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">March 23, 2015</div>
+            <h5 class="title">The bean doctor</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">July 23, 2015</div>
+            <h5 class="title">We&#8217;ll go from left to right</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2014/01/in-it-together/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">January 16, 2014</div>
+            <h5 class="title">In it together</h5>
+          </div>
+        </a>
+      </li>
+      </ul>
+</div>
+<div class="right-section tall right-podcast">
+  <h3 class="right-heading">
+    <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
+  </h3>
+  <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+  </a>
+</div>
+<div class="right-section">
+  <h4 class="right-subheading alt">
+    <a href="https://orangette.net/links/">Links of Note</a>
+  </h4>
+  <ul class="right-link-list">
+    <li><a href="http://everybodylikessandwiches.com/">Everybody Likes Sandwiches</a></li>
+<li><a href="http://www.kitchen-repertoire.com/" rel="noopener" target="_blank">Kitchen Repertoire</a></li>
+<li><a href="http://www.nordljus.co.uk/en/index.php">Nordljus</a></li>
+<li><a href="http://www.sevenspoons.net/">seven spoons</a></li>
+<li><a href="http://saipua.blogspot.com/">Saipua</a></li>
+<li><a href="http://sproutedkitchen.com/">Sprouted Kitchen</a></li>
+<li><a href="http://blairpeter.typepad.com/">wise.. craft</a></li>
+<li><a href="http://lookimadethat.com/">i made that</a></li>
+<li><a href="http://www.poormansfeast.com/">Poor Man&#8217;s Feast</a></li>
+<li><a href="http://whippedtheblog.com/">Whipped</a></li>
+<li><a href="http://notwithoutsalt.com/">Not Without Salt</a></li>
+<li><a href="http://www.bbc.co.uk/programmes/b006qfvv" rel="noopener" target="_blank">BBC Radio 4 Shipping Forecast</a></li>
+<li><a href="http://mollysmadeleine.blogspot.com/">my madeleine</a></li>
+<li><a href="http://www.lottieanddoof.com/" rel="noopener" target="_blank">Lottie + Doof</a></li>
+<li><a href="http://www.doriegreenspan.com/dorie_greenspan/">Dorie Greenspan</a></li>
+  </ul>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
+</div>
+          </aside><!-- /.sidebar -->
+                <div class="search-overlay" data-class="search-overlay">
+          <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+          <div class="overlay--close" data-behavior="close-search"></div>
+        </div>
+      </div><!-- /.page-content -->
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+  </a>
+  <div class="footer-content">
+    <nav class="footer-nav" role="navigation">
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div>    </nav>
+    <nav class="footer-utility-nav">
+      <div class="menu-social-links-container"><ul id="menu-social-links" class=""><li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a href="https://twitter.com/mollyorangette">Twitter</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2518"><a href="https://www.facebook.com/molly.wizenberg">Facebook</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2519"><a href="https://www.instagram.com/mollyorangette/">Instagram</a></li>
+</ul></div>    </nav>
+  </div>
+  <p class="copyright">&copy; 2023 Orangette</p>
+  <p class="credit"><a href="http://madebyneversink.com">Made by Neversink</a></p>
+</footer>
+      <div class="nav-overlay" data-behavior="close-nav"></div>
+      <button class="elevator" data-behavior="jettison">Back to top</button>
+    </div><!-- /.container -->
+    <script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+  </body>
+</html>

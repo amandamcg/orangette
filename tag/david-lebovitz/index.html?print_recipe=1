@@ -1,0 +1,113 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Run with it</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Strawberry Yogurt Popsicles</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/product/158008219X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=158008219X&linkCode=as2&tag=orangette-20&linkId=2RPAASM6AOIBIZJG" target="_blank">The Perfect Scoop</a></i>, by David Lebovitz</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-06-23T19:33:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>A word about popsicle molds: I use <a href="http://coldmolds.com/index.php/pop-molds/product/41-cmp4210" target="_blank">these silicone ones</a>, which I learned about from the book <i><a href="http://www.amazon.com/gp/product/1607743906/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1607743906&amp;linkCode=as2&amp;tag=orangette-20&amp;linkId=D74SRCKETJDQ5J3Y" target="_blank">Modern Art Desserts</a></i>, by Caitlin Freeman. (And high five to my talented friend <a href="http://leahrosenberg.com/" target="_blank">Leah Rosenberg</a>, who called my attention to the <a href="http://www.mercurynews.com/ci_23132267/recipe-zurier-ice-pop" target="_blank">Zurier Pops</a> recipe and inspired me to get these molds. Leah, when I bought strawberries last week, I <i>meant</i> to make Zurier Pops, but I got lazy. But I still will. I swear.) Anyway, if you’re using silicone molds like mine, which are soft and pliable, don’t forget to set the molds on a sheet pan before filling them! That way, they’ll be easy to transport to the freezer. And don’t forget to insert the popsicle sticks into the mold before filling, either. It all sounds obvious, but you never know.</p>
+<p>I also have <a href="http://www.amazon.com/Norpro-423-Ice-Pop-Maker/dp/B0002IBJOG/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=popsicle%20molds&amp;linkCode=ur2&amp;qid=1403542718&amp;sr=8-2&amp;tag=orangette-20&amp;linkId=ELB7VLU4D37UMIGN" target="_blank">this popsicle mold</a>, but we loaned it to a friend (ahem, Katie), so I haven’t been able to try it yet. I’ll report back. I have a feeling it’ll be better for very liquid-y pops than the silicone molds, which might leak. Lastly, if you’re using <a href="http://www.amazon.com/Luminarc-6-Piece-Drink-Islande-2-25-Ounce/dp/B005EEYKQC/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=vodka%20shot%20glass&amp;linkCode=ur2&amp;qid=1403408105&amp;sr=8-8&amp;tag=orangette-20&amp;linkId=BU6MQMWLKTFVMFLM" target="_blank">vodka shooter glasses</a>, which is what I used when we served popsicles at <a href="http://delanceyseattle.com/" target="_blank">Delancey</a>, you’ll want to pour the mixture into the glasses; freeze them for 20 to 30 minutes, or until the mixture begins to set; insert the popsicle sticks; and then freeze them until they’re hard. To serve, briefly run the sides of the glass under tepid water to loosen the popsicle, and gently twist the stick as you lift.</p>
+<p>I should tell you that these popsicles are not as smooth, texture-wise, as churned frozen yogurt – or, for that matter, as commercial popsicles. They’ll be a little icy, even if you use the kirsch or vodka. The texture doesn’t bother me. I like it.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 generous pound (about 500 grams) fresh strawberries, rinsed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup (130 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons kirsch or vodka (optional)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (240 grams) plain whole-milk yogurt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon lemon juice          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Trim the green leaves from the strawberries, and quarter them (or, if they’re small, halve them; it doesn’t really matter much). Toss in a bowl with the sugar and kirsch or vodka, if using, stirring until the sugar begins to dissolve. Set aside at room temperature for about an hour, stirring occasionally.</p>
+<p>Scrape the strawberries and their liquid into the jar of a blender, add the yogurt and lemon juice, and process until smooth. If you want to remove the seeds – though I usually just leave them be – set a strainer over a bowl (or other vessel) with a pour spout. Press the mixture through the strainer to remove seeds. Divide the mixture among popsicle molds of your choosing, and freeze until hard.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: depends on your molds. I get about 8 when I use my 4-ounce silicone molds.</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Raspberry Yogurt Popsicles</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FPerfect-Scoop-Sorbets-Granitas-Accompaniments%2Fdp%2F158008219X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1278912186%26sr%3D1-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><span style="font-style: italic;">The Perfect Scoop</span></a>, by David Lebovitz</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-07-12T07:14:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>These pops are perfectly tangy and perfectly sweet, and the best part is, the yogurt flavor really shines. Be sure to use whole-milk yogurt, not low-fat or nonfat. It tastes better, and it makes for a better tasting popsicle. I buy my popsicle sticks at Fred Meyer, but you can also find them at craft stores.</p>
+<p>Lastly, I should tell you that these popsicles will not be as smooth, texture-wise, as churned frozen yogurt. They will be a little icy &#8211; you know, like a popsicle.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 cups (480 grams) plain whole-milk yogurt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups (240 grams) fresh or frozen raspberries          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup (150 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. lemon juice          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Combine all ingredients in the jar of a blender, and process until smooth. Set a strainer over a bowl (or other vessel) with a pour spout. Press the mixture through the strainer to remove seeds. Divide mixture among popsicle molds of your choosing. Freeze for 20 to 30 minutes, or until the mixture begins to set; then insert popsicle sticks. Freeze until very hard.</p>
+<p>To serve, briefly run the sides of the mold under tepid water to loosen the popsicle, and gently twist or wiggle the popsicle stick as you lift.</p>
+<p>Note: I’ve also made this recipe with blackberries, and that’s very good, too. Keep in mind, though, that you may need to adjust the amount of sugar or lemon juice.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 10 to 11 vodka shooter-size pops</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

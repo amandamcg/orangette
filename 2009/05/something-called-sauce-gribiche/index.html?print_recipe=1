@@ -1,0 +1,85 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Something called sauce gribiche</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Zuni Café’s Four-Minute Egg Gribiche</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FZuni-Cafe-Cookbook-Compendium-Franciscos%2Fdp%2F0393020436%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1241593100%26sr%3D8-1&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">The Zuni Café Cookbook</span></a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-05-06T06:46:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>This version is essentially a mayonnaise, and it’s particularly important to use a very mild-tasting olive oil. If your oil is at all bitter, or if you’re unsure, use a mixture of it and a more neutral-tasting oil, like canola.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 medium shallots, finely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. sherry vinegar or red wine vinegar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large egg          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. Dijon mustard          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ¼ cups mild-tasting olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. thinly sliced chives          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. finely chopped parsley          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. finely chopped chervil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. finely chopped dill          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. capers, rinsed and dried, coarsely chopped          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Combine the shallots and the vinegar in a small bowl, and set aside to macerate while you prepare the rest of the sauce.</p>
+<p>Put the egg in a small saucepan of barely simmering water, and bring it to a boil. Then reduce the heat and simmer for about 4 minutes. Drain, and put the egg in a bowl of ice water to cool completely.</p>
+<p>When the egg is cool, crack and scrape it into a medium bowl. Add the mustard and a pinch or two of salt. Mash it all together, and then begin whisking in the oil, just a few drops at first, then gradually increasing the flow to a thin stream. Stop adding oil when the mixture is satiny and has lots of body, like – and I love that Judy Rodgers describes it this way – a hot fudge sauce. Stir in the herbs and capers. Add the vinegar and shallots, and adjust with salt to taste.</p>
+<p>Serve with grilled fish or poultry, fried seafood, roasted potatoes, boiled shrimp, or asparagus, or &#8211; my personal preference &#8211; as the dressing for a fantastic potato salad.</p>
+    </div>
+  
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

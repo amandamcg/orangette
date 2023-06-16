@@ -1,0 +1,850 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+  <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
+
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
+  <meta name="apple-mobile-web-app-title" content="Orangette">
+  <meta name="application-name" content="Orangette">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="https://orangette.net/wp-content/themes/orangette/assets/icons/mstile-144x144.png">
+  <meta name="msapplication-config" content="https://orangette.net/wp-content/themes/orangette/assets/icons/browserconfig.xml">
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Run with it | Orangette</title>
+	<link rel="canonical" href="https://orangette.net/2014/06/run-with-it/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Run with it | Orangette" />
+	<meta property="og:description" content="It is 12:26 pm on June 23. I’m sitting at my desk in the window, which, if you were considering it, is a bad place to put a desk. What a person needs behind a desk is something sturdy, galvanizing, like a wall. Otherwise you’ll wind up spending your time as I am today: watching the world’s most subtle breeze blow through the branches of the neighbors’ tulip magnolia, wishing I were eating a cheeseburger. I’m slowly emerging from New Book Insanity. I am so relieved, so glad to have this book behind me and out in the world, and also so, so, so tired. Elated! Tired! Dead! (But hey, Spokane: I’m going to be in your town tomorrow night,&hellip;" />
+	<meta property="og:url" content="https://orangette.net/2014/06/run-with-it/" />
+	<meta property="og:site_name" content="Orangette" />
+	<meta property="article:publisher" content="https://www.facebook.com/molly.wizenberg" />
+	<meta property="article:published_time" content="2014-06-23T23:33:00+00:00" />
+	<meta property="article:modified_time" content="2015-12-16T00:01:34+00:00" />
+	<meta property="og:image" content="https://orangette.net/wp-content/uploads/2015/09/169f9-dpp_00131.jpg" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="1066" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@mollyorangette" />
+	<meta name="twitter:site" content="@mollyorangette" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Molly" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="5 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://orangette.net/#website","url":"https://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://orangette.net/2014/06/run-with-it/#primaryimage","inLanguage":"en-US","url":"https://orangette.net/wp-content/uploads/2015/09/169f9-dpp_00131.jpg","contentUrl":"https://orangette.net/wp-content/uploads/2015/09/169f9-dpp_00131.jpg","width":1600,"height":1066},{"@type":"WebPage","@id":"https://orangette.net/2014/06/run-with-it/#webpage","url":"https://orangette.net/2014/06/run-with-it/","name":"Run with it | Orangette","isPartOf":{"@id":"https://orangette.net/#website"},"primaryImageOfPage":{"@id":"https://orangette.net/2014/06/run-with-it/#primaryimage"},"datePublished":"2014-06-23T23:33:00+00:00","dateModified":"2015-12-16T00:01:34+00:00","author":{"@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"https://orangette.net/2014/06/run-with-it/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://orangette.net/2014/06/run-with-it/"]}]},{"@type":"BreadcrumbList","@id":"https://orangette.net/2014/06/run-with-it/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://orangette.net/"},{"@type":"ListItem","position":2,"name":"Run with it"}]},{"@type":"Person","@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; Run with it Comments Feed" href="https://orangette.net/2014/06/run-with-it/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="alternate" type="application/json" href="https://orangette.net/wp-json/wp/v2/posts/142" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel='shortlink' href='https://orangette.net/?p=142' />
+<link rel="alternate" type="application/json+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2014%2F06%2Frun-with-it%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2014%2F06%2Frun-with-it%2F&#038;format=xml" />
+  <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+</head>
+  <body class="post-template-default single single-post postid-142 single-format-standard run-with-it sidebar-primary">
+    <!--[if lt IE 9]>
+      <div class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <nav class="off-canvas-nav">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+  <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div></nav>
+    <div class="container" id="top">
+      <header class="page-header" role="banner">
+  <h1 class="header--title">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    </a>
+  </h1>
+  <button class="search-toggle icon-search2" data-behavior="open-search"></button>
+  <button class="nav-toggle" data-behavior="open-nav"></button>
+</header>
+      <div class="page-content">
+        <main class="content-left has-sidebar" role="document">
+            
+<article class="post--single post-142 post type-post status-publish format-standard has-post-thumbnail hentry category-desserts category-gluten-free category-perennial-favorite category-snacks category-spring category-summer category-vegetarian tag-big-thoughts tag-books tag-david-lebovitz tag-delancey-book tag-popsicles tag-summer tag-travel ingredients-strawberry ingredients-yogurt" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <div class="kicker">
+      <time class="updated" datetime="2014-06-23T23:33:00+00:00">Monday, June 23, 2014</time>
+    </div>
+    <h1 class="title" >
+      <a href="https://orangette.net/2014/06/run-with-it/">Run with it</a>
+    </h1>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    <p>It is 12:26 pm on June 23. I’m sitting at my desk in the window, which, if you were considering it, is a bad place to put a desk. What a person needs behind a desk is something sturdy, galvanizing, like a wall. Otherwise you’ll wind up spending your time as I am today: watching the world’s most subtle breeze blow through the branches of the neighbors’ tulip magnolia, wishing I were eating a cheeseburger.</p>
+<div class="separator" style="clear: both; text-align: center;"><a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="http://orangette.net/wp-content/uploads/2015/09/8a75f-dpp_00041.jpg"><img decoding="async" class="alignnone" src="http://orangette.net/wp-content/uploads/2015/09/8a75f-dpp_00041.jpg" alt="" width="640" height="426" border="0" /></a></div>
+<p>I’m slowly emerging from New Book Insanity. I am so relieved, so glad to have this book behind me and out in the world, and also so, so, so tired. Elated! Tired! Dead!</p>
+<p>(But hey, Spokane: I’m going to be in your town tomorrow night, Tuesday, June 24. I’ll be reading at Auntie’s Bookstore at 7:00 pm. Come keep me awake!)</p>
+<div class="separator" style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="http://orangette.net/wp-content/uploads/2015/09/d8d7e-dpp_00061.jpg"><img decoding="async" loading="lazy" class="alignnone" src="http://orangette.net/wp-content/uploads/2015/09/d8d7e-dpp_00061.jpg" alt="" width="426" height="640" border="0" /></a></div>
+<p>Speaking of book events, there’s a question that’s come up often at these events &#8211; a question that, I’m sure you’ve noticed, comes up often in any conversation with or about working mothers &#8211; and that is, <i>How to do you do it all</i>? I don’t think I’ve answered the question very clearly when it’s been put to me, because ha ha haaa haaaaaaa I do NOT do it all. I don’t think anyone does, of either sex. I hardly remember what I’ve said said on the topic &#8211; maybe something about the importance of surrounding yourself with supportive people, people who believe in what you do and want you to do it? That’s very important. But I’ve been thinking about it today, and I want to add something: take a look at this blog. It’s a good barometer. I do not have an editorial calendar, and I do not post on a schedule. This blog is the place where I come to practice writing, to keep myself limber, and I do it because I love it. If I’m in a good rhythm with posting here, it’s because Delancey and Essex are miraculously free of crises for a little while, June is sleeping like a champ, and I’m probably staying up later than I should. If I’m posting less, it’s because those non-blog parts of my life are keeping me busy, and in the hours when they’re not keeping me busy, I am dead and/or eating popsicles.</p>
+<div class="separator" style="clear: both; text-align: center;"><a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="http://orangette.net/wp-content/uploads/2015/09/169f9-dpp_00131.jpg"><img decoding="async" loading="lazy" class="alignnone" src="http://orangette.net/wp-content/uploads/2015/09/169f9-dpp_00131.jpg" alt="" width="640" height="426" border="0" /></a></div>
+<p>I can’t believe that it’s already almost July. It makes me want to hunker down at home and get my fill of very ordinary summer things, like riding our bikes to the farmers’ market (with June in the bike trailer wearing a tiny helmet and Brandon and me singing, <i>La la la la la, la la la la la, helmet song</i> to the tune of &#8220;<a href="https://www.youtube.com/watch?v=vSYadh2xmcI&amp;feature=kp" target="_blank">Elmo’s Song</a>,&#8221; because la la la la la, wearing a helmet is SO FUN!), buying those very expensive and very good raspberries from <a href="http://www.localharvest.org/growing-washington-at-alm-hill-gardens-M20590" target="_blank">Alm Hill</a> and eating them all at once, taking June to the neighborhood <a href="http://en.wikipedia.org/wiki/P-Patch" target="_blank">P-Patch</a> to look for garden gnomes, and drinking a nightly Campari and Tonic. (I like a standard Campari and Soda, but I might like this even more. Try it! Niah, our bar manager at Essex, told me yesterday to try garnishing it with a castelvetrano olive, but I was halfway through my glass last night before I remembered; sorry, Niah.) June was sick last week, so I made a chicken soup, but mostly, the kind of cooking I want to do right now is not really cooking, but basic chopping. Some scrambled eggs, at most, and lots of big salads with crunchy radishes, cucumbers, and feta. And then a popsicle, which is little more than a smoothie, frozen.</p>
+<div class="separator" style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="http://orangette.net/wp-content/uploads/2015/09/deae4-dpp_00351.jpg"><img decoding="async" loading="lazy" class="alignnone" src="http://orangette.net/wp-content/uploads/2015/09/deae4-dpp_00351.jpg" alt="" width="426" height="640" border="0" /></a></div>
+<p>When Delancey first opened and I was still in the kitchen there, we had a popsicle on the menu, and I once wrote about it here, in <a href="http://orangette.blogspot.com/2010/07/for-popsicle.html" target="_blank">a raspberry yogurt version</a>. That was four years ago, and because I’m a creature of habit, I’m still making them: with strawberries in June, raspberries in July, blackberries in August, you see where I’m going. I’ve made the strawberry version twice in the past two weeks, and because strawberries (&#8220;dobbies,&#8221; as June says) are already starting to peter out, I wanted to hurry up and write about it. If you haven’t yet made popsicles this summer, get on it. My popsicle guru Stephanie, of the beautiful site <a href="http://www.3191milesapart.com/" target="_blank">3191 Miles Apart</a>, has lots of other <a href="http://www.3191milesapart.com/?p=4272" target="_blank">popsicle</a> <a href="http://www.3191milesapart.com/?p=1691" target="_blank">ideas</a>, if you then want to really run with it.</p>
+<p>This strawberry version uses less sugar than the raspberry one, and it also uses less yogurt, so it has a particularly bright, clean strawberry flavor. You start by tossing the berries with sugar and a few drops of kirsch or vodka &#8211; the alcohol will help to keep the pops from freezing too hard, without interfering with their fresh fruit flavor &#8211; and then letting them sit until their color deepens and they release lots of dark, glossy juice. Then you scrape it all into the blender with yogurt and a little lemon juice, zizz it, and then pour it into molds. (Don’t forget to taste it: it should taste a little sweeter than you’d ideally like, because it will taste less sweet once it’s frozen. That’s the case for anything that you eat very cold.) The resulting pops are electric pink, a color usually reserved for bougainvillea and nail polish, only this time, you lucky thing, you get to eat it.</p>
+<p>&nbsp;</p>
+
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Strawberry Yogurt Popsicles</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/product/158008219X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=158008219X&linkCode=as2&tag=orangette-20&linkId=2RPAASM6AOIBIZJG" target="_blank">The Perfect Scoop</a></i>, by David Lebovitz</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-06-23T19:33:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2014/06/run-with-it/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>A word about popsicle molds: I use <a href="http://coldmolds.com/index.php/pop-molds/product/41-cmp4210" target="_blank">these silicone ones</a>, which I learned about from the book <i><a href="http://www.amazon.com/gp/product/1607743906/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1607743906&amp;linkCode=as2&amp;tag=orangette-20&amp;linkId=D74SRCKETJDQ5J3Y" target="_blank">Modern Art Desserts</a></i>, by Caitlin Freeman. (And high five to my talented friend <a href="http://leahrosenberg.com/" target="_blank">Leah Rosenberg</a>, who called my attention to the <a href="http://www.mercurynews.com/ci_23132267/recipe-zurier-ice-pop" target="_blank">Zurier Pops</a> recipe and inspired me to get these molds. Leah, when I bought strawberries last week, I <i>meant</i> to make Zurier Pops, but I got lazy. But I still will. I swear.) Anyway, if you’re using silicone molds like mine, which are soft and pliable, don’t forget to set the molds on a sheet pan before filling them! That way, they’ll be easy to transport to the freezer. And don’t forget to insert the popsicle sticks into the mold before filling, either. It all sounds obvious, but you never know.</p>
+<p>I also have <a href="http://www.amazon.com/Norpro-423-Ice-Pop-Maker/dp/B0002IBJOG/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=popsicle%20molds&amp;linkCode=ur2&amp;qid=1403542718&amp;sr=8-2&amp;tag=orangette-20&amp;linkId=ELB7VLU4D37UMIGN" target="_blank">this popsicle mold</a>, but we loaned it to a friend (ahem, Katie), so I haven’t been able to try it yet. I’ll report back. I have a feeling it’ll be better for very liquid-y pops than the silicone molds, which might leak. Lastly, if you’re using <a href="http://www.amazon.com/Luminarc-6-Piece-Drink-Islande-2-25-Ounce/dp/B005EEYKQC/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=vodka%20shot%20glass&amp;linkCode=ur2&amp;qid=1403408105&amp;sr=8-8&amp;tag=orangette-20&amp;linkId=BU6MQMWLKTFVMFLM" target="_blank">vodka shooter glasses</a>, which is what I used when we served popsicles at <a href="http://delanceyseattle.com/" target="_blank">Delancey</a>, you’ll want to pour the mixture into the glasses; freeze them for 20 to 30 minutes, or until the mixture begins to set; insert the popsicle sticks; and then freeze them until they’re hard. To serve, briefly run the sides of the glass under tepid water to loosen the popsicle, and gently twist the stick as you lift.</p>
+<p>I should tell you that these popsicles are not as smooth, texture-wise, as churned frozen yogurt – or, for that matter, as commercial popsicles. They’ll be a little icy, even if you use the kirsch or vodka. The texture doesn’t bother me. I like it.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 generous pound (about 500 grams) fresh strawberries, rinsed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup (130 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons kirsch or vodka (optional)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (240 grams) plain whole-milk yogurt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon lemon juice          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Trim the green leaves from the strawberries, and quarter them (or, if they’re small, halve them; it doesn’t really matter much). Toss in a bowl with the sugar and kirsch or vodka, if using, stirring until the sugar begins to dissolve. Set aside at room temperature for about an hour, stirring occasionally.</p>
+<p>Scrape the strawberries and their liquid into the jar of a blender, add the yogurt and lemon juice, and process until smooth. If you want to remove the seeds – though I usually just leave them be – set a strainer over a bowl (or other vessel) with a pour spout. Press the mixture through the strainer to remove seeds. Divide the mixture among popsicle molds of your choosing, and freeze until hard.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: depends on your molds. I get about 8 when I use my 4-ounce silicone molds.</p>
+  </section>
+
+  </div>
+  <footer class="post-meta">
+    <nav class="post-utility-nav">
+  <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=Run%20with%20it&url=https%3A%2F%2Forangette.net%2F2014%2F06%2Frun-with-it%2F" onclick="window.open(this.href, 'twitter-share', 'width=550,height=285'); return false;" title="Twitter"></a>
+          <a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Forangette.net%2F2014%2F06%2Frun-with-it%2F&t=Run%20with%20it" onclick="window.open(this.href, 'facebook-share', 'width=580,height=300'); return false;" title="Facebook"></a>
+          <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Forangette.net%2F2014%2F06%2Frun-with-it%2F&media=https%3A%2F%2Forangette.net%2Fwp-content%2Fuploads%2F2015%2F09%2F169f9-dpp_00131.jpg&description=Run%20with%20it" data-pin-custom="true" title="Pinterest"></a></nav>
+              <div class="tag-list">
+        <h4 class="label">Filed under:</h4>
+        <ul>
+                        <li><a href="https://orangette.net/tag/big-thoughts/">big thoughts</a></li>
+                        <li><a href="https://orangette.net/tag/books/">books</a></li>
+                        <li><a href="https://orangette.net/tag/david-lebovitz/">david lebovitz</a></li>
+                        <li><a href="https://orangette.net/tag/delancey-book/">delancey book</a></li>
+                        <li><a href="https://orangette.net/tag/popsicles/">popsicles</a></li>
+                        <li><a href="https://orangette.net/ingredient/strawberry/">strawberry</a></li>
+                        <li><a href="https://orangette.net/tag/summer/">summer</a></li>
+                        <li><a href="https://orangette.net/tag/travel/">travel</a></li>
+                        <li><a href="https://orangette.net/ingredient/yogurt/">yogurt</a></li>
+                  </ul>
+      </div>
+              <nav class="navigation post-navigation left-nav" role="navigation">
+        <div class="left"><a href="https://orangette.net/2014/06/right-now/" rel="prev">Right now</a></div>        <div class="right"><a href="https://orangette.net/2014/06/june-27/" rel="next">June 27</a></div>      </nav>
+      
+<section id="comments" class="comment-area">
+      <h2 class="comment-area--title">Comments</h2>
+
+    <ol class="comment-area--list">
+        <li id="comment-42754" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16170701034715108039" class="url" rel="ugc external nofollow">Liza</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42754"><time class="comment-time" datetime="2014-06-23T19:50:52-04:00">Monday, June 23, 2014 at 7:50 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>You triggered fond memories of my daughter calling strawberries &#8220;dobby-dobs.&#8221;  I come here because I like the recipes, but mostly because I love your writing.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42754' data-commentid="42754" data-postid="142" data-belowelement="comment-42754" data-respondelement="respond" data-replyto="Reply to Liza" aria-label='Reply to Liza'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42755" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.wildmae.com" class="url" rel="ugc external nofollow">Kerrie</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42755"><time class="comment-time" datetime="2014-06-23T20:23:45-04:00">Monday, June 23, 2014 at 8:23 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Ahhh, I agree with Liza&#8230;I come here because I like the recipes, but I mostly because I love your writing. 🙂</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42755' data-commentid="42755" data-postid="142" data-belowelement="comment-42755" data-respondelement="respond" data-replyto="Reply to Kerrie" aria-label='Reply to Kerrie'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42756" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.thinkingofthedays.blogspot.com" class="url" rel="ugc external nofollow">Anonymous</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42756"><time class="comment-time" datetime="2014-06-23T20:49:18-04:00">Monday, June 23, 2014 at 8:49 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Bloody hell, as we say over the big pond!Excuse the French, but is it really four years since Delancey opened? That&#39;s outrageous! <br />will try the popsicles..or ice lollies as we Brits call them&#8230;.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42756' data-commentid="42756" data-postid="142" data-belowelement="comment-42756" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42757" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08237620595236491778" class="url" rel="ugc external nofollow">Kathleen</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42757"><time class="comment-time" datetime="2014-06-23T21:15:33-04:00">Monday, June 23, 2014 at 9:15 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>The helmet song made me laugh. We had a whole song and dance for our oldest to wear his while in a trailer, too. We put the helmet on his favorite big teddy bear that would wear it around the house doing silly things, because it was SO FUN, while we also wore ours. I even took Big Bear on a little bike ride to demonstrate. I think the whole process took days before he finally gave in and didn&#39;t freak out about it.</p>
+<p>Perfect popsicle weather today. And my garden still has plenty of strawberries. Thanks!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42757' data-commentid="42757" data-postid="142" data-belowelement="comment-42757" data-respondelement="respond" data-replyto="Reply to Kathleen" aria-label='Reply to Kathleen'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42758" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14157646511896084695" class="url" rel="ugc external nofollow">Alana Barton</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42758"><time class="comment-time" datetime="2014-06-23T21:46:40-04:00">Monday, June 23, 2014 at 9:46 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I know what you mean about not being able to do it all. I have had an amazing break from reality while I have been traveling, but things have piled up like crazy at home. I left myself a month of summer enjoyment after I return to California and before I start work, but almost everyday has already been occupied. It never slows down, but thats what keeps life interesting. </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42758' data-commentid="42758" data-postid="142" data-belowelement="comment-42758" data-respondelement="respond" data-replyto="Reply to Alana Barton" aria-label='Reply to Alana Barton'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42759" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14337806871619898250" class="url" rel="ugc external nofollow">Jennifer</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42759"><time class="comment-time" datetime="2014-06-23T21:47:42-04:00">Monday, June 23, 2014 at 9:47 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Molly&#8230;I&#39;ve been so bummed each time I&#39;ve checked your blog, only to see that there were no new posts since early June. So selfish of me, I know. You deserve a life too! I love your recipes, but return for your fine, fine, writing.. Your raspberry/blackberry poundcake has been my go to dessert lately, but can&#39;t wait to try these pops! Happy summer&#8230;..</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42759' data-commentid="42759" data-postid="142" data-belowelement="comment-42759" data-respondelement="respond" data-replyto="Reply to Jennifer" aria-label='Reply to Jennifer'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42760" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.amazon.com/Culinary-School-Three-Semesters-Learning-ebook/dp/B004XVZPBG/ref=sr_1_1?ie=UTF8&#038;qid=1403560002&#038;sr=8-1&#038;keywords=sebellin-ross" class="url" rel="ugc external nofollow">Sebellin-Ross</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42760"><time class="comment-time" datetime="2014-06-23T21:48:50-04:00">Monday, June 23, 2014 at 9:48 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I have such a nice popsicle memory. Once, when I was at culinary school (I took the cooking program, not the pastry program), I once had to grab a piece of equipment from the pastry kitchen. I ran in just as a pastry student was pulling some popsicles out of the freezer. Perfect timing! He asked if I would like one and I did, oh how I did. It tasted the way yours sounds &#8211; clean and fresh and a like a moment of sweet calm in the middle of a hectic day.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42760' data-commentid="42760" data-postid="142" data-belowelement="comment-42760" data-respondelement="respond" data-replyto="Reply to Sebellin-Ross" aria-label='Reply to Sebellin-Ross'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42761" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08848789612409874592" class="url" rel="ugc external nofollow">Ryan</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42761"><time class="comment-time" datetime="2014-06-24T00:52:01-04:00">Tuesday, June 24, 2014 at 12:52 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I was just thinking about popcicles last night. I haven&#39;t made any yet this year and it&#39;s starting to hit temps in the 80s now. The cocktail of the summer in our house is the El Burro (Moscow Mule with tequila) so I&#39;ve been trying to figure how to modify it to a popcicle recipe. And now i have to try a campari and tonic. So much bitterness!</p>
+<p>I&#39;ve been slow getting through my blog reader lately (96 unread posts right now) and almost didn&#39;t click through to read this tonight. But then I wouldn&#39;t have been seen your Spokane announcement.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42761' data-commentid="42761" data-postid="142" data-belowelement="comment-42761" data-respondelement="respond" data-replyto="Reply to Ryan" aria-label='Reply to Ryan'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42762" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/02862604308787250829" class="url" rel="ugc external nofollow">Mallory Fay</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42762"><time class="comment-time" datetime="2014-06-24T01:31:15-04:00">Tuesday, June 24, 2014 at 1:31 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Gosh, I am just loving every one&#39;s popsicles this time of year.  We are reaching the point in June where popsicles (plural!) are satisfactory dinners.  <br />Also, congrats on the book!  </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42762' data-commentid="42762" data-postid="142" data-belowelement="comment-42762" data-respondelement="respond" data-replyto="Reply to Mallory Fay" aria-label='Reply to Mallory Fay'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42763" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42763"><time class="comment-time" datetime="2014-06-24T13:54:55-04:00">Tuesday, June 24, 2014 at 1:54 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Perfect timing! I went strawberry picking with my kids last week and am still swimming in strawberries &#8211; we will all love these- thanks!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42763' data-commentid="42763" data-postid="142" data-belowelement="comment-42763" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42764" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.mealsalone.com" class="url" rel="ugc external nofollow">Beth MealsAlone.com</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42764"><time class="comment-time" datetime="2014-06-24T14:28:31-04:00">Tuesday, June 24, 2014 at 2:28 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>You inspire me to be a more open writer (personal stuff). Before I started reading your posts I think my posts were way too dry, (educational), I really love showing my softer side. That, my dear, is thanks to you.<br />Your stories inspire my stories and I just wanted to say thank you.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42764' data-commentid="42764" data-postid="142" data-belowelement="comment-42764" data-respondelement="respond" data-replyto="Reply to Beth MealsAlone.com" aria-label='Reply to Beth MealsAlone.com'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42765" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.storiesfromthestove.net" class="url" rel="ugc external nofollow">Sophie James</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42765"><time class="comment-time" datetime="2014-06-24T17:07:59-04:00">Tuesday, June 24, 2014 at 5:07 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I really liked this post, Molly. It made me think of the &#39;negative space&#39; in blogs &#8211; what we&#39;re doing when we&#39;re not doing the blog and how that impacts the content &#8211; the moments of staring out and basically chopping. Lovely 🙂 xxx</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42765' data-commentid="42765" data-postid="142" data-belowelement="comment-42765" data-respondelement="respond" data-replyto="Reply to Sophie James" aria-label='Reply to Sophie James'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42766" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15986884985286030285" class="url" rel="ugc external nofollow">Diane E. Gauley</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42766"><time class="comment-time" datetime="2014-06-24T17:50:12-04:00">Tuesday, June 24, 2014 at 5:50 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Half way through &#39;Delancey&#39; and just loving it! In fact, I can&#39;t wait to get home from work and get back into it. Well done!<br />Diane</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42766' data-commentid="42766" data-postid="142" data-belowelement="comment-42766" data-respondelement="respond" data-replyto="Reply to Diane E. Gauley" aria-label='Reply to Diane E. Gauley'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42767" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.theculinarylife.com" class="url" rel="ugc external nofollow">Stephanie</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42767"><time class="comment-time" datetime="2014-06-24T18:16:10-04:00">Tuesday, June 24, 2014 at 6:16 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Very cool (heh). How do you like these molds over the variety that sit upright, at attention? </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42767' data-commentid="42767" data-postid="142" data-belowelement="comment-42767" data-respondelement="respond" data-replyto="Reply to Stephanie" aria-label='Reply to Stephanie'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42768" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Pat</cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42768"><time class="comment-time" datetime="2014-06-24T18:19:31-04:00">Tuesday, June 24, 2014 at 6:19 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I hope you&#39;ll make time in Spokane to enjoy Auntie&#39;s….and to see Sherman Alexie&#39;s spiral poem, part of the river walk that&#39;s not too far from Auntie&#39;s.  I spent time at both fourteen years ago on a business trip.  Unforgettable experiences…..</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42768' data-commentid="42768" data-postid="142" data-belowelement="comment-42768" data-respondelement="respond" data-replyto="Reply to Pat" aria-label='Reply to Pat'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42769" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://casayellow.com" class="url" rel="ugc external nofollow">Sarah</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42769"><time class="comment-time" datetime="2014-06-24T18:24:01-04:00">Tuesday, June 24, 2014 at 6:24 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I love this, Molly. You totally hit the nail on the head&#8230;even though I rarely feel it compared to everyone else, none of us are ever &#39;doing it all&#39;. I take a lot of issue with the idea of  &#39;balance&#39; for this reason&#8230;life ebbs and flows, we take it as it comes. xxo Sarah</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42769' data-commentid="42769" data-postid="142" data-belowelement="comment-42769" data-respondelement="respond" data-replyto="Reply to Sarah" aria-label='Reply to Sarah'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42770" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.edibleliving.com" class="url" rel="ugc external nofollow">Sarah</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42770"><time class="comment-time" datetime="2014-06-24T18:37:27-04:00">Tuesday, June 24, 2014 at 6:37 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Molly, I read Delancy&#8211;scratch that, devoured Delancy, and reading you here is even more fun now. Thank you for your honesty&#8211;there and here, about doing and not doing it all. About motherhood. About simple things and how important they are to grab hold of. Thank you for not being perfect, but just being wonderful. x </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42770' data-commentid="42770" data-postid="142" data-belowelement="comment-42770" data-respondelement="respond" data-replyto="Reply to Sarah" aria-label='Reply to Sarah'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42771" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.heytherewonder.com" class="url" rel="ugc external nofollow">Lea</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42771"><time class="comment-time" datetime="2014-06-24T19:12:28-04:00">Tuesday, June 24, 2014 at 7:12 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Doing a roundup and had to include these popsicles! Essential to my summer 🙂</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42771' data-commentid="42771" data-postid="142" data-belowelement="comment-42771" data-respondelement="respond" data-replyto="Reply to Lea" aria-label='Reply to Lea'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42772" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">christine</cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42772"><time class="comment-time" datetime="2014-06-24T19:21:08-04:00">Tuesday, June 24, 2014 at 7:21 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>look forward to and love,love,love your blog, books and recipes. The photographs are a wonderful bonus.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42772' data-commentid="42772" data-postid="142" data-belowelement="comment-42772" data-respondelement="respond" data-replyto="Reply to christine" aria-label='Reply to christine'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42773" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/03208958768029986682" class="url" rel="ugc external nofollow">10 Legs in the Kitchen</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42773"><time class="comment-time" datetime="2014-06-24T20:45:24-04:00">Tuesday, June 24, 2014 at 8:45 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I feel the same way about my blog, it is where I have the freedom to be me whether it is happy or sad, on a schedule or off.  None of us can do it all but we all need a place to do a little something for ourselves.</p>
+<p> I just love your writing and can&#39;t wait to read your new book.</p>
+<p>Hopefully I will be able to get the helmet song out of my head soon though&#8230;I will spare you the &#8220;Great Ginger Carrot Hunt&#8221; song&#8230;</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42773' data-commentid="42773" data-postid="142" data-belowelement="comment-42773" data-respondelement="respond" data-replyto="Reply to 10 Legs in the Kitchen" aria-label='Reply to 10 Legs in the Kitchen'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42774" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12530394131735267625" class="url" rel="ugc external nofollow">Nicki Fraser</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42774"><time class="comment-time" datetime="2014-06-25T01:07:12-04:00">Wednesday, June 25, 2014 at 1:07 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>The very first post of yours that I read was the raspberry yoghurt popsicle &#8211; I was hooked and have read every post since &#8211; can&#39;t believe that was 4 years ago &#8211; thanks so much for spending your time off so I can enjoy my time off from my three kids in my favourite way &#8211; its&#39; really appreciated.<br />Nicki from Auckland, NZ.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42774' data-commentid="42774" data-postid="142" data-belowelement="comment-42774" data-respondelement="respond" data-replyto="Reply to Nicki Fraser" aria-label='Reply to Nicki Fraser'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42775" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Amy G.</cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42775"><time class="comment-time" datetime="2014-06-25T01:09:47-04:00">Wednesday, June 25, 2014 at 1:09 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Consider me duly motivated to go and pick strawberries, already; been meaning to do so for a while, so..tomorrow&#8211;no excuses.  Strawberry shortcake yumminess for dinner. </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42775' data-commentid="42775" data-postid="142" data-belowelement="comment-42775" data-respondelement="respond" data-replyto="Reply to Amy G." aria-label='Reply to Amy G.'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42776" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42776"><time class="comment-time" datetime="2014-06-25T03:46:17-04:00">Wednesday, June 25, 2014 at 3:46 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I just love your blog. You might like mine if you love stories, drama and gossip! <a href="http://www.alittledirtydiary.blog.com" rel="nofollow ugc">http://www.alittledirtydiary.blog.com</a></p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42776' data-commentid="42776" data-postid="142" data-belowelement="comment-42776" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42777" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.instagram.com/kristencronin" class="url" rel="ugc external nofollow">Kristen</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42777"><time class="comment-time" datetime="2014-06-25T04:09:25-04:00">Wednesday, June 25, 2014 at 4:09 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>What a lovely post! And recipe! And photos! Oh my.</p>
+<p>Question: I assume the popsicles-with-alcohol are not so great for 3-year-olds? Or is it such a small amount/does something happen to the alcohol in the freezing process that makes it okay? </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42777' data-commentid="42777" data-postid="142" data-belowelement="comment-42777" data-respondelement="respond" data-replyto="Reply to Kristen" aria-label='Reply to Kristen'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42778" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Claire</cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42778"><time class="comment-time" datetime="2014-06-25T04:10:02-04:00">Wednesday, June 25, 2014 at 4:10 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>ooooh!  I was just out in Othello WA, eating lots at little Mexican places, including one that was known for their popsicles: rice milk (with raisins in it!!!) and cardamom, mango with chili, pineapple with chili, almond with lovely toasted hunks of almonds frozen in.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42778' data-commentid="42778" data-postid="142" data-belowelement="comment-42778" data-respondelement="respond" data-replyto="Reply to Claire" aria-label='Reply to Claire'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42779" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16474153316588551039" class="url" rel="ugc external nofollow">Zoomie</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42779"><time class="comment-time" datetime="2014-06-25T13:50:39-04:00">Wednesday, June 25, 2014 at 1:50 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>What Sarah, just above, said.  🙂  Hugs to you, kiddo, along with the &#8220;brava!&#8221;</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42779' data-commentid="42779" data-postid="142" data-belowelement="comment-42779" data-respondelement="respond" data-replyto="Reply to Zoomie" aria-label='Reply to Zoomie'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42780" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.quorn.us" class="url" rel="ugc external nofollow">Emily from Quorn</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42780"><time class="comment-time" datetime="2014-06-25T16:54:56-04:00">Wednesday, June 25, 2014 at 4:54 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Yummy! These look like a fantastic and healthy alternative to store-bought popsicles. Hope you can make it out to our event in August! We&#39;d love to meet you and see what you think of our products. </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42780' data-commentid="42780" data-postid="142" data-belowelement="comment-42780" data-respondelement="respond" data-replyto="Reply to Emily from Quorn" aria-label='Reply to Emily from Quorn'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42781" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://eatmedrinkmeblog.com" class="url" rel="ugc external nofollow">Lyz Pfister</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42781"><time class="comment-time" datetime="2014-06-25T19:10:09-04:00">Wednesday, June 25, 2014 at 7:10 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>How true! Between work and people and all the mini crises that crop up when you&#39;re least expecting them, I find it hard sometimes to spend time writing. I really resonate with the blog/barometer comparison &#8211; I find that I&#39;m feeling most balanced when I&#39;m putting up a new post and when I&#39;m happy with the work.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42781' data-commentid="42781" data-postid="142" data-belowelement="comment-42781" data-respondelement="respond" data-replyto="Reply to Lyz Pfister" aria-label='Reply to Lyz Pfister'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42782" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17873112978518614362" class="url" rel="ugc external nofollow">Rocky Mountain Woman</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42782"><time class="comment-time" datetime="2014-06-25T19:57:26-04:00">Wednesday, June 25, 2014 at 7:57 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Same here &#8211; it seems as though lately I&#39;m doing good if I get myself to work and back and eat a little here and there.</p>
+<p>Summer is always too quick for me&#8230;</p>
+<p>lovely pops!</p>
+<p>RMW </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42782' data-commentid="42782" data-postid="142" data-belowelement="comment-42782" data-respondelement="respond" data-replyto="Reply to Rocky Mountain Woman" aria-label='Reply to Rocky Mountain Woman'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42783" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.werecomingalong.com" class="url" rel="ugc external nofollow">isabel</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42783"><time class="comment-time" datetime="2014-06-26T01:16:11-04:00">Thursday, June 26, 2014 at 1:16 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hi Molly-</p>
+<p>I have been reading Orangette for years, but I never comment. I just had a baby boy and I have to tell  you, your posts infused with June are my favorites. I know it can be a little tricky writing about kids, (nothing worse than people who go on and on about their cute kids, right?) but I want you to know that June has a big fan in this corner of the interweb!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42783' data-commentid="42783" data-postid="142" data-belowelement="comment-42783" data-respondelement="respond" data-replyto="Reply to isabel" aria-label='Reply to isabel'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42784" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Tracy</cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42784"><time class="comment-time" datetime="2014-06-26T04:18:01-04:00">Thursday, June 26, 2014 at 4:18 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I hate to be a downer, but I have the mold you loaned Katie and I hate it.  The popsicles are impossible to get out.  The plastic is really hard and even running hot water over it doesn&#39;t help b/c the plastic doesn&#39;t really conduct heat well.  You can leave them out, but you mostly have to jam a knife between the popsicle and the side of the mold, but that won&#39;t always work.  You can leave them out, but then the whole popsicle is likely to get a little soft and then the stick is likely to come loose.  I&#39;m looking up the silicone molds on Amazon RIGHT NOW.</p>
+<p>p.s.  Loved Delancey, the book and the restaurant  (and Essex) when I went a year ago when I took a business trip to Seattle.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42784' data-commentid="42784" data-postid="142" data-belowelement="comment-42784" data-respondelement="respond" data-replyto="Reply to Tracy" aria-label='Reply to Tracy'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42785" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.remedialeating.com" class="url" rel="ugc external nofollow">molly</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42785"><time class="comment-time" datetime="2014-06-26T04:34:06-04:00">Thursday, June 26, 2014 at 4:34 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Those raspberry popsicles are an absolute fixture of our summers. Have been since you posted them. Possibly because our summers sort of resemble a mash-up of Mt. St. Helens and Hades. Also, because those popsicles totally pass for breakfast, lunch, and/or dinner. (See: yogurt. See: fruit). Thereby releasing one from the need to cook. Or do it all. Or do anything, really. Which is exactly what I&#39;m up for, right around late June. </p>
+<p>By which I mean: thanks. </p>
+<p>xo,<br />M</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42785' data-commentid="42785" data-postid="142" data-belowelement="comment-42785" data-respondelement="respond" data-replyto="Reply to molly" aria-label='Reply to molly'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42786" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/04354955910454046063" class="url" rel="ugc external nofollow">Sally D</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42786"><time class="comment-time" datetime="2014-06-30T21:56:55-04:00">Monday, June 30, 2014 at 9:56 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hi Molly, I&#39;m a big fan of your blog and books; they make my day.  I made your popcicle recipe, but I made them with peaches and a splash of Bourbon. Grand Slam!  Keep up the good work!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42786' data-commentid="42786" data-postid="142" data-belowelement="comment-42786" data-respondelement="respond" data-replyto="Reply to Sally D" aria-label='Reply to Sally D'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42787" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.cheese-burger.net" class="url" rel="ugc external nofollow">Jeff @ Cheese-burger.net</a></cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42787"><time class="comment-time" datetime="2014-07-07T01:58:18-04:00">Monday, July 7, 2014 at 1:58 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I wish I&#39;m eating cheeseburger too but this strawberry yogurt popsicle sounds better especially in this heat.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42787' data-commentid="42787" data-postid="142" data-belowelement="comment-42787" data-respondelement="respond" data-replyto="Reply to Jeff @ Cheese-burger.net" aria-label='Reply to Jeff @ Cheese-burger.net'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42788" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Maria</cite></div>
+      <a href="https://orangette.net/2014/06/run-with-it/#comment-42788"><time class="comment-time" datetime="2014-07-20T05:51:47-04:00">Sunday, July 20, 2014 at 5:51 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>You mentioned Auntie&#39;s bookstore in Spokane&#8230;did you happen to notice that next door to the most awesome restaurant in the 509? And that beats anything in Walla Walla.  Sante Spokane is the best thing that ever happened in the food world east of the Cascades. Hope you got to enjoy it!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42788' data-commentid="42788" data-postid="142" data-belowelement="comment-42788" data-respondelement="respond" data-replyto="Reply to Maria" aria-label='Reply to Maria'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+    </ol>
+
+      
+  
+  	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/06/run-with-it/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
+<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='142' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="18bd0eaaaa" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="170"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	</section>
+      </footer>
+</article>
+        </main><!-- /.main -->
+                  <aside class="content-right">
+            <header class="right-header">
+  <a href="https://orangette.net/about/">
+    <h2 class="title">hellooooo</h2>
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+  </a>
+</header>
+<nav class="right-nav">
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div>  <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+</nav>
+<div class="right-section">
+  <h3 class="right-heading">
+    <a href="https://orangette.net/books/">My Books</a>
+  </h3>
+  <div class="right-diptych">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+      </a>
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+      </a>
+      </div>
+  <div class="right-image-link">
+    <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+    </a>
+  </div>
+</div>
+<div class="right-section bordered">
+  <h4 class="right-subheading">Featured Posts</h4>
+  <ul class="right-post-list">
+          <li>
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
+          <div class="thumb">
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">April 7, 2014</div>
+            <h5 class="title">That word is eat</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">March 23, 2015</div>
+            <h5 class="title">The bean doctor</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">July 23, 2015</div>
+            <h5 class="title">We&#8217;ll go from left to right</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2014/01/in-it-together/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">January 16, 2014</div>
+            <h5 class="title">In it together</h5>
+          </div>
+        </a>
+      </li>
+      </ul>
+</div>
+<div class="right-section tall right-podcast">
+  <h3 class="right-heading">
+    <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
+  </h3>
+  <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+  </a>
+</div>
+<div class="right-section">
+  <h4 class="right-subheading alt">
+    <a href="https://orangette.net/links/">Links of Note</a>
+  </h4>
+  <ul class="right-link-list">
+    <li><a href="http://vicsrecipes.blogspot.com/">Vic&#8217;s Recipes</a></li>
+<li><a href="http://www.36words.typepad.com/">habit</a></li>
+<li><a href="http://www.eatdrinkonewoman.com/">eat drink one woman</a></li>
+<li><a href="http://www.dinneralovestory.com/" rel="noopener" target="_blank">Dinner: A Love Story</a></li>
+<li><a href="http://journal.davidbyrne.com/">David Byrne Journal</a></li>
+<li><a href="http://www.elise.com/recipes/">Simply Recipes</a></li>
+<li><a href="http://blairpeter.typepad.com/">wise.. craft</a></li>
+<li><a href="http://www.spilledmilkpodcast.com/">Spilled Milk, my podcast with Matthew Amster-Burton</a></li>
+<li><a href="http://www.lottieanddoof.com/" rel="noopener" target="_blank">Lottie + Doof</a></li>
+<li><a href="http://www.remedialeating.com/">remedial eating</a></li>
+<li><a href="http://teaandcookies.blogspot.com/">Tea and Cookies</a></li>
+<li><a href="http://www.leciawphinney.com/" rel="noopener" target="_blank">A Day That Is Dessert</a></li>
+<li><a href="http://www.nordljus.co.uk/en/index.php">Nordljus</a></li>
+<li><a href="http://bferry.wordpress.com/">the blue hour</a></li>
+<li><a href="http://saipua.blogspot.com/">Saipua</a></li>
+  </ul>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
+</div>
+          </aside><!-- /.sidebar -->
+                <div class="search-overlay" data-class="search-overlay">
+          <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+          <div class="overlay--close" data-behavior="close-search"></div>
+        </div>
+      </div><!-- /.page-content -->
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+  </a>
+  <div class="footer-content">
+    <nav class="footer-nav" role="navigation">
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div>    </nav>
+    <nav class="footer-utility-nav">
+      <div class="menu-social-links-container"><ul id="menu-social-links" class=""><li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a href="https://twitter.com/mollyorangette">Twitter</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2518"><a href="https://www.facebook.com/molly.wizenberg">Facebook</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2519"><a href="https://www.instagram.com/mollyorangette/">Instagram</a></li>
+</ul></div>    </nav>
+  </div>
+  <p class="copyright">&copy; 2023 Orangette</p>
+  <p class="credit"><a href="http://madebyneversink.com">Made by Neversink</a></p>
+</footer>
+      <div class="nav-overlay" data-behavior="close-nav"></div>
+      <button class="elevator" data-behavior="jettison">Back to top</button>
+    </div><!-- /.container -->
+    <script type='text/javascript' src='https://orangette.net/wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+  </body>
+</html>

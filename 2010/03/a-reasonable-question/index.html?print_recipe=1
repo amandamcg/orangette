@@ -1,0 +1,76 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>A reasonable question</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Zuni Café Polenta </h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FZuni-Cafe-Cookbook-Compendium-Franciscos%2Fdp%2F0393020436%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1267071792%26sr%3D1-1&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">The Zuni Café Cookbook</span></a>, by Judy Rodgers</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-03-06T23:55:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I use Bob’s Red Mill brand <a href="http://www.bobsredmill.com/corn-grits_polenta.html">corn grits polenta</a>, which is not fancy, but it works fine.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            5 cups water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup coarsely ground polenta          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About 2 tsp. kosher salt, or to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Unsalted butter, to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Parmigiano-Reggiano, for serving (optional)          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Bring the water to a simmer in a 2-quart saucepan. Whisk or stir in the polenta, then stir until the water returns to a simmer. [I did this step, and the steps that follow, with a whisk.] Reduce the heat until the polenta only bubbles and sputters occasionally, and cook, uncovered, for about 1 hour, stirring as needed, until thick but still fluid. If the polenta becomes stiff, add a trickle of water. Taste. Add salt and a generous dose of butter. [I used 2 teaspoons of kosher salt and about 2 tablespoons of butter.]</p>
+<p>Transfer the polenta to a double boiler set over simmering water. Wrap the lid tightly in plastic wrap (*see note) and cover the polenta. Allow the polenta to rest that way for at least 30 minutes – or up to a few hours, depending on your schedule. If you don’t have a double boiler, you can make a close approximation by setting the saucepan containing the polenta on a small, ovenproof ramekin centered inside a wider, deeper pot, and surrounding it with barely simmering water. Cover the pan as directed above.</p>
+<p>Serve hot. If you want, grate some Parmigiano-Reggiano on top, though I like mine plain.</p>
+<p>Note: The plastic wrap doesn’t seem like great idea to me, but I’m not sure. Heating plastic can cause it to release chemicals, but since this plastic wrap isn’t actually touching the food, is it safe? I followed the recipe as directed, but I wanted to raise the question. If you’re worried, maybe skip the plastic wrap? Or instead, try placing a sheet of parchment over the saucepan, under the lid?</p>
+<p>Another note: This polenta would also be delicious with a spoonful of tomato sauce or meat sauce, or with some sliced sausage. You could also serve it with some sort of braised beef or pork. I had polenta topped with duck ragu and a fried egg at <a href="http://flourandwater.com/">Flour + Water</a> in San Francisco, and it was out. of. control.</p>
+<p>The last note: If you have leftover polenta, spread it about 1 inch deep in a lightly oiled baking dish. Allow it to cool, and then refrigerate until you’re ready to roast, grill, or fry it.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 8 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

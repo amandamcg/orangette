@@ -1,0 +1,184 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>I changed my mind</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Zuni Café Caesar Dressing</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/product/0393020436/?ie=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=orangette-20&linkId=GNNOJANU4SJ7TPUM" target="_blank">The Zuni Café Cookbook</a></i>, by Judy Rodgers</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2015-08-16T16:14:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Rodgers calls for salt-packed anchovies, but I use Scalia brand oil-packed, which I steal from Delancey. They’re not cheap, but they keep in the fridge for a long, long time, and they have wonderful flavor. Before using, I rinse them well and dry them on paper towels. And about the quantity of kosher salt: <a href="http://www.thekitchn.com/cooks-talk-a-threefingered-pin-90144" target="_blank">a three-finger pinch</a> is the amount you pick up when you pinch with your thumb, index finger, and middle finger.</p>
+<p>Oh, and a tip for applying thick dressings, and for applying any dressing to whole leaves of romaine: keep a box of powder-free latex gloves in your kitchen. Spoon some dressing into the bowl of lettuce, slide on a pair of gloves, and use your hands to gently rub the dressing onto each leaf. You could also do it without gloves, if you don&#8217;t mind smelling garlicky for a bit.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For dressing:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 tablespoon red wine vinegar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup mild-tasting olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About 1 ½ tablespoons minced and mashed anchovy fillets (from about 6 to 9 fillets)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About 2 teaspoons minced garlic          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large cold eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About ½ ounce (15 grams) grated Parmigiano-Reggiano          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 tablespoons fresh lemon juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                      <h3>For serving:</h3>                  <div class="ingredient" itemprop="ingredients">
+            Romaine or other greens of your choice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Croutons or cooked farro, optional          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Parmigiano-Reggiano          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In a small mixing bowl, whisk together the vinegar, olive oil, anchovies, and garlic. Add the eggs, the cheese, and lots of black pepper. Whisk to emulsify. Add the lemon juice, and whisk again, just to emulsify. Taste, first by itself and then on a leaf of lettuce, and adjust the seasonings to taste. I add a three-finger pinch of kosher salt, if not a little more than that.</p>
+<p>Spoon as desired onto romaine or other greens, and fold and toss carefully to coat. Add croutons or cooked farro, if you want, and more grated cheese. Serve with a final dusting of cheese on top and some freshly ground black pepper.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 1 ½ cups of dressing</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Zuni Café Polenta </h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FZuni-Cafe-Cookbook-Compendium-Franciscos%2Fdp%2F0393020436%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1267071792%26sr%3D1-1&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">The Zuni Café Cookbook</span></a>, by Judy Rodgers</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-03-06T23:55:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I use Bob’s Red Mill brand <a href="http://www.bobsredmill.com/corn-grits_polenta.html">corn grits polenta</a>, which is not fancy, but it works fine.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            5 cups water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup coarsely ground polenta          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About 2 tsp. kosher salt, or to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Unsalted butter, to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Parmigiano-Reggiano, for serving (optional)          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Bring the water to a simmer in a 2-quart saucepan. Whisk or stir in the polenta, then stir until the water returns to a simmer. [I did this step, and the steps that follow, with a whisk.] Reduce the heat until the polenta only bubbles and sputters occasionally, and cook, uncovered, for about 1 hour, stirring as needed, until thick but still fluid. If the polenta becomes stiff, add a trickle of water. Taste. Add salt and a generous dose of butter. [I used 2 teaspoons of kosher salt and about 2 tablespoons of butter.]</p>
+<p>Transfer the polenta to a double boiler set over simmering water. Wrap the lid tightly in plastic wrap (*see note) and cover the polenta. Allow the polenta to rest that way for at least 30 minutes – or up to a few hours, depending on your schedule. If you don’t have a double boiler, you can make a close approximation by setting the saucepan containing the polenta on a small, ovenproof ramekin centered inside a wider, deeper pot, and surrounding it with barely simmering water. Cover the pan as directed above.</p>
+<p>Serve hot. If you want, grate some Parmigiano-Reggiano on top, though I like mine plain.</p>
+<p>Note: The plastic wrap doesn’t seem like great idea to me, but I’m not sure. Heating plastic can cause it to release chemicals, but since this plastic wrap isn’t actually touching the food, is it safe? I followed the recipe as directed, but I wanted to raise the question. If you’re worried, maybe skip the plastic wrap? Or instead, try placing a sheet of parchment over the saucepan, under the lid?</p>
+<p>Another note: This polenta would also be delicious with a spoonful of tomato sauce or meat sauce, or with some sliced sausage. You could also serve it with some sort of braised beef or pork. I had polenta topped with duck ragu and a fried egg at <a href="http://flourandwater.com/">Flour + Water</a> in San Francisco, and it was out. of. control.</p>
+<p>The last note: If you have leftover polenta, spread it about 1 inch deep in a lightly oiled baking dish. Allow it to cool, and then refrigerate until you’re ready to roast, grill, or fry it.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 8 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Zuni Café’s Four-Minute Egg Gribiche</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FZuni-Cafe-Cookbook-Compendium-Franciscos%2Fdp%2F0393020436%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1241593100%26sr%3D8-1&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">The Zuni Café Cookbook</span></a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-05-06T06:46:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>This version is essentially a mayonnaise, and it’s particularly important to use a very mild-tasting olive oil. If your oil is at all bitter, or if you’re unsure, use a mixture of it and a more neutral-tasting oil, like canola.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 medium shallots, finely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. sherry vinegar or red wine vinegar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large egg          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. Dijon mustard          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ¼ cups mild-tasting olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. thinly sliced chives          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. finely chopped parsley          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. finely chopped chervil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. finely chopped dill          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. capers, rinsed and dried, coarsely chopped          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Combine the shallots and the vinegar in a small bowl, and set aside to macerate while you prepare the rest of the sauce.</p>
+<p>Put the egg in a small saucepan of barely simmering water, and bring it to a boil. Then reduce the heat and simmer for about 4 minutes. Drain, and put the egg in a bowl of ice water to cool completely.</p>
+<p>When the egg is cool, crack and scrape it into a medium bowl. Add the mustard and a pinch or two of salt. Mash it all together, and then begin whisking in the oil, just a few drops at first, then gradually increasing the flow to a thin stream. Stop adding oil when the mixture is satiny and has lots of body, like – and I love that Judy Rodgers describes it this way – a hot fudge sauce. Stir in the herbs and capers. Add the vinegar and shallots, and adjust with salt to taste.</p>
+<p>Serve with grilled fish or poultry, fried seafood, roasted potatoes, boiled shrimp, or asparagus, or &#8211; my personal preference &#8211; as the dressing for a fantastic potato salad.</p>
+    </div>
+  
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

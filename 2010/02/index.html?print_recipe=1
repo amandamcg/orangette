@@ -1,0 +1,87 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>We ate this cake</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Marmalade Cake</h2>
+    <h3 class="subtitle">Adapted from the Boonville Hotel</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-02-14T09:53:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>You could make this cake with store-bought roasted almonds, but I like to buy them raw and toast them myself. That way, I can control how deeply they’re toasted, and they also taste fresher. If you’re short on time, you can toast them a day or two ahead. You might also want to plan ahead for preparing the citrus fruits, since boiling and cooling them takes time. (And remember to use organic oranges and lemons, since you’ll be eating the rind.) Once you’ve got the nuts and fruits ready, this cake is quick to make.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 small to medium orange          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 lemon          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 ounces raw almonds          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 large eggs, ideally at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. table salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Confectioners’ sugar, for serving          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>First, get to work on the citrus. Put the orange and the lemon in a saucepan, and cover with water. (They’ll want to float. Don’t worry about it.) Bring to a boil over medium-high heat; then reduce the heat to medium and simmer for 30 minutes. Drain, and cool.</p>
+<p>Meanwhile, toast the almonds. Preheat the oven to 325°F, and set a rack in the middle position. Put the almonds on an ungreased sheet pan, and bake until they look golden and smell warm and toasty, 10 to 15 minutes. (I tend to get nervous about burning them, and consequently, I always try to pull them out of the oven too soon. Don’t do that. Let them really toast.) Set aside to cool completely. When the almonds are cool, pulse them in a food processor until finely ground, the texture of coarse sand. Set aside.</p>
+<p>Set the oven to 350°F, and grease a 9-inch round springform pan.</p>
+<p>When the citrus is cool, cut the lemon in half, and scoop out and discard the pulp and seeds. Cut the orange in half, and discard the seeds. Put the lemon rind and orange halves in the food processor – there’s no need to wash it after grinding the almonds – and process to chop finely, almost to a coarse paste.</p>
+<p>In a small bowl, whisk together the flour and baking powder.</p>
+<p>Combine the eggs and salt in a mixing bowl. Beat until foamy. Gradually beat in the sugar. Fold in the flour mixture. Add the citrus, almonds, and olive oil, and beat on low speed to just incorporate. Do not overmix. Pour the batter into the prepared pan, and bake for about 1 hour, or until a toothpick inserted in the center comes out clean. Cool the cake in its pan on a wire rack. Remove the sides of the pan. Before serving, dust the cake with confectioners’ sugar.</p>
+<p>Note: This cake tastes even better on the second &#8211; or even third &#8211; day, as the flavors meld and mellow. Store it at room temperature, covered with plastic wrap.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 8 to 10 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

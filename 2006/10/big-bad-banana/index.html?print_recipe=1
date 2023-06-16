@@ -1,0 +1,99 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Big, bad, banana</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Banana Cake with Coconut-Cream Cheese Frosting</h2>
+    <h3 class="subtitle">Adapted from <i>Gourmet</i>, December 2005</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2006-10-10T05:52:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>This cake is a cinch to make — perfect for a weeknight dinner with friends or a lazy weekend treat. The original recipe calls for bananas that are “well mashed,” but I almost always prefer to purée mine. A little zizz in the blender or food processor makes them smooth, airy, and blissfully free of lumps, and that, in my opinion, makes for a better, more consistent crumb. For this recipe, I found that about 2 medium very ripe bananas yielded ¾ cup purée.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For the cake:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 stick (4 oz.) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups unbleached all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ tsp baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp baking soda          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup packed light brown sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large egg          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup puréed very ripe bananas          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup sour cream          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp pure vanilla extract          </div>
+                      <h3>For the frosting:</h3>                  <div class="ingredient" itemprop="ingredients">
+            3 oz cream cheese, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 Tbs unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup confectioners sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 Tbs well-stirred canned cream of coconut (I used Coco Lopez brand); not coconut milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp dark rum          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup sweetened flaked coconut          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Place a rack in the middle of the oven, and preheat the oven to 350 degrees Fahrenheit. Lightly butter or spray a 9-inch round cake pan (I used a springform pan), and dust it with flour, shaking out any excess.</p>
+<p>In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.</p>
+<p>In the bowl of stand mixer, or in a large mixing bowl, beat the butter and brown sugar on high speed until pale and fluffy, stopping to scrape down the sides of the bowl with a rubber spatula as necessary. Add the egg, and beat until well combined. Add the banana purée, sour cream, and vanilla, and beat to combine well. Reduce the speed to low, and add the flour mixture, mixing until just combined. Do not overmix. (I found that it was best to beat in the flour only a little, and to finish mixing it by hand, with a rubber spatula.)</p>
+<p>Spread the batter in the prepared cake pan, and bake until the top is pale golden and a toothpick inserted in the center comes out clean, about 20-27 minutes.</p>
+<p>Cool the cake in the pan on a rack for 10 minutes. Run a thin knife around the edge of the pan; then invert the rack over the cake and invert the cake onto the rack to cool completely. (Alternatively, if you are using a springform pan, simply remove the sides and leave the cake on the rack to cool.)</p>
+<p>While the cake cools, make the frosting. In a medium bowl, beat together the cream cheese and the butter on medium speed until smooth. Reduce the speed to low; then add the confectioners sugar, cream of coconut, and rum. Mix until combined; then increase the speed to high and beat until light and fluffy, about two minutes.</p>
+<p>Spread over the top of the thoroughly cooled cake, and sprinkle evenly with coconut.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: About 8 servings, or fewer, if your name is Molly</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

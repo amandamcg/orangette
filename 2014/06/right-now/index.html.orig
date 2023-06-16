@@ -1,0 +1,805 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+  <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
+
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
+  <meta name="apple-mobile-web-app-title" content="Orangette">
+  <meta name="application-name" content="Orangette">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="https://orangette.net/wp-content/themes/orangette/assets/icons/mstile-144x144.png">
+  <meta name="msapplication-config" content="https://orangette.net/wp-content/themes/orangette/assets/icons/browserconfig.xml">
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Right now | Orangette</title>
+	<link rel="canonical" href="http://orangette.net/2014/06/right-now/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Right now | Orangette" />
+	<meta property="og:description" content="Hello from a train en route to Portland, Oregon! I’ll be at Jim Dixon’s Real Good Food olive oil warehouse tomorrow, Monday, from 3 to 4, if you’d like to stop by for some olive oil and a book, and then I’ll be reading at Powell’s on Burnside tomorrow night at 7:30. And then, on the way home, because I am an unstoppable book-signing machine, I’ll be swinging by the Bayview School of Cooking, in Olympia, for an event at 6:00 pm. If you’re in the area(s), come on out. Now, in the meantime, I promised you the recipe for June’s new favorite thing, which, now that I think about it, may also be my new favorite thing. The thing in question&hellip;" />
+	<meta property="og:url" content="http://orangette.net/2014/06/right-now/" />
+	<meta property="og:site_name" content="Orangette" />
+	<meta property="article:publisher" content="https://www.facebook.com/molly.wizenberg" />
+	<meta property="article:published_time" content="2014-06-09T02:10:00+00:00" />
+	<meta property="article:modified_time" content="2015-12-13T21:53:27+00:00" />
+	<meta property="og:image" content="http://orangette.net/wp-content/uploads/2015/09/0b4e3-_f7a2918-21.jpg" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="1066" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@mollyorangette" />
+	<meta name="twitter:site" content="@mollyorangette" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Molly" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="3 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://orangette.net/#website","url":"https://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"http://orangette.net/2014/06/right-now/#primaryimage","inLanguage":"en-US","url":"https://orangette.net/wp-content/uploads/2015/09/0b4e3-_f7a2918-21.jpg","contentUrl":"https://orangette.net/wp-content/uploads/2015/09/0b4e3-_f7a2918-21.jpg","width":1600,"height":1066},{"@type":"WebPage","@id":"http://orangette.net/2014/06/right-now/#webpage","url":"http://orangette.net/2014/06/right-now/","name":"Right now | Orangette","isPartOf":{"@id":"https://orangette.net/#website"},"primaryImageOfPage":{"@id":"http://orangette.net/2014/06/right-now/#primaryimage"},"datePublished":"2014-06-09T02:10:00+00:00","dateModified":"2015-12-13T21:53:27+00:00","author":{"@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"http://orangette.net/2014/06/right-now/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://orangette.net/2014/06/right-now/"]}]},{"@type":"BreadcrumbList","@id":"http://orangette.net/2014/06/right-now/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://orangette.net/"},{"@type":"ListItem","position":2,"name":"Right now"}]},{"@type":"Person","@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; Right now Comments Feed" href="https://orangette.net/2014/06/right-now/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="alternate" type="application/json" href="https://orangette.net/wp-json/wp/v2/posts/144" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel='shortlink' href='https://orangette.net/?p=144' />
+<link rel="alternate" type="application/json+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2014%2F06%2Fright-now%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2014%2F06%2Fright-now%2F&#038;format=xml" />
+  <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+</head>
+  <body class="post-template-default single single-post postid-144 single-format-standard right-now sidebar-primary">
+    <!--[if lt IE 9]>
+      <div class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <nav class="off-canvas-nav">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+  <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div></nav>
+    <div class="container" id="top">
+      <header class="page-header" role="banner">
+  <h1 class="header--title">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    </a>
+  </h1>
+  <button class="search-toggle icon-search2" data-behavior="open-search"></button>
+  <button class="nav-toggle" data-behavior="open-nav"></button>
+</header>
+      <div class="page-content">
+        <main class="content-left has-sidebar" role="document">
+            
+<article class="post--single post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-fall category-entrees category-meat category-soup category-spring category-summer category-winter tag-feeding-a-kid tag-meatballs ingredients-chicken ingredients-parsley ingredients-peas ingredients-turkey" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <div class="kicker">
+      <time class="updated" datetime="2014-06-09T02:10:00+00:00">Monday, June 9, 2014</time>
+    </div>
+    <h1 class="title" >
+      <a href="https://orangette.net/2014/06/right-now/">Right now</a>
+    </h1>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    <p>Hello from a train en route to Portland, Oregon! I’ll be at Jim Dixon’s <a href="http://realgoodfood.com/buying-olive-oil/sales-activspace/" target="_blank">Real Good Food olive oil warehouse</a> tomorrow, Monday, from 3 to 4, if you’d like to stop by for some olive oil and a book, and then I’ll be reading at <a href="http://www.powells.com/calendar/" target="_blank">Powell’s</a> on Burnside tomorrow night at 7:30. And then, on the way home, because I am an unstoppable book-signing machine, I’ll be swinging by the <a href="http://www.bayviewschoolofcooking.com/index.html" target="_blank">Bayview School of Cooking</a>, in Olympia, for an event at 6:00 pm. If you’re in the area(s), come on out.</p>
+<p>Now, in the meantime, I promised you the recipe for June’s new favorite thing, which, now that I think about it, may also be my new favorite thing. The thing in question is <i>minestra di piselli e polpettine di pollo</i>, or English pea and chicken meatball soup. Does it sound more enticing if we call it herbed chicken meatballs in broth with peas and Parmesan? It does have herbs and Parmesan. It seems wrong to not mention that.</p>
+<div class="separator" style="clear: both; text-align: center;"><a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="http://orangette.net/wp-content/uploads/2015/09/0b4e3-_f7a2918-21.jpg"><img decoding="async" class="alignnone" src="http://orangette.net/wp-content/uploads/2015/09/0b4e3-_f7a2918-21.jpg" alt="" width="640" height="426" border="0" /></a></div>
+<p>First of all: poached meatballs. I know. Not attractive. In general, poached meat is rarely attractive, except maybe poached chicken breasts, maybe. That aside, look at the peas! Attractive! The golden(ish), clear(ish) broth! The grated Parmesan, which I forgot to put on for this photo! And more to the point: the flavor!</p>
+<p>A couple of years ago, a small, handsome book called <i><a href="http://www.amazon.com/dp/1892145979/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=MODE5OBBKFMIZB7B" target="_blank">Zuppe</a></i>, by Mona Talbott, showed up on my stoop. (I often receive free, unsolicited copies of newly published books, and this was one of them. Full disclosure, etc.) Talbott, I learned, was the founding executive chef of the <a href="http://www.aarome.org/about/rsfp" target="_blank">Rome Sustainable Food Project</a> at the <a href="http://www.aarome.org/" target="_blank">American Academy in Rome</a>, where she cooked for the Academy’s community of scholars, artists, and thinkers. I immediately got the sense that she had spent a <i>lot </i>of time thinking about soup – my kind of person – and her recipes felt like the stuff of Italian grandmothers, humble but satisfying, the way I want everyday cooking to feel. I thumbed through the book, and then I put it on top of the fridge with the other dozen or so cookbooks that I use most, even though I hadn’t used it yet. I just had a feeling.</p>
+<p>The recipes in <i>Zuppe</i> are not elaborate, and they’re also not very detailed: they assume that you already know something about cooking and have your own opinions and instincts to bring to the task. That’s not necessarily a problem: these recipes have some very good ideas, very doable good ideas that I wouldn’t come up with alone, and if you jump in and follow your nose, they’re great. (I find that many of Nigel Slater’s recipes work the same way.) For instance, this soup. It <i>could</i> be plain. But if you make sure that your broth is flavorful, your fresh herbs are fresh, your meatballs are seasoned well, and your Parmesan is good, it’s quietly perfect, just what I want to eat as late spring turns into summer. It feels comforting, filling, but also light. We’ve mostly eaten it for dinner, because it’s so easy to do ahead (see below) and because many days, by dinnertime, I can barely manage to pour a <a href="http://food52.com/recipes/23497-campari-shandy" target="_blank">Campari Shandy</a> and let’s not even talk about actual <i>cooking </i>no no no. It would also be an ideal lunch.</p>
+<p>I should also say, for those of you in the business of feeding babies or toddlers, that this sort of meal is spot-on for June. (Right now. Tune in for the next episode!) I quarter her meatballs, and she eats them and the peas mostly with her fingers, and then she drinks the broth that’s left. It makes us both happy.</p>
+<p>&nbsp;</p>
+
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Herbed Chicken Meatballs in Broth with Peas and Parmesan</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/dp/1892145979/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=MODE5OBBKFMIZB7B" target="_blank">Zuppe</a></i>, by Mona Talbott</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-06-09T02:10:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2014/06/right-now/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I made this one evening after June was in bed, and it fed both of us for the next couple of days. When you pack it up for the fridge, keep the meatballs separate from the broth, so that they don’t fall apart and the broth doesn’t get cloudy. When you want to eat a portion, just ladle out some broth, plunk in a few meatballs and some peas, and warm it. Grate on some cheese, and it’s ready.</p>
+<p>If you have a choice about your ground poultry, use dark meat. As for the chicken broth, I try make some whenever I roast a whole chicken: I toss the carcass in a deep pot with a quartered onion, a roughly chopped carrot, a roughly chopped stalk of celery, a handful of cilantro or parsley stems (if I have them), and some salt; cover it all generously with cold water; bring it to a simmer; put it in a 200- or 225-degree oven overnight, and then I strain it, let it cool, and stash it in the freezer. But when I’m not so spectacularly on top of things, <a href="http://www.superiortouch.com/retail/products/better-than-bouillon/organic-bases/38/organic-chicken-base" target="_blank">Better Than Bouillon</a> is quite tasty.</p>
+<p>Oh, and I think this soup would be wonderful served with a slice of garlic-rubbed, olive-oiled toast at the bottom of the bowl, to soak up broth and get silky.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 ounces (85 grams) rustic, country-style bread          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup (60 ml) whole milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            18 ounces (540 grams) ground chicken or turkey          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 sprigs Italian parsley, leaves finely chopped and stems discarded          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 sprigs marjoram, leaves finely chopped and stems discarded          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Black pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 ½ quarts (scant 2 ½ liters) chicken stock          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            12 ounces (340 grams) fresh or frozen peas          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Grana Padano or Parmesan, for grating          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Cut the crusts off the bread. Cut the bread into roughly ½-inch cubes, and put it into a large bowl. Add the milk, toss to coat, and leave to soak for about 20 minutes. Then squish the bread into a mush, and add the ground chicken. Add 1 tablespoon each of the chopped parsley and marjoram, a few grinds of black pepper, and a couple of very generous pinches of salt. (If you’re using table salt or fine sea salt, about 1 teaspoon should be right.) Mix with a fork, or with your hand, until evenly combined. (If you’re unsure of the seasoning, at this point you can fry off a little bit of the meat mixture and taste for salt.) With damp hands, form the meat into 1-inch balls. You should get approximately 25. Chill the meatballs for 30 minutes before cooking.</p>
+<p>Bring the chicken stock to a simmer in a wide pot, such as a Dutch oven. (This is a good time to taste the stock for seasoning.) Gently drop the meatballs into the simmering stock, and cook for 5 minutes. You’re looking for their internal temperature to reach 165 degrees. Remove the meatballs from the stock, and set aside. If the broth is cloudy, you can strain it, or just continue on. You can now go one of two ways:</p>
+<p>1. If you plan to serve the soup immediately, add the peas to the simmering stock, and cook until tender, about 5 minutes. Return the meatballs to the pot, and stir in the remaining chopped herbs. Serve with freshly grated Grana Padano or Parmesan.</p>
+<p>2. If you plan to eat the soup later, chill the meatballs and the stock separately. When you’re ready to eat, bring the broth back to a simmer, add the meatballs and peas, and cook until everything is warm and the peas are tender, maybe 5 minutes. Stir in the remaining chopped herbs. Serve with freshly grated Grana Padano or Parmesan.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 6 servings</p>
+  </section>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+  </div>
+  <footer class="post-meta">
+    <nav class="post-utility-nav">
+  <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=Right%20now&url=https%3A%2F%2Forangette.net%2F2014%2F06%2Fright-now%2F" onclick="window.open(this.href, 'twitter-share', 'width=550,height=285'); return false;" title="Twitter"></a>
+          <a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Forangette.net%2F2014%2F06%2Fright-now%2F&t=Right%20now" onclick="window.open(this.href, 'facebook-share', 'width=580,height=300'); return false;" title="Facebook"></a>
+          <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Forangette.net%2F2014%2F06%2Fright-now%2F&media=https%3A%2F%2Forangette.net%2Fwp-content%2Fuploads%2F2015%2F09%2F0b4e3-_f7a2918-21.jpg&description=Right%20now" data-pin-custom="true" title="Pinterest"></a></nav>
+              <div class="tag-list">
+        <h4 class="label">Filed under:</h4>
+        <ul>
+                        <li><a href="https://orangette.net/ingredient/chicken/">chicken</a></li>
+                        <li><a href="https://orangette.net/tag/feeding-a-kid/">feeding a kid</a></li>
+                        <li><a href="https://orangette.net/tag/meatballs/">meatballs</a></li>
+                        <li><a href="https://orangette.net/ingredient/parsley/">parsley</a></li>
+                        <li><a href="https://orangette.net/ingredient/peas/">peas</a></li>
+                        <li><a href="https://orangette.net/ingredient/turkey/">turkey</a></li>
+                  </ul>
+      </div>
+              <nav class="navigation post-navigation left-nav" role="navigation">
+        <div class="left"><a href="https://orangette.net/2014/06/june-1/" rel="prev">June 1</a></div>        <div class="right"><a href="https://orangette.net/2014/06/run-with-it/" rel="next">Run with it</a></div>      </nav>
+      
+<section id="comments" class="comment-area">
+      <h2 class="comment-area--title">Comments</h2>
+
+    <ol class="comment-area--list">
+        <li id="comment-42789" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/03735806544753207676" class="url" rel="ugc external nofollow">indigo</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42789"><time class="comment-time" datetime="2014-06-09T06:28:46-04:00">Monday, June 9, 2014 at 6:28 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Wait! You make chicken broth in the oven???!!! Why? And why have I never heard of this before? Please explain&#8230; my head just exploded!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42789' data-commentid="42789" data-postid="144" data-belowelement="comment-42789" data-respondelement="respond" data-replyto="Reply to indigo" aria-label='Reply to indigo'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42790" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.wanderingeducators.com" class="url" rel="ugc external nofollow">Jessie Voigts</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42790"><time class="comment-time" datetime="2014-06-09T17:21:10-04:00">Monday, June 9, 2014 at 5:21 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>First, that photo? That is pure joy of a well-fed child. LOVE it! Secondly, thank you! I&#39;ve got ground chicken in the fridge and this is perfect.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42790' data-commentid="42790" data-postid="144" data-belowelement="comment-42790" data-respondelement="respond" data-replyto="Reply to Jessie Voigts" aria-label='Reply to Jessie Voigts'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42791" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://marilynmcclellan.com" class="url" rel="ugc external nofollow">Marilyn</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42791"><time class="comment-time" datetime="2014-06-09T17:45:13-04:00">Monday, June 9, 2014 at 5:45 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Can we get you up to Bellingham with your new book? (You can also bring June).</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42791' data-commentid="42791" data-postid="144" data-belowelement="comment-42791" data-respondelement="respond" data-replyto="Reply to Marilyn" aria-label='Reply to Marilyn'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42792" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11817500030357635537" class="url" rel="ugc external nofollow">jbeach</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42792"><time class="comment-time" datetime="2014-06-09T19:44:33-04:00">Monday, June 9, 2014 at 7:44 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Yes!! Need more good toddler meals in my life- those that are adult meals too. I know to feed them what I feed myself, but it&#39;s trickier than that! My 1-yr old has but 4 front teeth and my almost 3-yr old is&#8230; well, it depends on the night. Thank you&#39;!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42792' data-commentid="42792" data-postid="144" data-belowelement="comment-42792" data-respondelement="respond" data-replyto="Reply to jbeach" aria-label='Reply to jbeach'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42793" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.caretakerskitchen.com" class="url" rel="ugc external nofollow">Jessica @ www.caretakerskitchen.com</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42793"><time class="comment-time" datetime="2014-06-09T19:59:49-04:00">Monday, June 9, 2014 at 7:59 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I will say my poached-food repertoire is lacking, but this recipe should help. My little one is at the awkward stage of sort of being able to eat table food, yet demanding certain things be pureed or spoon fed. We&#39;ll give this one a go!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42793' data-commentid="42793" data-postid="144" data-belowelement="comment-42793" data-respondelement="respond" data-replyto="Reply to Jessica @ www.caretakerskitchen.com" aria-label='Reply to Jessica @ www.caretakerskitchen.com'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42794" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14554401989491059460" class="url" rel="ugc external nofollow">Surly Steve</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42794"><time class="comment-time" datetime="2014-06-09T23:11:21-04:00">Monday, June 9, 2014 at 11:11 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>June appears to love that soup as much as I love your blog and podcast.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42794' data-commentid="42794" data-postid="144" data-belowelement="comment-42794" data-respondelement="respond" data-replyto="Reply to Surly Steve" aria-label='Reply to Surly Steve'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42795" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/10098444815480229538" class="url" rel="ugc external nofollow">Ariel</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42795"><time class="comment-time" datetime="2014-06-09T23:16:53-04:00">Monday, June 9, 2014 at 11:16 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>If you ever feel like sharing, a list of the other cookbooks that are piling up on top of your fridge would be fun to hear about. Or, the ones that are on your bedside table/reader. Always looking for good recommendations from those bloggers on my &#8220;short list!&#8221; (And yes, <i>Delancey</i> and <i>A Homemade Life</i> have already made the reading list!)</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42795' data-commentid="42795" data-postid="144" data-belowelement="comment-42795" data-respondelement="respond" data-replyto="Reply to Ariel" aria-label='Reply to Ariel'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42796" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.judithelkins.com" class="url" rel="ugc external nofollow">Judith Elkins</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42796"><time class="comment-time" datetime="2014-06-10T00:27:58-04:00">Tuesday, June 10, 2014 at 12:27 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>oh yeah, that sounds like my kind of zuppe! Thank you.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42796' data-commentid="42796" data-postid="144" data-belowelement="comment-42796" data-respondelement="respond" data-replyto="Reply to Judith Elkins" aria-label='Reply to Judith Elkins'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42797" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.blueeggkitchen.com" class="url" rel="ugc external nofollow">Erin</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42797"><time class="comment-time" datetime="2014-06-10T01:19:48-04:00">Tuesday, June 10, 2014 at 1:19 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I find it quite serendipitous that I (1) have every ingredient in this recipe, (2) have had nothing more than carrot sticks, cream cheese, and nuts for lunch lately, and (3) love meatballs.  I will be making this tomorrow.  My daughter and I thank you.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42797' data-commentid="42797" data-postid="144" data-belowelement="comment-42797" data-respondelement="respond" data-replyto="Reply to Erin" aria-label='Reply to Erin'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42798" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42798"><time class="comment-time" datetime="2014-06-10T02:21:24-04:00">Tuesday, June 10, 2014 at 2:21 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>You should try Martha Stewarts Escarole and meatball soup  when escarole is in season &#8212; it&#39;s a soup that I dream about.  For some reason it&#39;s not as good after it sits in the fridge &#8212; maybe I should store the meatballs separately like you suggested.  The meatballs are beef and pork with currants and oregano.  The chicken  broth <br />has a crushed red pepper and kidney beans in it along with the escarole and she browns the meatballs before putting in the broth.  I guess it&#39;s my favorite soup, but must try yours &#8212; it sounds wonderful too and much simpler to make.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42798' data-commentid="42798" data-postid="144" data-belowelement="comment-42798" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42799" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/09048586541800912744" class="url" rel="ugc external nofollow">Annie Fenn</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42799"><time class="comment-time" datetime="2014-06-10T04:47:33-04:00">Tuesday, June 10, 2014 at 4:47 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I have the Rome Sustainable Food Project book devoted to Biscotti and the Verdura and both have a special place on my shelf. I think my teenage boys would love this soup as much as June does!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42799' data-commentid="42799" data-postid="144" data-belowelement="comment-42799" data-respondelement="respond" data-replyto="Reply to Annie Fenn" aria-label='Reply to Annie Fenn'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42800" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Christine</cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42800"><time class="comment-time" datetime="2014-06-10T05:45:52-04:00">Tuesday, June 10, 2014 at 5:45 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Your reading at Powell&#39;s was really wonderful. You helped make my day. Cheers!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42800' data-commentid="42800" data-postid="144" data-belowelement="comment-42800" data-respondelement="respond" data-replyto="Reply to Christine" aria-label='Reply to Christine'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42801" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/02984570811719779893" class="url" rel="ugc external nofollow">Marian Feuerhammer</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42801"><time class="comment-time" datetime="2014-06-10T11:26:42-04:00">Tuesday, June 10, 2014 at 11:26 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hi Molly, I made this recipe for dinner last night and my family loved it.  The flavors blended beautifully and it was a very satisfying meal.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42801' data-commentid="42801" data-postid="144" data-belowelement="comment-42801" data-respondelement="respond" data-replyto="Reply to Marian Feuerhammer" aria-label='Reply to Marian Feuerhammer'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42802" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://dulldiamond.com" class="url" rel="ugc external nofollow">emily</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42802"><time class="comment-time" datetime="2014-06-10T13:30:34-04:00">Tuesday, June 10, 2014 at 1:30 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>molly,<br />i&#39;m so happy you posted this &#8211; i met and spent time with mona in rome a few years ago and ate her delicious food at the american academy. she was working on this book at the time and i put a note in my brain to go get it when it came out. i never did! off to the bookstore&#8230;<br />xx / emily<br />ps. hope you the rest of your book tour is going well. it was such a pleasure to hang out when you were in minneapolis.  </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42802' data-commentid="42802" data-postid="144" data-belowelement="comment-42802" data-respondelement="respond" data-replyto="Reply to emily" aria-label='Reply to emily'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42803" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.cookwith2chicks.com" class="url" rel="ugc external nofollow">Carlinne @Cook with 2 Chicks</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42803"><time class="comment-time" datetime="2014-06-10T14:21:41-04:00">Tuesday, June 10, 2014 at 2:21 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>This is my kind of soup! Simple and delicious 🙂</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42803' data-commentid="42803" data-postid="144" data-belowelement="comment-42803" data-respondelement="respond" data-replyto="Reply to Carlinne @Cook with 2 Chicks" aria-label='Reply to Carlinne @Cook with 2 Chicks'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42804" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05099510427254627261" class="url" rel="ugc external nofollow">Odette Cressler</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42804"><time class="comment-time" datetime="2014-06-10T19:22:14-04:00">Tuesday, June 10, 2014 at 7:22 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hi Molly!</p>
+<p>I just finished reading Delancey and I just wanted to tell you how much it moved me. </p>
+<p>I am not a blogger but I have been working in the restaurant industry for about 5 years and it&#39;s something that I am passionate about.</p>
+<p>I, as well, have been looking for that balance in the industry as I am a soon to be mom and don&#39;t believe that all of us in the industry are viceful and crazy&#8230; as much as I loved Bourdain&#39;s book :D. So I could relate to so much happening in the book. </p>
+<p>As a soon to be mom I am worried of my personal future as much as my baby girl excites me&#8230; I know I will miss the restaurant industry and my ultimate dream is to one day open a restaurant of my own. Visiting Delancey is now on my list. I couldn&#39;t stop talking about the book with my husband, telling him about how some people just don&#39;t care that much about pizza (like that chapter where you talk about Brandon&#39;s date not being very into the pizza and this totally turned him off haha)&#8230; </p>
+<p>It&#39;s just so nice and comforting to read that I am not alone and that other people get vulnerable sometimes too so I really appreciate all your honesty and throughout in the book. </p>
+<p>Didn&#39;t know where else I could reach out to you so I am sorry about the long comment!! </p>
+<p>Greetings from San Diego!</p>
+<p>Odette.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42804' data-commentid="42804" data-postid="144" data-belowelement="comment-42804" data-respondelement="respond" data-replyto="Reply to Odette Cressler" aria-label='Reply to Odette Cressler'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42805" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Lisa</cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42805"><time class="comment-time" datetime="2014-06-10T21:18:36-04:00">Tuesday, June 10, 2014 at 9:18 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Super!  I&#39;ve been waiting for this since the June 1 post.  Thanks!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42805' data-commentid="42805" data-postid="144" data-belowelement="comment-42805" data-respondelement="respond" data-replyto="Reply to Lisa" aria-label='Reply to Lisa'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42806" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://shesinthekitchen.blogspot.com" class="url" rel="ugc external nofollow">katrina</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42806"><time class="comment-time" datetime="2014-06-10T21:34:42-04:00">Tuesday, June 10, 2014 at 9:34 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>This looks delicious!   Actually, I have one &#8220;poached meatball&#8221; recipe I&#39;ve been using for years with ground turkey, herbs, and sweet green briefly cooked cabbage &#8211; children love it!  This one looks even better.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42806' data-commentid="42806" data-postid="144" data-belowelement="comment-42806" data-respondelement="respond" data-replyto="Reply to katrina" aria-label='Reply to katrina'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42807" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Karen H.</cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42807"><time class="comment-time" datetime="2014-06-11T03:15:01-04:00">Wednesday, June 11, 2014 at 3:15 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I bought Delancy  from you at Real Good Food at 3:30 and finished it by 9 pm! I kept exclaiming to my husband &#8220;We have to go to Apizza Scholls! We have to go to Ken&#39;s Artisan Pizza!&#8221; And of course, &#8220;We have to go to Delancy!&#8221;  I so enjoy your transparency as you share Brandon and your story.  It was a pleasure to meet you (and June as the wind blew through her hair and she tried to nibble on your leg!) and see that you are just as real and lovely in person as I thought you would be.  May God continue to bless you and your family on this journey of life together!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42807' data-commentid="42807" data-postid="144" data-belowelement="comment-42807" data-respondelement="respond" data-replyto="Reply to Karen H." aria-label='Reply to Karen H.'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42808" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15709733156938824661" class="url" rel="ugc external nofollow">Deanna</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42808"><time class="comment-time" datetime="2014-06-12T02:52:51-04:00">Thursday, June 12, 2014 at 2:52 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I just &#8220;devoured&#8221; your book. I read it in a matter of hours. I have followed your blog, read your first book and anxiously awaited Delancey. I was not disappointed!  I am an avid home cook &#038; found myself thrust in the restaurant world &#038; assumed since I was loved to cook, I would love being the GM of a restaurant with very similar sensibilities to that of Delancey. I couldn&#39;t have been more wrong. I can&#39;t tell you how many tears I shed for the year I plodded along in such a foreign land. Thanks for sharing your story. It was a wonderful book and I will be sharing it with many of my friends. </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42808' data-commentid="42808" data-postid="144" data-belowelement="comment-42808" data-respondelement="respond" data-replyto="Reply to Deanna" aria-label='Reply to Deanna'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42809" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.sabziblog.com" class="url" rel="ugc external nofollow">Sara</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42809"><time class="comment-time" datetime="2014-06-12T15:59:41-04:00">Thursday, June 12, 2014 at 3:59 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>You really have a way with meatballs! This looks great.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42809' data-commentid="42809" data-postid="144" data-belowelement="comment-42809" data-respondelement="respond" data-replyto="Reply to Sara" aria-label='Reply to Sara'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42810" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17873112978518614362" class="url" rel="ugc external nofollow">Rocky Mountain Woman</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42810"><time class="comment-time" datetime="2014-06-13T18:53:20-04:00">Friday, June 13, 2014 at 6:53 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>that looks wonderful! my grandkids would like this &#8211; i&#39;ll give it a try&#8230;</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42810' data-commentid="42810" data-postid="144" data-belowelement="comment-42810" data-respondelement="respond" data-replyto="Reply to Rocky Mountain Woman" aria-label='Reply to Rocky Mountain Woman'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42811" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">gwyn</cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42811"><time class="comment-time" datetime="2014-06-14T16:27:52-04:00">Saturday, June 14, 2014 at 4:27 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>perfect recipe for today here in seattle.  spring clouds, maybe a shower, and pillowy meatballs in yummy light broth.  you just made my weekend.  one question&#8211;do you cover the pot when you put the broth in the oven overnight???  thanks!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42811' data-commentid="42811" data-postid="144" data-belowelement="comment-42811" data-respondelement="respond" data-replyto="Reply to gwyn" aria-label='Reply to gwyn'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42812" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42812"><time class="comment-time" datetime="2014-06-15T03:24:36-04:00">Sunday, June 15, 2014 at 3:24 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I loved your book and ordered We Are Called to Rise after your blog post this Spring. It&#39;s a wonderful novel &#8211; thank you so much for recommending it. </p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42812' data-commentid="42812" data-postid="144" data-belowelement="comment-42812" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42813" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08269617590521412393" class="url" rel="ugc external nofollow">Denise Parsons</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42813"><time class="comment-time" datetime="2014-06-16T01:15:05-04:00">Monday, June 16, 2014 at 1:15 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Yum!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42813' data-commentid="42813" data-postid="144" data-belowelement="comment-42813" data-respondelement="respond" data-replyto="Reply to Denise Parsons" aria-label='Reply to Denise Parsons'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42814" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.karenlizzie.ca" class="url" rel="ugc external nofollow">Karen</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42814"><time class="comment-time" datetime="2014-06-19T20:25:17-04:00">Thursday, June 19, 2014 at 8:25 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Based on the picture included with this post, I have to ask&#8230; does June insist on holding the utensil in one hand while eating everything with her fingers?</p>
+<p>My toddler does it, and not only does it save us from having to wash that utensil but it is also just about the cutest thing. 🙂</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42814' data-commentid="42814" data-postid="144" data-belowelement="comment-42814" data-respondelement="respond" data-replyto="Reply to Karen" aria-label='Reply to Karen'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42815" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42815"><time class="comment-time" datetime="2014-06-20T02:08:22-04:00">Friday, June 20, 2014 at 2:08 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Gwyn, nope, I don&#39;t cover the pot!</p>
+<p>And Karen, she sort of goes back and forth.  She starts with the utensil, then uses her fingers, then drops the utensil completely, then wants to hold it again, and on and on and on!  You know how it goes.</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42815' data-commentid="42815" data-postid="144" data-belowelement="comment-42815" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42816" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00695040133815106218" class="url" rel="ugc external nofollow">Paulette</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42816"><time class="comment-time" datetime="2014-06-22T12:05:36-04:00">Sunday, June 22, 2014 at 12:05 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Congratulations, Molly, on your book! I just finished reading it an loved how you shared your story. Beautifully written! I also really enjoy following your blog &#8211; please keep sharing!<br /> &#8211; Paulette</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42816' data-commentid="42816" data-postid="144" data-belowelement="comment-42816" data-respondelement="respond" data-replyto="Reply to Paulette" aria-label='Reply to Paulette'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42817" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://me.yahoo.com/a/PxcyLD5.luE7FPK0wXbG_oNVHw--" class="url" rel="ugc external nofollow">Beth</a></cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42817"><time class="comment-time" datetime="2014-07-22T21:50:53-04:00">Tuesday, July 22, 2014 at 9:50 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Always do our stock in a crock pot &#8211; the big oval holds sometimes 2 chicken carcasses depending on their size. Overnight on low for 12 or so hours makes one realize crock pot rhymes with stock pot!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42817' data-commentid="42817" data-postid="144" data-belowelement="comment-42817" data-respondelement="respond" data-replyto="Reply to Beth" aria-label='Reply to Beth'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-42818" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Sara</cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-42818"><time class="comment-time" datetime="2015-05-06T16:45:38-04:00">Wednesday, May 6, 2015 at 4:45 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I keep returning again and again to this recipe and wondering how this would do with some cooked orzo. Brothy soups make me happy, but I need something more filling for a whole meal. Thanks for the idea!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-42818' data-commentid="42818" data-postid="144" data-belowelement="comment-42818" data-respondelement="respond" data-replyto="Reply to Sara" aria-label='Reply to Sara'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+  <li id="comment-44616" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Melanie G</cite></div>
+      <a href="https://orangette.net/2014/06/right-now/#comment-44616"><time class="comment-time" datetime="2015-12-24T08:21:43-05:00">Thursday, December 24, 2015 at 8:21 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I&#8217;m new here and have been reading through your archived posts. I have a 10 month old who is just exploring and expanding her food world, and I&#8217;ve loved reading about your food philosophy with June! </p>
+<p>I made this recipe earlier this week and it was a huge hit for all of us. I make our sandwich bread and regularly pulvarize a piece at the end of the loaf for breadcrumbs, and add them to a jar in the freezer. So I used 3oz if those instead of straight up bread and it worked really well. I realized while we were eating the meatballs that there must have been a bit of whole wheat rye bread in the mix &#8211; it added a different and lovely dimension! </p>
+<p>I&#8217;ll definitely be making this again. Thanks for sharing your life with us!</p>
+    </div>
+
+    <div class="reply">
+      <a rel='nofollow' class='comment-reply-link' href='#comment-44616' data-commentid="44616" data-postid="144" data-belowelement="comment-44616" data-respondelement="respond" data-replyto="Reply to Melanie G" aria-label='Reply to Melanie G'>Reply</a>    </div>
+  </li><!-- #comment-## -->
+    </ol>
+
+      
+  
+  	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/06/right-now/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
+<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='144' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="c82bbc57ee" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="56"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	</section>
+      </footer>
+</article>
+        </main><!-- /.main -->
+                  <aside class="content-right">
+            <header class="right-header">
+  <a href="https://orangette.net/about/">
+    <h2 class="title">hellooooo</h2>
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+  </a>
+</header>
+<nav class="right-nav">
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div>  <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+</nav>
+<div class="right-section">
+  <h3 class="right-heading">
+    <a href="https://orangette.net/books/">My Books</a>
+  </h3>
+  <div class="right-diptych">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+      </a>
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+      </a>
+      </div>
+  <div class="right-image-link">
+    <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+    </a>
+  </div>
+</div>
+<div class="right-section bordered">
+  <h4 class="right-subheading">Featured Posts</h4>
+  <ul class="right-post-list">
+          <li>
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
+          <div class="thumb">
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">April 7, 2014</div>
+            <h5 class="title">That word is eat</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">March 23, 2015</div>
+            <h5 class="title">The bean doctor</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">July 23, 2015</div>
+            <h5 class="title">We&#8217;ll go from left to right</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2014/01/in-it-together/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">January 16, 2014</div>
+            <h5 class="title">In it together</h5>
+          </div>
+        </a>
+      </li>
+      </ul>
+</div>
+<div class="right-section tall right-podcast">
+  <h3 class="right-heading">
+    <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
+  </h3>
+  <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+  </a>
+</div>
+<div class="right-section">
+  <h4 class="right-subheading alt">
+    <a href="https://orangette.net/links/">Links of Note</a>
+  </h4>
+  <ul class="right-link-list">
+    <li><a href="http://www.bonappetit.com/magazine/2009/01/molly_wizenberg" rel="noopener" target="_blank">“Cooking Life,” my column in Bon Appétit (2008-2011)</a></li>
+<li><a href="http://everybodylikessandwiches.com/">Everybody Likes Sandwiches</a></li>
+<li><a href="http://www.101cookbooks.com/" rel="noopener" target="_blank">101 Cookbooks</a></li>
+<li><a href="http://3191milesapart.com/">3191</a></li>
+<li><a href="http://www.kitchen-repertoire.com/" rel="noopener" target="_blank">Kitchen Repertoire</a></li>
+<li><a href="http://www.smittenkitchen.com/">Smitten Kitchen</a></li>
+<li><a href="http://dressingfordinner.blogspot.com/">Dressing for dinner</a></li>
+<li><a href="http://www.kerismith.com/blog/">Keri Smith</a></li>
+<li><a href="http://www.rootsandgrubs.com/">Roots and Grubs</a></li>
+<li><a href="http://bferry.wordpress.com/">the blue hour</a></li>
+<li><a href="http://www.chocolateandzucchini.com/">Chocolate &amp; Zucchini</a></li>
+<li><a href="http://www.36words.typepad.com/">habit</a></li>
+<li><a href="http://curiousbird.typepad.com/">Curious Bird</a></li>
+<li><a href="http://www.unruly-things.com/">unruly things</a></li>
+<li><a href="http://lookimadethat.com/">i made that</a></li>
+  </ul>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
+</div>
+          </aside><!-- /.sidebar -->
+                <div class="search-overlay" data-class="search-overlay">
+          <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+          <div class="overlay--close" data-behavior="close-search"></div>
+        </div>
+      </div><!-- /.page-content -->
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+  </a>
+  <div class="footer-content">
+    <nav class="footer-nav" role="navigation">
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div>    </nav>
+    <nav class="footer-utility-nav">
+      <div class="menu-social-links-container"><ul id="menu-social-links" class=""><li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a href="https://twitter.com/mollyorangette">Twitter</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2518"><a href="https://www.facebook.com/molly.wizenberg">Facebook</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2519"><a href="https://www.instagram.com/mollyorangette/">Instagram</a></li>
+</ul></div>    </nav>
+  </div>
+  <p class="copyright">&copy; 2023 Orangette</p>
+  <p class="credit"><a href="http://madebyneversink.com">Made by Neversink</a></p>
+</footer>
+      <div class="nav-overlay" data-behavior="close-nav"></div>
+      <button class="elevator" data-behavior="jettison">Back to top</button>
+    </div><!-- /.container -->
+    <script type='text/javascript' src='https://orangette.net/wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+  </body>
+</html>

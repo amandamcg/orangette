@@ -1,0 +1,85 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Your efforts will be rewarded</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Kimchi Fried Rice</h2>
+    <h3 class="subtitle">Adapted from Kye Soon Hong, Matthew Amster-Burton, and <a href="http://www.spilledmilkpodcast.com/">Spilled Milk</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-05-30T03:34:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I pick up kimchi whenever I’m near a Korean market or Uwajimaya, but Ballard Market, my neighborhood grocery store, also carries it. They sell a couple of different brands, but I usually buy Island Spring. It’s made about half an hour away, on Vashon Island, and it has good flavor and heat. Matthew, however, makes his own kimchi, and it’s fantastic. Maybe he’ll teach me how someday. David Lebovitz also has <a href="http://www.davidlebovitz.com/2008/02/a-kimchi-recipe/">a recipe for it</a>.</p>
+<p>As for rice, the best type for this recipe is Calrose, a medium-grain, Japanese-style white rice from California. But I’ve also used Thai jasmine rice, which is nice &#8211; though when you fry it, it tends to stick aggressively to the pan. Whatever you use, cook it a day or two ahead, cool it, and chill it. If possible, allow it to come to room temperature before frying.</p>
+<p>About the pan: if you have a well-seasoned wok, use it. Or, if you’re stuck with just a heavy skillet and an electric range, as I am, that’s okay. I use my largest cast-iron pan. It’s nicely seasoned, but the rice still sticks a bit. It’s annoying, but not annoying enough to keep me from making fried rice. (Just put some hot water in the pan when you’re finished, soak briefly, and the stuck rice will come right out.) One word of warning: I wouldn’t use a nonstick pan. The coating isn’t safe for use over high heat.</p>
+<p>Oh, and if I were you, I might fry two eggs per person. But it’s really up to you.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            4 strips bacon, cut crosswise into ½-inch pieces          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups Napa cabbage kimchi (see above), diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 cups cooked rice (see above)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. unsalted butter, plus more for frying eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. sesame oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Sesame seeds, for garnish          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Sliced scallions or sweet spring onions, for garnish          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Eggs, for frying          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Put the bacon in a large skillet or wok, and place over medium heat. (I find that by starting the bacon in a cold skillet, I can get it to render more fat than it does when I start it in a hot skillet, and that’s helpful for this recipe.) Cook, stirring occasionally, until the bacon is cooked through but still tender. Add the kimchi, and cook for several minutes, until the kimchi is hot and maybe even beginning to brown in spots.</p>
+<p>When the kimchi looks right, raise the heat to high, and add the rice, stirring well. Cook, stirring occasionally, for several minutes, until the rice is hot and beginning to brown. (If the rice is wanting to stick to the pan, it’s going to be hard to brown it properly, but don’t worry. Just make sure it’s nice and hot. It’ll still taste very good.)</p>
+<p>Meanwhile, in another skillet, warm some butter and fry as many eggs as you’d like, seasoning with salt to taste.</p>
+<p>When the rice is ready, stir in the butter and sesame oil, and season with salt to taste. Divide between two or three bowls, and top each with a fried egg or two. Garnish with sesame seeds and scallions.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 2 generous or 3 moderate servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

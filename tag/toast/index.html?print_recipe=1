@@ -1,0 +1,85 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>It is called toast</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Oatmeal Sandwich Bread</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FGood-Grain-Baking-Whole-Grain-Flours%2Fdp%2F1584798300&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><span style="font-style: italic;">Good to the Grain</span></a>, by Kim Boyce with Amy Scattergood</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-08-06T07:30:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I’ve noticed that some reviews of this book complain that it calls for ingredients using only volume measures, not weight measures. I don’t find that to be a deal-breaker, but it is important to measure the ingredients correctly, particularly the flours. Before you scoop any flour out of the container, take a spoon and stir the flour, lifting and loosening it. (It tends to get packed down, and you don’t want to measure packed flour.) Now, to measure, spoon the flour into your measuring cup until it heaps above the rim. Then sweep the back of a dinner knife, or any other straight utensil, across the top to level it, letting the excess flour fall back into the container.</p>
+<p>This recipe is made for a standard-size loaf pan, one that measures about 9 by 5 by 3 inches. But mine is on loan to Delancey, so I’ve been using a different pan, one that I picked up at a thrift shop a couple of years ago. It measures 10 by 3 ¾ by 3 inches, and I love the long, skinny loaf it makes.</p>
+<p>One last thing: the original version of this recipe calls for 1 tablespoon of kosher salt. That sounds like a lot, but kosher salt isn’t very salty, and I found the bread a little bland. Instead, I now use table salt, and I like the result when I use 2 ¼ teaspoons.</p>
+<p>Oh, and this bread is also good for sandwiches, as you might have guessed from its title.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 package (2 ¼ tsp.) active dry yeast          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 Tbsp. unsulphured (not blackstrap) molasses          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 ½ cups whole wheat flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups bread flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup rolled oats          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 Tbsp. unsalted butter, melted and cooled slightly          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 ¼ tsp. table salt, or to taste          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Grease a large bowl and a loaf pan (see above) with butter or cooking spray.</p>
+<p>In the bowl of a stand mixer, combine 2 cups warm water, the yeast, and molasses. Stir briefly, and then allow the yeast to bloom for about 5 minutes. Add the flours, oats, and butter, and stir to mix. The dough will look rough and shaggy. Cover with a towel, and let stand for 30 minutes. [This rest allows the dry ingredients to absorb the liquids, making for a dough that’s easy to work with and even-crumbed.]</p>
+<p>Attach the bowl and the bread hook to the mixer. Add the salt, and mix on medium speed for 6 minutes. The dough should come together around the hook and slap around the sides of the bowl without sticking. If the dough is sticking, add a tablespoon or two of bread flour, sprinkling it down between the dough and the sides of the bowl. [Alternatively, you can knead by hand for about 15 minutes, adding flour as needed.] The dough should be soft and supple and slightly sticky.</p>
+<p>For the first rise, scrape the dough onto a lightly floured work surface and knead it a few times. Put the dough into the greased bowl, cover with a towel, and leave it to rise for about 1 hour, or until it is doubled in size. To see if it’s ready, gently push a floured finger into it. If the dough springs back, it needs more time; if the dimple remains, it’s ready for the next step.</p>
+<p>To shape the dough, scrape it onto a floured work surface. Press down on it, working it into a square shape, taking care to depress any bubbles. Fold the dough down from the top to the middle, then up from the bottom to the middle. Next, bring the newly formed top and bottom edges together, pinching the seam to seal. Pinch the sides together, and roll the shaped dough back and forth, plumping it so that it’s evenly formed and about the size of your pan. Place the dough in the pan with the seam side down, and press it gently into the corners of the pan.</p>
+<p>For the second rise, cover the dough with a towel, and let it rest in a warm place for about 1 hour, or until the dough rises to half again its size. While the dough is rising, preheat the oven to 400°F.</p>
+<p>When the dough has finished its second rise, bake for about 40 minutes, rotating the pan halfway through. The loaf is ready when the top crust and bottom crusts are nicely browned. [Boyce says that the top crust should be the color of molasses, but mine never gets that dark.] To see if the bread is ready, give the top of the loaf a thump with your hand. If it sounds hollow, it’s ready; if not, give it another few minutes in the oven. Remove the finished loaf from the pan and cool completely on a wire rack. Resist the urge to cut in until it’s fully cooled, so that the crumb has time to set and the flavor can develop.</p>
+<p>Note: This bread keeps beautifully at room temperature. I keep mine in a plastic grocery bag, tied shut, and I set it on the counter with the cut side down. It stays good that way for 4 or 5 days, easy.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 1 loaf</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

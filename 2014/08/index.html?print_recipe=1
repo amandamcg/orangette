@@ -1,0 +1,73 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>And: FUDGESICLES</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Fudgesicles</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.foodnetwork.com/recipes/alton-brown/good-eats-fudgepops-recipe.html" target="_blank">Alton Brown</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-08-29T04:16:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>You will note that there’s no sugar in this recipe, which means that you need to be thoughtful about the chocolate you use, because that’s what will bring sweetness. Brown calls only for &#8220;bittersweet chocolate,&#8221; but when I tried using 70% cacao chocolate, which I think of as a pretty standard percentage for bittersweet, it made for a <i>very</i> bittersweet popsicle. More bitter than sweet. Brandon loved it, and June ate it, but it wasn’t really my thing. I like to combine two types of chocolate for this recipe: Valrhona “<a href="http://www.valrhona-chocolate.com/shop/Jivara-40-10978.html" target="_blank">Jivara</a>” 40% milk chocolate, and Valrhona “<a href="http://www.valrhona-chocolate.com/shop/Manjari-64-10976.html" target="_blank">Manjari</a>” 64% dark chocolate. I use four ounces, or 113 grams, of each. (Yes, they are wildly expensive! I know. We buy them in 3-kg bags at the restaurant, and I regularly steal some for my home use. I am a lucky bastard.) If you don’t want to shell out like that, Scharffen Berger also has a good <a href="http://shop.scharffenberger.com/41-Milk-Chocolate-Bar/p/SFB-CBMILK&amp;c=ScharffenBerger@Chocolate@Milk" target="_blank">41% milk chocolate</a>, and my guess is that it would blend nicely here with either the <a href="http://shop.scharffenberger.com/62-Semisweet-Chocolate-Bar/p/SFB-CBSEMI&amp;c=ScharffenBerger@Chocolate@Dark" target="_blank">62% semisweet</a> or the <a href="http://shop.scharffenberger.com/70-Bittersweet-Chocolate-Bar/p/SFB-CBBITTER&amp;c=ScharffenBerger@Chocolate@Dark" target="_blank">70% bittersweet</a>. Whatever chocolate you choose, I wouldn’t recommend going above 64%, at the highest.</p>
+<p>And as for popsicle molds, I use <a href="http://coldmolds.com/index.php/pop-molds/product/41-cmp4210" target="_blank">these</a>.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            8 ounces (225 grams) chocolate, ideally between 45% and 65% cacao          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups (355 ml) heavy cream          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (240 ml) whole milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tablespoons (about 11 grams) unsweetened cocoa          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons vanilla extract          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Finely chop the chocolate, and put it in a medium bowl. (If you have a bowl with a pour spout, use that! Perfect.)</p>
+<p>In a medium (2- to 3-quart) saucepan, combine the cream, milk, and cocoa. Whisk well to dissolve the cocoa, and bring just to a simmer, whisking frequently. Remove from the heat, let sit for a few seconds, and then pour it over the chocolate. Let stand undisturbed for 2 or 3 minutes; then whisk to combine well. Whisk in the vanilla extract. Divide between popsicle molds, and freeze until hard.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 8 to 10 popsicles, depending on the size of your molds.</p>
+  </section>
+                  <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

@@ -1,0 +1,101 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>November 6</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Applesauce Cake with Caramel Glaze</h2>
+    <h3 class="subtitle">Adapted from <a href="https://food52.com/recipes/8646-applesauce-cake-with-caramel-glaze" target="_blank">Merrill Stubbs and Food52</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2015-11-06T18:22:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2015/11/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>If you have only light brown sugar in the house, by all means, use it.  But having made the cake both ways, with light brown sugar and with dark brown sugar, I prefer it with dark. The flavor is fuller, with a different depth.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For the cake:</h3>                  <div class="ingredient" itemprop="ingredients">
+            2 cups (280 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ teaspoons baking soda          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ teaspoon finely ground black pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons ground cinnamon          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon ground ginger          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ teaspoon freshly grated nutmeg          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (200 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (90 grams) dark brown sugar or muscovado sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups (360 grams) unsweetened applesauce (though the tiny amount of sweetener in <a href="http://orangette.net/2014/04/that-word-is-eat/" target="_blank">this applesauce</a> is fine)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup (160 ml) vegetable oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon vanilla extract          </div>
+                      <h3>For the glaze:</h3>                  <div class="ingredient" itemprop="ingredients">
+            4 tablespoons (55 grams) unsalted butter, cut into chunks          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (90 grams) light or dark brown sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup (80 ml) heavy cream          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ teaspoon kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About ¾ cup (90 grams) confectioner’s sugar, sifted          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Position a rack in the middle of the oven, and preheat the oven to 350°F. Butter and flour a standard-size (12-cup) Bundt pan.</p>
+<p>In a medium bowl, combine the flour, baking soda, salt, pepper, and spices, and whisk to mix well.</p>
+<p>In a large mixing bowl or the bowl of a standing mixer, beat the eggs with both sugars until light. Beat in the applesauce, oil, and vanilla until smooth. With the mixer on the lowest speed, add the flour mixture, and beat briefly, just to combine. Use a rubber spatula to fold gently, making sure that all the dry ingredients are incorporated. Scrape the batter into the prepared pan. Bake for about 45 minutes, until a toothpick inserted in the thickest part of the cake comes out clean. Cool the cake for 10 minutes in the pan on a rack before turning it out and allowing to cool completely. <em>Make sure the cake is not at all warm when you make the glaze</em>.</p>
+<p>When you’re ready to glaze, set the cooling rack (with the cake on it) on top of a rimmed sheet pan. This will catch drips.</p>
+<p>Put the butter in a medium (2- to 3-quart) saucepan with the brown sugar, cream, and salt, and set over medium heat. Bring to a full rolling boil, stirring constantly. Boil for one minute exactly, and then pull the pan off the heat. Leave to cool for a couple of minutes, and then gradually whisk in the confectioner’s sugar until you have a thick but pourable consistency – and note that <em>you may not need all the sugar</em>! I don’t use the full ¾ cup (90 grams). Really, eyeball it, and go with your gut. If you’ve added too much sugar and the mixture seems too thick, add a splash of cream to thin it slightly. And do not worry if the glaze seems to have little flecks of powdered sugar in it at first; just keep whisking, and they will dissolve. Then immediately pour the glaze over the cake, evenly covering as much surface area as possible. Let the glaze set before serving the cake.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: a good 10 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

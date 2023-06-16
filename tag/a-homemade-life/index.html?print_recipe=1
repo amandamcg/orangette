@@ -1,0 +1,143 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>On esoteric fruit</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Maple-Poached Quince</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/product/1607747464/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607747464&linkCode=as2&tag=orangette-20&linkId=ZONDFHQRE4B57UWZ">The New Sugar and Spice</a></i>, by Samantha Seneviratne</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2016-01-09T14:42:05-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>In Seattle, I&#8217;ve found quince at the farmers&#8217; market in the wintertime, and I venture to guess that Whole Foods or another fancy-ish store might have it, too. I also hear that you can sometimes find it at Asian and Middle Eastern markets.</p>
+<p>Oh, and everyone talks about how difficult and treacherous it is to peel a quince, but as long as I use my extremely <a href="http://www.amazon.com/gp/product/B001BCFTWU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B001BCFTWU&amp;linkCode=as2&amp;tag=orangette-20&amp;linkId=RT7TRPTVPFSZHRUC" target="_blank">cheap-and-trusty Y-peeler</a>, it&#8217;s no biggie. Muuuuch easier than using a knife.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1/2 cup (120 ml) maple syrup, preferably Grade B          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 green cardamom pods, lightly crushed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Pinch of kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups (475 ml) water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium quince (each about 9 ounces / 255 grams), peeled          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In a medium saucepan, combine the maple syrup, cardamom pods, salt, and water. Whisk to combine.</p>
+<p>Cut one of the quince into 8 wedges. Place one wedge, flat side down, on a cutting board, and use a sharp knife to cut a V-shape in the center, removing the seeds. Repeat with the remaining wedges, placing the prepared wedges in the saucepan as you go. Repeat with the second quince. (You&#8217;ll probably note, by the way, that the flesh begins to brown when it&#8217;s exposed to air, the way the flesh of an apple does; don&#8217;t worry too much, because the discoloration will disappear as the quince cooks.)</p>
+<p>Place the saucepan over medium-high heat, and bring to a simmer. Lower the heat to maintain a gentle simmer, and cover the pan loosely with a lid, leaving a small crack for steam to escape. (Since the quince will take a while to cook, you want to keep as much moisture in the pan as possible, but you <em>do</em> want to let a small amount of the liquid evaporate, so that it slowly reduces a bit.) Cook gently until the quince is very tender when pierced with a knife, approximately the texture of a canned pear. This may take as little as 50 minutes or as long as 2 hours, depending on your fruit. (Seneviratne advises that you keep an eye on the pot and add more water if needed to keep the fruit submerged until it&#8217;s ready, though mine didn&#8217;t come anywhere near needing it.)</p>
+<p>When the fruit is tender, remove it carefully from the pan to a bowl or storage container, leaving the liquid behind. Fish out the cardamom pods, and discard them. Raise the heat to medium-high and simmer the poaching liquid briskly, stirring frequently, until it has reduced to about one-third of its original volume and is thickened like syrup. Pour the syrup over the fruit, and allow to cool completely.</p>
+<p>Serve the cooled quince in wedges or slice it thickly, and be sure to drizzle it with syrup.</p>
+<p><em>Note</em>: Stored in an airtight container, the cooked quince will keep for up to a week.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 servings</p>
+  </section>
+                                                                      
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Broccoli Soup with Lemon-Chive Cream</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-02-25T02:46:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I like this “cream” best when made with sour cream, but I’ve also used plain whole-milk yogurt, and it’s very good that way too. If you do use yogurt, keep in mind that it has less fat than sour cream, so you’ll probably need to add some olive oil to balance the acidity of the lemon. (Or just use less lemon!) I also found that the yogurt-based “cream” needed a pinch of sugar to balance it.</p>
+<p>Oh, and should you have some of the sour cream mixture left over, it makes a great dip for potato chips.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For the soup:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium leeks, white and tender green parts only, sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 small yellow onion, coarsely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 cloves garlic, coarsely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ lb. broccoli, both crowns and stems, trimmed and coarsely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            5 cups chicken or vegetable stock          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 rind (about 2 inches square) from a piece of Parmesan cheese          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ tsp. kosher salt, or less if your broth is well salted          </div>
+                      <h3>For the sour cream:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 cup sour cream (not low-fat or nonfat)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 scallions, white and pale green parts only, very thinly sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup minced chives          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. grated lemon zest          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. fresh lemon juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup finely grated Parmesan cheese          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ tsp. pressed or minced garlic          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In a small stockpot or Dutch oven, warm the butter and oil over medium heat. Add the leeks and onion, and cook, stirring occasionally, until they have softened and the onion is translucent, about 10 minutes. Add the garlic, and cook for one minute. Add the broccoli, stock, Parmesan rind, and salt, and stir to mix. Bring to a boil, reduce to a simmer, and cook, partially covered, until the broccoli is tender, about 20 minutes.</p>
+<p>While the soup cooks, prepare the cream. In a medium bowl, stir together the sour cream, scallions, chives, lemon zest, lemon juice, grated Parmesan, salt, and garlic, mixing until fully combined. Taste, and adjust as necessary.</p>
+<p>To finish the soup, remove the Parmesan rind. Using a blender and working in small batches – when puréeing hot liquids, never fill the blender more than one-third full – purée until very smooth. (Alternatively, purée it in the pot with an immersion blender.) Return the soup to the pot, add a few dollops of the cream mixture – I add about 1/3 cup – and stir to incorporate. Taste for seasoning, and adjust as necessary. If needed, rewarm the soup gently over low heat.</p>
+<p>Serve the soup with a spoonful or two of the remaining cream on top.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 6 servings</p>
+  </section>
+                  <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

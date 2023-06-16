@@ -1,0 +1,66 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>I promised</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Sour Cherry Shake</h2>
+    <h3 class="subtitle">From <i><a href="http://www.amazon.com/Hungry-Monkey-Food-Loving-Fathers-Adventurous/dp/0547336896/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=SZ6HC6VOFKMB47VZ" target="_blank">Hungry Monkey</a></i>, by Matthew Amster-Burton</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-07-12T05:46:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/sour-cherry/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>The season for sour cherries is short, and they can be hard to find. But keep an eye out: they’re small, bright red, and often labeled as Montmorency cherries. (Or, if they’re dark red, they’re probably the other main sour variety, morello.) You can pit them with a cherry pitter, or you can do it by hand: just pull gently on the stem with one hand while you gently squeeze the cherry with the other. Usually the pit will slip right out with the stem. Usually. (And if not, they’re still easy to pit by hand, tearing them open and pulling out the pit with your fingers. Be sure to do it over a bowl, so as not to lose any juice.) If you can’t get fresh sour cherries, Matthew says that jarred or canned sour cherries (note: not pie filling!) make a good substitute, and that the jarred morello cherries from Trader Joe’s are his favorite.</p>
+<p>Oh, and don’t feel as though you have to have two full pounds of cherries on hand to make this recipe! Sour cherries are expensive! I get it. I only had about 12 ounces last weekend, myself, so I just scaled back accordingly, using about one and a half cups of ice cream. We wound up with three small shakes, perfect for an afternoon snack.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 pounds (900 grams) fresh sour cherries, stemmed and pitted, or 24 ounces canned or jarred cherries, drained          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 quart vanilla ice cream          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Put the cherries in a blender or food processor, and blend to a smooth puree. Add the ice cream, and continue to blend until the mixture is smooth and pale pink. Pour into four glasses, and serve immediately.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 (12-ounce) shakes</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

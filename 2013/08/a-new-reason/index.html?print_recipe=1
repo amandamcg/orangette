@@ -1,0 +1,72 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>A new reason</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Soft Apricots with Riesling and Vanilla Bean</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2013-08-10T04:41:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>You could use any sweet-ish white wine here, though I particularly love the flavor of apricots with an off-dry riesling. (I’ve been using <a href="http://www.winesofthegorge.com/index.html" target="_blank">Memaloose</a> 2012 Idiot’s Grace Riesling.) I’ve also used <a href="http://www.alpenz.com/images/poftfolio/dolinvermouthfacts.htm" target="_blank">Dolin</a> Blanc vermouth and <a href="http://www.cocchi.it/eng/americano.htm" target="_blank">Cocchi Americano</a>, and both have yielded great results. You’re also welcome to try a drier white wine, or a rosé, and if you do, please report back.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 tablespoons (24 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            7 or 8 apricots (450 grams, or 1 pound), halved and pitted          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 vanilla bean, split and seeds scraped free          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/2 cup riesling          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 425 degrees.</p>
+<p>Measure the sugar into a saucer or a small plate. Press the apricot halves, cut side down, into the sugar: each one should wind up with a nice sugar crust on one side. Arrange the apricots, skin side down, in a baking dish that will comfortably hold them all in a single layer. Scrape the vanilla seeds into the baking dish &#8211; don’t worry if they clump &#8211; and wiggle the vanilla bean down between the apricots. Pour the riesling into the dish, taking care to pour it between the apricots, so that you don’t wash away the sugar.</p>
+<p>Bake for about 30 minutes, or until the apricots are tender. [Alternatively, you can do this all on the stove, placing the apricots in a large skillet with a lid and cooking them very gently over very low heat, covered, for 35 to 40 minutes.] Sometimes they start to fall apart, and that’s okay, but I like them best when they maintain their shape and barely resist the fork. Allow them to cool, and then carefully layer them in a jar, and pour the syrupy juices over the top. Chill thoroughly.  They’re best eaten icy cold, and as long as they’re covered in syrup, they’ll keep for more than a week.</p>
+<p>Serve the apricots with a drizzle of their vanilla-flecked syrup, or with a scoop of ice cream (salted caramel is very good) or a spoonful of plain yogurt.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: many tiny snacks or breakfasts, or dessert for 4 people</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

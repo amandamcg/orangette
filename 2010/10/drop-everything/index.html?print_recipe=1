@@ -1,0 +1,81 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Drop everything</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Keena’s Gazpacho</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-10-26T01:25:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>My friend Keena learned to make this gazpacho from her sister-in-law Margot. But I still call it Keena’s Gazpacho, because she’s put her own twist on it. Here are some notes to consider before you start:</p>
+<p>&#8211; Keena uses heirloom tomatoes for their flavor and color, and at a minimum, she uses at least one yellow tomato, so that the finished gazpacho has a beautiful orange color. She tells me that when she tried making the recipe with only red tomatoes, it worked fine, but the taste seemed a little flatter and the color was less pretty. Her sister-in-law once made it using all Green Zebra heirloom tomatoes and a yellow pepper instead of a red one, and the resulting gazpacho was a pretty shade of green. Whatever tomatoes she uses, Keena makes this gazpacho in a 7-cup blender, and the size of the blender determines how many tomatoes you can use. She uses as many as will fit in her blender jar.</p>
+<p>&#8211; Keena likes her gazpacho smooth and sippable, but her sister-in-law garnishes it with diced cucumber and bell peppers, so that it’s a little chunky. You can do whatever you want.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 - 5 medium to large tomatoes, ideally yellow and red (see note above)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 Tbsp. olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 - 2 garlic cloves          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ of a green bell pepper, seeded and chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ of a medium to large cucumber, peeled, seeded, and chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ to ¾ of a red bell pepper, seeded and chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 - 3 Tbsp. sherry vinegar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt to taste          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Bring a saucepan of water to a boil. Score an “X” into the bottom of each tomato, and then blanch them until the skin begins to peel back around the “X.” Remove from the water, cool them until they’re not too hot to handle, and then peel. Remove and discard the stems, and cut out the rough spot where the stem attaches. Chop coarsely.</p>
+<p>Put the olive oil in a blender, and blend on high speed until frothy. Add the garlic, and process briefly. Add the bell peppers, cucumber, a couple pinches of salt, and as many tomatoes as will fit comfortably into your blender. Process on high speed for a while, stopping the blender from time to time to scrape down the sides of the jar and mush around the ingredients as needed to allow the blender to run smoothly. (The mixture will be fairly thick until the tomatoes are pureed.) Let the blender go as long as you can stand the noise; the longer it goes, the better it will taste and the creamier it will be. Add 2 tablespoons of the sherry vinegar, and process to incorporate. Taste, and add vinegar and salt as needed.</p>
+<p>Chill thoroughly before serving.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 6 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

@@ -1,0 +1,79 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>For that very reason</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Real Danish Butter Cookies</h2>
+    <h3 class="subtitle">Adapted from Gourmet, December 2008</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2008-12-09T06:05:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>These would be really, really wonderful with a cup of tea. If you plan to give them as gifts, be sure to package them carefully, since they’re so delicate.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            4 cups all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. baking soda          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 lb. unsalted Lurpak butter, at room temperature for 1 hour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup granulated sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large egg, beaten          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 to 4 Tbsp. sanding or other coarse-grain sugar, such as Turbinado          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Set racks in the upper and lower thirds of the oven, and preheat to 325°F. Line 2 large baking sheets with parchment.</p>
+<p>In a medium bowl, whisk together the flour and baking soda.</p>
+<p>In the bowl of a stand mixer fitted with the paddle attachment, beat the butter until fluffy. Then add the sugar and beat briefly to combine. Add the flour mixture, and beat on low speed until just combined. (Unless you have a plastic guard that sits around the rim of the bowl, this will make a big mess at first, with flour flying everywhere. I found that carefully holding a dish towel around the top of the bowl helped a lot.) The dough will appear crumbly, but if you squeeze a bit in your hand, it will cohere. Divide the dough in half.</p>
+<p>Roll each half between large sheets of plastic wrap into a rectangle approximately 10 by 15 inches, about 1/8 inch thick. Transfer, still in plastic wrap, to a baking sheet, and refrigerate until firm, about 30 minutes. Then remove the top layer of plastic wrap and cut into<br />
+2-by-1 ½-inch rectangles. (I tried this with some of my dough, but I found that the finished, baked cookies were a little larger than I wanted, so I wound up cutting next batch of rectangles in half, and I liked that size better. You might want to play around and decide for yourself.) Arrange the rectangles 1 inch apart on the prepared baking sheets. If the dough becomes too soft, chill or freeze until it is again firm enough to handle.</p>
+<p>Brush the tops of the cookies very lightly with the beaten egg, and then sprinkle with sanding sugar. Bake the cookies, 2 sheets at a time, switching positions of the pans halfway through baking, until they are very pale golden, 12 to 15 minutes. Cool on the baking sheets for 5 minutes; then carefully slide the cookies, still on the parchment, onto wire racks. Cool completely. Make more cookies with the remaining dough, baking on cooled, freshly lined baking sheets. Reroll scraps once.</p>
+<p><em>Note</em>: Cookies will keep at room temperature for up to a week. Because I don’t plan to give mine away to friends for a week or two, I froze mine, and I’ll bet they’d be just fine that for a month or two, easy.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 9 dozen cookies</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

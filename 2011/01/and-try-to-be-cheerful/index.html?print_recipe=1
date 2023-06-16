@@ -1,0 +1,82 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>And try to be cheerful</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Marion Cunningham’s Fresh Ginger Muffins</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FBreakfast-Book-Marion-Cunningham%2Fdp%2F0394555295%3Fie%3DUTF8%26qid%3D1295145208%26sr%3D8-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325">The Breakfast Book</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-01-16T06:56:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>A word of warning: before beginning, take care to wash the ginger root well, checking its crevices and wrinkles for dirt.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            One (~3-ounce) piece of unpeeled ginger root          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup plus 3 Tbsp. sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. grated lemon zest          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            8 Tbsp. (1 stick) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup buttermilk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ tsp. baking soda          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 375°F. Grease a muffin tin.</p>
+<p>Cut the unpeeled ginger root into large chunks. If you have a food processor, process the ginger until it is in tiny pieces; alternatively, mince by hand. Measure out ¼ cup – or a little more, if you like. It’s better to have too much than too little. Put the ginger and ¼ cup sugar in a small skillet and cook over medium heat, stirring, until the sugar has melted and the mixture is hot. Don’t walk away from the pan: this takes only a couple of minutes. Set aside to cool.</p>
+<p>In a small bowl, whisk together the lemon zest and 3 tablespoons of sugar. Add to the ginger mixture.</p>
+<p>Put the butter in the bowl of a stand mixer (or, a mixing bowl, if you plan to use handheld beaters or mix by hand). Beat the butter for a second or two, then add the remaining ½ cup sugar, and beat until smooth. Add the eggs, and beat well. Add the buttermilk, and beat until blended. Add the flour, salt, and baking soda, and beat just until smooth. Add the ginger-lemon mixture, and beat to mix well. Spoon the batter into the prepared muffin tin. Bake for 18 to 20 minutes, or until a tester comes out clean. Serve warm.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 12 muffins</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

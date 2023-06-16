@@ -1,0 +1,280 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Out here, up here</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Banana Bread with Muscovado and Chocolate</h2>
+    <h3 class="subtitle">from Nigel Slater, via <a href="http://amzn.to/2a1zaRg" target="_blank"><i>Genius Recipes</i></a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2016-07-22T18:17:30-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>When I made this, I didn&#8217;t have much muscovado sugar in the cabinet. But I improvised, using the 90 grams I did have, plus about 110 grams of light brown sugar, and then making up the difference with 35 grams of molasses.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 cups (250 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A <a href="http://rehydrate.org/images/pinch.gif" target="_blank">three-finger pinch</a> of kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/2 cup (1 stick, or 125 grams) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup plus 1 tablespoon (235 grams) muscovado sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            14 ounces (400 grams) ripe bananas (peeled weight), or about 3 medium bananas          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 1/2 ounces (100 grams) dark chocolate, chopped to the size of fine gravel          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 350 degrees Fahrenheit. Grease a standard-size loaf pan (approximately 9 1/2 by 5 inches), and line it with parchment paper.</p>
+<p>In a small bowl, combine the flour, baking powder, and kosher salt. Whisk to blend.</p>
+<p>In another bowl, mash the bananas with a fork. They should still be lumpy, not fully pureed. Stir in the vanilla.</p>
+<p>In yet another bowl (sorry!), beat the eggs lightly with a fork.</p>
+<p>Using an electric mixer, beat the butter briefly, just to get it going, and then add the sugar. Continue beating until the mixture is light, fluffy, and the color of coffee with milk. Add the beaten eggs, and continue to beat. (If the mixture looks like it&#8217;s curdling at any point, add a spoonful of the flour mixture.) Add the chocolate and the mashed bananas, and beat to mix. With the mixer on low, add the flour mixture. Beat to incorporate.</p>
+<p>Scrape the batter into the prepared loaf pan, and smooth the top. Bake for about 50 minutes, or until a toothpick inserted into the center of the loaf comes out moist but clean. If there is any sign of wet batter, continue baking for a few more minutes, tenting the top with foil if it&#8217;s browning too much.</p>
+<p>Cool the finished loaf in the pan for 15 minutes. Loosen the sides with a thin knife, then carefully lift out the loaf with the parchment liner. Cool completely before slicing.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 1 loaf</p>
+  </section>
+                    
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Soft Apricots with Riesling and Vanilla Bean</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2013-08-10T04:41:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>You could use any sweet-ish white wine here, though I particularly love the flavor of apricots with an off-dry riesling. (I’ve been using <a href="http://www.winesofthegorge.com/index.html" target="_blank">Memaloose</a> 2012 Idiot’s Grace Riesling.) I’ve also used <a href="http://www.alpenz.com/images/poftfolio/dolinvermouthfacts.htm" target="_blank">Dolin</a> Blanc vermouth and <a href="http://www.cocchi.it/eng/americano.htm" target="_blank">Cocchi Americano</a>, and both have yielded great results. You’re also welcome to try a drier white wine, or a rosé, and if you do, please report back.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 tablespoons (24 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            7 or 8 apricots (450 grams, or 1 pound), halved and pitted          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 vanilla bean, split and seeds scraped free          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/2 cup riesling          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 425 degrees.</p>
+<p>Measure the sugar into a saucer or a small plate. Press the apricot halves, cut side down, into the sugar: each one should wind up with a nice sugar crust on one side. Arrange the apricots, skin side down, in a baking dish that will comfortably hold them all in a single layer. Scrape the vanilla seeds into the baking dish &#8211; don’t worry if they clump &#8211; and wiggle the vanilla bean down between the apricots. Pour the riesling into the dish, taking care to pour it between the apricots, so that you don’t wash away the sugar.</p>
+<p>Bake for about 30 minutes, or until the apricots are tender. [Alternatively, you can do this all on the stove, placing the apricots in a large skillet with a lid and cooking them very gently over very low heat, covered, for 35 to 40 minutes.] Sometimes they start to fall apart, and that’s okay, but I like them best when they maintain their shape and barely resist the fork. Allow them to cool, and then carefully layer them in a jar, and pour the syrupy juices over the top. Chill thoroughly.  They’re best eaten icy cold, and as long as they’re covered in syrup, they’ll keep for more than a week.</p>
+<p>Serve the apricots with a drizzle of their vanilla-flecked syrup, or with a scoop of ice cream (salted caramel is very good) or a spoonful of plain yogurt.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: many tiny snacks or breakfasts, or dessert for 4 people</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Poached Pears with Warm Chocolate Sauce</h2>
+    <h3 class="subtitle">Adapted from Nigel Slater’s <span style="font-style: italic;"><a href="http://www.amazon.com/Tender-Cooks-Guide-Fruit-Garden/dp/0007325215?_encoding=UTF8&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325" target="_blank">Tender, Volume 2</a></span></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-12-08T05:36:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Any good, ripe pear should work here, but I particularly like Comice.</p>
+<p>Note that the chocolate sauce below is actually half the amount of Slater’s original recipe. (His uses 200 grams of chocolate, and so on.) When I tried his recipe, I used only three pears, and in the interest of not wasting ingredients or having a lot of leftovers, I decided to make a half batch of the chocolate sauce. l found that I had more than enough to go around, so I’ve typed up the recipe that way. It should be fine for four pears. But if you want to be guaranteed a real abundance of chocolate &#8211; and I wouldn’t blame you &#8211; you might want to double the quantities.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            100 grams (½ cup packed) golden brown sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 liter (about 4 ¼ cups) water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 vanilla bean, split          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A squeeze of lemon juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 plump, ripe pears          </div>
+                      <h3>For the chocolate sauce:</h3>                  <div class="ingredient" itemprop="ingredients">
+            100 grams dark chocolate (I used Scharffen Berger 62%), chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. strong black coffee          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            90 ml heavy cream          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A small knob of butter          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Combine the sugar, water, vanilla bean, and lemon juice in a medium (3-quart, let’s say) saucepan. Bring to a boil, then turn down the heat and leave to simmer gently. Meanwhile, peel the pears, cut them in half from stem to blossom, and remove the cores with a sharp knife and a teaspoon. Slip them into the simmering syrup, and let them cook gently until they are tender to the point of a knife. You’ll see that as they cook, they begin to look somewhat translucent, more yellow than white. That’s what you want. They should take anywhere from 15 to 30 minutes to cook, and if some are ready before others, just lift them out and transfer them to a plate. When all the pears are tender, take the pan off the heat, put back any pears that you’ve taken out, and leave them to cool in the syrup.</p>
+<p>When you’re ready to eat, put the chocolate into a small, heavy-bottomed saucepan with the coffee and the cream. Warm slowly over low heat, stirring occasionally, until the chocolate has melted. Once the chocolate has softened, stir until it is very smooth. Then stir in the butter. Remove the pan from the heat.</p>
+<p>Drain the pears, and put them in bowls or a serving dish. Serve with the warm sauce alongside, so that each diner can pour on as much as he or she wants.</p>
+<p><em>Note</em>: Any sauce left over can be warmed gently in a microwave &#8211; be sure to give it a stir every 10 seconds, and don’t let it get too hot &#8211; or over a double boiler.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name"> Nigel Slater’s Pudding Cake of Honey, Cinnamon, and Plums</h2>
+    <h3 class="subtitle">Adapted from <span style="font-style: italic;"><a href="http://www.amazon.com/Tender-Cooks-Guide-Fruit-Garden/dp/0007325215?_encoding=UTF8&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325" target="_blank">Tender, Volume II</a></span></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-09-27T00:04:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>My neighborhood grocery store carries <a href="http://www.lylesgoldensyrup.com/index.php" target="_blank">golden syrup</a>, and in general, I think it’s getting easier to find in the US every day. I usually keep a jar in the cabinet for making <a href="http://www.bonappetit.com/recipes/2010/03/british_flapjacks" target="_blank">flapjacks</a>. I didn’t have quite enough golden syrup for this cake recipe, so I added honey to make up the difference. Worked just fine.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 cups (250 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 slightly heaping teaspoon baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon baking soda          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 slightly heaping teaspoon ground cinnamon          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 pinches salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup (200 grams) golden syrup          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. honey          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            9 Tbsp. (125 grams) unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup (125 grams) lightly packed brown sugar or light muscovado sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (240 ml) milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            5 (350 grams) ripe plums, pitted and quartered          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 350°F (180°C). Grease an 8- or 9-inch square baking dish, and line it with parchment paper. I like to cut the parchment so that it hangs over the edge of the pan: you can use it to help you lift the cake out later. There’s no need to grease the parchment.</p>
+<p>In a large bowl, combine the flour, baking powder, baking soda, cinnamon, and salt. Whisk well.</p>
+<p>In a saucepan, warm the golden syrup, honey, and butter over medium-low heat, stirring occasionally. When the butter is melted, stir in the brown or muscovado sugar. Remove the pan from the heat, and set aside to cool for a minute or two.</p>
+<p>Break the eggs into a medium bowl, add the milk, and whisk to mix.</p>
+<p>Pour the golden syrup mixture into the flour mixture, and stir with a sturdy spoon until just combined. The batter will be very thick at this point. Pour in the egg mixture, and continue to stir – it will resist incorporation and look weird at first – until you have a loose, almost sloppy batter without any traces of flour.</p>
+<p>Pour the batter into the prepared pan, and then arrange the plums on top. (They will sink.) Bake for 35 minutes; then place a piece of foil loosely over the top of the cake, and cook for 10 to 15 minutes more. The cake should look mostly set at this point, but it might still look the slightest bit soft in the center. That’s okay. Remove the piece of foil, turn off the oven, and leave the cake in there for another 15 minutes. Transfer to a rack. Cool for 20 minutes; then loosen the cake from the pan and lift it out onto the rack. Cool completely before slicing.</p>
+<p>Note: This cake keeps beautifully at room temperature, and because it’s so incredibly moist, it’s actually best not to cover it too tightly, or else it can get gummy. So long as you eat it within 2 or 3 days, a piece of wax paper pressed against the cut surfaces is all you really need.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 8 servings - or maybe more</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Nigel Slater’s Apple Crumble</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FTender-Cooks-Guide-Fruit-Garden%2Fdp%2F0007325215%2F&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Tender, Volume II: A Cook’s Guide to the Fruit Garden</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-02-21T07:29:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>For my crumble, I wanted a mixture of apples: some that would fall apart, and some that would hold their shape. But all I could find today was the latter, so that’s what I went with. I used two Braeburns and two Arkansas Blacks. The amount of sugar called for in the filling worked nicely with my apples, but if you’re using sweeter varieties, you might want to cut back. Also, it’s probably a good idea to taste the apples after they’ve cooked in the skillet, before you bake them; that way, you can add more lemon or sugar, if needed. I get the sense that Mr. Slater wants us to use our intuition.</p>
+<p>Also, about sugar: the original recipe calls for golden caster sugar, which is a challenge to find here. I don’t think it’s a dealbreaker to use standard granulated sugar instead. Or you could substitute a mixture of superfine sugar (also known as baker’s sugar) and brown sugar, maybe? I had some unrefined sugar in the pantry, so I used that, and it worked fine.</p>
+<p>One last thing: the original is written only in grams, but I’ve added volume measurements, so you can do it either way. But if you’ve got a scale, pull it out. Much less fiddly than using measuring cups and spoons.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For the filling:</h3>                  <div class="ingredient" itemprop="ingredients">
+            4 medium (850 grams) apples          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Half a lemon          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup (75 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. (30 grams) unsalted butter          </div>
+                      <h3>For the topping:</h3>                  <div class="ingredient" itemprop="ingredients">
+            7 Tbsp. (95 grams) cold unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ¼ cup (150 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 ½ Tbsp. (45 grams) sugar          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 350°F.</p>
+<p>Peel and core the apples, cut them into rough 1-inch chunks, and toss them with the juice of the lemon half and the sugar.</p>
+<p>Warm a skillet over medium-high heat. Add the butter, and when it stops foaming, dump in the apples and their juices. Nudge the apples around so that they lie in a single layer, and then leave them alone for a while. The juices will thicken to a syrup that coats the fruit, and the fruit should get golden in patches. Stir gently once or twice, cooking until the apples have a little color. (This may take longer than you’d expect.) They should smell sensational.</p>
+<p>Turn the apples and any caramelly juices out of the skillet into a baking dish. (I used an oval gratin dish that measures about 10 inches long and 7 inches wide, though you would be fine with a dish that’s even a little smaller.) If there are any sticky bits left in the skillet, add a squeeze of lemon juice and/or a splash of water, and stir until they dissolve. Add to the apples.</p>
+<p>To make the topping, put the butter and the flour in a medium bowl, and rub the butter into the flour with your fingertips until the mixture looks like fine breadcrumbs. (Alternatively, you could do this in a food processor.) Stir in the sugar. Drizzle in a tablespoon of water, and shake the bowl back and forth until some of the mixture sticks together in gravel-sized lumps. This way, you get some parts of the topping that are sandy and others that are gravelly or pebbly. Distribute the topping evenly over the apples. Bake for 45 minutes to 1 hour, or until pale golden. Serve warm or at room temperature.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

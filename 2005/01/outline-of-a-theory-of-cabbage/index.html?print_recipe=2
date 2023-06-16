@@ -1,0 +1,75 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Outline of a Theory of Cabbage</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-2" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Sautéed Green Cabbage with Apples and Red Onions</h2>
+    <h3 class="subtitle">Adapted from <a href="http://amzn.to/2lDWc7H"><em>Chez Panisse Vegetables</em></a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2005-01-13T07:04:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=2" class="print icon-print"></a>
+    </nav>
+    <p>This is delicious warm or at room temperature.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            Olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 medium red onion, very thinly sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 medium green cabbage, quartered, cored, and very thinly sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large crisp, sweet apple, such as Golden Delicious, cored and very thinly sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Apple cider vinegar          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In a large sauté pan or Dutch oven, heat a little oil and sauté onions until translucent and just beginning to brown. Add the apples, and sauté one minute, or until everything is sizzling. Add the cabbage, the salt and pepper, a dash of vinegar, and a little water. Stir over high heat just long enough to barely soften and cook the cabbage, a few minutes. It should retain a little crunch but lose the raw flavor of uncooked cabbage. Adjust seasoning, and serve.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 to 8 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

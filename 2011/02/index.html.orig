@@ -1,0 +1,378 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+  <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
+
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
+  <meta name="apple-mobile-web-app-title" content="Orangette">
+  <meta name="application-name" content="Orangette">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="https://orangette.net/wp-content/themes/orangette/assets/icons/mstile-144x144.png">
+  <meta name="msapplication-config" content="https://orangette.net/wp-content/themes/orangette/assets/icons/browserconfig.xml">
+
+    <meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>February 2011 | Orangette</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="February 2011 | Orangette" />
+	<meta property="og:url" content="https://orangette.net/2011/02/" />
+	<meta property="og:site_name" content="Orangette" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@mollyorangette" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://orangette.net/#website","url":"https://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://orangette.net/2011/02/#webpage","url":"https://orangette.net/2011/02/","name":"February 2011 | Orangette","isPartOf":{"@id":"https://orangette.net/#website"},"breadcrumb":{"@id":"https://orangette.net/2011/02/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://orangette.net/2011/02/"]}]},{"@type":"BreadcrumbList","@id":"https://orangette.net/2011/02/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://orangette.net/"},{"@type":"ListItem","position":2,"name":"Archives for February 2011"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+  <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+</head>
+  <body class="archive date sidebar-primary">
+    <!--[if lt IE 9]>
+      <div class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <nav class="off-canvas-nav">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+  <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div></nav>
+    <div class="container" id="top">
+      <header class="page-header" role="banner">
+  <h1 class="header--title">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    </a>
+  </h1>
+  <button class="search-toggle icon-search2" data-behavior="open-search"></button>
+  <button class="nav-toggle" data-behavior="open-nav"></button>
+</header>
+      <div class="page-content">
+        <main class="content-left has-sidebar" role="document">
+          
+  <h1 class="page-title" itemprop="name">Month: <span>February 2011</span></h1>
+
+
+  
+<article class="post--single post-638 post type-post status-publish format-standard has-post-thumbnail hentry category-desserts category-fall category-snacks category-thanksgiving category-vegetarian category-winter tag-baking tag-books tag-delancey-book tag-nigel-slater ingredients-apples" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <div class="kicker">
+      <time class="updated" datetime="2011-02-21T07:29:00+00:00">Monday, February 21, 2011</time>
+    </div>
+    <h1 class="title" >
+      <a href="https://orangette.net/2011/02/this-one-does-something-interesting/">This one does something interesting</a>
+    </h1>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    <p>In the days since we last spoke, I’ve flown to Oklahoma and back. I’ve introduced my mother to <i><a href="http://en.wikipedia.org/wiki/24_(TV_series)">24</a></i>. I’ve made <a href="http://www.bonappetit.com/recipes/2010/10/spaghetti_and_meatballs">Cafe Lago meatballs</a> with my mother, <a href="http://orangette.blogspot.com/2006/01/how-to-endive.html">braised a pan of endive</a> and serrano ham with my mother, and put away a couple of <a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/06/30/AR2009063000887.html">Negronis</a>, also with my mother. I’ve baked a coffee cake using a tin of baking powder from my mother’s cabinet that, you know, it turns out, expired in 2006. I’ve thrown away a coffee cake. I’ve filed <i>and</i> paid our 2010 income taxes! I’ve had a toothache! I’ve sent off <a href="http://orangette.blogspot.com/2011/01/january-30.html">my book proposal</a>! I’m using a lot of exclamation points!</p>
+<div>
+<p>And because of this second-to-last item, because you’ve been such cheerful, cheering, much-needed companions in <a href="http://orangette.blogspot.com/2011/01/january-30.html">Book Proposal Land</a>, I baked you an apple crumble. Then I ate about a quarter of it &#8211; chewing only on the left side of my mouth, of course, because I’m almost sure I’m having a root canal on the right side later this week.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/d97b9-polaapplesforcrumble-11.jpg"><img decoding="async" id="BLOGGER_PHOTO_ID_5575966907445597282" class="alignnone" src="http://orangette.net/wp-content/uploads/2015/09/d97b9-polaapplesforcrumble-11.jpg?w=300" alt="" width="1284" height="1016" border="0" /></a><br />
+This recipe comes from Nigel Slater, whose latest book, <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FTender-Cooks-Guide-Fruit-Garden%2Fdp%2F0007325215%2F&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Tender, Volume II: A Cook’s Guide to the Fruit Garden</a></i>, has been living on my kitchen table since Christmas. We’ve been eating breakfast together. I drink my coffee; Nigel gets worked up about apples:</p>
+<p><small><i>A baked apple, its skin split, the top half rising like a beret, is best achieved with an acidic variety. The list includes Golden Noble, Kentish Fillbasket, Emneth Early, Monarch, Charlotte, Newton Wonder, Lord Derby and the Carlisle and Keswick Codlins. Most of these I have met at some point in my cooking life; others, such as Edward VII and the Eynsham Dumpling, I have never seen on sale, let alone poured custard over. Then, of course, there are the seedlings: Bramley, Dumelow’s and Pott’s. If you are in Cornwall with nothing much to do on an October afternoon, you might like to go in search of the Colloggett Pippin. You will be in with a good chance if you pronounce it Clogget and are within sight of the Tamar. The Cornish have a habit of shortening place names the way children shorten those of their best friends.</i></small></p>
+<p>I love him. I also like his apple crumble quite a bit. The world does not need another apple crumble recipe, as he notes, but this one does something interesting, and it’s worth noting. After you toss the apple pieces with sugar and lemon juice, you don’t just chuck them into the baking dish. You put them in a hot skillet with some butter, and you leave them alone there for a while, longer than you’d think, until they’re golden in patches and glazed in their own caramelized juices. It reminds me of the first step in making a <a href="http://orangette.blogspot.com/2006/10/tokaji-for-your-tarte-tatin.html">tarte Tatin</a>, only you’re not letting them go nearly that far. Just far enough to make them smell like some fantastic hybrid of toffee and hot cider. WAIT. Think about that. Toffee and hot cider, <i>as one</i>. Does that exist? World, make this happen for me.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/e9d85-polacookedapples1.jpg"><img decoding="async" loading="lazy" id="BLOGGER_PHOTO_ID_5575967780910214514" class="alignnone" src="http://orangette.net/wp-content/uploads/2015/09/e9d85-polacookedapples1.jpg?w=300" alt="" width="1280" height="1018" border="0" /></a><br />
+So yes, you take those lightly caramelized apples, and you put them in your baking dish, and then comes the topping and the baking. The usual. My finished crumble would not win a beauty pageant, or even bring home the sash for third runner-up, but that’s not the point of crumbles, is it? Did I miss something? It looks like a crumble. But it certainly tastes nice.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/36107-polaapplecrumble1.jpg"><img decoding="async" loading="lazy" id="BLOGGER_PHOTO_ID_5575968849244870034" class="alignnone" src="http://orangette.net/wp-content/uploads/2015/09/36107-polaapplecrumble1.jpg?w=300" alt="" width="1283" height="1021" border="0" /></a><br />
+In fact, the resemblance to tarte Tatin doesn’t end with the method. There’s a little tarte Tatin to the flavor, too, the way the soft, sticky, long-cooked apples taste under all that rubble of topping, all that butter. I’m going to hang onto this method. I might think about using more apples next time &#8211; once baked, the apple-to-topping ratio is about 1:1, and I prefer 2:1 &#8211; but that’s just fussing.</p>
+</div>
+<div></div>
+<div>
+
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Nigel Slater’s Apple Crumble</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FTender-Cooks-Guide-Fruit-Garden%2Fdp%2F0007325215%2F&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Tender, Volume II: A Cook’s Guide to the Fruit Garden</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-02-21T07:29:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2011/02/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>For my crumble, I wanted a mixture of apples: some that would fall apart, and some that would hold their shape. But all I could find today was the latter, so that’s what I went with. I used two Braeburns and two Arkansas Blacks. The amount of sugar called for in the filling worked nicely with my apples, but if you’re using sweeter varieties, you might want to cut back. Also, it’s probably a good idea to taste the apples after they’ve cooked in the skillet, before you bake them; that way, you can add more lemon or sugar, if needed. I get the sense that Mr. Slater wants us to use our intuition.</p>
+<p>Also, about sugar: the original recipe calls for golden caster sugar, which is a challenge to find here. I don’t think it’s a dealbreaker to use standard granulated sugar instead. Or you could substitute a mixture of superfine sugar (also known as baker’s sugar) and brown sugar, maybe? I had some unrefined sugar in the pantry, so I used that, and it worked fine.</p>
+<p>One last thing: the original is written only in grams, but I’ve added volume measurements, so you can do it either way. But if you’ve got a scale, pull it out. Much less fiddly than using measuring cups and spoons.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For the filling:</h3>                  <div class="ingredient" itemprop="ingredients">
+            4 medium (850 grams) apples          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Half a lemon          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup (75 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. (30 grams) unsalted butter          </div>
+                      <h3>For the topping:</h3>                  <div class="ingredient" itemprop="ingredients">
+            7 Tbsp. (95 grams) cold unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ¼ cup (150 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 ½ Tbsp. (45 grams) sugar          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 350°F.</p>
+<p>Peel and core the apples, cut them into rough 1-inch chunks, and toss them with the juice of the lemon half and the sugar.</p>
+<p>Warm a skillet over medium-high heat. Add the butter, and when it stops foaming, dump in the apples and their juices. Nudge the apples around so that they lie in a single layer, and then leave them alone for a while. The juices will thicken to a syrup that coats the fruit, and the fruit should get golden in patches. Stir gently once or twice, cooking until the apples have a little color. (This may take longer than you’d expect.) They should smell sensational.</p>
+<p>Turn the apples and any caramelly juices out of the skillet into a baking dish. (I used an oval gratin dish that measures about 10 inches long and 7 inches wide, though you would be fine with a dish that’s even a little smaller.) If there are any sticky bits left in the skillet, add a squeeze of lemon juice and/or a splash of water, and stir until they dissolve. Add to the apples.</p>
+<p>To make the topping, put the butter and the flour in a medium bowl, and rub the butter into the flour with your fingertips until the mixture looks like fine breadcrumbs. (Alternatively, you could do this in a food processor.) Stir in the sugar. Drizzle in a tablespoon of water, and shake the bowl back and forth until some of the mixture sticks together in gravel-sized lumps. This way, you get some parts of the topping that are sandy and others that are gravelly or pebbly. Distribute the topping evenly over the apples. Bake for 45 minutes to 1 hour, or until pale golden. Serve warm or at room temperature.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 servings</p>
+  </section>
+
+</div>
+  </div>
+  <footer class="post-meta">
+    <nav class="post-utility-nav">
+  <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=This%20one%20does%20something%20interesting&url=https%3A%2F%2Forangette.net%2F2011%2F02%2Fthis-one-does-something-interesting%2F" onclick="window.open(this.href, 'twitter-share', 'width=550,height=285'); return false;" title="Twitter"></a>
+          <a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Forangette.net%2F2011%2F02%2Fthis-one-does-something-interesting%2F&t=This%20one%20does%20something%20interesting" onclick="window.open(this.href, 'facebook-share', 'width=580,height=300'); return false;" title="Facebook"></a>
+          <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Forangette.net%2F2011%2F02%2Fthis-one-does-something-interesting%2F&media=https%3A%2F%2Forangette.net%2Fwp-content%2Fuploads%2F2015%2F09%2Fd97b9-polaapplesforcrumble-11.jpg&description=This%20one%20does%20something%20interesting" data-pin-custom="true" title="Pinterest"></a></nav>
+              <div class="tag-list">
+        <h4 class="label">Filed under:</h4>
+        <ul>
+                        <li><a href="https://orangette.net/ingredient/apples/">apples</a></li>
+                        <li><a href="https://orangette.net/tag/baking/">baking</a></li>
+                        <li><a href="https://orangette.net/tag/books/">books</a></li>
+                        <li><a href="https://orangette.net/tag/delancey-book/">delancey book</a></li>
+                        <li><a href="https://orangette.net/tag/nigel-slater/">nigel slater</a></li>
+                  </ul>
+      </div>
+              <a href="https://orangette.net/2011/02/this-one-does-something-interesting/#comments" class="comment-toggle">Comments</a>
+      </footer>
+</article>
+  <article class="post-641 post type-post status-publish format-standard has-post-thumbnail hentry category-drinks category-perennial-favorite category-winter tag-booze tag-the-walrus-and-the-carpenter ingredients-aperol ingredients-grapefruit ingredients-wine">
+  <header class="post-header">
+    <div class="kicker">
+      <time class="updated" datetime="2011-02-07T07:30:00+00:00">Monday, February 7, 2011</time>
+    </div>
+    <h2 class="title"><a href="https://orangette.net/2011/02/by-popular-demand/">By popular demand</a></h2>
+  </header>
+  <figure class="post-figure hero">
+    <a href="https://orangette.net/2011/02/by-popular-demand/">
+      <img src="https://orangette.net/wp-content/uploads/2011/02/polaaperolcocktail-2-662x409.jpg" class="post__photo wp-post-image" alt="" decoding="async" loading="lazy" />    </a>
+  </figure>
+  <div class="post__summary">
+    <p>Good people! Here it is, by popular demand: my new friend Aperol. Your new friend Aperol. Our soon-to-be old friend Aperol. I first tasted Aperol last November, when Brandon and I spent the weekend after Thanksgiving at a friend’s apartment in Brooklyn. We were wandering around that Saturday, I think, content to have no plans and no restaurant to run, and late in the afternoon, we wound up at Marlow &amp; Sons for some oysters and a plate of soppressata. There was something called an Aperol Spritzer on the cocktail menu, and though I knew that Aperol is bitter and I had yet to meet a bitter drink I liked, I went temporarily insane and ordered it. It came in&hellip;</p>
+    <a href="https://orangette.net/2011/02/by-popular-demand/" class="post-more">Read more</a>
+  </div>
+</article>
+
+<nav class="navigation posts-navigation left-nav" role="navigation">
+  <div class="left"></div>
+      <div class="center"><a href="https://orangette.net/recipes/">See all recipes</a></div>
+    <div class="right"></div>
+</nav>
+        </main><!-- /.main -->
+                  <aside class="content-right">
+            <header class="right-header">
+  <a href="https://orangette.net/about/">
+    <h2 class="title">hellooooo</h2>
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+  </a>
+</header>
+<nav class="right-nav">
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div>  <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+</nav>
+<div class="right-section">
+  <h3 class="right-heading">
+    <a href="https://orangette.net/books/">My Books</a>
+  </h3>
+  <div class="right-diptych">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+      </a>
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+      </a>
+      </div>
+  <div class="right-image-link">
+    <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+    </a>
+  </div>
+</div>
+<div class="right-section bordered">
+  <h4 class="right-subheading">Featured Posts</h4>
+  <ul class="right-post-list">
+          <li>
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
+          <div class="thumb">
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">April 7, 2014</div>
+            <h5 class="title">That word is eat</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">March 23, 2015</div>
+            <h5 class="title">The bean doctor</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">July 23, 2015</div>
+            <h5 class="title">We&#8217;ll go from left to right</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2014/01/in-it-together/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">January 16, 2014</div>
+            <h5 class="title">In it together</h5>
+          </div>
+        </a>
+      </li>
+      </ul>
+</div>
+<div class="right-section tall right-podcast">
+  <h3 class="right-heading">
+    <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
+  </h3>
+  <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+  </a>
+</div>
+<div class="right-section">
+  <h4 class="right-subheading alt">
+    <a href="https://orangette.net/links/">Links of Note</a>
+  </h4>
+  <ul class="right-link-list">
+    <li><a href="http://www.nordljus.co.uk/en/index.php">Nordljus</a></li>
+<li><a href="http://everybodylikessandwiches.com/">Everybody Likes Sandwiches</a></li>
+<li><a href="http://www.rootsandgrubs.com/">Roots and Grubs</a></li>
+<li><a href="http://dressingfordinner.blogspot.com/">Dressing for dinner</a></li>
+<li><a href="http://lookimadethat.com/">i made that</a></li>
+<li><a href="http://blog.youngnapark.com/">Youngna Park</a></li>
+<li><a href="http://www.eatallaboutit.com/">Eat All About It</a></li>
+<li><a href="http://www.dinneralovestory.com/" rel="noopener" target="_blank">Dinner: A Love Story</a></li>
+<li><a href="http://nprfreshair.tumblr.com/">NPR Fresh Air</a></li>
+<li><a href="http://happyolks.com/" rel="noopener" target="_blank">Happyolks</a></li>
+<li><a href="http://www.sweetamandine.com/">Sweet Amandine</a></li>
+<li><a href="http://www.36words.typepad.com/">habit</a></li>
+<li><a href="http://curiousbird.typepad.com/">Curious Bird</a></li>
+<li><a href="http://www.eatdrinkonewoman.com/">eat drink one woman</a></li>
+<li><a href="http://www.notmartha.org/">not martha</a></li>
+  </ul>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
+</div>
+          </aside><!-- /.sidebar -->
+                <div class="search-overlay" data-class="search-overlay">
+          <form role="search" method="get" class="search-form" action="https://orangette.net/">
+  <label>Search for:</label>
+  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
+  <button type="submit" class="search-button icon-search"></button>
+</form>
+          <div class="overlay--close" data-behavior="close-search"></div>
+        </div>
+      </div><!-- /.page-content -->
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+  </a>
+  <div class="footer-content">
+    <nav class="footer-nav" role="navigation">
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div>    </nav>
+    <nav class="footer-utility-nav">
+      <div class="menu-social-links-container"><ul id="menu-social-links" class=""><li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a href="https://twitter.com/mollyorangette">Twitter</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2518"><a href="https://www.facebook.com/molly.wizenberg">Facebook</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2519"><a href="https://www.instagram.com/mollyorangette/">Instagram</a></li>
+</ul></div>    </nav>
+  </div>
+  <p class="copyright">&copy; 2023 Orangette</p>
+  <p class="credit"><a href="http://madebyneversink.com">Made by Neversink</a></p>
+</footer>
+      <div class="nav-overlay" data-behavior="close-nav"></div>
+      <button class="elevator" data-behavior="jettison">Back to top</button>
+    </div><!-- /.container -->
+    <script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+  </body>
+</html>

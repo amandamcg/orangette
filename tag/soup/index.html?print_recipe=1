@@ -1,0 +1,461 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>October 3</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="http://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Charlie Brigham Soup</h2>
+    <h3 class="subtitle">Charlie Brigham, Blanca, Tina Baylis, and Sarah Connolly</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2016-10-03T13:06:20-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Charlie Brigham used <a class="u-underline" href="https://www.campbells.com/swanson/broths-and-stocks/" data-link-name="in body link">Swanson</a> canned chicken broth, fideo vermicelli, egg, and <a class="u-underline" href="http://www.forbes.com/sites/larryolmsted/2012/11/19/the-dark-side-of-parmesan-cheese-what-you-dont-know-might-hurt-you/#74f1215f71be" data-link-name="in body link">Kraft parmesan cheese</a> – the green‑canister kind that keeps for a small eternity. Today, you might swap in organic chicken broth (homemade or not), capellini and freshly grated parmesan.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 large egg          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups (475 ml) chicken broth          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About 2 ounces (65 grams) capellini, fideo vermicelli, or other thin noodle or small pasta shape          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Parmesan, grated, to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Black pepper, to taste          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Crack the egg into a small bowl, and beat well.</p>
+<p>In a small saucepan, bring the broth to a boil. Add the pasta, and cook according to package directions, until just tender. Drizzle in the beaten egg, stirring constantly with a fork so that the egg breaks into feather-like pieces rather than clumps.</p>
+<p>Divide the soup between two wide, shallow bowls. Top with grated cheese and black pepper. Serve with a fork, for twirling noodles, and a spoon.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 2 (light) servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Split Pea Soup</h2>
+    <h3 class="subtitle">Cook's Illustrated, via <a href="http://www.food.com/recipe/split-pea-soup-cooks-illustrated-333665">Food.com</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2016-01-29T15:52:29-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            A meaty ham bone, roughly 2 ½ pounds (1.15 kg)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 quarts (2.85 liters) water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 bay leaves          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 pound (450 grams) split peas, about 2 ½ cups          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon dried thyme          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tablespoons olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium onions, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium carrots, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium celery stalks, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tablespoon (14 grams) unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium garlic cloves, chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 pinch sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 small new potatoes, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper, for serving          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Put the ham, bay leaves, and water in a large stock pot or Dutch oven. Cover, and bring to a boil. Reduce the heat to maintain a very gentle simmer, and cook until the meat is tender and pulls away from the bone, 2 to 2½ hours. Remove the ham meat and bone from pot. When the ham is cool enough to handle, shred the meat into bite-sized pieces. Discard the bone and any excessive fat.</p>
+<p>Add the split peas and thyme to the ham stock. Bring back to a boil, reduce the heat, and simmer gently, uncovered, until the peas are tender but not yet dissolved, about 45 minutes.</p>
+<p>Meanwhile, heat the oil in a large skillet over medium-high heat. Add the onions, carrots, and celery, and cook, stirring frequently, until the vegetables give off some moisture, that moisture evaporates, and the vegetables begin to brown, 5 to 10 minutes. Reduce the heat to medium-low, and add the butter, garlic, and sugar. Cook the vegetables, stirring frequently, until golden brown, the color of honey, about 30 to 35 minutes. Set aside.</p>
+<p>When the split peas are tender but not yet dissolved, add the cooked vegetables, the potatoes, and the shredded ham to the pot. Simmer until the potatoes are tender and the peas dissolve and thicken soup to the consistency of light cream, about 20 minutes more. (Remember that the potatoes will continue to cook slightly as the soup cools down.) Taste for salt, though you won&#8217;t likely need any, since ham is salty. Serve hot, with freshly ground black pepper.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: Food.com says 6 cups, but that's wrong; both Matthew and I get nearly 4 quarts</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Ham Bone, Greens, and Bean Soup</h2>
+    <h3 class="subtitle">Adapted very slightly from Melissa Clark’s <i><a href="http://www.amazon.com/Cook-This-Now-Delectable-Dishes/dp/1401323987/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=orangette-20" target="_blank">Cook This Now</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2013-11-22T17:46:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>What makes this soup different from one that uses, say, ham hocks, is that the marrow in the ham bone melts into the soup, bringing extra richness and body. So if you have a ham bone, use it! You will be rewarded. If not, a ham hock will also be good. My ham bone fit easily into the pot I used, but Melissa Clark suggests that, in general, you ask your butcher to cut it in half or thirds for you, so that it’s guaranteed to fit and also has some marrow exposed.</p>
+<p>As for beans, you could probably use any light-colored bean you like. I had a bag of <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=SFNT&amp;Store_Code=RG" target="_blank">Rancho Gordo</a>’s <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=PROD&amp;Store_Code=RG&amp;Product_Code=1YEL&amp;Category_Code=DHAHB4#.Uo-SlpSxOac" target="_blank">yellow eye beans</a> in the cupboard, so I used those. (Rancho Gordo beans make a great holiday present, by the way.)  Also, I find that adding a little salt when I soak dried beans makes them turn out better when I cook them, and here’s <a href="http://www.americastestkitchenfeed.com/super-quick-video-tips/2012/04/the-importance-of-brining-your-beans-video/" target="_blank">a video</a> from America’s Test Kitchen that explains why.  I don’t tend to use the full amount of salt that’s called for in the video, but I have, and it worked beautifully.  (I don’t use that much because I tend to forget to rinse the beans after soaking, and then I wind up with salty beans. Using less salt still seems to help, and then there’s no need to rinse.)</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 cup (175 grams) dried pinto beans, or another bean you like          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 strips bacon, cut into ½-inch pieces          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 large carrots, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 celery stalks, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large yellow onion, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 garlic cloves, finely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ham bone (about 1 ¼ lb. / 565 grams)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 bay leaf          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons kosher salt, or to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ head (about ¾ lb. / 340 grams) green cabbage, cored and thinly sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 bunch kale (about ½ lb. / 225 grams), stems removed and leaves chopped into bite-size pieces          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper, for serving          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Hot sauce, for serving          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Twelve to 24 hours before you plan to start the soup, put the beans in a bowl and cover with plenty of cold water. Add a generous pinch of salt. Set aside at room temperature. (Or, if you don’t have that much time, you can instead use a quick-soak method: put the beans, lots of cold water, and a generous pinch of salt in a pot, bring it to a boil, turn off the heat, cover the pot, and let stand for 1 hour. Drain, and then proceed with the recipe.)</p>
+<p>Warm a large (about 5-quart) pot over medium-high heat. Add the bacon, and cook until crisp, about 5 to 7 minutes. Remove the bacon with a slotted spoon to a paper towel-lined plate, and save for garnishing the soup. Add the carrots, celery, and onion to the bacon fat in the pan. Cook, stirring, until softened, about 5 minutes. Add the garlic, and cook for 1 minute more.</p>
+<p>Put the ham bone and bay leaf into the pot, and add 8 cups water and 2 teaspoons kosher salt. Bring the mixture to a boil over high heat; then add the beans, reduce the heat to medium-low, and simmer for 30 minutes. Stir in the cabbage and simmer for 30 minutes more. At this point, fish out a bean and taste it: it should be nearly done. If it’s still pretty firm, let the soup simmer a bit longer before continuing. Then stir in the kale and simmer until the kale is soft but still bright green, about 15 minutes. Remove the ham bone and bay leaf. If you’d like, you can pull the meat from the ham bone, chop it up, and stir it back into the soup.</p>
+<p>Serve with freshly ground black pepper and a dash of hot sauce, and more salt, if needed. (Oh, and crumbled bacon, if you want.)</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 to 8 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Winter Squash Soup with Curry and Coconut Milk</h2>
+    <h3 class="subtitle">Adapted from Lisa Moussalli and <i><a href="http://www.bhg.com/recipe/soups/butternut-squash-soup-with-thai-gremolata/" target="_blank">Better Homes and Gardens</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2013-11-01T22:39:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I’ve made this soup twice now, once with kabocha squash and once with butternut. I slightly preferred the flavor of the kabocha, but I liked the texture of the butternut soup. (I also appreciate the fact that butternuts are easier to peel. I would rather throw a kabocha out the window than peel it.) You could use any winter squash, really &#8211; though if yours isn’t especially sweet, you might want an additional tablespoon of sweetener. And for the record, you don’t <i>have</i> to use maple syrup; you could try regular sugar, or brown sugar. In any case, taste and adjust as needed before serving.</p>
+<p>Oh, and I’ll bet this recipe would double nicely.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 to 3 tablespoons olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 medium or large yellow onion, chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 or 4 large garlic cloves, minced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tablespoon curry powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 winter squash (about 2 pounds / 500 g), peeled and cut into 1-inch cubes          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 (14-ounce) can unsweetened coconut milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups (475 ml) chicken or vegetable broth          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tablespoon maple syrup          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tablespoon Asian fish sauce          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon Sriracha or other Asian chile sauce          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Juicy wedges of lime, for serving          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Warm the oil in a Dutch oven (or other approximately 5-quart pot) over medium heat. Add the onions, and cook, stirring, until they begin to soften, about 5 minutes. Add the garlic, and cook for another 1 to 2 minutes. Stir in the curry powder, and cook for 1 minute more. Add the squash, coconut milk, broth, maple syrup, fish sauce, and Sriracha, and stir well. Raise the heat to bring to a boil; then reduce the heat and simmer, covered, until the squash is soft, about 30 to 40 minutes.</p>
+<p>Using an immersion blender (or a regular blender), puree the soup until smooth and velvety. Taste for salt and sweetness, and adjust if necessary. (I don’t find that this soup needs any additional salt – it gets a lot from the fish sauce – but you may disagree.) Ladle the soup into big bowls, add a generous squeeze of lime to each, and serve hot.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 4 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Vegetable and Pearl Barley Soup</h2>
+    <h3 class="subtitle">Adapted from <span style="font-style: italic;"><a href="http://www.amazon.com/Great-British-Food-Cass-Titcombe/dp/0091936322?ie=UTF8&qid=1321985507&sr=8-1&_encoding=UTF8&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325" target="_blank">Great British Food</a></span>, by Cass Titcombe, Patrick Clayton-Malone, and Dominic Lake</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-11-23T23:01:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>A few notes: I used homemade chicken stock to make this soup, but you could also use good-tasting store-bought chicken or vegetable stock. To me, the best brand is Better Than Bouillon. And if your celery comes with leaves still attached, save them: toss in a small handful when you add the cabbage, toward the end. Oh, and instead of parsnips, try peeled, cubed rutabaga.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 Tbsp. olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large yellow or sweet onion, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            150 grams (3 or 4 stalks) celery, peeled and diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            150 grams (about 3 medium) parsnips, peeled, cored, and diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            150 grams (about 3 medium) carrots, peeled and diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            150 grams (1 large) leeks, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 large garlic cloves, chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Leaves from a few sprigs of fresh thyme          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ liters (6 1/3 cups) chicken or vegetable stock          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            50-60 grams (¼ to 1/3 cup) uncooked pearl barley          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A couple handfuls of shredded Savoy cabbage or Brussels sprouts          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Warm the olive oil in a Dutch oven or small stockpot. Add the onion, celery, parsnips, carrots, and leeks, and stir to coat with oil. Cook, stirring occasionally, for about 15 minutes, or until softened. Do not allow to brown. Add the garlic and thyme leaves, and cook for a few minutes more. Then add the stock and a couple of good pinches of salt. Bring to a boil, lower the heat to maintain a gentle simmer, and cook for 10 minutes. Then stir in the pearl barley, and simmer gently for 20 minutes, stirring occasionally. Add the Savoy cabbage or Brussels sprouts, and simmer for 5 minutes more. Taste, and add salt as needed. Serve hot, with freshly ground black pepper, if you like.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 6 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Split Pea Soup with Country Ham</h2>
+    <h3 class="subtitle">Inspired by <a href="http://thatswhatyouthink.wordpress.com/">Winnie Yang</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-01-09T02:39:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Until recently, I didn’t know that the age of dried legumes made a difference in their cooking time, but it does. If your dried split peas are fairly fresh, they will take less time to cook than those that have sat on the grocery store shelf for a while. In any case, cook them until they completely break down. If yours are on the older side, you may need to start with a little more water than I call for below, since the cooking time will be on the long side.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            Olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 slice (~4 ounces) Benton’s hickory smoked country ham, or similar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large onion or leek, finely diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium carrots, finely diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups dried split peas          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            8 cups water, plus more as needed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt, to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Apple cider vinegar, to taste          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In a soup pot or Dutch oven, warm a little olive oil over medium high heat. Add the ham, and cook, turning once, until golden brown on both sides. Add the leek and carrot, and cook, stirring occasionally, until tender but not browned, about 10 minutes. (If the pan seems dry when you add the vegetables, add oil as needed.) Add the split peas and 8 cups of water. Bring to a boil; then reduce the heat and simmer gently, stirring regularly to prevent scorching, for 90 minutes to 2 hours, or until the peas have completely broken down and the soup has a creamy texture. This amount of water makes for a fairly thick soup; if you like yours thinner, add more water until it reaches your desired texture. The slice of ham should break apart as it cooks, but if necessary, use a couple of forks to tear it into smaller pieces. Taste the soup, and salt as needed. If the flavor is a little dull, add a splash or two of apple cider vinegar; you shouldn’t taste the vinegar in the soup, but it should subtly wake up the flavor.</p>
+<p>Serve hot.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 6 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Red Lentil Soup with Lemon</h2>
+    <h3 class="subtitle"> Adapted slightly from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FKitchen-Good-Appetite-Recipes-Stories%2Fdp%2F1401323766&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">In the Kitchen with a Good Appetite</span></a>, by Melissa Clark</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-09-30T07:09:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I had some <a href="http://www.penzeys.com/cgi-bin/penzeys/p-penzeysaleppopepper.html">Aleppo pepper</a> in the spice drawer, and I decided to use it in place of the cayenne. It’s not as spicy, but it brings a lot of fragrance, and it was a good match for the flavors of this soup. So if you’ve got it, use it.</p>
+<p>I should note, too, that I forgot to stir the cilantro into the soup, and instead I used it as a garnish. I liked the look of it, though I might try stirring it in next time, since that’s what Melissa Clark intended.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            4 Tbsp. olive oil, plus additional good oil for drizzling          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large yellow onions, chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 garlic cloves, minced or pressed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. tomato paste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. ground cumin          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. kosher salt, or more to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A few grinds of freshly ground black pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Pinch of cayenne or Aleppo pepper, or more to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 quarts chicken or vegetable broth          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups red lentils, picked through for stones and debris          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large carrots, peeled and diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Juice of 1 lemon, or more to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup chopped fresh cilantro          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In a large pot, warm the oil over medium-high heat until hot and shimmering. Add the onions and garlic and cook until golden, about 4 minutes. Stir in the tomato paste, cumin, salt, pepper, and cayenne, and cook for 2 minutes longer. Add the broth, 2 cups water, the lentils, and the carrots. Bring to a simmer, then partially cover the pot and reduce the heat to maintain a gentle simmer. Continue to cook until the lentils are soft, about 30 minutes. Taste, and add more salt if necessary. Using an immersion or regular blender, puree about half of the soup. It should still be somewhat chunky, not completely smooth. Reheat if necessary, then stir in the lemon juice and cilantro. Serve the soup drizzled with good olive oil and dusted very lightly with cayenne, if desired.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 to 8 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Broccoli Soup with Lemon-Chive Cream</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-02-25T02:46:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I like this “cream” best when made with sour cream, but I’ve also used plain whole-milk yogurt, and it’s very good that way too. If you do use yogurt, keep in mind that it has less fat than sour cream, so you’ll probably need to add some olive oil to balance the acidity of the lemon. (Or just use less lemon!) I also found that the yogurt-based “cream” needed a pinch of sugar to balance it.</p>
+<p>Oh, and should you have some of the sour cream mixture left over, it makes a great dip for potato chips.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For the soup:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium leeks, white and tender green parts only, sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 small yellow onion, coarsely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 cloves garlic, coarsely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ lb. broccoli, both crowns and stems, trimmed and coarsely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            5 cups chicken or vegetable stock          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 rind (about 2 inches square) from a piece of Parmesan cheese          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ tsp. kosher salt, or less if your broth is well salted          </div>
+                      <h3>For the sour cream:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 cup sour cream (not low-fat or nonfat)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 scallions, white and pale green parts only, very thinly sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup minced chives          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. grated lemon zest          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. fresh lemon juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup finely grated Parmesan cheese          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ tsp. pressed or minced garlic          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In a small stockpot or Dutch oven, warm the butter and oil over medium heat. Add the leeks and onion, and cook, stirring occasionally, until they have softened and the onion is translucent, about 10 minutes. Add the garlic, and cook for one minute. Add the broccoli, stock, Parmesan rind, and salt, and stir to mix. Bring to a boil, reduce to a simmer, and cook, partially covered, until the broccoli is tender, about 20 minutes.</p>
+<p>While the soup cooks, prepare the cream. In a medium bowl, stir together the sour cream, scallions, chives, lemon zest, lemon juice, grated Parmesan, salt, and garlic, mixing until fully combined. Taste, and adjust as necessary.</p>
+<p>To finish the soup, remove the Parmesan rind. Using a blender and working in small batches – when puréeing hot liquids, never fill the blender more than one-third full – purée until very smooth. (Alternatively, purée it in the pot with an immersion blender.) Return the soup to the pot, add a few dollops of the cream mixture – I add about 1/3 cup – and stir to incorporate. Taste for seasoning, and adjust as necessary. If needed, rewarm the soup gently over low heat.</p>
+<p>Serve the soup with a spoonful or two of the remaining cream on top.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 6 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

@@ -1,0 +1,114 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Maybe he&#8217;s right</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Granola No. 5</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-04-26T04:18:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2014/04/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>You can use any nuts you like here – or even seeds, if you want to. That’s the beauty of measuring by weight: as long as you use about 400 grams in all, it doesn’t matter which nuts or seeds you use or how much of each. I most often use almonds and walnuts, which I coarsely chop, but I also like to throw in some pecans now and then.</p>
+<p>About kosher salt, take note: I use Diamond Crystal brand, which is less salty than Morton. If you use the latter, you’ll probably only want to use about 1 ½ teaspoons.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            600 grams (6 cups) old-fashioned rolled oats          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            100 to 150 grams (about 2 to 3 loose cups) unsweetened coconut chips          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            400 grams nuts (maybe 3 to 4 cups? see headnote), chopped if you like          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (240 ml) maple syrup, preferably Grade B          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup (160 ml) olive oil          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Position racks in the upper and lower thirds of the oven, and preheat to 300. Line two rimmed baking sheets with parchment.</p>
+<p>Measure the dry ingredients into a large bowl, and stir well. Add the maple syrup and olive oil, and stir to evenly coat. Divide the mixture between the two prepared sheet pans, spread it out, and bake, stirring the granola and flipping the pans once or twice, until golden brown, about 40 minutes. I generally check on the granola every 15 minutes as it’s baking, and I gauge its doneness by color: in particular, I’m looking for the coconut chips to toast and for the whole mixture to achieve nice, even browning.</p>
+<p>Allow to cool completely, then transfer the granola to airtight containers. Eat with plain yogurt (my favorite), milk, or on its own. You can store it at room temperature for a couple of weeks, easy, but if you use it more slowly than that, consider freezing some of it.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: I’ve never actually measured, but probably about 3 quarts.</p>
+  </section>
+                    
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Judy Rodgers's Roasted Applesauce</h2>
+    <h3 class="subtitle">From the Zuni Cafe Cookbook and Kristen Miglore’s Genius Recipes</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-04-07T04:08:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2014/04/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 ½ to 4 pounds apples (Rodgers uses crisp eating apples, like Braeburns, Pippins, or Galas; I used Pink Ladies)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Pinch of salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 to 2 teaspoons sugar, or to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tablespoons unsalted butter, cut into slivers          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A splash of apple cider vinegar, optiona          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 375 F.</p>
+<p>Peel, core, and quarter the apples. Put them in a (ungreased) baking dish just large enough to hold them in a crowded single layer. (I find that a 9&#215;13 dish is perfect.) Toss with a little salt and 1 teaspoon of the sugar. (Unless they are very sweet, in which case you might not need any sugar at all.) If they are tart enough to make you squint, use 2 teaspoons of sugar. Dot the apples with butter, cover tightly with aluminum foil, and bake until the apples start to soften, about 15 to 30 minutes. Remove the foil, raise the heat to 500 F, and return the pan to the oven. Leave the apples to dry out and color slightly, about 10 minutes more. When the tips of the apples are golden and the fruit is tender, remove the pan from the oven, and coarsely mash the apples. (You could use a potato masher, but I just use the back of a wooden spoon, and I leave mine very chunky.)  If you like, season the applesauce further with salt and sugar to taste, and then consider a splash of apple cider vinegar to brighten the flavor. (You can try a drop on a spoonful to see if you like it; I haven’t found that my applesauce needs it.)</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 3 cups</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

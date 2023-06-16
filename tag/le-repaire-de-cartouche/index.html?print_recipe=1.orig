@@ -1,0 +1,83 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>It made an impression</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Brown Sugar Clafoutis with Pears</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2013-10-06T21:03:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/le-repaire-de-cartouche/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I use golden brown sugar here, because it’s what I usually have, but if you have dark brown sugar, go ahead and try it. And then let me know how it is.  Also, I know this seems like a lot of sugar, but trust me.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            Butter, for greasing the pan          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About 2 teaspoons granulated sugar, for dusting the pan          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large (about 225 to 285 grams, or 8 to 10 ounces) ripe pear          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ¼ cups (295 ml) whole milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (155 g) brown sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ tsp. vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/8 tsp. fine sea salt or table salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (70 grams) all-purpose flour          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 375°F. Butter a 9 ½-inch pie plate and dust it lightly with granulated sugar. Shake out any excess.</p>
+<p>Peel and core the pear, and slice it thinly. (I cut mine into 12 to 14 slices.) Arrange them on the bottom of the prepared pan.</p>
+<p>In the jar of a blender, combine the milk through flour. Blend on high speed for 1 minute (stopping once, if needed, to scrape down any flour that may stick to the sides of the jar). Pour the batter over the pears.</p>
+<p>Bake until the custard is puffed and golden brown and a tester inserted into the center comes out clean, 30 to 35 minutes. Cool on a wire rack. The custard will deflate a little as it cools.</p>
+<p>Serve at room temperature or &#8211; my preference &#8211; chilled.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

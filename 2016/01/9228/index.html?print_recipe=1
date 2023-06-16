@@ -1,0 +1,91 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>That January thing</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Split Pea Soup</h2>
+    <h3 class="subtitle">Cook's Illustrated, via <a href="http://www.food.com/recipe/split-pea-soup-cooks-illustrated-333665">Food.com</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2016-01-29T15:52:29-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            A meaty ham bone, roughly 2 ½ pounds (1.15 kg)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 quarts (2.85 liters) water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 bay leaves          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 pound (450 grams) split peas, about 2 ½ cups          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon dried thyme          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tablespoons olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium onions, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium carrots, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium celery stalks, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tablespoon (14 grams) unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 medium garlic cloves, chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 pinch sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 small new potatoes, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper, for serving          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Put the ham, bay leaves, and water in a large stock pot or Dutch oven. Cover, and bring to a boil. Reduce the heat to maintain a very gentle simmer, and cook until the meat is tender and pulls away from the bone, 2 to 2½ hours. Remove the ham meat and bone from pot. When the ham is cool enough to handle, shred the meat into bite-sized pieces. Discard the bone and any excessive fat.</p>
+<p>Add the split peas and thyme to the ham stock. Bring back to a boil, reduce the heat, and simmer gently, uncovered, until the peas are tender but not yet dissolved, about 45 minutes.</p>
+<p>Meanwhile, heat the oil in a large skillet over medium-high heat. Add the onions, carrots, and celery, and cook, stirring frequently, until the vegetables give off some moisture, that moisture evaporates, and the vegetables begin to brown, 5 to 10 minutes. Reduce the heat to medium-low, and add the butter, garlic, and sugar. Cook the vegetables, stirring frequently, until golden brown, the color of honey, about 30 to 35 minutes. Set aside.</p>
+<p>When the split peas are tender but not yet dissolved, add the cooked vegetables, the potatoes, and the shredded ham to the pot. Simmer until the potatoes are tender and the peas dissolve and thicken soup to the consistency of light cream, about 20 minutes more. (Remember that the potatoes will continue to cook slightly as the soup cools down.) Taste for salt, though you won&#8217;t likely need any, since ham is salty. Serve hot, with freshly ground black pepper.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: Food.com says 6 cups, but that's wrong; both Matthew and I get nearly 4 quarts</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

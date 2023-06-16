@@ -1,0 +1,71 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>A lot of rhubarb</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Roasted Rhubarb</h2>
+    <h3 class="subtitle">Inspired by Canal House Cooking, Volume 3</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-03-29T07:25:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>For the wine here, I used our house white at Delancey: Château de Pellehaut Harmonie de Gascogne, a blend of Ugni Blanc, Colombard, Gros Manseng, Chardonnay, and Sauvignon Blanc. It’s bright and crisp and citrusy.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 lb. rhubarb, trimmed and cut into 3-inch lengths          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup crisp white wine          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 vanilla bean, split          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Set a rack in the lower third of the oven, and preheat the oven to 350°F.</p>
+<p>Put the rhubarb in a Dutch oven or other deep oven-safe pot. Add the sugar, wine, and vanilla bean, and stir to mix. Bake (uncovered) for about 30 minutes, or until very tender, giving the pot a gentle stir about midway through to ensure that the rhubarb cooks evenly.</p>
+<p>Note: I like to eat this cold, though I imagine you could also serve it warm.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 6 servings, depending on how greedy you are</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

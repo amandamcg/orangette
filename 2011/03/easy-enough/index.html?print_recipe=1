@@ -1,0 +1,75 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Easy enough</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Parsnip Soup</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.spilledmilkpodcast.com/2011/03/03/parsnip-puree-recipe-from-episode-33/">Spilled Milk</a> and Matthew Amster-Burton</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-03-28T04:41:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>It doesn’t get simpler than this, so be sure you start with fresh, firm parsnips and decent-tasting vegetable stock. Homemade is nice, but honestly, I use <a href="http://www.superiortouch.com/retail/products/better-than-bouillon/vegetarian-bases/43/no-chicken-base">Better Than Bouillon No Chicken Base</a>, and the results are great.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 to 3 ½ lb. parsnips          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 quarts vegetable stock          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. unsalted butter, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Water or additional stock, as needed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup heavy cream          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt, to taste          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Peel the parsnips, trim and discard the ends, and cut into ½-inch pieces. Put in a large pot, and add the vegetable stock. Bring to a simmer, and cook, uncovered, until the parsnips can be easily pierced with a fork, about 20 to 25 minutes.</p>
+<p>Set a fine-mesh strainer over another large pot. Working in batches, puree the parsnips and stock in a blender, tossing in a couple of pieces of butter with each batch. (And remember that hot liquids expand, so never fill the blender more than a third.) This amount of stock should yield a somewhat thick soup, and you will likely need to add a little additional water or stock as you blend, until the soup reaches your desired consistency. As you finish pureeing each batch, pour the soup through the strainer into the pot, stirring and scraping as needed with a rubber spatula to push the puree through the mesh.</p>
+<p>When the soup is entirely pureed, stir in the cream. Rewarm gently over low heat. Taste for salt, and serve hot.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: I can’t remember exactly, but I would guess 6 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

@@ -1,0 +1,93 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Here was an opportunity</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Honey-and-Spice Roasted Carrots with Tahini Yogurt</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/product/1607746212/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607746212&linkCode=as2&tag=orangette-20&linkId=5M4TZJIDAP7QGKKQ" target="_blank">Plenty More</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2015-06-02T17:30:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>This recipe halves easily, and I’ll bet it also doubles well. And if you use a scale to measure the ingredients by weight, it comes together very, very fast. Oh, and though the original version calls for Greek yogurt, I prefer regular plain yogurt, so that’s what I keep around, and it worked just fine.</p>
+<p>To toast the coriander and cumin seeds, put a small skillet over medium heat, add the seeds (only one type at a time; they’ll probably toast at different rates), and stay nearby, shaking the pan occasionally. They’re ready when they smell fragrant. Remove them from the heat immediately, and crush them coarsely in a mortar and pestle or under the side of a knife. Repeat with the other type of seeds.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For yogurt sauce:</h3>                  <div class="ingredient" itemprop="ingredients">
+            Scant 3 tablespoons (40 grams) tahini, such as Joyva brand          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup (130 grams) plain whole-milk yogurt or Greek yogurt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tablespoons lemon juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 garlic clove, crushed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Generous pinch of kosher salt, such as <a href="http://www.diamondcrystalsalt.com/Food/Products/Kosher-Salt/Kosher-Salt.aspx" target="_blank">Diamond Crystal</a> brand          </div>
+                      <h3>For carrots:</h3>                  <div class="ingredient" itemprop="ingredients">
+            Scant 3 tablespoons (60 grams) honey          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tablespoons olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ teaspoons coriander seeds, toasted and lightly crushed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ teaspoons cumin seeds, toasted and lightly crushed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Leaves from 2 sprigs fresh thyme, or a generous pinch of dried thyme          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 pounds (1.3 kilograms) carrots, peeled and cut into index-finger-sized batons          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ tablespoons cilantro leaves, chopped or not          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Black pepper          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 425°F, and line a large rimmed sheet pan with parchment paper.</p>
+<p>Combine the sauce ingredients in a small bowl, and whisk well. Set aside while you roast the carrots.</p>
+<p>Combine the honey, oil, coriander and cumin seeds, and thyme in a large bowl. Add 1 teaspoon kosher salt and a few grinds of black pepper. Whisk as well as you can; the honey might make it pretty goopy. Add the carrots, and mix until well coated. (I found it easiest to do this with my hands, since the honey wanted to clump instead of coat the carrots.) Dump the carrots onto the prepared sheet pan, and arrange them evenly in a single layer. Roast, stirring gently once or twice, until they are cooked through and glazed, 30 to 40 minutes.</p>
+<p>Serve the carrots warm or at room temperature, with a good spoonful of sauce on top or smeared on the plate underneath them. Scatter with cilantro.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

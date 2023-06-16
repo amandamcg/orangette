@@ -1,0 +1,93 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>What I do now</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Plum Crumble</h2>
+    <h3 class="subtitle">Adapted from Marion Burros and <a href="http://wednesdaychef.typepad.com/the_wednesday_chef/2007/08/marian-burross-.html">Luisa Weiss</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-09-20T21:37:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>The original version of this recipe is hard to improve upon, but I have made a couple of small changes. When I measure the sugar for the topping, I keep it on the scant side, because I like my plums solidly sweet-tart. I also reduced the butter a bit, because it seemed to want to pool in a kind of scary way at the bottom of the pan. Cutting it back even a little seems to help a lot.</p>
+<p>At Delancey, I make this crumble in bigger batches, and it scales up beautifully. If you need to feed a crowd, try tripling the recipe as I’ve written it below, and bake it in a 9”-by-13” dish, as pictured above. Works like a charm.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For the plums:</h3>                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. lightly packed brown sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ Tbsp. all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ tsp. ground cinnamon          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ tsp. ground ginger          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. finely chopped crystallized ginger          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            12 to 14 Italian prune plums, halved and pitted          </div>
+                      <h3>For the topping:</h3>                  <div class="ingredient" itemprop="ingredients">
+            Scant ¾ cup granulated sugar (about 4 to 4 ½ ounces)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. ground cinnamon          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ tsp. kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 egg, beaten well          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            7 Tbsp. unsalted butter, melted          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Position a rack in the center of your oven, and preheat the oven to 375°F.</p>
+<p>In a medium bowl, whisk together the seasoning for the plums: the brown sugar, flour, cinnamon, ginger, and crystallized ginger. Add the plums, and gently stir to coat. Arrange the plums skin side up in an ungreased deep 9-inch pie plate.</p>
+<p>In another medium bowl, combine the dry ingredients for the topping: the granulated sugar, flour, cinnamon, baking powder, and salt. Whisk to blend well. Add the egg. Using your hands, mix thoroughly, squeezing and tossing and pinching handfuls of the mixture, to produce moist little particles. Sprinkle evenly over the plums.</p>
+<p>Spoon the butter evenly over the topping, and bake for 30 to 35 minutes, until the top is browned and the plums yield easily when pricked with toothpick. Cool.</p>
+<p>Serve crumble warm or at room temperature, with crème fraîche, thick yogurt, or unsweetened whipped cream.</p>
+<p>Note: To reheat leftovers, it’s best to do it slowly, in an oven set to 300 degrees.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 6 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

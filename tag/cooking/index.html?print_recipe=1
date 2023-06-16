@@ -1,0 +1,126 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>I am not kidding around</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Pasta with Fried Prosciutto, Parmesan, and Butter</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FGiuliano-Hazans-Thirty-Minute-Pasta%2Fdp%2F1584798076&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">Giuliano Hazan’s Thirty Minute Pasta</span></a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-11-30T07:53:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I should tell you, before I go any further, that I received this book as a free review copy. That fact has not clouded my judgment, I swear. I receive many review copies that I never write about, and I only mention a recipe here if it’s a keeper. This one is.</p>
+<p>The proper title for this dish is tagliatelle alla Romagnola, but since I didn’t use tagliatelle, I’m winging it, title-wise. I hope Mr. Hazan will forgive me. I used penne rigate, which was fine, although I’ll bet it would be even better with a long noodle – dried egg tagliatelle, ideally. I have written the recipe below for one serving, because I usually make it when I’m working at home alone and in need of a quick meal, but the recipe scales up very easily. The original recipe, as Mr. Hazan wrote it, serves four and uses four ounces of prosciutto, 4 four tablespoons of butter, and so on.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 oz. prosciutto, sliced 1/8 inch thick          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About 3 ounces dried pasta, preferably egg tagliatelle          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly grated Parmigiano-Reggiano          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Fill a deep pot with water for the pasta. Salt the water well. Place over high heat, and bring to a boil.</p>
+<p>Cut the prosciutto into narrow strips – about ¼ to ½ inch wide – and then cut the strips into short segments, each about 1 inch long. Warm the butter in a 10-inch skillet over medium heat. When the butter has melted, add the prosciutto, and season with a tiny pinch of kosher salt. Cook until the prosciutto has lost its raw color, but not long enough for it to brown, about 1 to 2 minutes. Remove from the heat.</p>
+<p>When the water boils, cook the pasta until it is al dente. Drain it – but not too thoroughly; you want the noodles to still be coated with some moisture – and turn it into the skillet with the prosciutto. Toss. Grate a little Parmigiano-Reggiano on top, and toss again. Serve immediately, with more Parmigiano-Reggiano to taste.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 1 serving</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Roasted Asparagus with Walnut Crema and Pecorino</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FA16-Food-Wine-Nate-Appleman%2Fdp%2F1580089070%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1239130706%26sr%3D1-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><i>A16: Food + Wine</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-04-08T05:08:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>The original version of this recipe calls for Pecorino Tartufo, a sheep’s milk cheese with black truffle, but barring that, any aged pecorino works nicely. I used Pecorino Romano. The original recipe also calls for finishing the dish with some toasted walnuts, but I skipped that part. The walnut crema carried plenty of nut flavor for me, and I thought that anything more was overkill. Maybe I’m weird. Either way, I finished mine with a squeeze of lemon, and it was a nice counterbalance to the richness of the crema.</p>
+<p>This recipe is intended to serve six, and even if you don’t need to feed that many, I would go ahead and make the full amount of crema. It will keep in the fridge for a few days, and you can roast the asparagus as needed. (One bunch is perfect for two people.) Also, Brandon has a hunch that leftover crema would make a terrific sauce for pasta, tossed with fresh garlic, lemon, and a little Italian parsley.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For walnut crema:</h3>                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups raw walnuts          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup plus 1 Tbsp. extra virgin olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 small red onion, diced (about 1 cup)          </div>
+                      <h3>For asparagus:</h3>                  <div class="ingredient" itemprop="ingredients">
+            3 bunches fat asparagus (about 30 spears, total)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Extra virgin olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 block Pecorino Romano or Pecorino Tartufo          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Lemon wedges, optional          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>To make the walnut crema, bring a pot of salted water to a boil. Add the walnuts, and blanch for 8 to 10 minutes, or until tender in the middle. (I pulled mine out after 8 minutes, thinking that they seemed tender enough, but I should have left them for the full 10 minutes. My finished crema was slightly grainy, probably meaning that my walnuts weren’t soft enough.) Drain the walnuts, reserving ¼ cup of the cooking water. Set aside separately.</p>
+<p>In a small skillet, warm 1 Tbsp. olive oil over medium heat. Add the onion and a generous pinch of salt, and sweat for about 7 minutes, or until golden brown and softened. Remove from the heat.</p>
+<p>In the bowl of a food processor, combine the walnuts, the reserved cooking water, and the onion, and process until creamy. Taste for seasoning: it will probably need a decent amount of salt. With the motor running, slowly add ½ cup olive oil, processing until blended. The crema should have the consistency of a creamy hummus. If it seems too thick, add a little water. Taste again for seasoning, and then transfer to a bowl or other container. Cover, and hold at room temperature. (Crema can be stored, tightly covered, in the refrigerator for a few days. Bring to room temperature before serving.)</p>
+<p>Preheat the oven to 500°F. Line two baking sheets with aluminum foil.</p>
+<p>Snap the tough ends from the asparagus spears. Rinse them, and then dry them well. Spread them in a single layer on the prepared baking sheets. Drizzle them lightly with olive oil, and roll them around, smearing the oil with your hands, to coat evenly. Season with kosher salt. Bake for about 8 minutes, shaking the pan once or twice, until blistered, slightly charred, and tender.</p>
+<p>To serve, spoon the crema evenly across the bottom of a platter. Arrange the asparagus spears on top. Working quickly, while the asparagus is still hot, shave Pecorino generously over the platter. Finish with a drizzle of olive oil, and serve immediately, with a squeeze of lemon, if you like.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 (first-course) servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

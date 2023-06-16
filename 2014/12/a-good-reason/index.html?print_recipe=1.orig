@@ -1,0 +1,74 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>A good reason</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Russian Tea Cakes</h2>
+    <h3 class="subtitle">From my mother, via Nettie Maxwell</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-12-21T01:00:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2014/12/a-good-reason/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>My mother’s version doesn’t call for toasting the pecans, but I think the cookies would be best if you toasted them. And it would be easy to do: before chopping them, pop them in a 325°F oven for a few minutes, until they’re fragrant. Allow to cool, and then chop away.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 sticks (226 grams) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (about 50 grams) powdered sugar, sifted, plus more for rolling the cookies          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 ¼ cups (315 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ teaspoon fine sea salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup (about 85 grams) finely chopped pecans, preferably toasted (see above)          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In the bowl of a stand mixer (or with handheld beaters), combine the butter, ½ cup powdered sugar, and vanilla, and beat until light and fluffy. In a small bowl, whisk together the flour and salt. Add the flour mixture to the butter mixture, beating just to blend. Add the pecans, and mix just a little more, until the nuts are incorporated. Use your hands to gather the dough into a ball, pressing in any runaway nuts. Wrap in plastic wrap, and refrigerate overnight.</p>
+<p>The next day, preheat the oven to 375°F, and line two baking sheets with parchment. Remove the chilled dough from the fridge, and allow it to soften for about 10 minutes before handling it. Pinch off small lumps of dough, roll them into 1-inch balls, and space them evenly on the prepared baking sheets. Bake for about 10 minutes, or until they are set but not browning – though, yes, the undersides will brown slightly. Allow to cool for a few minutes. Put some powdered sugar in a pie plate or shallow bowl. While the cookies are still warm, roll them in the sugar, and then set them on a cooling rack. The sugar will only coat them lightly, and they may feel a little sticky. Cool them completely, and then roll them a second time.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 40 cookies</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

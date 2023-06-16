@@ -1,0 +1,74 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>And then the cake came forth</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Gâteau au chocolat fondant de Nathalie, or Kate's Winning-Hearts-and-Minds Cake</h2>
+    <h3 class="subtitle">Adapted from <em><a href="http://www.fnac.com/Shelf/article.asp?Mn=1&SID=bbe8275e-c642-d801-09e2-6c6b9b109514&amp;amp;amp;amp;amp;amp;amp;amp;amp;TTL=240920040553&Origin=FnacAff&PRID=1275716&Ra=-1&To=0&Nu=1&UID=0845835eb-a89d-ebc2-bc9a-10e3422c9b03&Fr=-1">Je veux du chocolat!,</a></em> by Trish Deseine</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2004-08-09T01:11:00-04:00">
+  </header>
+
+      <figure class="hero">
+      <img width="640" height="480" src="../../../wp-content/uploads/2004/08/Gateau_fondant_slice.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" itemprop="photo" />    </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            7 ounces (200 grams) best-quality dark chocolate          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            7 ounces (200 grams) unsalted butter, cut into ½-inch cubes          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 1/3 cup (250 grams) granulated sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            5 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbs unbleached all-purpose flour          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 375 degrees Fahrenheit, and butter an 8-inch round cake pan. Line the base of the pan with parchment, and butter the parchment too.</p>
+<p>Finely chop the chocolate (a serrated bread knife does an outstanding job of this) and melt it gently with the butter in a double boiler or in the microwave, stirring regularly to combine. Add the sugar to the chocolate-butter mixture, stirring well, and set aside to cool for a few moments. The mixture will look gritty. Then add the eggs one by one, stirring well after each addition &#8211; the mixture will look slimy &#8211; and then add the flour. Mix until the batter no longer looks slimy but instead smooth, dark, and utterly gorgeous.</p>
+<p>Pour batter into the buttered cake pan and bake for approximately 25 minutes, or until the center of the cake looks set and the top is shiny and a bit crackly-looking. (I usually set the timer for 20 minutes initially, and then I check the cake every two minutes thereafter until it’s done. At 20 minutes, it’s usually quite jiggly in the center. You’ll know it’s done when it jiggles only VERY slightly, if at all. It&#8217;s hard to overbake this cake.)</p>
+<p>Let the cake cool in its pan on a rack for 15 minutes; then carefully turn the cake out of the pan and revert it, so that the crackly side is facing upward. Allow to cool completely. The cake will deflate slightly as it cools.</p>
+<p>Serve in wedges at room temperature with a loose dollop of ever-so-slightly sweetened whipped cream.</p>
+<p>Note: This cake is even better on the second day, so consider making it the day before serving. And thank you to Clotilde of <a href="http://www.chocolateandzucchini.com/">Chocolate &amp; Zucchini</a>, whose mention of a clementine cake in Trish Deseine’s <em><a href="http://www.fnac.com/Shelf/article.asp?Mn=1&amp;SID=bbe8275e-c642-d801-09e2-6c6b9b109514&amp;TTL=240920040554&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;Origin=FnacAff&amp;PRID=1465136&amp;Ra=-1&amp;To=0&amp;Nu=1&amp;UID=0845835eb-a89d-ebc2-bc9a-10e3422c9b03&amp;Fr=-1">Mes petits plats préférés</a></em> led to my stumbling upon <em>Je veux du chocolat!</em> in the bookstore one day.</p>
+    </div>
+  
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

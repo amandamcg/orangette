@@ -1,0 +1,88 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Cooking with a young child</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Jimmy's Pink Cookies</h2>
+    <h3 class="subtitle">from <i>A Homemade Life</i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2016-02-19T18:40:13-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I made the dough first thing on Wednesday morning, while June was watching <em>Daniel Tiger</em> &#8211; real talk &#8211; and it was ready to roll out an hour later, when our friends arrived. I <em>highly</em> recommend making the dough ahead, since waiting for dough to chill is not easy for kids. And if you can, go ahead and measure out the frosting ingredients while you&#8217;re doing the dough.</p>
+<p>Once we were ready to get started, I took charge of rolling out the dough, and then the girls went to work with their chosen cookie cutters. (The original recipe below calls for using round cookie cutters, but we used alphabet shapes.) I helped ease the dough shapes from the cutters onto the baking sheet, and I rerolled the dough scraps as needed. But mostly, I let them do their thing. While the cookies baked and cooled, June helped me beat up the frosting, and then each kid got a small knife and their own bowl of frosting for spreading on the finished cookies.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For the cookies:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 ½ sticks (170 grams) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup powdered sugar, sifted          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups (210 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ teaspoon fine sea salt or table salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ teaspoon vanilla extract          </div>
+                      <h3>For the frosting:</h3>                  <div class="ingredient" itemprop="ingredients">
+            4 ounces (112 grams) cream cheese, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 tablespoons (42 grams) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups powdered sugar, sifted          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ teaspoon kirsch, or more to taste, or a half-capful of cherry extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Red food coloring (optional, but the frosting won't be pink without it)          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>To make the cookies, combine the butter and powdered sugar in the bowl of a stand mixer fitted with the paddle attachment. Beat, first on low speed and then slowly increasing to medium, until light and fluffy. Scrape down the side of the bowl as needed.</p>
+<p>In a medium bowl, whisk the flour and salt. With the mixer on low speed, add the flour mixture to the butter mixture, beating until the flour is just absorbed. Add the vanilla, and beat well to incorporate. Lay a sheet of plastic wrap on the countertop, and turn the dough out onto it. Gather the dough into a ball, and press it into a thin, smooth disk. Wrap well, and refrigerate for one hour.</p>
+<p>Preheat the oven to 325 degrees. Line two baking sheets with parchment.</p>
+<p>On a clean, lightly floured surface, roll out the dough to a thickness of about 3/8 inch. Using a cookie cutter, cut the dough into any shape you like. (My friend Jimmy uses a heart-shaped cutter when he makes these cookies; I usually use a 2 ½-inch circle.)</p>
+<p>Place the cookies on the prepared baking sheets, spacing them 1 ½ inches apart. Bake them one sheet at a time, keeping the second sheet in the fridge until the first is done, for about 16 minutes, or until the cookies look set and are just pale golden at the edge. Do not allow them to brown. Transfer the pan to a wire rack, and allow the cookies to cool completely on the pan. Repeat.</p>
+<p>To make the frosting, put the cream cheese and butter in the bowl of a stand mixer fitted with a paddle attachment, and beat on medium speed until smooth. Add the powdered sugar, and beat on low speed to incorporate. Then raise the speed to medium, and beat until there are no lumps, scraping down the side of the bowl as needed. Add the kirsch and a couple of drops of food coloring, and beat well.  The frosting should be pale pink, ideally, though June wanted it darker than that, so we added some more coloring. Spread the frosting generously &#8211; this is key! lots of frosting! &#8211; onto the fully cooled cookies.</p>
+<p>Stored in an airtight container, the frosted cookies will keep in the fridge for a few days, and they&#8217;re delicious cold. You can also freeze them.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 10 to 12 (3-inch) cookies, or more smaller cookies</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

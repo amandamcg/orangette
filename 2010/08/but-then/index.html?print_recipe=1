@@ -1,0 +1,85 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>But then</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Berry Cobbler</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FChez-Panisse-Desserts-Lindsey-Shere%2Fdp%2F0679755713%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1282793490%26sr%3D1-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><span style="font-style: italic;">Chez Panisse Desserts</span></a>, by Lindsey R. Shere</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-08-27T07:49:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Lindsey Shere was Chez Panisse’s original pastry chef, and I love her style. She approaches even the simplest desserts with elegance and great precision. This cobbler is a good example of that.</p>
+<p>The original version of this recipe calls for boysenberries, blueberries, and raspberries. I make it with roughly 3 cups of blueberries and 1½ cups of raspberries, and I love the flavor that results. I think I’ll be sticking with that combination for a while, although I might be tempted to work in some blackberries. The only berries that don’t work so nicely here are strawberries. The texture gets weird: spongy and slimy, a little reminiscent of a jellyfish. Oh, and if you’re using frozen berries, I recommend thawing them at least partially, or else they take a little longer to cook.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For fruit:</h3>                  <div class="ingredient" itemprop="ingredients">
+            4½ cups berries of your choice, fresh or frozen          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 to 1½ Tbsp. all-purpose flour          </div>
+                      <h3>For cobbler dough:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1½ cups all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3/8 tsp. table salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1½ Tbsp. sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2¼ tsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 Tbsp. cold unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup whipping cream          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 375°F.</p>
+<p>Toss the berries with the sugar and flour. Use the larger amount of flour if the berries are very juicy. Set aside.</p>
+<p>In a medium bowl, combine the dry ingredients for the cobbler dough. Using your fingers or a pastry blender, cut in the butter until the mixture looks like coarse cornmeal. Add the cream and mix lightly, until the dry ingredients are just moistened. [You can prepare the dry ingredients and butter up to a few days ahead, storing it in the refrigerator. The cream should not be added until you’re ready to bake.]</p>
+<p>Put the berry mixture into a 1½-quart baking dish. Scoop up lumps of dough and form into rough patties, 2 to 2½ inches in diameter and about ½ inch thick. I find that the dough is a little sticky, so it helps to moisten my hands with a little water. Arrange the dough patties on top of the berries. Bake for 35 to 40 minutes, or until the topping is set and lightly browned and the berry juices bubble thickly around the edges of the dish.</p>
+<p>Serve warm, with cream to pour over.</p>
+<p>Note: This cobbler keeps well at room temperature for about two days. (I don’t like to refrigerate it, because the texture of the topping changes.) Rewarm it gently, if you want, before serving.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 6 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

@@ -1,0 +1,85 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>As ever</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Coconut-Lemon Tea Cake</h2>
+    <h3 class="subtitle"><i><a href="http://www.shortstackeditions.com/collections/single-editions/products/vol-13-lemons-by-alison-roman" target="_blank">Lemons</a></i>, by Alison Roman (<a href="http://www.shortstackeditions.com/" target="_blank">Short Stack Editions</a>, Volume 13)</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2015-10-01T21:47:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2015/10/as-ever/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Three notes before we get started: I tend to have regular whole-milk yogurt on hand, not Greek yogurt, and I used what I had. I haven’t had this cake when made with Greek yogurt, but I can imagine that it could only be better. It was plenty moist and tender with regular yogurt. Also, re: the mildly fiddly step of rubbing the sugar and lemon zest together with your fingers, I know I know I know, but do it. It infuses the sugar with lemon flavor, and lemon flavor is what this cake is all about. Lastly, because coconut oil is very hard and crumbly at room temperature, I find it difficult to measure by volume. So I measure it by weight, scraping and chipping it from the jar onto the scale, and <em>then</em> I melt it.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 ½ cups (210 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ teaspoon kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ¼ cup (250 grams) sugar, divided          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tablespoons finely grated lemon zest          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup (210 grams) whole-milk Greek yogurt (see note above)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (80 grams) coconut oil, melted          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (35 grams) unsweetened coconut flakes          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tablespoons fresh lemon juice          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 350°F. Grease a (9”x5”-ish) loaf pan lightly with cooking spray or butter, and line it with parchment paper. Grease that too, while you&#8217;re at it. (Though trying to grease paper with butter can be an infuriating, wrinkle-filled endeavor, so I won&#8217;t blame you if you skip it.)</p>
+<p>In a medium bowl, whisk the flour, baking powder, and kosher salt.</p>
+<p>In a large bowl, rub 1 cup of the sugar with the lemon zest until the sugar is fragrant and yellow and smells, well, like you just rubbed a lemon in there. Whisk in the yogurt, coconut oil, and eggs. Add the flour mixture, and stir just to blend.</p>
+<p>Scrape the batter into your prepared pan, and smooth the top. Sprinkle coconut flakes over the surface, and bake until the top of the cake is golden brown, the edges pull away from the side of the pan, and a tester inserted in the center comes out clean, 50 to 55 minutes. (I found that the coconut flakes were browning before the cake was done, so I tented the cake loosely with foil after about 45 minutes.)</p>
+<p>While the cake bakes, combine the lemon juice and remaining ¼ cup of sugar in a small saucepan, and bring it to a simmer. Cook, stirring occasionally, just until the sugar has dissolved. Turn off the heat, and keep the mixture warm. When the cake is done, brush the top with the syrup; then return the cake to the oven and bake for 5 minutes more to re-crisp the coconut. Remove the cake from the oven, and cool completely before serving.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 1 standard-sized loaf</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

@@ -1,0 +1,666 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>A good reason</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Russian Tea Cakes</h2>
+    <h3 class="subtitle">From my mother, via Nettie Maxwell</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-12-21T01:00:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>My mother’s version doesn’t call for toasting the pecans, but I think the cookies would be best if you toasted them. And it would be easy to do: before chopping them, pop them in a 325°F oven for a few minutes, until they’re fragrant. Allow to cool, and then chop away.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 sticks (226 grams) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (about 50 grams) powdered sugar, sifted, plus more for rolling the cookies          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 ¼ cups (315 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ teaspoon fine sea salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup (about 85 grams) finely chopped pecans, preferably toasted (see above)          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In the bowl of a stand mixer (or with handheld beaters), combine the butter, ½ cup powdered sugar, and vanilla, and beat until light and fluffy. In a small bowl, whisk together the flour and salt. Add the flour mixture to the butter mixture, beating just to blend. Add the pecans, and mix just a little more, until the nuts are incorporated. Use your hands to gather the dough into a ball, pressing in any runaway nuts. Wrap in plastic wrap, and refrigerate overnight.</p>
+<p>The next day, preheat the oven to 375°F, and line two baking sheets with parchment. Remove the chilled dough from the fridge, and allow it to soften for about 10 minutes before handling it. Pinch off small lumps of dough, roll them into 1-inch balls, and space them evenly on the prepared baking sheets. Bake for about 10 minutes, or until they are set but not browning – though, yes, the undersides will brown slightly. Allow to cool for a few minutes. Put some powdered sugar in a pie plate or shallow bowl. While the cookies are still warm, roll them in the sugar, and then set them on a cooling rack. The sugar will only coat them lightly, and they may feel a little sticky. Cool them completely, and then roll them a second time.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 40 cookies</p>
+  </section>
+                              
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Belgian Endive Bathed in Butter</h2>
+    <h3 class="subtitle">From <a style="font-style: italic;" href="http://www.amazon.com/gp/product/160774516X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160774516X&linkCode=as2&tag=orangette-20&linkId=TIUMDAWC42NRKW4Z" target="_blank">Bitter: A Taste of the World’s Most Dangerous Flavor, with Recipes</a>, by Jennifer McLagan</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-11-21T04:24:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>As McLagan explains, endive should never be cooked in water, because it’s mostly water itself; instead, what it needs is fat. I advise you to listen to her, and to have some good bread or hot rice on hand, to soak up the pan juices.</p>
+<p>One additional note: the original recipe calls for three tablespoons of lemon juice, but I found it a little too lemony. I may well be nuts. But I would suggest starting with two tablespoons and adding more as needed.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            8 Belgian endives, about 1 ¾ pounds or 800 grams          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            7 tablespoons (100 grams) unsalted butter, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher or sea salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 to 3 tablespoons freshly squeezed lemon juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 300°F.</p>
+<p>Wipe the endives with a damp cloth, tear away any leaves that have gone bad, and trim the stem end, if needed.</p>
+<p>Choose an ovenproof skillet with a lid (or, if you don’t have a lid, aluminum foil will work), one that’s just large enough to hold the endives in a single layer. Place the skillet over low heat, and add the butter. When the butter is melted, raise the heat to medium, and cook the butter, stirring and scraping the bottom of the pan from time to time, until the milk solids begin to brown and the butter smells nutty. Add the endives – yes, you’re using them whole, not sliced or halved or otherwise cut up – and lower the heat. Turn them to coat with butter, and season them with salt. Cook, turning occasionally, until they are lightly colored, then pour in 2 tablespoons of the lemon juice. Cover the pan, and place it in the oven for 1 hour. Remove the pan from the oven, turn the endives carefully, and then cover it again and return it to the oven. Cook for another 45 minutes to 1 hour, or until the endives are limp and very, very soft.</p>
+<p>Before serving, taste a little of the pan juices, and if you’d like more brightness, add lemon to taste. Serve hot, with more salt at the table and freshly ground pepper.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 servings</p>
+  </section>
+                    
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Carrot-Coconut Soup with Chile and Lime</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.bonappetit.com/recipe/carrot-coconut-soup" target="_blank"><i>Bon Appetit</i> and the Clayburn Village Store &amp; Tea Shop in Abbotsford, BC</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-10-24T20:42:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            ½ stick (57 grams) unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 lb. (910 grams) carrots, peeled and chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 medium onion, chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 cups (950 ml) chicken broth          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ to 2 (13.5-ounce) cans unsweetened coconut milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About 2 Tbsp. sriracha, or to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Lime wedges, for serving          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Fresh cilantro leaves, chopped, for serving, if you feel like it          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Melt the butter in a large (5-quart) pot over medium-high heat. Add the carrots and onion, season with a couple good pinches of salt, and cook, stirring often, until the carrots are softened, 15-20 minutes. Stir in the broth, 1 ½ cans of the coconut milk, and 1 tablespoon of the sriracha. Bring to a simmer, and cook, stirring occasionally, until the vegetables are very soft and the liquid is slightly reduced, about 45 minutes. Puree in small batches (<em>remember: hot liquids expand!</em>) in a blender. (Or, my preference: puree right in the pot, with an immersion blender.) Check for seasoning, and add more salt and/or sriracha, if you like. (I usually add 1 more tablespoon sriracha.) If you’d like more richness, stir in the rest of the coconut milk, and then reheat as needed.</p>
+<p>Serve with a generous squeeze of lime in each bowl, and top with cilantro, if you have it.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 to 8 servings</p>
+  </section>
+                    
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Italian Plum Jam</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-10-07T19:02:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Note that you’ll want to pit the plums before weighing them. You’re doing this recipe by weight, and you don’t want the pits to mess up your 2:1 plum-to-sugar ratio.</p>
+<p>Also, listen: I know the instructions that follow are <i>long</i>. I wanted to go into as much detail as possible, because I understand that jam-making can seem mysterious. But once you’ve tried it, I doubt you’ll need to read the instructions again. Jam-making is a very tactile thing, all about watching and listening and prodding, and I get better at it, more instinctual, every time I do it.</p>
+<p>Oh, and: My current breakfast of choice is a spoonful of this jam stirred into a bowl of plain whole-milk yogurt.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For the jam:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 kilogram (2 pounds 3 ounces) pitted and quartered Italian prune plums          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            500 grams (1 pound 1 ounce) granulated sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Juice of ½ lemon          </div>
+                      <h3>Equipment:</h3>                  <div class="ingredient" itemprop="ingredients">
+            A Dutch oven, or similar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 (8-ounce) canning jars, with lids and rings          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A rimmed sheet pan          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A couple of clean kitchen towels          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A few saucers          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A large pot for boiling the filled jars          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A rack that fits inside the large pot          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Tongs, or a jar lifter          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Combine the plums, sugar, and lemon juice in a Dutch oven (or other wide, deep pot of similar volume), and let it sit at room temperature for 2 hours, until very juicy. (If your schedule makes this tricky, don’t worry: you can let the mixture sit longer, if needed. I’ve let it hang out for up to 4 or 5 hours.)</p>
+<p>While the fruit is hanging out, wash the jars, lids, and rings in hot, soapy water, so that they’re perfectly clean, and then put the jars (upright) on a rimmed sheet pan. Lay the lids and rings on a clean towel to dry completely. Put a few saucers in the freezer; you’ll need these later, for testing the jam.</p>
+<p>Shortly before you begin cooking the jam, preheat the oven to 225°F, and slide the sheet pan of jars into the preheated oven. It will need to stay there for 30 minutes to sterilize the jars. (I find this oven method easier than boiling the empty jars, because I used to always splash boiling water everywhere when I was lifting them out to fill them. But do whatever you prefer. Or, you can entirely skip this sterilizing-before-filling step, because, as it turns out, safety experts no longer consider it necessary. When in doubt, <a href="http://nchfp.uga.edu/publications/uga/uga_jams_jellies.pdf" target="_blank">this</a> is a great resource.)</p>
+<p>After you put the jars in the oven, take out a large pot, place a rack inside of it, fill it with water, and set it over high heat. (I use a <a href="http://www.amazon.com/Andersons-Baking-Cooling-Round-4-Inch/dp/B000HM9TGM/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=round%20cooling%20rack&amp;linkCode=ur2&amp;qid=1412714524&amp;sr=8-1&amp;tag=orangette-20&amp;linkId=FGB6T3YPHKQ72QBX" target="_blank">round cooling rack</a>; <a href="http://foodinjars.com/2013/07/new-to-canning-start-here-boiling-water-bath-canning/" target="_blank">Marisa</a> uses <a href="http://www.amazon.com/Spice-Ratchet-16813-Multi-Use-Silicone/dp/B005FPD6X8/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;qid=1412714434&amp;s=kitchen&amp;sr=1-1&amp;tag=orangette-20&amp;linkId=6DQ4OSFM3Q2YDC32" target="_blank">a silicone trivet</a>; and you can also use a folded dish towel, though it tends to float until you put jars on top of it.) The pot must be large enough to hold 4 or 5 jars in a single layer, and the water should be deep enough to cover the jars by 1 or 2 inches. You’ll want it to be simmering by the time the jam has finished cooking, because you’ll use it for processing the filled jam jars.</p>
+<p>When you’re ready to cook the jam, place the pot of fruit over medium-high heat, and bring the mixture to a rolling boil. Soon, you’ll notice a pale-colored foam rise to the surface. Use a spoon or a skimmer to remove as much of the foam as possible. Keep the jam rolling along at a boil, stirring frequently to prevent scorching, and keep an eye on it: first it will be very juicy, and then it will start to cook down ever so slightly, the texture unifying, the color darkening, the surface glossy. Around this point, maybe 20 minutes into cooking, it will probably also start sputtering like lava when you stir it: be careful! That scary sputtering is how I know to start testing the jam for doneness. It probably won’t be ready on the first try, but it’s good to get a feel for it.</p>
+<p><b>How to test for doneness</b>: In general, the setting point for jam is 220°F, so you can test by taking its temperature as it boils: when it hits 220°F, it’s generally ready. <i>However</i>, that said, pectin-rich fruits set at a slightly lower temperature, so if you always just sit back and let your jam go to 220°F, you could wind up with a too-stiff jam. I prefer to use a more tactile test for doneness: the saucer test. Here’s how to do it:</p>
+<p>Take the pot off the heat while you test it. Take 1 saucer out of the freezer, and dribble a little jam on it, maybe a silver dollar-sized puddle. Return the saucer to the freezer for 15 seconds or so, so that the puddle of jam is neither warm nor cold. Then remove the saucer from the freezer, and sweep a fingertip through the jam: does it feel like it’s developing a certain solidity, as <a href="http://foodinjars.com/2010/07/canning-101-how-to-ensure-that-your-jam-sets/" target="_blank">Marisa</a> explains, so that your finger leaves a trail? Or, on the other hand, is the jam still runny, so that it quickly runs to fill in the trail? If it’s the latter, the jam isn’t quite ready, so return the pot to the heat, stirring, and test again in a few minutes. The jam is ready when your finger <i>just begins</i> to leave a clean trail. Another indication is that when you tilt the saucer, the jam slides very slowly, not quickly. It won’t look like jam, per se, quite yet &#8211; it’ll be softer, gloppier than that &#8211; but it will continue to thicken as it cools. (When in doubt, err on the side of undercooking, I’d say. You can always use it as a syrup on pancakes! You’ll nail it next time!)</p>
+<p>When the jam is ready, remove the sheet pan from the oven. Working carefully – the jars and the jam are very hot! – use a ladle to divide the jam among the jars, leaving ¼ inch of room at the top. (A batch of jam will probably fill 4 jars, and maybe 5, but I like to sterilize 6 jars, just to be safe.) Wipe the rims of the jars with a clean, damp cloth to remove any drips. Put the lids and rings on, taking care to screw them just until they are snug (not crazy-tight). Use tongs or a jar lifter to carefully place the jars, standing upright, on the rack in the pot of simmering water. Bring it up to a boil, and boil for 10 minutes. Remove the jars (carefully!) with tongs or a jar lifter, set them on a rack, and leave them alone to cool completely. As the jars cool, you may hear little pops: that’s the lids sealing. When they’re cool, press each lid lightly to make sure it has sealed: it should curve downward very slightly in the middle. Properly sealed jam is safe to store at room temperature, but refrigerate after opening.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 or 5 (8-ounce) jars</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Ricardo's Famous Guacamole</h2>
+    <h3 class="subtitle">Adapted from Ricardo Valdes</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-09-27T04:45:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>If you don’t mind the expense, it’s a good idea to buy a couple more avocados than you actually need for this recipe. Inevitably, one will have some gnarly spots of rot inside, and you’ll want to throw it out. Also, don’t cut open your avocados until you’ve prepped the rest of the ingredients, because the flesh browns quickly when exposed to air.</p>
+<p>Last, note that this recipe scales up nicely. At Essex, our batches are ten times this size, and we mix them in a bowl big enough to sit in.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 teaspoons lime zest (about 1 lime’s worth)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup (60 ml) lime juice (about 2 limes’ worth)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 tablespoons finely chopped red onion (about 1/8 of an onion)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A handful of chopped cilantro (about ¼ of a bunch)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ of a jalapeno, seeded and finely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ of a serrano, seeded and finely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ of a garlic clove, pressed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 teaspoons olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A couple of generous pinches of kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A couple of grinds of black pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 firm-ripe avocados          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Prepare all of the ingredients, and keep them close at hand. Then, and only then, cut the avocados in half, remove and discard the pits, and (very carefully, with the avocado skin still on) cube the flesh of the avocados with a small knife. Use a spoon to scoop the cubed flesh into a medium bowl. Dump the rest of the ingredients on top of the avocados, and then go after the mixture with two forks or a potato masher, stirring and smashing until you like the texture. Taste, and adjust seasoning. It will likely need more salt, and you may also want more black pepper. If you’d like your guacamole to be spicier, add more chopped jalapeno or serrano. If you’d like more garlic flavor, add another half a clove. Note that the freshly made guacamole will be quite lime-y, but don’t worry, because the lime flavor will mellow with time. (That said, if you still think the lime is too dominant, feel free to add a dribble of olive oil.)</p>
+<p>When the flavor is to your liking, press plastic wrap directly against the surface to keep air away, and chill for at least 1 hour before serving. Guacamole will keep this way without browning for at least a day, and it’ll still taste good after a few days, though it will probably discolor at the surface.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: depends on how guacamole-crazed you are, but probably enough for 4 to 8 adults</p>
+  </section>
+                    
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Fudgesicles</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.foodnetwork.com/recipes/alton-brown/good-eats-fudgepops-recipe.html" target="_blank">Alton Brown</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-08-29T04:16:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>You will note that there’s no sugar in this recipe, which means that you need to be thoughtful about the chocolate you use, because that’s what will bring sweetness. Brown calls only for &#8220;bittersweet chocolate,&#8221; but when I tried using 70% cacao chocolate, which I think of as a pretty standard percentage for bittersweet, it made for a <i>very</i> bittersweet popsicle. More bitter than sweet. Brandon loved it, and June ate it, but it wasn’t really my thing. I like to combine two types of chocolate for this recipe: Valrhona “<a href="http://www.valrhona-chocolate.com/shop/Jivara-40-10978.html" target="_blank">Jivara</a>” 40% milk chocolate, and Valrhona “<a href="http://www.valrhona-chocolate.com/shop/Manjari-64-10976.html" target="_blank">Manjari</a>” 64% dark chocolate. I use four ounces, or 113 grams, of each. (Yes, they are wildly expensive! I know. We buy them in 3-kg bags at the restaurant, and I regularly steal some for my home use. I am a lucky bastard.) If you don’t want to shell out like that, Scharffen Berger also has a good <a href="http://shop.scharffenberger.com/41-Milk-Chocolate-Bar/p/SFB-CBMILK&amp;c=ScharffenBerger@Chocolate@Milk" target="_blank">41% milk chocolate</a>, and my guess is that it would blend nicely here with either the <a href="http://shop.scharffenberger.com/62-Semisweet-Chocolate-Bar/p/SFB-CBSEMI&amp;c=ScharffenBerger@Chocolate@Dark" target="_blank">62% semisweet</a> or the <a href="http://shop.scharffenberger.com/70-Bittersweet-Chocolate-Bar/p/SFB-CBBITTER&amp;c=ScharffenBerger@Chocolate@Dark" target="_blank">70% bittersweet</a>. Whatever chocolate you choose, I wouldn’t recommend going above 64%, at the highest.</p>
+<p>And as for popsicle molds, I use <a href="http://coldmolds.com/index.php/pop-molds/product/41-cmp4210" target="_blank">these</a>.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            8 ounces (225 grams) chocolate, ideally between 45% and 65% cacao          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups (355 ml) heavy cream          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (240 ml) whole milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tablespoons (about 11 grams) unsweetened cocoa          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons vanilla extract          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Finely chop the chocolate, and put it in a medium bowl. (If you have a bowl with a pour spout, use that! Perfect.)</p>
+<p>In a medium (2- to 3-quart) saucepan, combine the cream, milk, and cocoa. Whisk well to dissolve the cocoa, and bring just to a simmer, whisking frequently. Remove from the heat, let sit for a few seconds, and then pour it over the chocolate. Let stand undisturbed for 2 or 3 minutes; then whisk to combine well. Whisk in the vanilla extract. Divide between popsicle molds, and freeze until hard.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 8 to 10 popsicles, depending on the size of your molds.</p>
+  </section>
+                              
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Sour Cherry Shake</h2>
+    <h3 class="subtitle">From <i><a href="http://www.amazon.com/Hungry-Monkey-Food-Loving-Fathers-Adventurous/dp/0547336896/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=SZ6HC6VOFKMB47VZ" target="_blank">Hungry Monkey</a></i>, by Matthew Amster-Burton</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-07-12T05:46:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>The season for sour cherries is short, and they can be hard to find. But keep an eye out: they’re small, bright red, and often labeled as Montmorency cherries. (Or, if they’re dark red, they’re probably the other main sour variety, morello.) You can pit them with a cherry pitter, or you can do it by hand: just pull gently on the stem with one hand while you gently squeeze the cherry with the other. Usually the pit will slip right out with the stem. Usually. (And if not, they’re still easy to pit by hand, tearing them open and pulling out the pit with your fingers. Be sure to do it over a bowl, so as not to lose any juice.) If you can’t get fresh sour cherries, Matthew says that jarred or canned sour cherries (note: not pie filling!) make a good substitute, and that the jarred morello cherries from Trader Joe’s are his favorite.</p>
+<p>Oh, and don’t feel as though you have to have two full pounds of cherries on hand to make this recipe! Sour cherries are expensive! I get it. I only had about 12 ounces last weekend, myself, so I just scaled back accordingly, using about one and a half cups of ice cream. We wound up with three small shakes, perfect for an afternoon snack.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 pounds (900 grams) fresh sour cherries, stemmed and pitted, or 24 ounces canned or jarred cherries, drained          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 quart vanilla ice cream          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Put the cherries in a blender or food processor, and blend to a smooth puree. Add the ice cream, and continue to blend until the mixture is smooth and pale pink. Pour into four glasses, and serve immediately.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 (12-ounce) shakes</p>
+  </section>
+                              
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Strawberry Yogurt Popsicles</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/product/158008219X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=158008219X&linkCode=as2&tag=orangette-20&linkId=2RPAASM6AOIBIZJG" target="_blank">The Perfect Scoop</a></i>, by David Lebovitz</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-06-23T19:33:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>A word about popsicle molds: I use <a href="http://coldmolds.com/index.php/pop-molds/product/41-cmp4210" target="_blank">these silicone ones</a>, which I learned about from the book <i><a href="http://www.amazon.com/gp/product/1607743906/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1607743906&amp;linkCode=as2&amp;tag=orangette-20&amp;linkId=D74SRCKETJDQ5J3Y" target="_blank">Modern Art Desserts</a></i>, by Caitlin Freeman. (And high five to my talented friend <a href="http://leahrosenberg.com/" target="_blank">Leah Rosenberg</a>, who called my attention to the <a href="http://www.mercurynews.com/ci_23132267/recipe-zurier-ice-pop" target="_blank">Zurier Pops</a> recipe and inspired me to get these molds. Leah, when I bought strawberries last week, I <i>meant</i> to make Zurier Pops, but I got lazy. But I still will. I swear.) Anyway, if you’re using silicone molds like mine, which are soft and pliable, don’t forget to set the molds on a sheet pan before filling them! That way, they’ll be easy to transport to the freezer. And don’t forget to insert the popsicle sticks into the mold before filling, either. It all sounds obvious, but you never know.</p>
+<p>I also have <a href="http://www.amazon.com/Norpro-423-Ice-Pop-Maker/dp/B0002IBJOG/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=popsicle%20molds&amp;linkCode=ur2&amp;qid=1403542718&amp;sr=8-2&amp;tag=orangette-20&amp;linkId=ELB7VLU4D37UMIGN" target="_blank">this popsicle mold</a>, but we loaned it to a friend (ahem, Katie), so I haven’t been able to try it yet. I’ll report back. I have a feeling it’ll be better for very liquid-y pops than the silicone molds, which might leak. Lastly, if you’re using <a href="http://www.amazon.com/Luminarc-6-Piece-Drink-Islande-2-25-Ounce/dp/B005EEYKQC/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=vodka%20shot%20glass&amp;linkCode=ur2&amp;qid=1403408105&amp;sr=8-8&amp;tag=orangette-20&amp;linkId=BU6MQMWLKTFVMFLM" target="_blank">vodka shooter glasses</a>, which is what I used when we served popsicles at <a href="http://delanceyseattle.com/" target="_blank">Delancey</a>, you’ll want to pour the mixture into the glasses; freeze them for 20 to 30 minutes, or until the mixture begins to set; insert the popsicle sticks; and then freeze them until they’re hard. To serve, briefly run the sides of the glass under tepid water to loosen the popsicle, and gently twist the stick as you lift.</p>
+<p>I should tell you that these popsicles are not as smooth, texture-wise, as churned frozen yogurt – or, for that matter, as commercial popsicles. They’ll be a little icy, even if you use the kirsch or vodka. The texture doesn’t bother me. I like it.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 generous pound (about 500 grams) fresh strawberries, rinsed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup (130 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons kirsch or vodka (optional)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (240 grams) plain whole-milk yogurt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon lemon juice          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Trim the green leaves from the strawberries, and quarter them (or, if they’re small, halve them; it doesn’t really matter much). Toss in a bowl with the sugar and kirsch or vodka, if using, stirring until the sugar begins to dissolve. Set aside at room temperature for about an hour, stirring occasionally.</p>
+<p>Scrape the strawberries and their liquid into the jar of a blender, add the yogurt and lemon juice, and process until smooth. If you want to remove the seeds – though I usually just leave them be – set a strainer over a bowl (or other vessel) with a pour spout. Press the mixture through the strainer to remove seeds. Divide the mixture among popsicle molds of your choosing, and freeze until hard.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: depends on your molds. I get about 8 when I use my 4-ounce silicone molds.</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Herbed Chicken Meatballs in Broth with Peas and Parmesan</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/dp/1892145979/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=MODE5OBBKFMIZB7B" target="_blank">Zuppe</a></i>, by Mona Talbott</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-06-09T02:10:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I made this one evening after June was in bed, and it fed both of us for the next couple of days. When you pack it up for the fridge, keep the meatballs separate from the broth, so that they don’t fall apart and the broth doesn’t get cloudy. When you want to eat a portion, just ladle out some broth, plunk in a few meatballs and some peas, and warm it. Grate on some cheese, and it’s ready.</p>
+<p>If you have a choice about your ground poultry, use dark meat. As for the chicken broth, I try make some whenever I roast a whole chicken: I toss the carcass in a deep pot with a quartered onion, a roughly chopped carrot, a roughly chopped stalk of celery, a handful of cilantro or parsley stems (if I have them), and some salt; cover it all generously with cold water; bring it to a simmer; put it in a 200- or 225-degree oven overnight, and then I strain it, let it cool, and stash it in the freezer. But when I’m not so spectacularly on top of things, <a href="http://www.superiortouch.com/retail/products/better-than-bouillon/organic-bases/38/organic-chicken-base" target="_blank">Better Than Bouillon</a> is quite tasty.</p>
+<p>Oh, and I think this soup would be wonderful served with a slice of garlic-rubbed, olive-oiled toast at the bottom of the bowl, to soak up broth and get silky.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 ounces (85 grams) rustic, country-style bread          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup (60 ml) whole milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            18 ounces (540 grams) ground chicken or turkey          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 sprigs Italian parsley, leaves finely chopped and stems discarded          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 sprigs marjoram, leaves finely chopped and stems discarded          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Black pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 ½ quarts (scant 2 ½ liters) chicken stock          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            12 ounces (340 grams) fresh or frozen peas          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Grana Padano or Parmesan, for grating          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Cut the crusts off the bread. Cut the bread into roughly ½-inch cubes, and put it into a large bowl. Add the milk, toss to coat, and leave to soak for about 20 minutes. Then squish the bread into a mush, and add the ground chicken. Add 1 tablespoon each of the chopped parsley and marjoram, a few grinds of black pepper, and a couple of very generous pinches of salt. (If you’re using table salt or fine sea salt, about 1 teaspoon should be right.) Mix with a fork, or with your hand, until evenly combined. (If you’re unsure of the seasoning, at this point you can fry off a little bit of the meat mixture and taste for salt.) With damp hands, form the meat into 1-inch balls. You should get approximately 25. Chill the meatballs for 30 minutes before cooking.</p>
+<p>Bring the chicken stock to a simmer in a wide pot, such as a Dutch oven. (This is a good time to taste the stock for seasoning.) Gently drop the meatballs into the simmering stock, and cook for 5 minutes. You’re looking for their internal temperature to reach 165 degrees. Remove the meatballs from the stock, and set aside. If the broth is cloudy, you can strain it, or just continue on. You can now go one of two ways:</p>
+<p>1. If you plan to serve the soup immediately, add the peas to the simmering stock, and cook until tender, about 5 minutes. Return the meatballs to the pot, and stir in the remaining chopped herbs. Serve with freshly grated Grana Padano or Parmesan.</p>
+<p>2. If you plan to eat the soup later, chill the meatballs and the stock separately. When you’re ready to eat, bring the broth back to a simmer, add the meatballs and peas, and cook until everything is warm and the peas are tender, maybe 5 minutes. Stir in the remaining chopped herbs. Serve with freshly grated Grana Padano or Parmesan.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 6 servings</p>
+  </section>
+                                        
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Granola No. 5</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-04-26T04:18:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>You can use any nuts you like here – or even seeds, if you want to. That’s the beauty of measuring by weight: as long as you use about 400 grams in all, it doesn’t matter which nuts or seeds you use or how much of each. I most often use almonds and walnuts, which I coarsely chop, but I also like to throw in some pecans now and then.</p>
+<p>About kosher salt, take note: I use Diamond Crystal brand, which is less salty than Morton. If you use the latter, you’ll probably only want to use about 1 ½ teaspoons.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            600 grams (6 cups) old-fashioned rolled oats          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            100 to 150 grams (about 2 to 3 loose cups) unsweetened coconut chips          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            400 grams nuts (maybe 3 to 4 cups? see headnote), chopped if you like          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (240 ml) maple syrup, preferably Grade B          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup (160 ml) olive oil          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Position racks in the upper and lower thirds of the oven, and preheat to 300. Line two rimmed baking sheets with parchment.</p>
+<p>Measure the dry ingredients into a large bowl, and stir well. Add the maple syrup and olive oil, and stir to evenly coat. Divide the mixture between the two prepared sheet pans, spread it out, and bake, stirring the granola and flipping the pans once or twice, until golden brown, about 40 minutes. I generally check on the granola every 15 minutes as it’s baking, and I gauge its doneness by color: in particular, I’m looking for the coconut chips to toast and for the whole mixture to achieve nice, even browning.</p>
+<p>Allow to cool completely, then transfer the granola to airtight containers. Eat with plain yogurt (my favorite), milk, or on its own. You can store it at room temperature for a couple of weeks, easy, but if you use it more slowly than that, consider freezing some of it.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: I’ve never actually measured, but probably about 3 quarts.</p>
+  </section>
+                    
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Judy Rodgers's Roasted Applesauce</h2>
+    <h3 class="subtitle">From the Zuni Cafe Cookbook and Kristen Miglore’s Genius Recipes</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-04-07T04:08:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 ½ to 4 pounds apples (Rodgers uses crisp eating apples, like Braeburns, Pippins, or Galas; I used Pink Ladies)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Pinch of salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 to 2 teaspoons sugar, or to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tablespoons unsalted butter, cut into slivers          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A splash of apple cider vinegar, optiona          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 375 F.</p>
+<p>Peel, core, and quarter the apples. Put them in a (ungreased) baking dish just large enough to hold them in a crowded single layer. (I find that a 9&#215;13 dish is perfect.) Toss with a little salt and 1 teaspoon of the sugar. (Unless they are very sweet, in which case you might not need any sugar at all.) If they are tart enough to make you squint, use 2 teaspoons of sugar. Dot the apples with butter, cover tightly with aluminum foil, and bake until the apples start to soften, about 15 to 30 minutes. Remove the foil, raise the heat to 500 F, and return the pan to the oven. Leave the apples to dry out and color slightly, about 10 minutes more. When the tips of the apples are golden and the fruit is tender, remove the pan from the oven, and coarsely mash the apples. (You could use a potato masher, but I just use the back of a wooden spoon, and I leave mine very chunky.)  If you like, season the applesauce further with salt and sugar to taste, and then consider a splash of apple cider vinegar to brighten the flavor. (You can try a drop on a spoonful to see if you like it; I haven’t found that my applesauce needs it.)</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 3 cups</p>
+  </section>
+                    
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Parmesan-Roasted Cauliflower</h2>
+    <h3 class="subtitle">Adapted from Bon Appétit and Allie Lewis Clapp</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-03-22T03:14:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>One word of caution: don’t slice the onions too thinly here, or they’ll be more likely to burn.  I’d aim for ½-inch-thick slices, if I were you.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 head cauliflower, trimmed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 medium onion, sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 thyme sprigs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 unpeeled garlic cloves          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 tablespoons olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Parmesan or Grana Padano, for grating          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 425°F, and line a rimmed sheet pan with parchment.</p>
+<p>Place the cauliflower on a cutting board, and slice it top-down into roughly 1/3-inch slices. Some of the slices will crumble, and that’s fine. Scoop all of the cauliflower into a large bowl, and add the onion, thyme, garlic, and olive oil. Toss well. Season to taste with salt and black pepper.</p>
+<p>Arrange the mixture in a single layer on the prepared sheet pan. Roast, tossing occasionally, until the cauliflower is mostly tender, golden brown, and caramelized at the edges, 25-30 minutes. Take the pan out of the oven, and grate a generous amount of Parmesan over the vegetables. (The original recipe calls for ½ cup, but I didn’t measure mine; I just eyeballed it.) Return the pan to the oven, and continue to roast for another 5 or 10 minutes. You’re basically cooking it to eye: you want the cauliflower to be nicely caramelized, but you don’t want the onions to burn.</p>
+<p>Serve hot or at room temperature.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 2 to 4 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Falafel-Spiced Lamb Meatballs</h2>
+    <h3 class="subtitle">Adapted slightly from <i><a href="http://www.amazon.com/The-Smitten-Kitchen-Cookbook-Perelman/dp/030759565X/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=orangette-20" target="_blank">The Smitten Kitchen Cookbook</a></i>, by Deb Perelman</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-03-10T20:44:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Deb’s recipe calls for browning these meatballs in a pan and then finishing them in the oven, and while that certainly yields a stunner of a meatball, both in flavor and beauty, I regularly take a lazier route: I only bake them. Then I can basically walk away, and <i>ta da</i>, the meatballs cook themselves. Cleanup is also very easy, thanks to the parchment on the sheet pan.  Do what you will.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 tablespoons (15 grams) sesame seeds          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 pound (455 grams) ground lamb          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup (40 grams) fresh breadcrumbs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup (60 ml) water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon table salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large egg          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 garlic cloves, minced or pressed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ teaspoon ground cumin          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ teaspoon ground coriander          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ teaspoon Aleppo pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Pinch of cayenne or red pepper flakes          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Olive oil, for cooking          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 425°F. If you plan to skip the stovetop browning and only bake these, line a rimmed sheet pan with parchment.</p>
+<p>Put the sesame seeds in a small skillet, and place the skillet over medium heat.  Cook, stirring occasionally, until the seeds smell toasty and are beginning to turn golden.  I never pay attention to exactly how long this takes, but it’s not terribly long.</p>
+<p>While the sesame seeds toast, put the lamb through cayenne in a medium bowl.  When they’re ready, add the toasted sesame seeds.  Mix with a fork (or with your hand, my preference) until evenly mixed. Form the meat mixture into 1½-inch, or golf-ball-sized, balls.  (This is easiest to do if your hands are wet; that will help to keep the meat from sticking to you.) If you plan to brown the meatballs on the stovetop, arrange them on a tray or large plate; if you plan to only bake them, arrange them on the prepared sheet pan.</p>
+<p>At this point, if you’re lazy like me, put the sheet pan in the oven and walk away. After about 10 minutes, pull out your thermometer (all hail the <a href="http://www.amazon.com/Splash-Proof-Super-Fast-Thermapen-Thermometer-Professional/dp/B002GIZZWM/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=thermapen&amp;linkCode=ur2&amp;qid=1394253810&amp;sr=8-1&amp;tag=orangette-20" target="_blank">Thermapen</a>! Possibly my single favorite kitchen tool!) and poke one or two of the meatballs: when they’re ready, the internal temperature will be between 160 and 165 degrees.  If they’re not hot enough, slide them back in, and check again shortly. Again, I never seem to keep track of how long they take to cook. Somewhere between 12 and 15 minutes, I think?</p>
+<p>If you’re a better person and plan to brown your meatballs as Deb directs, heat a generous slick of oil in a large ovenproof skillet or sauté pan. Brown the meatballs in batches, taking care not to crowd the pan or nudge them before they’re good and brown. Be gentle as you turn them: they’re soft! Transfer the meatballs to a paper-towel-lined tray or plate, and continue cooking in more batches until they’re all browned. Then discard the oil, wipe all but a little of it from the pan, and return all of the meatballs to the pan. Slide into the oven, and bake until a thermometer reads an internal temperature of 160 to 165 degrees, or about 10 to 15 minutes.</p>
+<p><i>Note</i>: These meatballs freeze beautifully.  I like to cook about half of them right away and then freeze the remaining half on a sheet pan lined with parchment.  When they’re frozen solid, I transfer them from the pan to a plastic storage bag. They thaw quickly &#8211; and actually, I’ve even baked them while they were still slightly frozen. It took a bit longer, but no harm done.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 4 servings, or roughly 25 meatballs</p>
+  </section>
+                    
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Lime Curd</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/Gourmets-America-Gourmet-Magazine-Editors/dp/0679435638/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=orangette-20" target="_blank">Gourmet’s America</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-02-17T06:12:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 large eggs, beaten          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 stick (113 grams) unsalted butter, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (100 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. lime zest          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 Tbsp. freshly squeezed lemon juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. freshly squeezed lime juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A pinch of salt          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Combine all ingredients in a saucepan – I used a 2-quart – and set it over medium-low heat. Whisk until the butter is melted, and then continue to whisk constantly (or almost constantly; you don’t want to let it curdle or scorch) until the mixture is thickened, like jelly. As it thickens, you’re looking for it to hold the mark of the whisk, and if you lift the whisk, the mixture should hold its shape when it plops back into the pot. This will probably take about 10 to 12 minutes. When it’s ready, remove the curd from the heat, and press through a mesh strainer into a storage container.  Chill well before serving.</p>
+<p><i>Note</i>: If you want your finished lime curd to still be flecked with bits of green lime zest, you could skip the straining step. But I always worry about finding bits of cooked egg in my fruit curd, so I like to strain mine &#8211; and then I lose the zest, but oh well.</p>
+    </div>
+  
+  </section>
+                  <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

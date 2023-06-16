@@ -1,0 +1,74 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Approximately a soup</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-2" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Smothered Cabbage, Venetian Style</h2>
+    <h3 class="subtitle">Adapted very slightly from <i><a href="http://www.amazon.com/Essentials-Classic-Italian-Cooking-Marcella/dp/039458404X/?_encoding=UTF8&camp=1789&creative=9325&keywords=essentials%20of%20classic%20italian%20cooking&linkCode=ur2&qid=1386305956&sr=8-1&tag=orangette-20" target="_blank">Marcella Hazan’s Essentials of Classic Italian Cooking</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2013-12-06T05:27:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2013/12/approximately-a-soup/?print_recipe=2" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 small yellow onion, chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (120 ml) olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 (~2-pound / 1 kg) Savoy or green cabbage, quartered, cored, and very thinly sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 or 3 large garlic cloves, chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. white or red wine vinegar          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Put the onion and olive oil in a Dutch oven (or another pot of approximately the same size), and set over medium heat. Cook and stir until the onion is pale gold, and then add the garlic. Continue cooking until the garlic is fragrant and looks cooked through, a few minutes, and then add the sliced cabbage. Stir a few times to coat the cabbage with oil; then continue to cook until it’s wilted. Add a couple of generous pinches of salt, a grind or two of pepper, and the vinegar. Stir to mix, and then cover the pan and reduce the heat to the lowest setting. Cook, stirring occasionally, for at least 1.5 hours, or until the cabbage is very, very tender. If the pan seems dry at any point, you can add a tablespoon or two of water. When the cabbage is done, taste for salt, and season as needed.</p>
+<p>This cabbage can be made a few days ahead of the soup, if needed, and it also freezes nicely.</p>
+    </div>
+  
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

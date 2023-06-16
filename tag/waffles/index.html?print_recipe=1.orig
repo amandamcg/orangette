@@ -1,0 +1,137 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>This is important</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Yeasted Buckwheat Waffles</h2>
+    <h3 class="subtitle">Adapted from Marion Cunningham's <span style="font-style: italic;"><a href="http://www.amazon.com/Breakfast-Book-Marion-Cunningham/dp/0394555295/?_encoding=UTF8&amp;s=books&amp;tag=orangette-20&amp;linkCode=ur2&amp;qid=1274130141&amp;camp=1789&amp;sr=1-1&amp;creative=9325" target="_blank">The Breakfast Book</a></span></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2012-03-08T08:46:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/waffles/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>This batter requires an overnight rest, so keep that in mind when you decide to make it! Most of the work is done the night before, and that requires some planning, but you’ll be amply rewarded in the morning.</p>
+<p>This recipe uses active dry yeast, which should not be confused with instant (also sold as “rapid rise”) yeast. And as for the warm water and warm milk, they need not be very warm. Tepid is fine. In any case, it’s better to err on the cool side than the hot side. The most recent time I made this recipe, I actually didn&#8217;t warm the milk at all, and it was absolutely okay. The only thing to watch out for with cold milk, though, is that it could re-solidify the melted butter. So if you happen not to warm your milk, for whatever reason, just do as I did: briefly mix together the milk, salt, sugar, and flours, and then stir in the melted butter bit by bit. This way, the cold milk and melted butter don’t run straight into each other and make trouble.</p>
+<p>I use one-third buckwheat flour here, and that seems just about right. A word of caution: I wouldn’t use too much buckwheat flour in this recipe, because buckwheat flour is gluten-free, and you need a certain amount of gluten for structure. I’m sure there are other recipes, though, for making gluten-free buckwheat waffles, should you wish to.</p>
+<p>Most waffle recipes work in any kind of waffle maker, but I think this one was made ideally for use on a standard (not Belgian) waffle maker. Mine is Belgian-style, and the batter is a bit too thin to really fill it properly. It’s not a biggie, though. The finished waffles just look prettier on one side than the other.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            120 ml (½ cup) warm water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            7 grams (1 package; 2 ¼ tsp.) active dry yeast          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            475 ml (2 cups) whole milk, warmed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            113 grams (1 stick) unsalted butter, melted and cooled slightly          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            170 grams (1 1/3 cups) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            85 grams (2/3 cup) buckwheat flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs, lightly beaten          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ tsp. baking soda          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>&nbsp;</p>
+<p>Pour the water into a large mixing bowl. (The batter will rise to double its volume, so keep that in mind when you choose the bowl.) Sprinkle the yeast over the water, and let stand to dissolve, about 5 minutes. Then add the milk, butter, salt, sugar, and flours, and stir well, until smooth. Cover the bowl with plastic wrap, and let it stand overnight at room temperature.</p>
+<p>When you&#8217;re ready to cook the waffles, preheat a waffle maker. Follow your waffle maker’s instruction manual for this, but you’ll probably want to heat it on whichever setting is approximately medium-high. My waffle maker has a heat dial that runs from 1 to 7, and I turn it to 5. My waffle maker is nonstick, so I don’t grease it, and Marion Cunningham doesn’t call for greasing it, either.</p>
+<p>Just before cooking the waffles, add the eggs and baking soda to the yeasted batter, and stir to mix well. The batter will be very thin. Pour an appropriate amount of batter into your hot waffle maker: this amount will vary from machine to machine, and you should plan to use your first waffle as a test specimen, which you get the treat of eating while you cook the rest. Cook until golden and crisp.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: I wind up with 12 Belgian waffles, but yield depends on the size and configuration of your waffle iron</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Marion Cunningham’s Raised Waffles</h2>
+    <h3 class="subtitle">From <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FBreakfast-Book-Marion-Cunningham%2Fdp%2F0394555295%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1274130141%26sr%3D1-1&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">The Breakfast Book</span></a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-05-18T00:34:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/waffles/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>This recipe uses dry yeast, which is often sold as “active dry” yeast. It’s different from instant yeast (often sold as “rapid rise”), so be careful not to confuse the two, even though the packaging often looks similar.</p>
+<p>Most waffle recipes work in any kind of waffle maker, but I get the sense that this one is intended for use on a standard (not Belgian) waffle maker. Mine is Belgian-style, and the batter was a bit too thin to really fill it properly. It wasn’t a biggie – they still taste great, and they’re pretty on one side, at least – but just, you know, FYI.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            ½ cup warm water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 package (2 ¼ tsp.) dry yeast          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups whole milk, warmed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 stick (½ cup) unsalted butter, melted and cooled slightly          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. table salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs, lightly beaten          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ tsp. baking soda          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Pour the water into a large mixing bowl. (The batter will rise to double its volume, so keep that in mind when you choose the bowl.) Sprinkle the yeast over the water, and let stand to dissolve for 5 minutes.</p>
+<p>Add the milk, butter, salt, sugar, and flour, and beat until well blended and smooth. (Electric beaters do a nice job of this.) Cover the bowl with plastic wrap, and let it stand overnight at room temperature.</p>
+<p>Before cooking the waffles, preheat a waffle maker. Follow your waffle maker’s instruction manual for this, but my guess is that you’ll want to heat it on whatever setting is approximately medium-high. My waffle maker has a heat dial that runs from 1 to 7, and I turned it to 5. My waffle maker is nonstick, so I didn’t grease it, and Marion Cunningham doesn’t call for greasing it, either.</p>
+<p>Just before cooking the waffles, add the eggs and baking soda, and stir to mix well. The batter will be very thin. Pour an appropriate amount of batter into your hot waffle maker: this amount will vary from machine to machine, and you should plan to use your first waffle as a test specimen. Cook until golden and crisp.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: depends on the size and configuration of your waffle iron</p>
+  </section>
+                  <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

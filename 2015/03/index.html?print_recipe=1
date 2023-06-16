@@ -1,0 +1,119 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>The bean doctor</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Creamy Beans</h2>
+    <h3 class="subtitle">Adapted from Katie Caradec</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2015-03-23T03:59:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I’m no fan of the liquid in cans of beans &#8211; it’s just so&#8230; <i>slimy</i> &#8211; but this is a recipe where it really is useful. Take a deep breath, and dump it in.</p>
+<p>As for butter, Katie doesn’t measure it, but she told me that she probably uses two tablespoons for four cans of beans. I prefer mine with more butter, ideally with a tablespoon per can. Brandon also suggests adding garlic, pressed or minced, and that’s very nice, too. It adds a faint depth of flavor. But I defer to you.</p>
+<p>Also, note that this recipe can be scaled down as needed. When I made it with black beans last week, I only had one can in the house, and it worked just fine &#8211; and in less time.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            4 (16-ounce) cans or jars pinto or black beans          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 tablespoons (56 grams) unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Hot sauce, such as Frank's Red Hot or Yucatan Sunshine          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A garlic clove, pressed or minced (optional)          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Pour the beans and their liquid into a medium saucepan. Add the butter, maybe ten or fifteen shakes of hot sauce, and the garlic (if using; see above). Stir to mix. Place over medium-high heat, and bring just to a simmer. Adjust the heat to maintain a gentle simmer, and cook, stirring occasionally, until the liquid has thickened and looks creamy and the beans are very tender, maybe even falling apart. For pintos, I let mine go for about 1 hour, though Katie says hers only take about 30 minutes. You can cook it as long as you like, really. Cook it to your taste. (And keep in mind that the beans will thicken further, and get creamier, as they cool.)</p>
+<p>Serve hot, with <a href="http://www.saveur.com/article/blog/the-seven-minute-egg?P7DGBtXkOpc5tkyh.01" target="_blank">seven-minute eggs</a> and any other toppings you like: hot sauce, avocado, cilantro, grated cheese, etc.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: dinner for 2, plus 3 or 4 breakfasts, depending on how you serve it</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Raspberry-Ricotta Cake</h2>
+    <h3 class="subtitle">Adapted very slightly from <i>Bon Appétit</i>, March 2015</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2015-03-14T05:12:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 ½ cups (210 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (200 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ teaspoon kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups (325 grams) whole-milk ricotta          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ teaspoon vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 stick (113 grams) unsalted butter, melted          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (100 grams) frozen raspberries, divided          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 350°F. Lightly grease a 9-inch round cake pan (I used springform), and press a round of parchment paper into the bottom.</p>
+<p>In a large bowl, whisk the flour, sugar, baking powder, and kosher salt. In a medium bowl, whisk the eggs, ricotta, and vanilla until smooth. Gently stir ricotta mixture into the dry ingredients until just blended. Then fold in the butter, followed by ¾ cup of the raspberries, taking care not to crush them. Scrape the batter into the prepared pan, smoothing it evenly, and scatter the remaining raspberries on top.</p>
+<p>Bake the cake until it is golden brown and a toothpick inserted into the center comes out clean, 50 to 60 minutes. Let cool at least 20 minutes before unmolding. Cool completely before serving.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 8 servings</p>
+  </section>
+                  <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

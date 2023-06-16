@@ -1,0 +1,84 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Because there was a bag of plums</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Rustic Plum Tart</h2>
+    <h3 class="subtitle">From <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FPure-Dessert-Alice-Medrich%2Fdp%2F1579652115&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Pure Dessert</a></i>, by Alice Medrich</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-10-07T07:53:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Contrast is what makes this tart work: the crust is quite sweet, and the plums should be quite tart. Look for plums that are both sweet and tangy, especially the ones that make you pucker a little when you bite into the flesh closest to the skin. I’ve made this tart with some unnamed red-skinned, yellow-fleshed plums that I found at the farmers market, and also with Flavor King pluots. Medrich recommends Santa Rosa, Friar, Laroda, and Elephant Heart plums, and she advises against the small, oblong plums often called Italian prune plums. They’re not tangy enough.</p>
+<p>Also, I make the dough for this tart in a food processor, but you can make it by hand, so I’m including instructions for both. The food processor makes it especially quick and tidy, but either way is easy.</p>
+<p>Finally, for the tart dough, you don’t want ice cold, rock-hard, straight-from-the-fridge butter. You want it to be a little softer than that, but not as soft as it gets at room temperature. You want it to be firm, as it is when it’s pleasantly cool.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 cup all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/8 tsp. salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large egg, lightly whisked          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 Tbsp. unsalted butter, firm but not hard, cut into a few pieces          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 to 6 juicy, flavorful plums          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Set a rack in the lower third of the oven, and preheat the oven to 375°F. Generously butter a 9 ½-inch tart pan with a removable bottom – or, barring that, a 9-inch springform pan also works nicely.</p>
+<p><i>To make the dough by hand</i>, mix the flour, sugar, baking powder, and salt together in a medium bowl. Add the egg and butter, and use a pastry blender, a large fork, or a couple of knives to cut the mixture together, as though you were making pie dough. The dough is ready when it resembles a rough mass of damp yellow sand with no dry flour showing.</p>
+<p><i>To make the dough in a food processor</i>, combine the flour, sugar, baking powder, and salt in the bowl of a food processor, and pulse to mix. Add the egg and butter, and pulse just until the mixture resembles damp yellow sand and is beginning to clump around the blade.</p>
+<p>Press the dough gently but evenly over the bottom but not up the sides of the pan. You’re not trying to pack it down; you’re just lightly tamping it.</p>
+<p>If the plums are very small (under 2 inches in diameter), cut them in half and remove the pits. Cut larger plums into quarters or sixths, removing the pits. Leaving a margin of ½ inch around the edge of the pan, arrange halved plums cut side up over the dough, with a little space between each one. Arrange wedges skin side up – they look nice that way after baking – and press them lightly into the dough, so that they won’t turn onto their sides in the oven.</p>
+<p>Bake until the pastry is puffed, deep golden brown at the edges, and a lighter shade of golden brown in the center, about 50 to 55* minutes. Transfer to a rack to cool for 10 minutes. Then loosen and remove the rim of the pan, and cool further. Serve warm or at room temperature.</p>
+<p><i>Note</i>: This tart keeps at room temperature for a few days, but its texture is best on the first day.</p>
+<p>* <i><b><span class="Apple-style-span">UPDATED on November 3, 2010</span></b></i>: A number of readers have reported that 50 to 55 minutes was too long in their ovens, and that their tarts were burnt. To be on the safe side, set your timer for 35 to 40 minutes, and keep an eye on it.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 to 8 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

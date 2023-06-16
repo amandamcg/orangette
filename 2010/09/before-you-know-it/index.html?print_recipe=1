@@ -1,0 +1,81 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Before you know it</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Leeks vinaigrette</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-09-11T23:12:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I’ve written this recipe with wiggle room on the quantities of vinegar and mustard, and you should feel free to tweak it to your liking. It’s hard to go wrong, and anyway, your vinegars, oils, and leeks may taste different from mine. Whatever you do, it’s important to use a good, strong mustard for this dressing. I like the brands Edmond Fallot, Roland Extra Strong, and Beaufor. Keep in mind, too, that once a jar of mustard has been opened, it slowly loses its potency, so if you’ve had your jar for a while, you might want to invest in a new one.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 to 3 Tbsp. white wine vinegar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 to 2 tsp. Dijon mustard          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ tsp. salt, or more to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 Tbsp. olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 small to medium shallot, minced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 lb. small leeks (about 7 or 8)          </div>
+                      <h3>Optional garnishes:</h3>                  <div class="ingredient" itemprop="ingredients">
+            Finely chopped bacon          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Finely chopped hard-boiled egg          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In a small bowl, whisk together 2 tablespoons white wine vinegar, 1 teaspoon mustard, and salt. Gradually whisk in the olive oil, mixing until emulsified. Taste. This dressing should be fairly bright, and the mustard flavor should come through, but not too powerfully. Adjust as needed with vinegar, mustard, and/or salt. When you’re happy with it, add the shallots, whisking to blend. Set aside. Be sure to taste it again later, just before tossing it with the leeks, so that if necessary, you can adjust it according to their flavor.</p>
+<p>Lay a clean kitchen towel on the counter near the stove. Bring a large pot of water to a boil, and salt it well. It should taste like sea water.</p>
+<p>While the water comes to a boil, prepare the leeks. Trim away the hair-like roots, but take care not too cut in too far; you want the leek to stay intact. Cut off and discard the dark green leafy parts, leaving just the white and pale green stalk. Starting about 1 inch from the root end, so as to keep the white part intact, cut lengthwise down the middle of the leek. (If you were to splay the cut leek open, it should look like a stubby Y.) Wash the leeks well under running water, flushing any dirt from between the layers. Boil until they are very, very tender and yield easily to a knife. Their color will become muted, and they may be falling apart a little. That’s okay. To be sure they’re done, taste one: it should taste sweet, with no trace of raw flavor. The amount of time that this will take depends on their size, but it will probably take longer than you think. Ten minutes is a good bet.</p>
+<p>Draining the leeks as well as you can, transfer them to the kitchen towel on the counter. Blot and press them dry. (Don’t burn yourself!) While they’re still hot, put them in a bowl, and toss them with a generous amount of the dressing. Allow to cool at least slightly before serving.</p>
+<p>Serve warm or at room temperature, with more dressing spooned on top and a pinch or two of salt. If you want to make it a little fancier, garnish with bacon and/or chopped egg.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 3 to 4 servings (as a side dish or first course)</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>
