@@ -1,0 +1,141 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Out here, up here</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Banana Bread with Muscovado and Chocolate</h2>
+    <h3 class="subtitle">from Nigel Slater, via <a href="http://amzn.to/2a1zaRg" target="_blank"><i>Genius Recipes</i></a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2016-07-22T18:17:30-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/banana-bread/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>When I made this, I didn&#8217;t have much muscovado sugar in the cabinet. But I improvised, using the 90 grams I did have, plus about 110 grams of light brown sugar, and then making up the difference with 35 grams of molasses.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 cups (250 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A <a href="http://rehydrate.org/images/pinch.gif" target="_blank">three-finger pinch</a> of kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/2 cup (1 stick, or 125 grams) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup plus 1 tablespoon (235 grams) muscovado sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            14 ounces (400 grams) ripe bananas (peeled weight), or about 3 medium bananas          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 1/2 ounces (100 grams) dark chocolate, chopped to the size of fine gravel          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 350 degrees Fahrenheit. Grease a standard-size loaf pan (approximately 9 1/2 by 5 inches), and line it with parchment paper.</p>
+<p>In a small bowl, combine the flour, baking powder, and kosher salt. Whisk to blend.</p>
+<p>In another bowl, mash the bananas with a fork. They should still be lumpy, not fully pureed. Stir in the vanilla.</p>
+<p>In yet another bowl (sorry!), beat the eggs lightly with a fork.</p>
+<p>Using an electric mixer, beat the butter briefly, just to get it going, and then add the sugar. Continue beating until the mixture is light, fluffy, and the color of coffee with milk. Add the beaten eggs, and continue to beat. (If the mixture looks like it&#8217;s curdling at any point, add a spoonful of the flour mixture.) Add the chocolate and the mashed bananas, and beat to mix. With the mixer on low, add the flour mixture. Beat to incorporate.</p>
+<p>Scrape the batter into the prepared loaf pan, and smooth the top. Bake for about 50 minutes, or until a toothpick inserted into the center of the loaf comes out moist but clean. If there is any sign of wet batter, continue baking for a few more minutes, tenting the top with foil if it&#8217;s browning too much.</p>
+<p>Cool the finished loaf in the pan for 15 minutes. Loosen the sides with a thin knife, then carefully lift out the loaf with the parchment liner. Cool completely before slicing.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 1 loaf</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Banana Bread with Cinnamon Crumble Topping</h2>
+    <h3 class="subtitle">Adapted from Bakesale Betty and <i>Bon Appétit</i>, September 2008</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2008-08-26T07:11:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/banana-bread/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+              <h3>For bread:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. ground cinnamon          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. baking soda          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup mashed ripe banana (about 3 medium bananas)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup vegetable oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup honey          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup water          </div>
+                      <h3>For topping:</h3>                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. ground cinnamon          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 ½ Tbsp. packed dark brown sugar          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 350° F. Butter and flour a 9- x 5-inch metal loaf pan. (Alternatively, you can spray the pan lightly with cooking spray and then line it with parchment paper, letting the excess hang over the sides. That’s what I did, and it made it very easy to remove the finished bread from the pan; I just grabbed the parchment and lifted. Also, because I don’t have a 9- x 5-inch pan &#8211; and because an 8 ½- x 4 ½-inch is a little <a href="http://www.joyofbaking.com/PanSizes.html">too small</a> &#8211; I used a 10- x 3-inch pan that I found once at a flea market.)</p>
+<p>In a medium bowl, whisk together the flour, sugar, cinnamon, baking soda, and salt. In a large bowl, whisk together the banana, eggs, oil, honey, and water. Add the dry ingredients to the wet ingredients, and stir well. Scrape the batter into the prepared pan.</p>
+<p>In a small bowl, mix together the topping ingredients. Sprinkle them evenly over the batter.</p>
+<p>Bake the bread until a tester inserted into its center comes out clean, about 1 hour, give or take a little. Cool the bread in the pan on a wire rack for 30 minutes. Then carefully remove the bread from the pan, taking care not to dislodge the topping. Cool completely before slicing.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 1 loaf</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

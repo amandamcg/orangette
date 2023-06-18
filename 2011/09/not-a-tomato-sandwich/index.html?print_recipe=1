@@ -1,0 +1,76 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Not a tomato sandwich</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Matthew’s Spicy Sauteed Corn</h2>
+    <h3 class="subtitle">  Adapted slightly from <a href="http://www.spilledmilkpodcast.com/2010/09/16/tomato-corn-salad-and-spicy-corn-recipes-from-episode-21/" target="_blank">Spilled Milk</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-09-17T01:38:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2011/09/not-a-tomato-sandwich/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I bought my corn late last week and didn’t have time to cook it before we went camping, so I cut it off the cob, spread it in a single layer on a sheet pan, and froze it. Then, before I cooked it today, I let it defrost in a colander for about 30 minutes, shaking the colander a couple of times. It worked very nicely, and based on that, I am happy to say that you don’t have to use fresh corn kernels for this recipe! You can make it at any time of year, with frozen corn. If it simplifies things, note that you will need 10 to 12 ounces of kernels for a single batch.</p>
+<p>Also, I used a 10-inch cast-iron skillet here, but you can use whatever kind of skillet you have.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 Tbsp. unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kernels from 3-4 ears fresh corn          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 scallions, thinly sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 jalapeno pepper, seeds removed if desired, minced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. freshly squeezed lime juice, plus lime wedges for serving          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Heat the butter in a large skillet over medium-high until bubbling. Add the corn, scallions, and jalapeno, stirring to coat with butter. Cook, stirring occasionally, until the corn begins to brown and stick to the bottom of the pan, about 10 minutes. (You might hear some kernels popping toward the end.) Add the water and stir, scraping the bottom of the pan to dislodge any extremely delicious brown bits. When the water has boiled off, add salt to taste. Remove from the heat, and stir in the lime juice. Serve immediately, with additional lime wedges.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 side-dish servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

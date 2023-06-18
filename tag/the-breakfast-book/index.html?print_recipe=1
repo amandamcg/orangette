@@ -1,0 +1,172 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>They wake me up</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Cream Biscuits</h2>
+    <h3 class="subtitle"> Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FBreakfast-Book-Marion-Cunningham%2Fdp%2F0394555295&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">The Breakfast Book</a></i>, by Marion Cunningham</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-03-04T08:53:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/the-breakfast-book/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>These are terrific with jam or, of course, honey.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 cups all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. table salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 to 1 ½ cups heavy cream          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            5 Tbsp. unsalted butter, melted          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 425°F. Line a baking sheet with parchment paper. (If you don’t have parchment, leave it as it is, ungreased. The parchment is just for easy cleanup.)</p>
+<p>Combine the flour, salt, baking powder, and sugar in a mixing bowl, and stir with a fork to blend. Slowly add 1 cup of the cream, stirring. Gather the dough together gently: when it holds together and feels tender, it’s ready to knead. If it feels shaggy and pieces are dry, slowly add enough cream to make the dough hold together.</p>
+<p>Place the dough on a lightly floured board and knead for 1 minute. (You don’t want to overwork it.) Pat the dough into a square about ½ inch thick. Cut into 12 squares. Brush each with melted butter so that all sides are coated. Place the biscuits 2 inches apart on the baking sheet. Bake for about 15 minutes, or until lightly browned. Serve hot.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 12 biscuits</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Oatmeal Popovers</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FBreakfast-Book-Marion-Cunningham%2Fdp%2F0394555295%3Fie%3DUTF8%26qid%3D1295145208%26sr%3D8-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325">The Breakfast Book</a></i> and <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FNew-Best-Recipe-All-New%2Fdp%2F0936184744&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325">The New Best Recipe</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-01-24T08:20:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/the-breakfast-book/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I’ve made these popovers twice now, and I find that they don’t rise quite as exuberantly high as normal (oatmeal-less) popovers. But they’re still perfectly airy on the inside, and the oil in the cups of the pan make the outer edges nice and crisp.</p>
+<p>Oh, and Marion Cunningham says that the combination of oatmeal and marmalade is very good. She’s right.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup whole milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup rolled oats, coarsely ground in a food process or blender          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. unsalted butter, melted          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. vegetable oil, for the pan          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Orange marmalade, for serving (optional)          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In a large bowl – ideally one with a pour spout, if you have it – whisk the eggs and milk until well combined, about 20 seconds. Whisk the flour, oats, and salt in a separate bowl, and add to the egg mixture. Stir with a wooden spoon or spatula just until the flour is incorporated. The mixture will still be lumpy. Add the melted butter, and whisk until the batter is smooth, about 30 seconds. Set aside at room temperature for 30 minutes. (This gives the gluten time to relax and brings the chilled ingredients closer to room temperature, so that the batter isn’t quite so cold when it goes into the oven.)</p>
+<p><i>Note</i>: If you don’t have a popover pan, you can use a regular muffin tin. Don’t use all 12 cups, though; use only the 10 outer cups. You’ll need extra oil to grease them.</p>
+<p>While the batter rests, put ½ teaspoon oil into each cup of a popover pan. Adjust the oven rack to the lowest position, place the popover pan in the oven, and preheat to 450° F. After the batter has rested, remove the hot pan from the oven and, working quickly, distribute the batter evenly among the 6 cups of the pan. (If your bowl doesn’t have a spout, you might want to transfer it to a vessel that does; it’ll allow you to work much more quickly.) Return the pan to the oven. Bake for 20 minutes &#8211; and DO NOT open the oven door. Lower the heat to 350° F, and bake until evenly golden brown, about 15 minutes more. Remove the popovers from the pan and cool for 2 to 3 minutes before eating.</p>
+<p>&nbsp;</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 popovers</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Marion Cunningham’s Fresh Ginger Muffins</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FBreakfast-Book-Marion-Cunningham%2Fdp%2F0394555295%3Fie%3DUTF8%26qid%3D1295145208%26sr%3D8-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325">The Breakfast Book</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-01-16T06:56:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/the-breakfast-book/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>A word of warning: before beginning, take care to wash the ginger root well, checking its crevices and wrinkles for dirt.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            One (~3-ounce) piece of unpeeled ginger root          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup plus 3 Tbsp. sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. grated lemon zest          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            8 Tbsp. (1 stick) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup buttermilk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ tsp. baking soda          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 375°F. Grease a muffin tin.</p>
+<p>Cut the unpeeled ginger root into large chunks. If you have a food processor, process the ginger until it is in tiny pieces; alternatively, mince by hand. Measure out ¼ cup – or a little more, if you like. It’s better to have too much than too little. Put the ginger and ¼ cup sugar in a small skillet and cook over medium heat, stirring, until the sugar has melted and the mixture is hot. Don’t walk away from the pan: this takes only a couple of minutes. Set aside to cool.</p>
+<p>In a small bowl, whisk together the lemon zest and 3 tablespoons of sugar. Add to the ginger mixture.</p>
+<p>Put the butter in the bowl of a stand mixer (or, a mixing bowl, if you plan to use handheld beaters or mix by hand). Beat the butter for a second or two, then add the remaining ½ cup sugar, and beat until smooth. Add the eggs, and beat well. Add the buttermilk, and beat until blended. Add the flour, salt, and baking soda, and beat just until smooth. Add the ginger-lemon mixture, and beat to mix well. Spoon the batter into the prepared muffin tin. Bake for 18 to 20 minutes, or until a tester comes out clean. Serve warm.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 12 muffins</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

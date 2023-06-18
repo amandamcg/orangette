@@ -1,0 +1,85 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>No such thing</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Pistachio-Citrus Pound Cake</h2>
+    <h3 class="subtitle">Adapted slightly from <span style="font-style: italic;">Bon Appétit</span> (April 2012) and Raymond Vandergaag of <a href="http://www.tastingroomwines.com/our_locations/city_centre/index.php" target="_blank">The Tasting Room at CityCentre</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2012-04-21T23:40:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/sexy-frankenstein/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+      </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 cups (260 grams) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ tsp. kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 sticks (226 grams) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups (400 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            5 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. fresh lemon juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. fresh orange juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. finely grated orange zest          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. finely grated lime zest          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (125 grams) shelled, unsalted pistachios, coarsely chopped          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Position a rack in the middle of the oven, and preheat the oven to 325°F. Lightly butter a 9”x5” loaf pan, or grease it with cooking spray. Cut a rectangle of parchment paper to line the bottom and the two long sides of the pan, leaving a little overhang. Press the parchment paper into the dish, and grease it lightly, too.</p>
+<p>In a medium bowl, whisk together the flour, salt, and baking powder. Using an electric mixer, beat the butter on medium speed until light and fluffy, about 2 minutes. Add the sugar, and beat until well incorporated, 1 to 2 minutes more. Add the eggs one at a time, beating to blend between additions. Add the juices and the zests, and beat until well combined. (Don’t worry if the batter looks curdled.) Add the flour mixture, reduce the speed to low, and beat until just incorporated. Add ¾ cup of the pistachios, and fold in gently. Pour the batter into the prepared pan, smoothing the top. Sprinkle the remaining ¼ cup pistachios over the top.</p>
+<p>Bake the cake, rotating it halfway through, until a tester inserted into the center comes out clean, about 1 ½ hours. Transfer it to a wire rack, and let it cool completely in the pan. Run a sharp knife along the short ends of the pan to loosen the cake; then pull up on the parchment paper to lift the cake out of the pan.</p>
+<p><i>Note</i>: The flavor of this cake is best on the day after it’s made.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 1 loaf</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

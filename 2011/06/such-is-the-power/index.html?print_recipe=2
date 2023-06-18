@@ -1,0 +1,76 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Such is the power</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-2" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Shortcut Basil Aioli</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-06-17T00:49:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2011/06/such-is-the-power/?print_recipe=2" class="print icon-print"></a>
+    </nav>
+    <p>Homemade mayonnaise is terrific, but if I’m making deviled eggs, it’s usually summer, which means that it’s hot outside and I want to limit my exertion in the kitchen. So I generally use Best Foods – also sold as Hellmann’s – mayonnaise for this recipe.</p>
+<p>A note on the first step: when I make this aioli, the basil mixture sometimes gets wonderfully smooth, like pesto. Other times, though, it doesn’t seem to want to get that smooth, and instead looks more like a mess of chopped basil. I’m not sure what goes wrong, but I think it has to do with the age and texture of the basil leaves: when they’re bigger and hardier, they don’t process as easily. Either way, though, the aioli will taste fine.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup packed basil leaves          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. lemon juice          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 medium garlic clove, pressed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Pinch of salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup mayonnaise          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>In the jar of a blender (or a small food processor), combine the olive oil, basil, lemon juice, garlic, and salt. Process until the mixture is smooth, pausing every now and then to scrape down the side of the blender jar with a small spatula or spoon.</p>
+<p>Put the mayonnaise in a small bowl. Add the basil mixture, and stir well to mix.</p>
+<p>Serve as a dip for raw vegetables, spread onto sandwiches, folded into chicken salad, or dolloped on top of deviled eggs.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: a generous 1/2 cup</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

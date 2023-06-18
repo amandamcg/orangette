@@ -1,0 +1,90 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>It still surprises me</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Oat Scones</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.forestreet.biz/en/Other-Restaurants">Standard Baking Company</a> (Portland, ME)</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-08-14T23:45:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2011/08/it-still-surprises-me/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>If you use frozen berries, do not thaw them before using.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 cups all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup packed golden brown sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. plus 1 tsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ tsp. baking soda          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ tsp. kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            11 Tbsp. (5 ½ ounces) cold unsalted butter, cut into ½-inch cubes          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ¾ cups cold half-and-half          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup rolled oats          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup fresh or frozen blueberries or blackberries          </div>
+                      <h3>For garnish:</h3>                  <div class="ingredient" itemprop="ingredients">
+            3 Tbsp. old-fashioned rolled oats          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            5 tsp. Turbinado sugar          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Set racks in the upper and lower thirds of the oven, and preheat the oven to 350°F. Line two baking sheets with parchment paper.</p>
+<p>In the bowl of a food processor fitted with the steel blade attachment, combine the flour, brown sugar, baking powder, baking soda, and salt. Pulse to mix well. Add the butter and pulse again briefly, until the mixture looks coarse and the largest lumps of butter are no bigger than a pea.</p>
+<p>In a large bowl, stir together the half-and-half and vanilla. Add the flour mixture and the rolled oats, and stir until just combined. The dough will be thick and sticky. Add the berries, and stir briefly to mix. [When I use blackberries in particular, I find that it’s difficult to stir them into the dough without crushing them, overworking the dough, and turning the whole mixture purple. My solution is to only stir a little, and then move on to the next step. As you scoop the dough onto the baking sheets, you can use your fingers to press any errant berries into the mounds of dough.]</p>
+<p>Using a 1/3-cup measuring cup, scoop the dough into mounds, arranging them 3 inches apart on the prepared baking sheets. Garnish the tops with rolled oats and Turbinado sugar.</p>
+<p>Bake for 24 to 27 minutes, or until the center of the scones feels firm to the touch.</p>
+<p><em>Note</em>: Wrapped in plastic wrap or stored in an airtight container, these keep beautifully at room temperature for 4 or 5 days. Warm in a toaster oven before eating.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 12 scones</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

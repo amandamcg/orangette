@@ -1,0 +1,74 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>I am not kidding around</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Pasta with Fried Prosciutto, Parmesan, and Butter</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FGiuliano-Hazans-Thirty-Minute-Pasta%2Fdp%2F1584798076&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">Giuliano Hazan’s Thirty Minute Pasta</span></a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-11-30T07:53:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2009/11/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I should tell you, before I go any further, that I received this book as a free review copy. That fact has not clouded my judgment, I swear. I receive many review copies that I never write about, and I only mention a recipe here if it’s a keeper. This one is.</p>
+<p>The proper title for this dish is tagliatelle alla Romagnola, but since I didn’t use tagliatelle, I’m winging it, title-wise. I hope Mr. Hazan will forgive me. I used penne rigate, which was fine, although I’ll bet it would be even better with a long noodle – dried egg tagliatelle, ideally. I have written the recipe below for one serving, because I usually make it when I’m working at home alone and in need of a quick meal, but the recipe scales up very easily. The original recipe, as Mr. Hazan wrote it, serves four and uses four ounces of prosciutto, 4 four tablespoons of butter, and so on.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 oz. prosciutto, sliced 1/8 inch thick          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            About 3 ounces dried pasta, preferably egg tagliatelle          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly grated Parmigiano-Reggiano          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Fill a deep pot with water for the pasta. Salt the water well. Place over high heat, and bring to a boil.</p>
+<p>Cut the prosciutto into narrow strips – about ¼ to ½ inch wide – and then cut the strips into short segments, each about 1 inch long. Warm the butter in a 10-inch skillet over medium heat. When the butter has melted, add the prosciutto, and season with a tiny pinch of kosher salt. Cook until the prosciutto has lost its raw color, but not long enough for it to brown, about 1 to 2 minutes. Remove from the heat.</p>
+<p>When the water boils, cook the pasta until it is al dente. Drain it – but not too thoroughly; you want the noodles to still be coated with some moisture – and turn it into the skillet with the prosciutto. Toss. Grate a little Parmigiano-Reggiano on top, and toss again. Serve immediately, with more Parmigiano-Reggiano to taste.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 1 serving</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

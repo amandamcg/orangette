@@ -1,0 +1,72 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>For a popsicle</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Raspberry Yogurt Popsicles</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FPerfect-Scoop-Sorbets-Granitas-Accompaniments%2Fdp%2F158008219X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1278912186%26sr%3D1-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><span style="font-style: italic;">The Perfect Scoop</span></a>, by David Lebovitz</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-07-12T07:14:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2010/07/for-a-popsicle/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>These pops are perfectly tangy and perfectly sweet, and the best part is, the yogurt flavor really shines. Be sure to use whole-milk yogurt, not low-fat or nonfat. It tastes better, and it makes for a better tasting popsicle. I buy my popsicle sticks at Fred Meyer, but you can also find them at craft stores.</p>
+<p>Lastly, I should tell you that these popsicles will not be as smooth, texture-wise, as churned frozen yogurt. They will be a little icy &#8211; you know, like a popsicle.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 cups (480 grams) plain whole-milk yogurt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups (240 grams) fresh or frozen raspberries          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup (150 grams) sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. lemon juice          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Combine all ingredients in the jar of a blender, and process until smooth. Set a strainer over a bowl (or other vessel) with a pour spout. Press the mixture through the strainer to remove seeds. Divide mixture among popsicle molds of your choosing. Freeze for 20 to 30 minutes, or until the mixture begins to set; then insert popsicle sticks. Freeze until very hard.</p>
+<p>To serve, briefly run the sides of the mold under tepid water to loosen the popsicle, and gently twist or wiggle the popsicle stick as you lift.</p>
+<p>Note: I’ve also made this recipe with blackberries, and that’s very good, too. Keep in mind, though, that you may need to adjust the amount of sugar or lemon juice.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 10 to 11 vodka shooter-size pops</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

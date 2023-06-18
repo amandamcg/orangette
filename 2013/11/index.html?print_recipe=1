@@ -1,0 +1,143 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Please consider</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Ham Bone, Greens, and Bean Soup</h2>
+    <h3 class="subtitle">Adapted very slightly from Melissa Clark’s <i><a href="http://www.amazon.com/Cook-This-Now-Delectable-Dishes/dp/1401323987/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=orangette-20" target="_blank">Cook This Now</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2013-11-22T17:46:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2013/11/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>What makes this soup different from one that uses, say, ham hocks, is that the marrow in the ham bone melts into the soup, bringing extra richness and body. So if you have a ham bone, use it! You will be rewarded. If not, a ham hock will also be good. My ham bone fit easily into the pot I used, but Melissa Clark suggests that, in general, you ask your butcher to cut it in half or thirds for you, so that it’s guaranteed to fit and also has some marrow exposed.</p>
+<p>As for beans, you could probably use any light-colored bean you like. I had a bag of <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=SFNT&amp;Store_Code=RG" target="_blank">Rancho Gordo</a>’s <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=PROD&amp;Store_Code=RG&amp;Product_Code=1YEL&amp;Category_Code=DHAHB4#.Uo-SlpSxOac" target="_blank">yellow eye beans</a> in the cupboard, so I used those. (Rancho Gordo beans make a great holiday present, by the way.)  Also, I find that adding a little salt when I soak dried beans makes them turn out better when I cook them, and here’s <a href="http://www.americastestkitchenfeed.com/super-quick-video-tips/2012/04/the-importance-of-brining-your-beans-video/" target="_blank">a video</a> from America’s Test Kitchen that explains why.  I don’t tend to use the full amount of salt that’s called for in the video, but I have, and it worked beautifully.  (I don’t use that much because I tend to forget to rinse the beans after soaking, and then I wind up with salty beans. Using less salt still seems to help, and then there’s no need to rinse.)</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 cup (175 grams) dried pinto beans, or another bean you like          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 strips bacon, cut into ½-inch pieces          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 large carrots, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 celery stalks, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large yellow onion, diced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 garlic cloves, finely chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ham bone (about 1 ¼ lb. / 565 grams)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 bay leaf          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 teaspoons kosher salt, or to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ head (about ¾ lb. / 340 grams) green cabbage, cored and thinly sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 bunch kale (about ½ lb. / 225 grams), stems removed and leaves chopped into bite-size pieces          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Freshly ground black pepper, for serving          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Hot sauce, for serving          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Twelve to 24 hours before you plan to start the soup, put the beans in a bowl and cover with plenty of cold water. Add a generous pinch of salt. Set aside at room temperature. (Or, if you don’t have that much time, you can instead use a quick-soak method: put the beans, lots of cold water, and a generous pinch of salt in a pot, bring it to a boil, turn off the heat, cover the pot, and let stand for 1 hour. Drain, and then proceed with the recipe.)</p>
+<p>Warm a large (about 5-quart) pot over medium-high heat. Add the bacon, and cook until crisp, about 5 to 7 minutes. Remove the bacon with a slotted spoon to a paper towel-lined plate, and save for garnishing the soup. Add the carrots, celery, and onion to the bacon fat in the pan. Cook, stirring, until softened, about 5 minutes. Add the garlic, and cook for 1 minute more.</p>
+<p>Put the ham bone and bay leaf into the pot, and add 8 cups water and 2 teaspoons kosher salt. Bring the mixture to a boil over high heat; then add the beans, reduce the heat to medium-low, and simmer for 30 minutes. Stir in the cabbage and simmer for 30 minutes more. At this point, fish out a bean and taste it: it should be nearly done. If it’s still pretty firm, let the soup simmer a bit longer before continuing. Then stir in the kale and simmer until the kale is soft but still bright green, about 15 minutes. Remove the ham bone and bay leaf. If you’d like, you can pull the meat from the ham bone, chop it up, and stir it back into the soup.</p>
+<p>Serve with freshly ground black pepper and a dash of hot sauce, and more salt, if needed. (Oh, and crumbled bacon, if you want.)</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 to 8 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Winter Squash Soup with Curry and Coconut Milk</h2>
+    <h3 class="subtitle">Adapted from Lisa Moussalli and <i><a href="http://www.bhg.com/recipe/soups/butternut-squash-soup-with-thai-gremolata/" target="_blank">Better Homes and Gardens</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2013-11-01T22:39:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2013/11/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I’ve made this soup twice now, once with kabocha squash and once with butternut. I slightly preferred the flavor of the kabocha, but I liked the texture of the butternut soup. (I also appreciate the fact that butternuts are easier to peel. I would rather throw a kabocha out the window than peel it.) You could use any winter squash, really &#8211; though if yours isn’t especially sweet, you might want an additional tablespoon of sweetener. And for the record, you don’t <i>have</i> to use maple syrup; you could try regular sugar, or brown sugar. In any case, taste and adjust as needed before serving.</p>
+<p>Oh, and I’ll bet this recipe would double nicely.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 to 3 tablespoons olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 medium or large yellow onion, chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 or 4 large garlic cloves, minced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tablespoon curry powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 winter squash (about 2 pounds / 500 g), peeled and cut into 1-inch cubes          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 (14-ounce) can unsweetened coconut milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 cups (475 ml) chicken or vegetable broth          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tablespoon maple syrup          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tablespoon Asian fish sauce          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon Sriracha or other Asian chile sauce          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Juicy wedges of lime, for serving          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Warm the oil in a Dutch oven (or other approximately 5-quart pot) over medium heat. Add the onions, and cook, stirring, until they begin to soften, about 5 minutes. Add the garlic, and cook for another 1 to 2 minutes. Stir in the curry powder, and cook for 1 minute more. Add the squash, coconut milk, broth, maple syrup, fish sauce, and Sriracha, and stir well. Raise the heat to bring to a boil; then reduce the heat and simmer, covered, until the squash is soft, about 30 to 40 minutes.</p>
+<p>Using an immersion blender (or a regular blender), puree the soup until smooth and velvety. Taste for salt and sweetness, and adjust if necessary. (I don’t find that this soup needs any additional salt – it gets a lot from the fish sauce – but you may disagree.) Ladle the soup into big bowls, add a generous squeeze of lime to each, and serve hot.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 4 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

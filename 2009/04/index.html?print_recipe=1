@@ -1,0 +1,189 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>About cake</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Everyday Cake</h2>
+    <h3 class="subtitle">Inspired by Edna Lewis’s <a href="http://www.orangette.blogspot.com/2008/02/like-lullaby.html">Busy-Day Cake</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-04-28T06:57:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2009/04/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I don’t ordinarily like baking with whole wheat flour, to be perfectly honest. I am told that this constitutes some sort of major personality flaw, like finding real enjoyment in making babies cry, but I can’t help it. However, that said, when I set out to make this cake, whole wheat flour somehow seemed right. It seemed fitting for an everyday sweet, the kind of thing you would want to snack on, rather than save for after dinner. I had a bag of <a href="http://www.kingarthurflour.com/shop/items/king-arthur-white-whole-wheat-flour-5-lb">white whole wheat flour</a> in the fridge, so that’s what I used, and it’s a great product. I combined it with regular all-purpose flour, using equal amounts of each, and the finished cake has a subtly nutty flavor and a hearty texture, which is exactly what I was after.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            1 stick (4 oz.) unsalted butter, at room temperature          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ¼ cups granulated sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            3 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup unbleached all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup white whole wheat flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ tsp. salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            A few gratings of nutmeg, or to taste          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup whole milk or plain yogurt, at room temperature          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 375°F. Grease a 9-inch springform pan with butter or cooking spray.</p>
+<p>In the bowl of a stand mixer, blend the butter and the sugar until light and fluffy. One by one, add the eggs, beating well after each addition. Add the vanilla extract, and beat to blend.</p>
+<p>In a medium bowl, whisk together the flours, baking powder, salt, and nutmeg.</p>
+<p>Add about ¼ of the flour mixture to the butter mixture, and beat on low speed to incorporate. Add 1/3 of the milk or yogurt, and beat again. Add the remaining flour mixture in three more doses, alternating each time with a bit of milk or yogurt, and beating to just combine. Using a rubber spatula, scrape down the sides of the bowl and stir to incorporate any flour not yet absorbed.</p>
+<p>Scrape the batter into the prepared pan, spreading it evenly across the top. Bake for about 35 minutes, or until a toothpick inserted in the center comes out clean. (This cake seems to want to brown quickly on top, so after about 20 minutes, you might want to peek into the oven and tent the cake with aluminum foil, if necessary.) Cool in the pan on a rack for 20 minutes; then remove the sides of the pan and continue to cool.</p>
+<p>Serve at room temperature. Or slightly warm, if you want.</p>
+<p>Note: I store this cake at room temperature, covered with plastic wrap. It’s very good on the first day, but I like it even better on the second. By the third day, it starts to dry out, but it still tastes good.</p>
+    </div>
+  
+  </section>
+                    
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Warm Farro with French Lentils, Caramelized Onions, and Feta</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-04-14T17:51:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2009/04/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>What follows is closer to a set of guidelines than it is to a real recipe, so do with it what you will. The most important part is the onions: be sure to take your time with them, and stir them frequently. Make this on a Sunday, or on a weeknight when you have some extra time to cook.</p>
+<p>We eat this as a main dish, but it would be a nice side for almost any roasted or grilled meat. It is also delicious &#8211; and prettier &#8211; with some cooked kale or chard stirred in. Just boil the greens in nicely salted water for about 5 to 7 minutes, until tender but not mushy; then drain them, squeeze all the water out, coarsely chop, and add to the farro mixture.</p>
+<p>And about farro: most of what is sold in the U.S. &#8211; I’ve found it at Whole Foods and fancy grocery stores, or you can get it from <a href="http://chefshop.com/Itemdesc.asp?ic=6458&amp;Tp=">ChefShop</a> &#8211; is grown in Italy, but there are also some domestic producers, like <a href="http://www.bluebirdgrainfarms.com/index.html">Bluebird Grain Farms</a> in Winthrop, Washington. It is usually sold semi-pearled (semiperlato), meaning the some of the bran has been removed. If you buy whole farro, though, it will likely need to soak overnight before cooking &#8211; rather than a brief soak for semi-pearled &#8211; and will need to cook for 30 to 45 minutes more.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 medium or large yellow onions          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ cup farro          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup French lentils, carefully picked through for pebbles and debris          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Feta cheese          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Hot sauce, such as sambal oelek (optional)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Lemon (optional)          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>First, the onions: slice them thinly. When I caramelize onions, I slice mine about ¼-inch thick, and I slice them lengthwise, from top to bottom &#8211; going “with the grain,” so to speak &#8211; so that they hold their shape. (If this makes no sense, check out the first two minutes of <a href="http://www.finecooking.com/videos/slice-dice-chop-onion.aspx">this video</a>, from Fine Cooking. It’s a great demonstration.)</p>
+<p>Pour a few glugs of olive oil into a large (12-inch) skillet. You want to be generous here, nearly coating the bottom of the skillet. Warm the oil over medium-high heat. When it’s hot, dump in the onions. They should sizzle. Stir them to coat, and then add a couple of pinches of salt. (Some people say that this causes the onions to fall apart more quickly, but I do it anyway. I like that it causes them to release some water, so that they stay moister, and it seems to make them caramelize more evenly, too.) Reduce the heat to low or medium-low, and continue to cook slowly, stirring occasionally. First, they will soften a bit; then they will go a little golden; and then they will begin to caramelize. It takes a long time to do this properly, so be patient – and stir regularly, especially as they take on color. My last batch of caramelized onions took about an hour and a half. When they’re done, they will have shrunk down in volume by quite a lot, and they should be a deep amber color and almost translucent.</p>
+<p>Meanwhile, once you’ve got the onions started, put the farro in a medium bowl, add cold water to cover, and set it aside to soak for 30 minutes. Then drain it, turn it out into a medium saucepan, and add 3 cups of cold water and ¼ teaspoon salt. Bring to a boil over medium-high heat; then reduce the heat and simmer until tender but still a little chewy, about 30 minutes. It’s up to you, really, how “done” you want your farro. At 20 or 25 minutes, mine is usually too tough, but a few minutes later, it’s perfect: no longer a major jaw workout, but still al dente, for lack of a different term. When the farro is ready, drain it, and set aside.</p>
+<p>While the farro is cooking, put the lentils into another medium saucepan. Add 3 cups of cold water and ¼ teaspoon salt. Bring to a boil over medium-high heat; then reduce the heat and simmer until tender but not falling apart, about 20 to 25 minutes. Drain, and rinse briefly under cool water.</p>
+<p>By this point, ideally, your onions will be nicely caramelized. Now combine it all – onions, farro, and lentils – in a bowl and stir gently. Taste, and adjust seasoning, if necessary. Serve with feta crumbled on top and, if you like, hot sauce and/or a squeeze of lemon.</p>
+<p><em>Note</em>: Leftovers keep nicely in the fridge. Rewarm slightly before eating.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 3-4 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Roasted Asparagus with Walnut Crema and Pecorino</h2>
+    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FA16-Food-Wine-Nate-Appleman%2Fdp%2F1580089070%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1239130706%26sr%3D1-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><i>A16: Food + Wine</a></i></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2009-04-08T05:08:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2009/04/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>The original version of this recipe calls for Pecorino Tartufo, a sheep’s milk cheese with black truffle, but barring that, any aged pecorino works nicely. I used Pecorino Romano. The original recipe also calls for finishing the dish with some toasted walnuts, but I skipped that part. The walnut crema carried plenty of nut flavor for me, and I thought that anything more was overkill. Maybe I’m weird. Either way, I finished mine with a squeeze of lemon, and it was a nice counterbalance to the richness of the crema.</p>
+<p>This recipe is intended to serve six, and even if you don’t need to feed that many, I would go ahead and make the full amount of crema. It will keep in the fridge for a few days, and you can roast the asparagus as needed. (One bunch is perfect for two people.) Also, Brandon has a hunch that leftover crema would make a terrific sauce for pasta, tossed with fresh garlic, lemon, and a little Italian parsley.</p>
+  </div>
+
+      <div class="recipe-list">
+              <h3>For walnut crema:</h3>                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups raw walnuts          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup plus 1 Tbsp. extra virgin olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 small red onion, diced (about 1 cup)          </div>
+                      <h3>For asparagus:</h3>                  <div class="ingredient" itemprop="ingredients">
+            3 bunches fat asparagus (about 30 spears, total)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Extra virgin olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 block Pecorino Romano or Pecorino Tartufo          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Lemon wedges, optional          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>To make the walnut crema, bring a pot of salted water to a boil. Add the walnuts, and blanch for 8 to 10 minutes, or until tender in the middle. (I pulled mine out after 8 minutes, thinking that they seemed tender enough, but I should have left them for the full 10 minutes. My finished crema was slightly grainy, probably meaning that my walnuts weren’t soft enough.) Drain the walnuts, reserving ¼ cup of the cooking water. Set aside separately.</p>
+<p>In a small skillet, warm 1 Tbsp. olive oil over medium heat. Add the onion and a generous pinch of salt, and sweat for about 7 minutes, or until golden brown and softened. Remove from the heat.</p>
+<p>In the bowl of a food processor, combine the walnuts, the reserved cooking water, and the onion, and process until creamy. Taste for seasoning: it will probably need a decent amount of salt. With the motor running, slowly add ½ cup olive oil, processing until blended. The crema should have the consistency of a creamy hummus. If it seems too thick, add a little water. Taste again for seasoning, and then transfer to a bowl or other container. Cover, and hold at room temperature. (Crema can be stored, tightly covered, in the refrigerator for a few days. Bring to room temperature before serving.)</p>
+<p>Preheat the oven to 500°F. Line two baking sheets with aluminum foil.</p>
+<p>Snap the tough ends from the asparagus spears. Rinse them, and then dry them well. Spread them in a single layer on the prepared baking sheets. Drizzle them lightly with olive oil, and roll them around, smearing the oil with your hands, to coat evenly. Season with kosher salt. Bake for about 8 minutes, shaking the pan once or twice, until blistered, slightly charred, and tender.</p>
+<p>To serve, spoon the crema evenly across the bottom of a platter. Arrange the asparagus spears on top. Working quickly, while the asparagus is still hot, shave Pecorino generously over the platter. Finish with a drizzle of olive oil, and serve immediately, with a squeeze of lemon, if you like.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 6 (first-course) servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

@@ -1,0 +1,85 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>100% birthday-worthy</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">The Violet Butterscotch Blondie</h2>
+    <h3 class="subtitle">from <a href="http://amzn.to/2xYVLdM" target="_blank" rel="noopener"><em>The Violet Bakery Cookbook</em></a>, by Claire Ptak</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2017-11-06T00:28:33-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2017/11/100-birthday-worthy/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>The original version of the recipe calls for milk chocolate. I used 55%, which is technically semisweet, but it&#8217;s what I had. I liked it a lot. And as always, the kosher salt I use is Diamond Crystal brand.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            250 grams (1 cup plus 1 Tablespoon) unsalted butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            300 grams (1 ¾ cups) golden brown sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ teaspoons vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            240 grams (1 ¾ cups) all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ¼ teaspoons baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ¼ teaspoons kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            125 grams (4 ½ ounces) chocolate (see note above), chopped          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            75 grams (2 ½ ounces) caramel shards (recipe follows)          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 320°F. Grease a 9-x-13-inch (or thereabouts) baking pan, and line it with parchment.</p>
+<p>In a small, heavy pan, melt the butter over low heat. Set aside to cool slightly.</p>
+<p>In a large bowl, whisk together the eggs, sugar, and vanilla until frothy. Whisk in the melted butter.</p>
+<p>In a separate bowl, whisk together the flour, baking powder, and kosher salt. Add the flour mixture to the egg-and-butter mixture, along with the chocolate. Mix until just combined.</p>
+<p>Scrape the mixture into the prepared pan, and smooth the top. Sprinkle the caramel shards over the top of the batter. Bake for 30 minutes, or until the center is puffed and looks set. Mine take a bit longer than 30 minutes &#8211; maybe more like 35 &#8211; and mostly, I&#8217;m looking for setness.</p>
+<p>Leave to cool completely in the pan. Then cut into squares or rectangles of whatever size you&#8217;d like.</p>
+<p>Store the blondies in an airtight container at room temperature. They&#8217;re best within three days.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 12 to 16 blondies, depending on how you cut them</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

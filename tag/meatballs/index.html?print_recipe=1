@@ -1,0 +1,143 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Right now</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Herbed Chicken Meatballs in Broth with Peas and Parmesan</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/dp/1892145979/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=MODE5OBBKFMIZB7B" target="_blank">Zuppe</a></i>, by Mona Talbott</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-06-09T02:10:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/meatballs/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>I made this one evening after June was in bed, and it fed both of us for the next couple of days. When you pack it up for the fridge, keep the meatballs separate from the broth, so that they don’t fall apart and the broth doesn’t get cloudy. When you want to eat a portion, just ladle out some broth, plunk in a few meatballs and some peas, and warm it. Grate on some cheese, and it’s ready.</p>
+<p>If you have a choice about your ground poultry, use dark meat. As for the chicken broth, I try make some whenever I roast a whole chicken: I toss the carcass in a deep pot with a quartered onion, a roughly chopped carrot, a roughly chopped stalk of celery, a handful of cilantro or parsley stems (if I have them), and some salt; cover it all generously with cold water; bring it to a simmer; put it in a 200- or 225-degree oven overnight, and then I strain it, let it cool, and stash it in the freezer. But when I’m not so spectacularly on top of things, <a href="http://www.superiortouch.com/retail/products/better-than-bouillon/organic-bases/38/organic-chicken-base" target="_blank">Better Than Bouillon</a> is quite tasty.</p>
+<p>Oh, and I think this soup would be wonderful served with a slice of garlic-rubbed, olive-oiled toast at the bottom of the bowl, to soak up broth and get silky.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 ounces (85 grams) rustic, country-style bread          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup (60 ml) whole milk          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            18 ounces (540 grams) ground chicken or turkey          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 sprigs Italian parsley, leaves finely chopped and stems discarded          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 sprigs marjoram, leaves finely chopped and stems discarded          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Black pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 ½ quarts (scant 2 ½ liters) chicken stock          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            12 ounces (340 grams) fresh or frozen peas          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Grana Padano or Parmesan, for grating          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Cut the crusts off the bread. Cut the bread into roughly ½-inch cubes, and put it into a large bowl. Add the milk, toss to coat, and leave to soak for about 20 minutes. Then squish the bread into a mush, and add the ground chicken. Add 1 tablespoon each of the chopped parsley and marjoram, a few grinds of black pepper, and a couple of very generous pinches of salt. (If you’re using table salt or fine sea salt, about 1 teaspoon should be right.) Mix with a fork, or with your hand, until evenly combined. (If you’re unsure of the seasoning, at this point you can fry off a little bit of the meat mixture and taste for salt.) With damp hands, form the meat into 1-inch balls. You should get approximately 25. Chill the meatballs for 30 minutes before cooking.</p>
+<p>Bring the chicken stock to a simmer in a wide pot, such as a Dutch oven. (This is a good time to taste the stock for seasoning.) Gently drop the meatballs into the simmering stock, and cook for 5 minutes. You’re looking for their internal temperature to reach 165 degrees. Remove the meatballs from the stock, and set aside. If the broth is cloudy, you can strain it, or just continue on. You can now go one of two ways:</p>
+<p>1. If you plan to serve the soup immediately, add the peas to the simmering stock, and cook until tender, about 5 minutes. Return the meatballs to the pot, and stir in the remaining chopped herbs. Serve with freshly grated Grana Padano or Parmesan.</p>
+<p>2. If you plan to eat the soup later, chill the meatballs and the stock separately. When you’re ready to eat, bring the broth back to a simmer, add the meatballs and peas, and cook until everything is warm and the peas are tender, maybe 5 minutes. Stir in the remaining chopped herbs. Serve with freshly grated Grana Padano or Parmesan.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 6 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Falafel-Spiced Lamb Meatballs</h2>
+    <h3 class="subtitle">Adapted slightly from <i><a href="http://www.amazon.com/The-Smitten-Kitchen-Cookbook-Perelman/dp/030759565X/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=orangette-20" target="_blank">The Smitten Kitchen Cookbook</a></i>, by Deb Perelman</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2014-03-10T20:44:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/meatballs/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Deb’s recipe calls for browning these meatballs in a pan and then finishing them in the oven, and while that certainly yields a stunner of a meatball, both in flavor and beauty, I regularly take a lazier route: I only bake them. Then I can basically walk away, and <i>ta da</i>, the meatballs cook themselves. Cleanup is also very easy, thanks to the parchment on the sheet pan.  Do what you will.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 tablespoons (15 grams) sesame seeds          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 pound (455 grams) ground lamb          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2/3 cup (40 grams) fresh breadcrumbs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup (60 ml) water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 teaspoon table salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 large egg          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 garlic cloves, minced or pressed          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ teaspoon ground cumin          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ teaspoon ground coriander          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ teaspoon Aleppo pepper          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Pinch of cayenne or red pepper flakes          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Olive oil, for cooking          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 425°F. If you plan to skip the stovetop browning and only bake these, line a rimmed sheet pan with parchment.</p>
+<p>Put the sesame seeds in a small skillet, and place the skillet over medium heat.  Cook, stirring occasionally, until the seeds smell toasty and are beginning to turn golden.  I never pay attention to exactly how long this takes, but it’s not terribly long.</p>
+<p>While the sesame seeds toast, put the lamb through cayenne in a medium bowl.  When they’re ready, add the toasted sesame seeds.  Mix with a fork (or with your hand, my preference) until evenly mixed. Form the meat mixture into 1½-inch, or golf-ball-sized, balls.  (This is easiest to do if your hands are wet; that will help to keep the meat from sticking to you.) If you plan to brown the meatballs on the stovetop, arrange them on a tray or large plate; if you plan to only bake them, arrange them on the prepared sheet pan.</p>
+<p>At this point, if you’re lazy like me, put the sheet pan in the oven and walk away. After about 10 minutes, pull out your thermometer (all hail the <a href="http://www.amazon.com/Splash-Proof-Super-Fast-Thermapen-Thermometer-Professional/dp/B002GIZZWM/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=thermapen&amp;linkCode=ur2&amp;qid=1394253810&amp;sr=8-1&amp;tag=orangette-20" target="_blank">Thermapen</a>! Possibly my single favorite kitchen tool!) and poke one or two of the meatballs: when they’re ready, the internal temperature will be between 160 and 165 degrees.  If they’re not hot enough, slide them back in, and check again shortly. Again, I never seem to keep track of how long they take to cook. Somewhere between 12 and 15 minutes, I think?</p>
+<p>If you’re a better person and plan to brown your meatballs as Deb directs, heat a generous slick of oil in a large ovenproof skillet or sauté pan. Brown the meatballs in batches, taking care not to crowd the pan or nudge them before they’re good and brown. Be gentle as you turn them: they’re soft! Transfer the meatballs to a paper-towel-lined tray or plate, and continue cooking in more batches until they’re all browned. Then discard the oil, wipe all but a little of it from the pan, and return all of the meatballs to the pan. Slide into the oven, and bake until a thermometer reads an internal temperature of 160 to 165 degrees, or about 10 to 15 minutes.</p>
+<p><i>Note</i>: These meatballs freeze beautifully.  I like to cook about half of them right away and then freeze the remaining half on a sheet pan lined with parchment.  When they’re frozen solid, I transfer them from the pan to a plastic storage bag. They thaw quickly &#8211; and actually, I’ve even baked them while they were still slightly frozen. It took a bit longer, but no harm done.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 4 servings, or roughly 25 meatballs</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

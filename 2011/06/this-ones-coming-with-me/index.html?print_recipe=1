@@ -1,0 +1,78 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>This one&#8217;s coming with me</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Dorie Greenspan’s Tender Shortcakes</h2>
+    <h3 class="subtitle"> From <span style="font-style: italic;"><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FBaking-Home-Yours-Dorie-Greenspan%2Fdp%2F0618443363%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1308769152%26sr%3D1-1&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Baking: From My Home to Yours</a></span></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-06-27T17:43:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2011/06/this-ones-coming-with-me/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>You could serve these shortcakes with any kind of berry, and I’ll bet sliced nectarines or peaches would also be outstanding. You’ll want about ½ cup fruit per serving. I like to keep it simple and toss the fruit only with sugar – a small amount, to taste – and whatever you do, be sure to let the sugared fruit sit for about 15 minutes before serving, so that it gets nice and juicy and some syrup pools at the bottom of the bowl. That’s the stuff. Serve with unsweetened, softly whipped cream.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            4 cups all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¾ tsp. salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 Tbsp. sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ sticks (12 Tbsp.) cold unsalted butter, cut into small pieces          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups cold heavy cream          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Center a rack in the oven, and preheat the oven to 425°F. Line a baking sheet with parchment.</p>
+<p>In a large bowl, whisk together the flour, baking powder, salt, and sugar. Add the butter and, using your fingers, toss to coat with flour. Quickly, working with your fingertips, pinch and rub the butter into the dry ingredients until the mixture is pebbly. Some pieces of butter will be about the size of peas, while other will be more like flakes of oatmeal.</p>
+<p>Pour the cream over the dry ingredients, and toss and gently turn the ingredients with a fork until you’ve got a very soft dough. You’ll probably still have some flour at the bottom of the bowl, so reach in and use your hand to mix and gently knead the dough until it’s evenly blended. But don’t get overzealous: it’s better to have a few dry spots than an overworked dough. The dough should be soft and sticky.</p>
+<p>Cut the dough into 10 roughly equal portions (each will be about 1/3 cup), and put 5 or 6 of them on the baking sheet, leaving about 3 inches of space between them. Pat each portion down until it’s about 1 inch high. [The shortcakes can be made to this point, wrapped in plastic wrap, and stashed in the freezer. Bake without defrosting – just add 5+ minutes to the baking time.]</p>
+<p>Bake for 15 to 18 minutes, rotating the sheet from front to back midway through, until the shortcakes are puffed and give just a little when poked with a fingertip. Pull the pan from the oven, and carefully transfer the shortcakes to a cooling rack. Repeat with the remaining dough, cooling the baking sheet first.</p>
+<p>Serve the shortcakes slightly warm or at room temperature. To serve, use a serrated knife to gently cut each cake in half horizontally. (They’re fragile, so go easy.) Put the bottom halves on plates, top with berries and whipped cream, and then cap with the top halves.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 10 servings</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

@@ -1,0 +1,723 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+  <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
+
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
+  <meta name="apple-mobile-web-app-title" content="Orangette">
+  <meta name="application-name" content="Orangette">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="https://orangette.net/wp-content/themes/orangette/assets/icons/mstile-144x144.png">
+  <meta name="msapplication-config" content="https://orangette.net/wp-content/themes/orangette/assets/icons/browserconfig.xml">
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>How it works | Orangette</title>
+	<link rel="canonical" href="http://orangette.net/2007/06/how-it-works/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="How it works | Orangette" />
+	<meta property="og:description" content="I must have pleased the weather gods, or whoever controls rain and shine. Ever since my last post, it’s been lovely around here. There’s been sun, sun, and more sun, a whole week of hot days and cold beers and windows wide open. We had a picnic; we went rowing; we stuck our feet in the Sound; and on Saturday, we even cleaned the basement. (This last might not sound like fun, but I’ll let you in on a secret: when it’s hot outside, our basement is like heaven. It’s always a season cooler down there.) It’s been summer. It’s been the bee’s knees. I didn’t even mind the thunderstorm that rolled through last night. It was an especially hot&hellip;" />
+	<meta property="og:url" content="http://orangette.net/2007/06/how-it-works/" />
+	<meta property="og:site_name" content="Orangette" />
+	<meta property="article:publisher" content="https://www.facebook.com/molly.wizenberg" />
+	<meta property="article:published_time" content="2007-06-05T00:44:00+00:00" />
+	<meta property="og:image" content="http://orangette.net/wp-content/uploads/2015/09/bd8ba-salsa004-21.jpg?w=300" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@mollyorangette" />
+	<meta name="twitter:site" content="@mollyorangette" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Molly" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="7 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://orangette.net/#website","url":"http://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"http://orangette.net/2007/06/how-it-works/#primaryimage","inLanguage":"en-US","url":"http://orangette.net/wp-content/uploads/2015/09/bd8ba-salsa004-21.jpg?w=300","contentUrl":"http://orangette.net/wp-content/uploads/2015/09/bd8ba-salsa004-21.jpg?w=300"},{"@type":"WebPage","@id":"http://orangette.net/2007/06/how-it-works/#webpage","url":"http://orangette.net/2007/06/how-it-works/","name":"How it works | Orangette","isPartOf":{"@id":"http://orangette.net/#website"},"primaryImageOfPage":{"@id":"http://orangette.net/2007/06/how-it-works/#primaryimage"},"datePublished":"2007-06-05T00:44:00+00:00","dateModified":"2007-06-05T00:44:00+00:00","author":{"@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"http://orangette.net/2007/06/how-it-works/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://orangette.net/2007/06/how-it-works/"]}]},{"@type":"BreadcrumbList","@id":"http://orangette.net/2007/06/how-it-works/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"http://orangette.net/"},{"@type":"ListItem","position":2,"name":"How it works"}]},{"@type":"Person","@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; How it works Comments Feed" href="https://orangette.net/2007/06/how-it-works/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="alternate" type="application/json" href="https://orangette.net/wp-json/wp/v2/posts/1467" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel='shortlink' href='https://orangette.net/?p=1467' />
+<link rel="alternate" type="application/json+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2007%2F06%2Fhow-it-works%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2007%2F06%2Fhow-it-works%2F&#038;format=xml" />
+  <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+</head>
+  <body class="post-template-default single single-post postid-1467 single-format-standard how-it-works sidebar-primary">
+    <!--[if lt IE 9]>
+      <div class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <nav class="off-canvas-nav">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+ 
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div></nav>
+    <div class="container" id="top">
+      <header class="page-header" role="banner">
+  <h1 class="header--title">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    </a>
+  </h1>
+  <button class="nav-toggle" data-behavior="open-nav"></button>
+</header>
+      <div class="page-content">
+        <main class="content-left has-sidebar" role="document">
+            
+<article class="post--single post-1467 post type-post status-publish format-standard hentry category-uncategorized" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <div class="kicker">
+      <time class="updated" datetime="2007-06-05T00:44:00+00:00">Tuesday, June 5, 2007</time>
+    </div>
+    <h1 class="title" >
+      <a href="https://orangette.net/2007/06/how-it-works/">How it works</a>
+    </h1>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    <p>I must have pleased the weather gods, or whoever controls rain and shine.  Ever since <a href="http://orangette.blogspot.com/2007/05/better-day.html">my last post</a>, it’s been lovely around here.  There’s been sun, sun, and more sun, a whole week of hot days and cold beers and windows wide open.  We had a picnic; we went <a href="http://www.cwb.org/RentABoat.htm">rowing</a>; we stuck our feet in the <a href="http://en.wikipedia.org/wiki/Puget_Sound">Sound</a>; and on Saturday, we even cleaned the basement.  (This last might not sound like fun, but I’ll let you in on a secret: when it’s hot outside, our basement is like <span style="font-style:italic;">heaven</span>.  It’s always a season cooler down there.)   It’s been summer.  It’s been the bee’s knees.  I didn’t even mind the thunderstorm that rolled through last night.  It was an especially hot day, and as dusk came on, I raised the windows as far as they would go.  Brandon was out at a catering job, and I busied myself with a batch of soup and <a href="http://www.amazon.com/At-Folsom-Prison-Johnny-Cash/dp/B000028U0Y/ref=pd_bbs_sr_1/002-8255447-5270407?ie=UTF8&amp;s=music&amp;qid=1180992641&amp;sr=8-1"><span style="font-style:italic;">Johnny Cash at Folsom Prison</span></a>, and I’m telling you, nothing has ever sounded so sweet as those raindrops on the sill, singing backup for Johnny and June.  I swooned a little just writing that sentence.</p>
+<p>At any rate, all this to say that I think the season is finally upon us.  All the signs are there, including the most crucial one.  This weekend, Brandon made salsa.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/bd8ba-salsa004-21.jpg"><img decoding="async" src="http://orangette.net/wp-content/uploads/2015/09/bd8ba-salsa004-21.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5072302382351825074" border="0" /></a><br />Now, before this goes any further, you should know a little something.  In one of our first conversations, <a href="http://orangette.blogspot.com/2006/04/man-plan-food-blog.html">before we’d even met</a>, Brandon talked to me about salsa.  We were in the business back then of comparing our favorite foods – a fitting variation, you could say, on “What’s your sign?” – and one day, he brought it up.  Actually, I believe his exact words were, “I love anything with the consistency of salsa.”  I didn’t think much of it at the time.  I giggled a little, for sure, and thrilled silently for a second at the thought of a man who could care so deeply about sauces and condiments.  But I figured he was just being cute and clever, and trying to say the right things.  Needless to say, I was wrong.  Not about the cuteness or the cleverness, mind you, but about the salsa.</p>
+<p>The truth is, Brandon eats salsa by the quart.  He eats salsa like I eat dessert, in great, lusty gulps.  Whenever I lose sight of him in the grocery store, all I have to do is head for the tomato display.  He’s bound to be there, sniffing and prodding, sizing up the prospects.  The man is a salsa machine.  He makes it; he eats it; and then he starts again.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/ea056-salsa005-31.jpg"><img decoding="async" src="http://orangette.net/wp-content/uploads/2015/09/ea056-salsa005-31.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5072378174857925714" border="0" /></a><br />Salsa may not sound like anything particularly exciting to make, and it certainly is simple.  But a great salsa is special, an alchemy of sweetness and acid with just enough salt.  Brandon’s repertoire of salsas includes three varieties: a <span style="font-style:italic;">pico de gallo</span>; a fiery green sauce of cilantro, jalapeños, and garlic; and a grilled or roasted salsa, made from tomatoes and chiles that have been charred over a fire.  I mentioned the latter two in <a href="http://orangette.blogspot.com/2005/07/on-independence-day-and-tyranny-of-bad.html">a post almost two years ago</a>, as accompaniments to a dinner of fresh tortillas and beans.  In response to requests, Brandon wrote rough sketches of the recipes in the comments section.  But in the time since, he has tweaked and altered his methods, and seeing as he made a particularly spectacular go at the grilled version on Saturday night, I thought it was time to revisit the notion.  Plus, <span style="font-style:italic;">it’s summer</span>, people.  You’re supposed to be making salsa.  That’s just how it works.</p>
+<p>Brandon first came upon the idea for his grilled salsa in New York, at <a href="http://www.burritoville.com/burritoville/home.htm">Burritoville</a>, of all places.  He used to stop there for cheap plates of beans and rice and a pass through their salsa bar. One of his favorites was the roasted tomato variety, which the menu on the wall billed as a blend of fire-roasted tomatoes, onions, garlic, and jalapeños, with cilantro and lemon.  One day, he made a mental note of the ingredients list and decided to try making it at home.  So it began.  Back in his apartment, he roasted the vegetables under the broiler until they were charred and blistered, and then he zizzed them in his housemate’s Cuisinart.  Then he sat down with a bag of tortilla chips and ate it &#8211; breakfast, lunch, and dinner &#8211; for a few days.  And then he did it again.  He was still doing the same thing, more or less, when he met me.  And some days, especially in the summer, he still does.</p>
+<p>One could do a lot worse, I think, than eating salsa all day.  Especially this one. The tomatoes still wear the warm flavor of the grill, their fruitiness amplified a notch.  Over the heat of the flame, the onion and garlic give up their sharpness in favor of a mellow, savory flavor.  Even the jalapeños relax a little, ceding some of their heat for a low, earthy burn.  Punched up with cilantro and lemon, it’s both sweet and acidic, bright and rich, and thick enough to sit tall atop a crisp, salty chip.  Which is, come summer, where we all want to be.</p>
+<p><b>Grilled Tomato Salsa</b></p>
+<p>This salsa is delicious with tortilla chips, of course, but also with beans and rice, grilled beef, guacamole, slices of avocado, chile rellenos, or, frankly, almost anything with Mexican leanings.  Brandon usually makes it by eye and by taste.  It’s hard to mess it up, so play with it as you like.  If you choose to cook the vegetables less than Brandon does, your salsa will have a fresher, more raw flavor.  If you cook the vegetables longer, your salsa will taste more roasted.  Lastly, if you don’t have a grill at the ready, you can achieve the same &#8211; or similar &#8211; ends with your broiler.</p>
+<p>2 ½ &#8211; 3 lb. ripe Roma tomatoes<br />1 large onion<br />1 head garlic<br />1 &#8211; 4 jalapeños<br />2 &#8211; 4 lemons or limes, or a mixture of both<br />½ bunch cilantro<br />Salt</p>
+<p>Preheat your grill.  We use a gas grill, and Brandon sets it to high.  If you’re using a charcoal grill, get it nice and hot.</p>
+<p>While the grill heats, prepare the vegetables.  Rinse the tomatoes, and set them aside.  Peel and trim the onion; then cut it in half along its equator.  Trim the top off the head of garlic, revealing the tips of the cloves inside; then wrap the entire head in aluminum foil.  Rinse the jalapeños, and trim off their stems.  If you want a very mild salsa, remove their seeds; otherwise, leave them intact.</p>
+<p>Arrange the tomatoes, onion halves, jalapeños, and garlic on the grill.  We like to close the lid to help keep it hot, but if you’re using a charcoal grill, this might create a smoky flavor, which you may or may not want.  It’s up to you.  Either way, let the vegetables cook, turning them once or twice, until they are nicely charred.  The onions should be quite blackened on their cut sides, and the jalapeños should be charred. [A tidbit of interest: the more you cook the jalapeños, the less spicy they will be.]  The tomato skins will begin to wrinkle a bit and blacken, and some of the tomatoes will split open.  Carefully open the foil packet to check the garlic: does it feel soft?  If not, return it to the grill until it does.</p>
+<p>When the vegetables are ready, transfer them to a large sheet pan, and cool to room temperature.  Dump the tomatoes, onion, and 1 jalapeño into the bowl of a large food processor.  (Ours is an 11-cup.)  Remove the softened cloves from the head of garlic, and add them to the bowl.  And add the juice of 2 lemons (or limes), the cilantro, and a good dose of salt.   Process to a salsa consistency.   Taste, and add more jalapeño, lemon juice, and salt to taste.  (Most of the time, Brandon likes to use about 3 jalapeños.  And depending on the flavor of the tomatoes, you might need quite a bit of lemon juice.  On his most recent go, he used 3 lemons’ worth in total.  Likewise, this salsa requires quite a bit of salt.  Don’t be shy.)  Taste, and tweak until it is to your liking.</p>
+<p>Refrigerate until thoroughly chilled before serving.</p>
+<p><span style="font-style:italic;">Note</span>: If you have any leftover grilled jalapeños, know that they’re delicious with beans.  For lunch today, for example, Brandon put a bit of olive oil in a saucepan, threw in one grilled jalapeño (whole; no need to chop it), and warmed them together over medium heat.  Then he added a drained can of black beans and a pinch of cumin.  When the whole mess is warm, it’s ready.</p>
+<p><span>Yield</span>: A lot<a href="http://orangette.net/wp-content/uploads/2015/09/b2b2a-salsa005-21.jpg"><br /></a></p>
+  </div>
+  <footer class="post-meta">
+    <nav class="post-utility-nav">
+  <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=How%20it%20works&url=https%3A%2F%2Forangette.net%2F2007%2F06%2Fhow-it-works%2F" onclick="window.open(this.href, 'twitter-share', 'width=550,height=285'); return false;" title="Twitter"></a>
+          <a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Forangette.net%2F2007%2F06%2Fhow-it-works%2F&t=How%20it%20works" onclick="window.open(this.href, 'facebook-share', 'width=580,height=300'); return false;" title="Facebook"></a>
+          <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Forangette.net%2F2007%2F06%2Fhow-it-works%2F&media=&description=How%20it%20works" data-pin-custom="true" title="Pinterest"></a></nav>
+                  <nav class="navigation post-navigation left-nav" role="navigation">
+        <div class="left"><a href="https://orangette.net/2007/05/a-better-day/" rel="prev">A better day</a></div>        <div class="right"><a href="https://orangette.net/2007/06/my-kind-of-bridal/" rel="next">My kind of bridal</a></div>      </nav>
+      
+<section id="comments" class="comment-area">
+      <h2 class="comment-area--title">Comments</h2>
+
+    <ol class="comment-area--list">
+        <li id="comment-8341" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17695571140337052781" class="url" rel="ugc external nofollow">Bernie</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8341"><time class="comment-time" datetime="2007-06-05T00:56:00-04:00">Tuesday, June 5, 2007 at 12:56 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hey Molly, I was wondering what kind of chips you guys use. I can&#8217;t identify that bag&#8230; :o)</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8342" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11824254691379334918" class="url" rel="ugc external nofollow">lisa s</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8342"><time class="comment-time" datetime="2007-06-05T02:32:00-04:00">Tuesday, June 5, 2007 at 2:32 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>good salsa is an art. nothing like making it fresh out of the garden. screams summer to me&#8230;.</></>yours looks scrumptious</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8343" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8343"><time class="comment-time" datetime="2007-06-05T02:34:00-04:00">Tuesday, June 5, 2007 at 2:34 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Do you (or Brandon) put the veggies on a piece of foil, or straight on the grill?  I&#8217;m a little worried I&#8217;d lose veggies to the depths &#8211; silly concern?  Psyched to try this salsa this weekend!</>-Kristin</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8344" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/06928991421263308364" class="url" rel="ugc external nofollow">Jim</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8344"><time class="comment-time" datetime="2007-06-05T02:44:00-04:00">Tuesday, June 5, 2007 at 2:44 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>So, do I get to blame you for today&#8217;s return of the dreaded, teasing Seattle pre-summer weather, then 😉</></>Roasted roma salsa seems to be all the rage these days, Chow had an < HREF="http://www.chow.com/recipes/10646" REL="nofollow">intriguing story<> a few days back involving pumpkin seeds.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8345" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/04117279224184283180" class="url" rel="ugc external nofollow">Michelle</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8345"><time class="comment-time" datetime="2007-06-05T07:50:00-04:00">Tuesday, June 5, 2007 at 7:50 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>This is my kind of food! I was just wondering, do you have any good Tortilla soup recipes?</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8346" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://achickenineverygrannycart.wordpress.com" class="url" rel="ugc external nofollow">ann</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8346"><time class="comment-time" datetime="2007-06-05T11:46:00-04:00">Tuesday, June 5, 2007 at 11:46 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>yep, the salsa at burritoville is the best reason to stop there, I mean, aside from the cheap eats.  I&#8217;m a salsa-eater too. My boyfriend thinks it&#8217;s weird.  I&#8217;m glad there&#8217;s someone else out there I can point to and say, &#8220;see! see! other people do it, too!&#8221;</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8347" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">DC Sarah</cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8347"><time class="comment-time" datetime="2007-06-05T12:49:00-04:00">Tuesday, June 5, 2007 at 12:49 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Even just reading this is literally causing my mouth to water and I&#8217;m about to drool all over my desk. Can the poor souls (like me) without access to a grill perhaps broil the veggies? What would you recommend?</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8348" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.ceresandbacchus.com" class="url" rel="ugc external nofollow">Mary</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8348"><time class="comment-time" datetime="2007-06-05T12:56:00-04:00">Tuesday, June 5, 2007 at 12:56 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I&#8217;ve been making a grilled tomato salsa from the Barbecue Bible for a while and we just love it, it makes even bland tomatoes taste good. I prefer lime juice over lemon. Can&#8217;t wait for the tomatoes to be in season. Summer!</></>Mary</><a href="http://www.ceresandbacchus.com" rel="nofollow ugc">http://www.ceresandbacchus.com</a></p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8349" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00943525178121170533" class="url" rel="ugc external nofollow">Felicity</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8349"><time class="comment-time" datetime="2007-06-05T13:55:00-04:00">Tuesday, June 5, 2007 at 1:55 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hey Molly,</>I have been reading for a while and just went back to the beginning of the story of &#8216;the man, the plan&#8230;&#8217;.</>Still sniffling a little but I am thinking of making those nutmeg muffins to raise a smile and although the tomatoes aren&#8217;t as good in the UK, roasting them may get around it.</>Thank you for the gorgeous blog, it brightens up my day.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8350" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05460978833071971815" class="url" rel="ugc external nofollow">two trees</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8350"><time class="comment-time" datetime="2007-06-05T14:12:00-04:00">Tuesday, June 5, 2007 at 2:12 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>i&#8217;ll be trying this recipe tonight! thanks for this, we are a salsa family too and this looks terrific! glad to hear you&#8217;ve had some summery days lately! happy tuesday!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8351" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00726198124384721936" class="url" rel="ugc external nofollow">Lia</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8351"><time class="comment-time" datetime="2007-06-05T14:15:00-04:00">Tuesday, June 5, 2007 at 2:15 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Your sentence about the rain singing backup to Johnny and June made ME swoon. Molly, you certainly have a way with words. Everything your write is such a pleasure to read.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8352" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00097330009175643958" class="url" rel="ugc external nofollow">Mercedes</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8352"><time class="comment-time" datetime="2007-06-05T14:21:00-04:00">Tuesday, June 5, 2007 at 2:21 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>You know, I think I might start eating salsa by the gulpful too, you made it sound so appealing. Inspiration can come from funny places, even Burritoville. </></>I have always made my gazpacho with roasted tomatoes, we usually just hold the tomato over the burner flame on the stove (use tongs!) until the skin blackens and all of a sudden peels away. Best way to peel a tomato and get that nice aroma.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8353" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Caroline</cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8353"><time class="comment-time" datetime="2007-06-05T14:57:00-04:00">Tuesday, June 5, 2007 at 2:57 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>As a tomato snob, I refuse to make salsa until August, when delicious New Jersey tomatoes start coming out of my parents&#8217; garden. I may have to rethink that policy, though&#8230;.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8354" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11729273567277588887" class="url" rel="ugc external nofollow">Susannah</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8354"><time class="comment-time" datetime="2007-06-05T16:50:00-04:00">Tuesday, June 5, 2007 at 4:50 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>God, this sounds divine &#8211; i love that summer is here at last (on the south coast of England). thanks for the tomatoey inspiration!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8355" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13682390924316164553" class="url" rel="ugc external nofollow">Rose</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8355"><time class="comment-time" datetime="2007-06-05T18:17:00-04:00">Tuesday, June 5, 2007 at 6:17 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I wish I had this recipe last year when I was pegnant and craving salsa and chips every hour; along with watermelon. </>This is&#8217;nt too bad for an addiction!!! At least it&#8217;s healthier than my hubby&#8217;s obsession with flan.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8356" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11024322047827920187" class="url" rel="ugc external nofollow">Emily</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8356"><time class="comment-time" datetime="2007-06-05T19:09:00-04:00">Tuesday, June 5, 2007 at 7:09 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Can&#8217;t wait to try this!</></>And hey, I like your new avatar.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8357" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11883278789876067947" class="url" rel="ugc external nofollow">Brian Gardunia</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8357"><time class="comment-time" datetime="2007-06-05T19:28:00-04:00">Tuesday, June 5, 2007 at 7:28 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Tomatillos work well this way also.  Grilled and then pureed with onions, cilantro, and jalapenos.  It has a nice lemony flavor.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8358" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05181971451130196584" class="url" rel="ugc external nofollow">foodette</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8358"><time class="comment-time" datetime="2007-06-05T21:57:00-04:00">Tuesday, June 5, 2007 at 9:57 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>sounds amazing &#8211; it inspires me to make my own salsa!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8359" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05784213169853209167" class="url" rel="ugc external nofollow">nicole</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8359"><time class="comment-time" datetime="2007-06-05T22:11:00-04:00">Tuesday, June 5, 2007 at 10:11 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Oh, the yum.  I think I will have to try this, along with your hot sauce recipe 🙂</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8360" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.flickr.com/photos/menina" class="url" rel="ugc external nofollow">Megan</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8360"><time class="comment-time" datetime="2007-06-06T00:36:00-04:00">Wednesday, June 6, 2007 at 12:36 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Jalapenos: I&#8217;m always surprised when their flavor manages to slip past and outshine their heat. It&#8217;s been too few times that I&#8217;ve experienced that delight in any dish.  The most recent time was at Lula Cafe in Chicago &#8211; lately, they&#8217;re serving this long slab of feta cheese over a bright, green pool of oil (olive?) that&#8217;s been infused with jalapeno.  Ahh. Such a fresh, optimistic flavor. Recommended.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8361" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/02523150142883705661" class="url" rel="ugc external nofollow">wheresmymind</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8361"><time class="comment-time" datetime="2007-06-06T14:41:00-04:00">Wednesday, June 6, 2007 at 2:41 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Whole head of garlic&#8230;wowsers&#8230;afraid of vampires in the city of twilight?</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8362" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16709430980141916851" class="url" rel="ugc external nofollow">cchang</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8362"><time class="comment-time" datetime="2007-06-06T20:53:00-04:00">Wednesday, June 6, 2007 at 8:53 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>As a southerner who eats salsa by the gallons (heck every morning I have a breakfast taco&#8230;), I completely approve of this recipe. Very good. I love the sweetness of the roasted tomatoes.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8363" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01761741353229702740" class="url" rel="ugc external nofollow">Village Vegan</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8363"><time class="comment-time" datetime="2007-06-06T23:27:00-04:00">Wednesday, June 6, 2007 at 11:27 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>That looks so, so good.  I don&#8217;t have a gril, so I&#8217;m afraid I&#8217;ll be stuck with the broiler, but even so, I can&#8217;t wait to try it!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8364" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07253560475866805206" class="url" rel="ugc external nofollow">Erin</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8364"><time class="comment-time" datetime="2007-06-07T19:59:00-04:00">Thursday, June 7, 2007 at 7:59 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I love salsa!  I&#8217;m totally making this this weekend.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8365" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/04512721966076103498" class="url" rel="ugc external nofollow">Lily</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8365"><time class="comment-time" datetime="2007-06-07T20:17:00-04:00">Thursday, June 7, 2007 at 8:17 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Yummm&#8230;I heart salsa too!  🙂  YAY BRANDON!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8366" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05433880903890097520" class="url" rel="ugc external nofollow">Acme Instant Food</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8366"><time class="comment-time" datetime="2007-06-07T22:13:00-04:00">Thursday, June 7, 2007 at 10:13 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I think Brandon and I would be best buds.  I bow to him at the holy alter of the grill.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8367" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8367"><time class="comment-time" datetime="2007-06-08T06:21:00-04:00">Friday, June 8, 2007 at 6:21 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hello, friends.  I hate to say it, but this is one of those weeks when I&#8217;m just not able to reply to each of your comments.  I&#8217;ve been up to my ears in wedding invitations &#8211; addressing, stuffing, stamping, mailing, the works! &#8211; and preparing for a little trip to San Francisco this weekend (a.k.a. my bachelorette weekend &#8211; eeep!).  So sorry.  I&#8217;ll try to do better next week.  Weddings, I&#8217;m telling you.  They just <>eat<> time.</></>But!  To answer a couple of questions:</></>Bernie, I can&#8217;t remember the brand name of our chips, and sadly, we seem to have finished and thrown away our most recent bag.  It&#8217;s a low-key brand that we buy at our neighborhood grocery.  It may be called Solena?  It has a white label, but otherwise, it&#8217;s just a clear plastic bag.  </></>Kristin, I wouldn&#8217;t worry too much about losing veggies into the depths of the grill.  We haven&#8217;t had any trouble &#8211; plus, you want the direct heat, so foil wouldn&#8217;t be ideal.  Just chuck &#8217;em straight on the grill.</></>Michelle, I&#8217;m sorry to say that I don&#8217;t have any good tortilla soup recipes &#8211; YET.  I&#8217;ll keep my ears out&#8230;</></>DC Sarah, you can most certainly broil the vegetables.  No problemo.</></>Happy weekend, all!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8368" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://immaeatchu.wordpress.com" class="url" rel="ugc external nofollow">susan</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8368"><time class="comment-time" datetime="2007-06-08T16:47:00-04:00">Friday, June 8, 2007 at 4:47 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>salsa is definitely one of my favorite things! my fav part is the pico de gallo juice shooter at the end of a quickie mexican takeout.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8369" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/06783668751520357959" class="url" rel="ugc external nofollow">Dawna</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8369"><time class="comment-time" datetime="2007-06-08T20:00:00-04:00">Friday, June 8, 2007 at 8:00 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Ah, yes, the fiery green salsa!  I still make that one, based (loosely) on Brandon&#8217;s instructions in the comments of the original post.  It&#8217;s very like a Peruvian salsa that is served with Aji de Gallina, so I use it for that, too!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8370" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01227274814082080028" class="url" rel="ugc external nofollow">Alisa</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8370"><time class="comment-time" datetime="2007-06-08T22:33:00-04:00">Friday, June 8, 2007 at 10:33 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Thanks so much for this great grilling idea.  I posted this as one of my favorite blog picks of the week. &#8211; <a href="http://www.godairyfree.org" rel="nofollow ugc">http://www.godairyfree.org</a></p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8371" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15697725448199241251" class="url" rel="ugc external nofollow">J.Black</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8371"><time class="comment-time" datetime="2007-06-09T19:33:00-04:00">Saturday, June 9, 2007 at 7:33 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I whipped up the recipe today; it took me like 30 minutes in all, with about &lt;10 minutes of actual prep/assembly time. DELICIOUS and PERFECT! I never knew how simple it would be, funnily enough. And for £1.90 for the ingredients, with a yield of 0.6 litres, I am hella chuffed! Thank you Molly!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8372" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05817049547134774699" class="url" rel="ugc external nofollow">Pille</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8372"><time class="comment-time" datetime="2007-06-11T08:21:00-04:00">Monday, June 11, 2007 at 8:21 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Grilled tomato salsa sounds like a summer-time must!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8373" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.eddybles.com" class="url" rel="ugc external nofollow">eddybles</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8373"><time class="comment-time" datetime="2007-06-11T13:48:00-04:00">Monday, June 11, 2007 at 1:48 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Looks delicious. I like adding a bit of cocoa to my salsa and a healthy dose of ancho. The smokiness lends depth and cocoa adds an element that no one can ever identify but they keep trying because it makes it so tasty.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8374" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8374"><time class="comment-time" datetime="2007-06-11T18:22:00-04:00">Monday, June 11, 2007 at 6:22 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>oh my&#8230;i jotted this down and carried it around a few days until i absolutely couldn&#8217;t stand it&#8230;i bought just so-so tomatoes and was a bit concerned. but it was SO tasty. at first i was a bit concerned about how much it made, but it was gone in less than 2 days! (that&#8217;s with only 2 ppl). i think this will be made many more times!!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8375" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://wellfed.typepad.com/" class="url" rel="ugc external nofollow">Grant</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8375"><time class="comment-time" datetime="2007-06-11T19:16:00-04:00">Monday, June 11, 2007 at 7:16 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Lady you are speaking my language.  I loves me some salsa.  It&#8217;s my favorite part about living in Souther California.  Summer, salsa, avocados and tequila.  Perfection.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8376" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8376"><time class="comment-time" datetime="2007-06-18T17:22:00-04:00">Monday, June 18, 2007 at 5:22 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Yeeeks!  I&#8217;ve fallen a wee bit behind on comments over here, huh gang?  Um, anyway.</></>Susan, I love the thought of a pico de gallo juice shooter!  You mean the bit of juice in the bottom of the little plastic cup that the pico comes in?  Too funny.</></>Dawna, I&#8217;m so glad you&#8217;re still making that green salsa!  Brandon will be thrilled.</></>Thanks, Alisa!</></>Well, thank <>you<>, j.black!  I&#8217;m so glad it was a hit.</></>Definitely, Pille.  Definitely!</></>Eddybles, I love the idea of adding cocoa.  So interesting.</></>I&#8217;m so glad to hear it, Anonymous!  Brandon is smiling over here.</></>Grant, it sounds like Brandon and I need to hurry ourselves down to Southern California before the summer is through&#8230;</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-8377" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.thesagetable.com" class="url" rel="ugc external nofollow">dara</a></cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-8377"><time class="comment-time" datetime="2008-09-26T21:45:00-04:00">Friday, September 26, 2008 at 9:45 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I forgot how good charred salsas are! No grill handy, so I made this in a cast iron skillet on the stove yesterday and am in love. I woke up this morning thinking of Brandon and feeling guilty for having chips and salsa for breakfast. Delicious!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-65549" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Mimi Cowan</cite></div>
+      <a href="https://orangette.net/2007/06/how-it-works/#comment-65549"><time class="comment-time" datetime="2017-07-09T12:37:59-04:00">Sunday, July 9, 2017 at 12:37 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I&#8217;ve been bemoaning the loss of Burritoville&#8217;s salsas for over a decade now and just thought to google recipes and stumbled across your decade-old post. Any chance Brandon ever tried his hand at the green salsa recipe?? Regardless, gonna try to make this tonight!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+    </ol>
+
+      
+  
+  		</section>
+      </footer>
+</article>
+        </main><!-- /.main -->
+                  <aside class="content-right">
+            <header class="right-header">
+  <a href="https://orangette.net/about/">
+    <h2 class="title">hellooooo</h2>
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+  </a>
+</header>
+<nav class="right-nav">
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div> 
+</nav>
+<div class="right-section">
+  <h3 class="right-heading">
+    <a href="https://orangette.net/books/">My Books</a>
+  </h3>
+  <div class="right-diptych">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+      </a>
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+      </a>
+      </div>
+  <div class="right-image-link">
+    <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+    </a>
+  </div>
+</div>
+<div class="right-section bordered">
+  <h4 class="right-subheading">Featured Posts</h4>
+  <ul class="right-post-list">
+          <li>
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
+          <div class="thumb">
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">April 7, 2014</div>
+            <h5 class="title">That word is eat</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">March 23, 2015</div>
+            <h5 class="title">The bean doctor</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">July 23, 2015</div>
+            <h5 class="title">We&#8217;ll go from left to right</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2014/01/in-it-together/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">January 16, 2014</div>
+            <h5 class="title">In it together</h5>
+          </div>
+        </a>
+      </li>
+      </ul>
+</div>
+<div class="right-section tall right-podcast">
+  <h3 class="right-heading">
+    <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
+  </h3>
+  <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+  </a>
+</div>
+<div class="right-section">
+  <h4 class="right-subheading alt">
+    <a href="https://orangette.net/links/">Links of Note</a>
+  </h4>
+  <ul class="right-link-list">
+    <li><a href="http://katechristensen.net/" rel="noopener" target="_blank">Kate Christensen</a></li>
+<li><a href="http://www.lottieanddoof.com/" rel="noopener" target="_blank">Lottie + Doof</a></li>
+<li><a href="http://www.sevenspoons.net/">seven spoons</a></li>
+<li><a href="http://www.bonappetempt.com/" rel="noopener" title="Amelia Morris is really funny" target="_blank">Bon Appetempt</a></li>
+<li><a href="http://casayellow.com/">The Yellow House</a></li>
+<li><a href="http://lunch.thecanalhouse.com/">Canal House Cooks Lunch</a></li>
+<li><a href="http://blog.youngnapark.com/">Youngna Park</a></li>
+<li><a href="http://www.smittenkitchen.com/">Smitten Kitchen</a></li>
+<li><a href="http://3191milesapart.com/">3191</a></li>
+<li><a href="http://wednesdaychef.typepad.com/">The Wednesday Chef</a></li>
+<li><a href="http://www.notmartha.org/">not martha</a></li>
+<li><a href="http://www.davidlebovitz.com/">David Lebovitz</a></li>
+<li><a href="http://blairpeter.typepad.com/">wise.. craft</a></li>
+<li><a href="https://glutenfreegirl.com">Gluten-Free Girl</a></li>
+<li><a href="http://mollysmadeleine.blogspot.com/">my madeleine</a></li>
+  </ul>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
+</div>
+          </aside><!-- /.sidebar -->
+                
+      </div><!-- /.page-content -->
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+  </a>
+  <div class="footer-content">
+    <nav class="footer-nav" role="navigation">
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div>    </nav>
+    <nav class="footer-utility-nav">
+      <div class="menu-social-links-container"><ul id="menu-social-links" class=""><li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a href="https://twitter.com/mollyorangette">Twitter</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2518"><a href="https://www.facebook.com/molly.wizenberg">Facebook</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2519"><a href="https://www.instagram.com/mollyorangette/">Instagram</a></li>
+</ul></div>    </nav>
+  </div>
+  <p class="copyright">&copy; 2023 Orangette</p>
+  <p class="credit"><a href="http://madebyneversink.com">Made by Neversink</a></p>
+</footer>
+      <div class="nav-overlay" data-behavior="close-nav"></div>
+      <button class="elevator" data-behavior="jettison">Back to top</button>
+    </div><!-- /.container -->
+    <script type='text/javascript' src='https://orangette.net/wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+  </body>
+</html>

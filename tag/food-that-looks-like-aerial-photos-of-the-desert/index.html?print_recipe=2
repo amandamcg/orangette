@@ -1,0 +1,69 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>100% birthday-worthy</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-2" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Caramel Shards</h2>
+    <h3 class="subtitle">from <a href="http://amzn.to/2xYVLdM" target="_blank" rel="noopener"><em>The Violet Bakery Cookbook</em></a>, by Claire Ptak</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2017-11-06T00:28:33-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/food-that-looks-like-aerial-photos-of-the-desert/?print_recipe=2" class="print icon-print"></a>
+    </nav>
+    <p>I&#8217;ve only ever used this caramel in the Violet Butterscotch Blondie, but Ptak says you could add the shards to almost any cake, cookie, or bar &#8211; and certainly to brownies. Leftovers can be kept in a plastic container or bag in the freezer for up to three months.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 Tablespoons water          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            150 grams (¾ cup) sugar          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Line a rimmed baking sheet with parchment.</p>
+<p>Put the water into a small, light-colored saucepan. (Don&#8217;t use a dark-colored pan; you won&#8217;t be able to see the color of the caramel as it changes and darkens.) Add the sugar, and place over medium-low heat until the sugar starts to dissolve. Resist the temptation to stir the pan, because agitation will cause the sugar to crystallize around the edges. Once the sugar starts to dissolve, raise the heat to medium-high &#8211; watch the pan closely and constantly! &#8211; and continue to cook until the caramel is a dark golden brown, a deep shade of walnut.</p>
+<p>Pour the caramel immediately onto the parchment paper in a thin, even layer. If necessary, lift and tilt the pan to coax the caramel to spread evenly. Allow to cool completely.</p>
+<p>Lift the parchment from the sheet pan, and place on a cutting board. Use a sharp knife to cut the cooled caramel into smallish shards, ideally no bigger than a quarter. Be careful, because the caramel is hard and the shards are sharp.</p>
+<p>Use right away, or store leftovers in the freezer. Do not store in the fridge, or the caramel will soften and get tacky.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: enough for two batches of blondies</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

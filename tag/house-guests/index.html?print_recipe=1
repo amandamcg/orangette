@@ -1,0 +1,75 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>They wake me up</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Cream Biscuits</h2>
+    <h3 class="subtitle"> Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FBreakfast-Book-Marion-Cunningham%2Fdp%2F0394555295&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">The Breakfast Book</a></i>, by Marion Cunningham</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2011-03-04T08:53:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/tag/house-guests/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>These are terrific with jam or, of course, honey.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 cups all-purpose flour          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. table salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 tsp. sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 to 1 ½ cups heavy cream          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            5 Tbsp. unsalted butter, melted          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 425°F. Line a baking sheet with parchment paper. (If you don’t have parchment, leave it as it is, ungreased. The parchment is just for easy cleanup.)</p>
+<p>Combine the flour, salt, baking powder, and sugar in a mixing bowl, and stir with a fork to blend. Slowly add 1 cup of the cream, stirring. Gather the dough together gently: when it holds together and feels tender, it’s ready to knead. If it feels shaggy and pieces are dry, slowly add enough cream to make the dough hold together.</p>
+<p>Place the dough on a lightly floured board and knead for 1 minute. (You don’t want to overwork it.) Pat the dough into a square about ½ inch thick. Cut into 12 squares. Brush each with melted butter so that all sides are coated. Place the biscuits 2 inches apart on the baking sheet. Bake for about 15 minutes, or until lightly browned. Serve hot.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 12 biscuits</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

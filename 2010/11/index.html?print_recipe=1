@@ -1,0 +1,135 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>She got out a skillet</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Skillet Carrots with Onions and Thyme</h2>
+        <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-11-20T07:47:00-05:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2010/11/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>My host mother used regular orange carrots, but I like to use purple and yellow ones, too, when I can find them. They keep their color when cooked, so they make the dish especially handsome. Whatever carrots you use, make sure that they taste sweet in their raw state: a dull, bitter carrot cannot be fixed. I don’t bother to peel my carrots, but I do wash them well.</p>
+<p>Also, for this recipe, I like to slice my onions from stem end to root end, like <a href="http://www.thekitchn.com/thekitchn/how-to/how-to-french-cut-an-onion-home-hacks-109536">this</a>, so that they keep their shape and integrity as they cook. When you slice onions the other way – <a href="http://www.seriouseats.com/2010/04/knife-skills-how-to-cut-an-onion.html">across their equators,</a> you could say – they tend to fall apart during cooking.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            Olive oil          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 yellow onion, halved and sliced from root to stem, like this          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            Salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large garlic cloves, thinly sliced          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 lb. carrots, sliced into ¼-inch-thick rounds          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            4 to 5 fresh thyme sprigs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. red wine vinegar, or to taste          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Warm a large skillet over medium-high heat. When it’s hot, add a good amount of olive oil, enough to film the bottom of the pan. Add the onions – they should sizzle – stir to coat with oil. Salt lightly. Cook, stirring frequently, until the onions are softened but not browned. Add the garlic, reduce the heat to medium, and cook for a few more minutes, until the garlic is fragrant. Add the carrots, thyme, and a couple of generous pinches of salt, and stir to mix. If the carrots look dry, add a little more oil to lightly coat them; this dish needs more oil than you might think. Cover the pan and continue to cook over medium heat, stirring occasionally, until the carrots are tender and the onions are very soft. (I never seem to pay attention to how long this takes, but I would guess that it takes somewhere between 10 and 20 minutes.) Remove the pan from the heat, and discard the thyme sprigs. Sprinkle the vinegar over the carrots. Stir gently to incorporate: the vinegar should subtly brighten the flavor of the carrots without being discernable itself. Add more vinegar, if needed, and salt to taste.</p>
+<p>Serve hot.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 4 to 6 servings</p>
+  </section>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Whole Wheat Chocolate Chip Cookies</h2>
+    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FGood-Grain-Baking-Whole-Grain-Flours%2Fdp%2F1584798300&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325">Good to the Grain</a></i>, by Kim Boyce</h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2010-11-06T05:10:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2010/11/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>Without really planning to, I’ve played around quite a lot with this recipe. I’ve only made it twice, but each time was in a different kitchen, with different ingredients and tools. Both times, the cookies came out beautifully. Here are some thoughts:</p>
+<p>&#8211; A friend who had made this recipe suggested that I try making it with <a href="http://www.kingarthurflour.com/shop/items/king-arthur-white-whole-wheat-flour-5-lb">white whole wheat flour</a>, so I bought a fresh bag and used it in my first batch. I loved the resulting flavor – lightly wheaty, almost bran-like – and I highly recommend it. For my second batch, I used a <a href="http://www.stone-buhr.com/flours/whole-wheat-flour/">local brand</a> of whole wheat flour, and it was plenty nice, but the wheat flavor was darker and heartier. If you’re after that digestive biscuit flavor, I would use white whole wheat flour.</p>
+<p>&#8211; Because I am apparently getting ornery with age, I ignored Boyce’s advice to use cold butter. I honestly thought it was a typo, because I’ve always had a hard time creaming butter that’s even a little bit too cold. Instead, I used softened butter. (I left it at room temperature until it was still cool to the touch but took the imprint of a finger when I pressed it. Perfect for creaming.) It worked just fine, as you can see. But I’ve now done some poking around online and see that the recipe <i>is</i> indeed supposed to use cold butter, cubed for easier creaming. Oops! So, uh, never mind me. Do whatever you want.</p>
+<p>&#8211; The original recipe calls for chopped bittersweet chocolate, and I tried it once that way and once with bittersweet chips. (I used Ghirardelli 60% chocolate in both cases.) I preferred the chopped chocolate because the pieces were smaller, so it gave the sense that there was more chocolate. But if you want to keep it quick and simple, chips will do the job.</p>
+<p>&#8211; I made this dough once in a stand mixer and once with handheld electric beaters. The poor beaters had to labor a lot, and I wound up recruiting a sturdy spatula to help out, but it’s good to know that you can make do with whatever tools you have on hand.</p>
+<p>&#8211; Boyce says that this dough is designed to be baked without chilling first. (This, I think, is linked to her use of cold butter. The cold butter likely keeps the dough cool and helps it spread less in the oven.) But I apparently am not only ornery; I also can’t follow directions. I scooped my dough, put it on a sheet pan, covered it with plastic wrap, and chilled it before baking. Some of the dough was chilled for about 1 hour, and some stayed in the fridge for two days. Chilling dough generally results in a thicker cookie, and mine were certainly nice and plump, which I like. So I recommend chilling the dough. And hey, I also noticed that the cookies that stayed in the fridge for two days were particularly flavorful. So “aging” the dough a bit isn’t a bad idea, either.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            3 cups whole wheat flour (see note above)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ tsp. baking powder          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. baking soda          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 ½ tsp. kosher salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 sticks (8 oz.) unsalted butter, cut into ½-inch cubes (see note above)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup lightly packed dark brown sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup sugar          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            2 large eggs          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            8 oz. bittersweet chocolate, roughly chopped into ¼- and ½-inch pieces, or bittersweet chips          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Position racks in the upper and lower thirds of the oven, and preheat to 350°F. Line two baking sheets with parchment. (If you have no parchment, you can butter the sheets.)</p>
+<p>Combine the flour, baking powder, baking soda, and salt in a medium bowl, and whisk to blend.</p>
+<p>Put the butter and sugars in the bowl of a stand mixer fitted with the paddle attachment. With the mixer on low speed, mix just until the butter and sugars are blended, about 2 minutes. Scrape down the sides of the bowl with a spatula. Add the eggs one at a time, beating well after each addition. Beat in the vanilla. Add the flour mixture to the bowl, and blend on low speed until the flour is just incorporated. Scrape down the sides and bottom of the bowl. Add the chocolate, and mix on low speed until evenly combined. (If you have no stand mixer, you can do all of this with handheld electric beaters and/or a large, sturdy spoon.) Scrape down the sides and bottom of the bowl, and then use your hands to turn and gently massage the dough, making sure all the flour is absorbed.</p>
+<p>Scoop mounds of dough about 3 tablespoons in size onto the baking sheets, leaving about 3 inches between each cookie. (I was able to fit about 8 cookies on each sheet, staggering them in three rows.)</p>
+<p>Bake the cookies for 16 to 20 minutes, rotating the sheets halfway through, until the cookies are evenly browned. Transfer the cookies, still on parchment, to a rack to cool. Repeat with remaining dough.</p>
+<p>These cookies are very good while still warm from the oven, but I find that you can taste the wheat more – in a good way – once they’ve cooled.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: about 20 cookies</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>

@@ -1,0 +1,962 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+  <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
+
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
+  <meta name="apple-mobile-web-app-title" content="Orangette">
+  <meta name="application-name" content="Orangette">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="https://orangette.net/wp-content/themes/orangette/assets/icons/mstile-144x144.png">
+  <meta name="msapplication-config" content="https://orangette.net/wp-content/themes/orangette/assets/icons/browserconfig.xml">
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Hot sauce | Orangette</title>
+	<link rel="canonical" href="http://orangette.net/2007/03/hot-sauce/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Hot sauce | Orangette" />
+	<meta property="og:description" content="I hope you’ll bear with me. I wish I could say otherwise, but the truth is, I’ve still got my head in the pantry closet. There may be tiny flowers popping out of the hedge of the house across the street, but where springtime is concerned, the produce section isn’t quite so forthcoming. I bought a bundle of early-season asparagus a few days ago, but the spears were watery and dull, as though their flavor were still hidden away under the soil, hibernating for winter. I saw spring onions at the market yesterday, but even they were a little wimpy and anemic, picked a week too soon. Thank heavens, I say, for the pantry, my little haven from the seasons.&hellip;" />
+	<meta property="og:url" content="http://orangette.net/2007/03/hot-sauce/" />
+	<meta property="og:site_name" content="Orangette" />
+	<meta property="article:publisher" content="https://www.facebook.com/molly.wizenberg" />
+	<meta property="article:published_time" content="2007-03-27T01:35:00+00:00" />
+	<meta property="og:image" content="http://orangette.net/wp-content/uploads/2015/09/221cf-baked_beans006-41.jpg?w=300" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@mollyorangette" />
+	<meta name="twitter:site" content="@mollyorangette" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Molly" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="6 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://orangette.net/#website","url":"http://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"http://orangette.net/2007/03/hot-sauce/#primaryimage","inLanguage":"en-US","url":"http://orangette.net/wp-content/uploads/2015/09/221cf-baked_beans006-41.jpg?w=300","contentUrl":"http://orangette.net/wp-content/uploads/2015/09/221cf-baked_beans006-41.jpg?w=300"},{"@type":"WebPage","@id":"http://orangette.net/2007/03/hot-sauce/#webpage","url":"http://orangette.net/2007/03/hot-sauce/","name":"Hot sauce | Orangette","isPartOf":{"@id":"http://orangette.net/#website"},"primaryImageOfPage":{"@id":"http://orangette.net/2007/03/hot-sauce/#primaryimage"},"datePublished":"2007-03-27T01:35:00+00:00","dateModified":"2007-03-27T01:35:00+00:00","author":{"@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"http://orangette.net/2007/03/hot-sauce/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://orangette.net/2007/03/hot-sauce/"]}]},{"@type":"BreadcrumbList","@id":"http://orangette.net/2007/03/hot-sauce/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"http://orangette.net/"},{"@type":"ListItem","position":2,"name":"Hot sauce"}]},{"@type":"Person","@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; Hot sauce Comments Feed" href="https://orangette.net/2007/03/hot-sauce/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="alternate" type="application/json" href="https://orangette.net/wp-json/wp/v2/posts/1502" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel='shortlink' href='https://orangette.net/?p=1502' />
+<link rel="alternate" type="application/json+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2007%2F03%2Fhot-sauce%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2007%2F03%2Fhot-sauce%2F&#038;format=xml" />
+  <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+</head>
+  <body class="post-template-default single single-post postid-1502 single-format-standard hot-sauce sidebar-primary">
+    <!--[if lt IE 9]>
+      <div class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <nav class="off-canvas-nav">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+ 
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div></nav>
+    <div class="container" id="top">
+      <header class="page-header" role="banner">
+  <h1 class="header--title">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    </a>
+  </h1>
+  <button class="nav-toggle" data-behavior="open-nav"></button>
+</header>
+      <div class="page-content">
+        <main class="content-left has-sidebar" role="document">
+            
+<article class="post--single post-1502 post type-post status-publish format-standard hentry category-uncategorized" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <div class="kicker">
+      <time class="updated" datetime="2007-03-27T01:35:00+00:00">Tuesday, March 27, 2007</time>
+    </div>
+    <h1 class="title" >
+      <a href="https://orangette.net/2007/03/hot-sauce/">Hot sauce</a>
+    </h1>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    <p>I hope you’ll bear with me.   I wish I could say otherwise, but the truth is, I’ve still got my head in <a href="http://orangette.blogspot.com/2007/03/into-pantry.html">the pantry closet</a>.   There may be tiny flowers popping out of the hedge of the house across the street, but where springtime is concerned, the produce section isn’t quite so forthcoming.  I bought a bundle of early-season asparagus a few days ago, but the spears were watery and dull, as though their flavor were still hidden away under the soil, hibernating for winter.  I saw spring onions at the market yesterday, but even they were a little wimpy and anemic, picked a week too soon.  Thank heavens, I say, for the pantry, my little haven from the seasons.  This week, once again, it did us proud.  It brought forth a bag of <span style="font-style:italic;">chiles de árbol</span> and from it, a bang-up hot sauce.</p>
+<p>Now, before I go any further, you should know one thing: Brandon is a hot sauce fiend.  As of this writing, our refrigerator contains eight bottles of assorted hot sauce.  That’s three more than five, and only two less than ten.  We are the only people in this house.  That means that hot sauce outnumbers us four to one.  I could have guessed it would be this way from our first date, I suppose, when he made a salad dressing – a delicious one at that – consisting of lime juice, olive oil, and a copious amount of Vietnamese <a href="http://www.huyfong.com/no_frames/garlic.htm">chili garlic sauce</a>.  My lips were ablaze, and that was <span style="font-style:italic;">before</span> any hanky-panky.  I have since watched him plow through a few squeeze bottles of <a href="http://www.huyfong.com/no_frames/sriracha.htm">sriracha</a>, not to mention vials of <a href="http://www.tapatiohotsauce.com/index.aspx">Tapatio</a>, <a href="http://www.cholula.com/">Cholula</a>, and similar sauces.  Cholula, he tells me, was once his favorite.  Recently, however, its makers seem to have changed the chile blend – from <span style="font-style:italic;">piquin</span> to <span style="font-style:italic;">piquin</span> and <span style="font-style:italic;">árbol</span> – and, he says sadly, it doesn’t taste the same.  You should have seen him the first time he noticed the difference.  He was genuinely distraught.  I am marrying a man who is serious about his hot sauce.  Luckily, I like it too, although eight bottles <span style="font-style:italic;">does</span> seem a little excessive.</p>
+<p>Anyway, all this to say that Brandon likes hot sauce, and that this weekend, for the second time in only a few weeks, he <span style="font-style:italic;">made</span> hot sauce.  The collection in our refrigerator has just accepted its ninth member.  It’s a nice one.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/221cf-baked_beans006-41.jpg"><img decoding="async" src="http://orangette.net/wp-content/uploads/2015/09/221cf-baked_beans006-41.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5046638657422119170" border="0" /></a><br />The sauce in question comes from Mexican cooking guru <a href="http://en.wikipedia.org/wiki/Rick_Bayless">Rick Bayless</a>, whose recipes do not disappoint.  Once, when I was eighteen, I went to a dinner in Oklahoma at which he was the guest chef, and let me tell you, the man is <span style="font-style:italic;">good</span>.  I was especially enamored of his Yucatecan fresh coconut pie.  I ate my slice, half of my mother’s, and the last bit from the plate of the woman at the end of the table.  A few weeks later, my mother and I made the pie ourselves.  None of the usual methods worked to pry open the coconut, so we went outside and pitched it, <a href="http://en.wikipedia.org/wiki/Four_square">four square</a>-style, at the driveway.  It split with a spectacular crack, sending shards of coconut under the car, and the resulting pie was stupendously good.  Rick Bayless is a great man.  His recipe for <i>chile de árbol</i> hot sauce is just one more reason why.</p>
+<p>Rich and nutty with sesame and pumpkin seeds, smelling of warmth and chiles and places with plenty of sun, this homemade blend is the new favorite of the house.  Even the merest whiff at the jar – lightly smoky and with a wallop of spice – makes my stomach start to grumble.  It’s toasty and complex and creamy-textured.  It’s also tinted that lovely orange color that interior designers tell people to paint their dining rooms.   And as luck has it, it’s very easy to make.  A little fiddly, maybe, with <a href="http://www.flickr.com/photos/molly_orangette/435320245/">all those chiles to be stemmed</a>, but well worth the trouble.  We like it with beans of any sort, and with chips and beer.  We’ve even sneaked it into Malena’s, our local taqueria, to dribble it into tacos, corn tortillas, and guacamole.  For those who don’t mind mixing cuisines, it’s also a winner with <a href="http://orangette.blogspot.com/2005/05/little-family-large-appetite.html">hummus</a> and <a href="http://orangette.blogspot.com/2007/03/into-pantry.html">mujadara</a>, its comrades from the pantry closet.  It’ll keep things warm for a while around here, which is more than I can say for the weather.</p>
+<p><span style="font-weight:bold;">Chile de Árbol Hot Sauce</span><br />Adapted from <a href="http://www.amazon.com/Authentic-Mexican-20th-Anniversary-Ed/dp/0061373265/ref=pd_bbs_sr_1/002-8667791-0268065?ie=UTF8&amp;s=books&amp;qid=1174930480&amp;sr=8-1"><span style="font-style:italic;">Authentic Mexican: Regional Cooking from the Heart of Mexico</span></a>, by Rick Bayless</p>
+<p>Rick Bayless arranges the steps of this recipe in a different order, but for efficiency’s sake, we’ve changed things up a bit.  Bayless called for stemming and seeding the chiles first, but it’s a time-consuming process that can be done easily while other parts of the recipe – like toasting seeds and such – are underway.</p>
+<p>1 ½ Tbsp. sesame seeds<br />1 tsp. dried oregano<br />1 scant teaspoon salt<br />2 large cloves garlic, peeled and roughly chopped<br />¾ cup apple cider vinegar<br />2 Tbsp. shelled raw pumpkin seeds<br />1 ¼ oz. (about 50-60 mixed-size) dried <span style="font-style:italic;">chiles de árbol</span><br />¼ tsp. cumin seeds (or a generous ¼ tsp. ground)<br />1/8 tsp. ground allspice<br />A big pinch of ground cloves<br />Water</p>
+<p>Place a skillet over medium-low heat.  Add the sesame seeds and toast, shaking the pan occasionally, for several minutes, until they turn golden and pop.</p>
+<p>While the sesame seeds toast, put the oregano, salt, garlic, and vinegar in the blender.  When the sesame seeds are ready, scrape them in as well.</p>
+<p>Return the skillet to the stove, turn the heat up to medium, and add the pumpkin seeds.  When the first one pops, stir frequently for a few minutes, until all are golden and have popped up into a rounded shape.  Add them to the blender.</p>
+<p>While the pumpkin seeds warm and toast, start prepping the chiles.  Pull off their stems; then gently roll them between your thumb and fingers, pressing gently to loosen the seeds inside.  Break them in half, shake out as many seeds as possible, and add them to the blender.</p>
+<p>In a mortar or spice grinder, pulverize the cumin, allspice, and cloves.  Add them to the blender.  Blend for several minutes, until the mixture is orange-red, a bright brick color, and feels quite smooth when a drop is rubbed between your fingers.</p>
+<p>Strain the sauce through a medium-mesh sieve, stirring and pressing on the solids with a spoon.  There will be a fair amount – a few tablespoons’ worth – of chile seeds, skins, sesame hulls, and other debris left in the sieve.  Rick Bayless discards this thick paste, but Brandon likes to save it.  (It’s milder than the finished sauce, and he likes to dip chips into it.  He also puts it in black beans.  First, he sautés some chopped onion in olive oil; then he adds a bit of chile paste and lets it cook a little; then he adds a can or two of drained beans.)</p>
+<p>The strained sauce will be somewhat thick and creamy.  You can leave it as is, or you can add some water to thin it.  Rick Bayless suggests adding ¾ cup.  The first time Brandon made this, he didn’t add any water, and he loved the resulting sauce.  The second time, he added ½ cup water, and it made for a lovely consistency.</p>
+<p>Whatever you choose to do, pour the sauce into a jar or container with a tight-fitting lid, and refrigerate it for 24 hours before serving.</p>
+<p><span style="font-style:italic;">Note</span>: Refrigerated, this sauce will keep indefinitely, and it tastes even better (and gets pleasantly milder) over time.  Brandon liked it very much after 24 hours, but he <span style="font-style:italic;">loved</span> it, and I mean <span style="font-style:italic;">loved it</span>, after a week.</p>
+<p>Yield: About 1 cup (if you added ½ cup water)</p>
+  </div>
+  <footer class="post-meta">
+    <nav class="post-utility-nav">
+  <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=Hot%20sauce&url=https%3A%2F%2Forangette.net%2F2007%2F03%2Fhot-sauce%2F" onclick="window.open(this.href, 'twitter-share', 'width=550,height=285'); return false;" title="Twitter"></a>
+          <a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Forangette.net%2F2007%2F03%2Fhot-sauce%2F&t=Hot%20sauce" onclick="window.open(this.href, 'facebook-share', 'width=580,height=300'); return false;" title="Facebook"></a>
+          <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Forangette.net%2F2007%2F03%2Fhot-sauce%2F&media=&description=Hot%20sauce" data-pin-custom="true" title="Pinterest"></a></nav>
+                  <nav class="navigation post-navigation left-nav" role="navigation">
+        <div class="left"><a href="https://orangette.net/2007/03/into-the-pantry/" rel="prev">Into the pantry</a></div>        <div class="right"><a href="https://orangette.net/2007/04/consolation-prize/" rel="next">Consolation prize</a></div>      </nav>
+      
+<section id="comments" class="comment-area">
+      <h2 class="comment-area--title">Comments</h2>
+
+    <ol class="comment-area--list">
+        <li id="comment-6168" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://wednesdaychef.typepad.com" class="url" rel="ugc external nofollow">Luisa</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6168"><time class="comment-time" datetime="2007-03-27T02:57:00-04:00">Tuesday, March 27, 2007 at 2:57 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Good enough to bring to your local taqueria sounds pretty good indeed. With an enormous bag of chiles de arbol leftover from some other recipe and a newfound love of Mexican food, I will definitely try this. But tell me, am I the only one wondering about that coconut pie as well? 🙂</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6169" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08674609567635725674" class="url" rel="ugc external nofollow">givengrace</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6169"><time class="comment-time" datetime="2007-03-27T03:51:00-04:00">Tuesday, March 27, 2007 at 3:51 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>He cooked for you on the first date? No wonder you married him! 🙂</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6170" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/10795119468340273821" class="url" rel="ugc external nofollow">Tea</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6170"><time class="comment-time" datetime="2007-03-27T05:41:00-04:00">Tuesday, March 27, 2007 at 5:41 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Mmmm, is there any left? I&#8217;m not a super spice fiend (that may be the only place my palate diverges from dear brother Brandon), but this does sound good. I&#8217;ll be back soon, will you save me a taste? </></>And you&#8217;ll have to tell B that I went to Oliveto in Oakland the other night and had a pickled radicchio that was mindblowing good. It came as a garnish on a scallop appetizer. I let everyone else snag the scallops, all I wanted was this slightly bitter, briney garnish. Yum.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6171" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11564711886357771427" class="url" rel="ugc external nofollow">karrvakarela</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6171"><time class="comment-time" datetime="2007-03-27T08:00:00-04:00">Tuesday, March 27, 2007 at 8:00 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p><>&#8220;That’s three more than five, and only two less than ten.&#8221;<></></>I love the little literary flourishes. Apart from using it as a dip, what do you eat the chilli sauce with?</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6172" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12045183484202678148" class="url" rel="ugc external nofollow">Truffle</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6172"><time class="comment-time" datetime="2007-03-27T08:13:00-04:00">Tuesday, March 27, 2007 at 8:13 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>oh that looks brilliant! thanks for sharing.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6173" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11120259674201393413" class="url" rel="ugc external nofollow">Monika Korngut</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6173"><time class="comment-time" datetime="2007-03-27T13:53:00-04:00">Tuesday, March 27, 2007 at 1:53 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I really enjoyed reading your post, very funny &#8216;hot lips&#8217;. Your pictures looked amazing!!  My fridge is also full of different hot sauces but I never bothered to count them.  After reading your blog, I&#8217;m afraid to be out-numbered 🙂</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6174" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16957104951513167524" class="url" rel="ugc external nofollow">Melody Polakow</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6174"><time class="comment-time" datetime="2007-03-27T14:33:00-04:00">Tuesday, March 27, 2007 at 2:33 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I am sooo going to make this.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6175" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.deliciousdays.com" class="url" rel="ugc external nofollow">Nicky</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6175"><time class="comment-time" datetime="2007-03-27T14:39:00-04:00">Tuesday, March 27, 2007 at 2:39 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Another hot sauce lover over here! The only thing that keeps bothering me with homemade hot sauce is the preparation of the chiles. No matter how carefully I wash my hands, somehow I always manage to touch my nose or eyes and let all hell break loose&#8230;  😉</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6176" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/03183180431248706166" class="url" rel="ugc external nofollow">Homesick Texan</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6176"><time class="comment-time" datetime="2007-03-27T14:45:00-04:00">Tuesday, March 27, 2007 at 2:45 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>This is my kind of condiment! And I also throw hot sauce on everything, Mexican or not. And yes, isn&#8217;t it sad about Cholula? What were they thinking? Next, they&#8217;ll probably replace that pretty wooden cap with a plastic one.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6177" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">C</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6177"><time class="comment-time" datetime="2007-03-27T15:04:00-04:00">Tuesday, March 27, 2007 at 3:04 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Mmmm, hot sauce.  I love it, but I&#8217;ve never really cooked with it before.</>Do you have any meals where you and Brandon have used it that you&#8217;d be willing to share?  I always loved your posts about what you were eating for dinner, or lunch.  Even more than specific recipes, these made me look at meals in a whole new way.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6178" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://burntlumpia.typepad.com" class="url" rel="ugc external nofollow">Marvin</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6178"><time class="comment-time" datetime="2007-03-27T15:49:00-04:00">Tuesday, March 27, 2007 at 3:49 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>How do the pumpkin seeds play in this sauce? I&#8217;m definitely curious.  I too am a hot sauce fiend, especially Sriracha, but I am definitely giving your recipe a try.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6179" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07480172866933609631" class="url" rel="ugc external nofollow">Max</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6179"><time class="comment-time" datetime="2007-03-27T15:51:00-04:00">Tuesday, March 27, 2007 at 3:51 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I love your writing &#8211; so easy to read and so effortlessly clever. 🙂 </></>I&#8217;m not a huge hot sauce-lover, but I am intrigued by the pumpkin seeds&#8217; presence. Not sure if I have the guts   to try it, but I admire those that do.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6180" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.whippedtheblog.com" class="url" rel="ugc external nofollow">Caroline</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6180"><time class="comment-time" datetime="2007-03-27T18:41:00-04:00">Tuesday, March 27, 2007 at 6:41 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I LOVE Rick Bayless.  You must come and visit Chicago to eat at his restaurants.  Thanks for passing along the recipe.  What an undertaking&#8230; I am impressed!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6181" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05784213169853209167" class="url" rel="ugc external nofollow">nicole</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6181"><time class="comment-time" datetime="2007-03-27T18:43:00-04:00">Tuesday, March 27, 2007 at 6:43 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>this is great!  i had thought of procuring a nice bottle of hot sauce for my beau&#8217;s upcoming birthday (he loves it) but really i think i must make this instead. thank you for posting the recipe.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6182" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05153910403783107480" class="url" rel="ugc external nofollow">amisha</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6182"><time class="comment-time" datetime="2007-03-27T20:09:00-04:00">Tuesday, March 27, 2007 at 8:09 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>homemade hot sauce&#8230; brandon is not kidding around with his loves!  i am a bit of a wimp with the heat (surprising considering i&#8217;m indian and raised in louisiana, two chili-loving cultures&#8230;) but e loves it.  </>love the photos of the preparation for this!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6183" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/10139594012131810788" class="url" rel="ugc external nofollow">Aubrey</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6183"><time class="comment-time" datetime="2007-03-27T21:54:00-04:00">Tuesday, March 27, 2007 at 9:54 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I am a new reader, and am busy devouring the archives&#8230;  I just saw you and Brandon on a Food Network clip &#8211; what a wonderful pair you make!!!</></>Also &#8211; I&#8217;m in the Oklahoma City area.  Any clue where I can get decent fish?</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6184" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11961566220632246028" class="url" rel="ugc external nofollow">Carol</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6184"><time class="comment-time" datetime="2007-03-27T22:12:00-04:00">Tuesday, March 27, 2007 at 10:12 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>mmm&#8230;.sounds so good with the pumpkin seeds&#8230;love the vibrant orange color too! i was in chicago earlier this month and went to frontera grill. YUM! even with high expectations, everything was so delicious. but now i wish there had been coconut pie on the dessert menu! (ps. i smiled when about all the hot sauce, dan is like that with mustards, i think there must be at least eight jars in the fridge. also, where does one find chiles de árbol?)</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6185" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">SallyBR</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6185"><time class="comment-time" datetime="2007-03-28T01:08:00-04:00">Wednesday, March 28, 2007 at 1:08 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Like Aubrey, I am in the OKC area (but nope, not a blogger&#8230;. just a lurker)</></>and like Aubrey again, I just saw you and Brandon on FOodTV &#8211; how cool! Loved it</></>I don t remember reading about it here &#8211; did you keep it a secret?</></>Congratulations!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6186" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://annaleigh.livejournal.com" class="url" rel="ugc external nofollow">anna</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6186"><time class="comment-time" datetime="2007-03-28T04:33:00-04:00">Wednesday, March 28, 2007 at 4:33 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I also caught the spot of you &#038; Brandon while watching my beloved &#8220;Barefoot Contessa&#8221;! You are quite a lovely couple. That&#8217;ll be a great piece to pull out &#038; reminisce over in the years to come.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6187" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01802742232541759535" class="url" rel="ugc external nofollow">Linda</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6187"><time class="comment-time" datetime="2007-03-28T13:59:00-04:00">Wednesday, March 28, 2007 at 1:59 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>my mouth burns just reading this!  i can&#8217;t wait to try it.  hmmm and there are so many things to make with it&#8230; my mind&#8217;s racing now!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6188" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.brandoneats.com" class="url" rel="ugc external nofollow">Brandon (the girl)</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6188"><time class="comment-time" datetime="2007-03-28T14:25:00-04:00">Wednesday, March 28, 2007 at 2:25 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Lordy, now the challenge is on to make my own hot sauce!  Or perhaps I can shift this over to the hot sauce fiend in my house and just take the pictures . . . hmmm.  That sounds a lot easier and less dangerous (I too can never work with hot peppers without inevitably touching my eye or rubbing my nose or wiping something from my daughter&#8217;s mouth&#8211;which causes her to run screaming from the room&#8211;or to lie howling at my feet which is worse).</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6189" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13682390924316164553" class="url" rel="ugc external nofollow">Rose</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6189"><time class="comment-time" datetime="2007-03-28T15:04:00-04:00">Wednesday, March 28, 2007 at 3:04 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>We have quite the same hot sauce in north Africa, it&#8217;s called Harissa but instead of using water we use olive oil and we don&#8217;t use pumpkin seeds. The texture of it is thick and more red than orange. Even though i am not a spice amateur I like this one because it&#8217;s more aromatic than hot.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6190" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05010567815230203278" class="url" rel="ugc external nofollow">suburban housefrau</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6190"><time class="comment-time" datetime="2007-03-28T17:53:00-04:00">Wednesday, March 28, 2007 at 5:53 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I too just saw you during Barefoot Contessa!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6191" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6191"><time class="comment-time" datetime="2007-03-28T18:55:00-04:00">Wednesday, March 28, 2007 at 6:55 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Molly,</>I saw the commercial on the Food Network with you and Brandon! It&#8217;s so sweet! I loved finally seeing you two!</>Lauren</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6192" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13377109666045563373" class="url" rel="ugc external nofollow">Caroline</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6192"><time class="comment-time" datetime="2007-03-28T19:05:00-04:00">Wednesday, March 28, 2007 at 7:05 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Forget the hot sauce&#8211; any chance you could share the coconut pie recipe?</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6193" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01463227001314397741" class="url" rel="ugc external nofollow">wheresmymind</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6193"><time class="comment-time" datetime="2007-03-28T19:26:00-04:00">Wednesday, March 28, 2007 at 7:26 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I only break out the Cholula when I don&#8217;t want something spicay</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6194" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08788831122329262664" class="url" rel="ugc external nofollow">Janice</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6194"><time class="comment-time" datetime="2007-03-28T20:04:00-04:00">Wednesday, March 28, 2007 at 8:04 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>What is it with boys and hot sauce? My boyfriend often uses a combination of 3 hot sauces at a time. Madness. </></>Thanks for sharing (and for the tidbit about Cholula changing its recipe, boo). We&#8217;ll definitely be testing this one soon.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6195" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00718892727028970068" class="url" rel="ugc external nofollow">BipolarLawyerCook</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6195"><time class="comment-time" datetime="2007-03-28T20:16:00-04:00">Wednesday, March 28, 2007 at 8:16 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Looks delicious.  Do the pumpkin seeds add a particular flavor?  I&#8217;ve seen other mexican recipes that called for pumpkin seeds to be pureed into the sauce, but I&#8217;ve always been a little hesitant, worried that they&#8217;d be too squashy or grassy tasting.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6196" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/10695828083020187959" class="url" rel="ugc external nofollow">marsha</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6196"><time class="comment-time" datetime="2007-03-29T00:55:00-04:00">Thursday, March 29, 2007 at 12:55 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Oh my GOSH i can&#8217;t wait to make this! thank you for sharing the recipe!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6197" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17695571140337052781" class="url" rel="ugc external nofollow">Bernie</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6197"><time class="comment-time" datetime="2007-03-29T05:08:00-04:00">Thursday, March 29, 2007 at 5:08 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I have been reading for some time, but never worked up the nerve to leave a comment. Today I went grocery shopping, was moved by a brick of Plugra and a beautiful cluster of radishes, and treated myself to some sea salt. It was very fantastic, even though I was haunted by images of Rapunzel.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6198" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6198"><time class="comment-time" datetime="2007-03-29T05:38:00-04:00">Thursday, March 29, 2007 at 5:38 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Luisa, your coconut pie request has been registered!  I don&#8217;t have the recipe on hand, but I&#8217;ll call my mom and have her dictate it to me.  We&#8217;ll see what we can do&#8230; xo!</></>Yup, givengrace, he cooked for me &#8211; or rather, we cooked together.  Actually, &#8220;cooked&#8221; isn&#8217;t quite accurate, since we only made a salad and set out some cheese and baguette!  But semantics aside, it <>was<> pretty dreamy.  It sealed the deal.</></>Tea, ma cherie, there is indeed hot sauce left!  It&#8217;s in the fridge, waiting for your return.  Its flavor gets better (and a wee bit milder) every day.  P.S.  Tell me / us more about this radicchio!  We might have to try making it&#8230;. xo</></>Karrvakarela, we eat it with all sorts of things, both likely and unlikely.  It&#8217;s right at home in a bowl of beans or anything with Mexican flavorings, but we also like it with hummus and mujadara.  This may sound odd, but I also think it would be lovely with sharp cheddar cheese and crackers.</></>You&#8217;re welcome, Truffle!</></>I hear you, Monika.  I feel a little intimidated sometimes by all the fiery little bottles in our refrigerator door!</></>I hope you do, Melody!  It&#8217;s a new favorite around here.</></>Oh Nicky, I know, I know!  Brandon touched his eye while making this most recent batch, and it wasn&#8217;t pretty.  Yikes.</></>Homesick Texan, Brandon was <>so<> happy to see your comment and know that he&#8217;s not the only one to mourn the change in Cholula!  What were they thinking?  So sad.</></>C, this hot sauce goes with most anything you&#8217;d think to shake some Tabasco on.  Brandon and I eat it with all sorts of things &#8211; from tacos and Mexican-spiced beans, to hummus and mujadara.  If you like hot sauce, you&#8217;ll want to put it on everything.</></>Marvin, the pumpkin seeds give the sauce a subtle nutty quality, and a creamy richness, too.  Because they&#8217;re toasted, they don&#8217;t taste green or squashy at all &#8211; just <>good<>.</></>Thanks for your sweet words, Max!</></>Caroline, you read my mind: as luck would have it, we&#8217;re coming to Chicago in two weeks!  I&#8217;ll be attending the International Association of Culinary Professionals conference, and Brandon will be visiting an old friend and playing around town.  And don&#8217;t worry &#8211; Rick Bayless is on the docket!  For sure.</></>Nicole, this sounds like just the thing for you &#8211; or your beau, rather.  Hope he likes it as much as we do!</></>Thanks, Amisha!  And re: wimpiness, my threshold for heat is definitely lower than Brandon&#8217;s.  This hot sauce is too hot for me when it&#8217;s first made, but after a week or two, it ripens and mellows and is really, really nice.  In measured doses, of course.</></>Oh Aubrey, good question.  That&#8217;s a toughie.  My mom says that she likes Avalon Seafood Market quite a bit.  Have you tried it? It&#8217;s on May Avenue, I think.  Give it a go.</></>Carol, I&#8217;ve been thinking about the Frontera Grill!  The menu looks fantastic.  We&#8217;re planning to stop by there when we&#8217;re in Chicago in April.  And as for chiles de arbol, do you have a Whole Foods nearby?  I&#8217;ve found them there.  They&#8217;re also available at most Latin American markets and at < HREF="http://worldspice.com/home/home.shtml" REL="nofollow">World Spice<> in Seattle, which sells online.</></>SallyBR, I&#8217;m so glad you saw our little segment!  It&#8217;s not a secret &#8211; I just haven&#8217;t written about it yet.  We were taped about three weeks ago, over the course of a loooong, hot day in our little bitty house.  It&#8217;s so wild to think it&#8217;s on television now!  Crazy.  And fun too, of course.</></>Thank you, Anna!</></>So, Linda, have you made it yet?  Hmmm?</></>Brandon, were you able to get your live-in hot sauce fiend to whip up a batch for you?  I hope so!</></>Rose, I know just what you mean &#8211; I love harissa.  Maybe we&#8217;ll try making that next.</></>How crazy, suburban housefrau!  I&#8217;m pretty tickled to have shared some airspace, sort of, with Ina Garten&#8230;</></>Lauren, I&#8217;m so glad you liked it!  We were really exhausted during the taping &#8211; we&#8217;d gotten home from Oklahoma at midnight the night before &#8211; so we had no idea how it would turn out.  Phew!</></>Caroline, I&#8217;ll see what I can do!  See my reply to Luisa, above.</></>Oh yeah, wheresmymind?  What counts as spicy in your book?  Do tell.</></>Yeah, Janice &#8211; what <>is<> it with boys and hot sauce?  I mean, I really like the stuff, but not like he does.  I think it must be something on the Y chromosome, don&#8217;t you?</></>Bipolarlawyercook, I wouldn&#8217;t worry about the pumpkin seeds &#8211; or not in this recipe, anyway.  Because they&#8217;ve been toasted, they have a wonderful nutty flavor, with no squashiness or greenness at all.  They give the sauce a lovely rich backdrop, some creaminess, and a bit of toasty flavor.  <>Really<> good.</></>You&#8217;re welcome, Marsha!</></>So, Bernie, you&#8217;ve been won over by the magical combination of radishes, butter, and salt?  Pretty good, eh?  And as for Rapunzel, I&#8217;d forgotten that radishes played into that story!  Thank you for reminding me.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6199" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://www.robinoriginals.com/eats.html" class="url" rel="ugc external nofollow">Robin</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6199"><time class="comment-time" datetime="2007-03-29T07:06:00-04:00">Thursday, March 29, 2007 at 7:06 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I &#8216;d like to register another vote for the coconut pie recipe!</>Speaking of coconut, I&#8217;m about to make Ina Garten&#8217;s macaroon recipe for Passover&#8230;. (I dip them in dark chocolate and sometimes add orange peel&#8230;)</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6200" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Osiris Brackhaus</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6200"><time class="comment-time" datetime="2007-03-29T13:18:00-04:00">Thursday, March 29, 2007 at 1:18 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Only recently stumbled across Orangette, and since severals days, I have been sneaking away minutes at work to read. I am smitten, feel inspired, and so grateful for reminding me why I LOVE cooking. And the minutes amount to hours by now, I am ashamed to admit.</></>I remember reading that you liked being invited over, especially if someone else cooks for you. So, nothing more truly heartfelt than that: If ever you come to Europe again, and happen to be around Kassel in the centre of Germany, you and Brandon will always be welcome, be it for a day or a month. </>Just warn me a day ahead, and my lovely wife and I will (hopefully be able to) come up with food and stories worth the detour.</></>As I said, your emotive writing inspired me, and that despite work and dreary weather and all, so that alone is worth much more than I can probably repay with food and hospitaly. &#8211; Though on second though, with what else I could?</></>Thanks so much,</>Osiris</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6201" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01693155339699548135" class="url" rel="ugc external nofollow">jora</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6201"><time class="comment-time" datetime="2007-03-29T14:24:00-04:00">Thursday, March 29, 2007 at 2:24 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I am definitely going to make this sauce.  My mouth is watering thinking about it&#8230;. More importantly, how do I see the clip of you guys?  Which show is it?</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6202" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13682390924316164553" class="url" rel="ugc external nofollow">Rose</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6202"><time class="comment-time" datetime="2007-03-29T14:48:00-04:00">Thursday, March 29, 2007 at 2:48 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>If you want Molly I can give you the recipe of Harissa. It&#8217;s 100 times better than the one from the store.Have a good day.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6203" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">J. Bo</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6203"><time class="comment-time" datetime="2007-03-30T01:32:00-04:00">Friday, March 30, 2007 at 1:32 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Rick Bayless is a god.  When I moved to Chicago back in &#8217;99, he was the very first person I met&#8230; really!  I went to a book signing at Crate &#038; Barrel the day after I moved, and for some reason the crowd had thinned and it was just me and him.  Being a San Diego girl, I was very worried about finding Mexican ingredients in this foreign landscape, and asked Rick, while he signed my copy of &#8220;Salsas That Cook,&#8221; where I could find good corn tortillas.  He got a very serious look on his face and asked me where I lived, then told me about a local market that housed a tortillaria; show up at the right time of the day and they&#8217;re still warm.</></>I shouldn&#8217;t have worried.  Chicago has virtually EVERY ethnic cuisine in abundance.  In fact, even though I&#8217;m (temporarily) back in So Cal, surrounded by good Mexican markets/food, I&#8217;m very wistful for my favorite taqueria on Ashland Ave. back in ChiTown, my annual birthday lunch at Bayless&#8217; Frontera Grill, and special-occasion splurges at Topolobampo.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6204" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://larouexfoods.com" class="url" rel="ugc external nofollow">Larouex BB King</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6204"><time class="comment-time" datetime="2007-03-30T06:32:00-04:00">Friday, March 30, 2007 at 6:32 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hey send me an address and I will ship some of my unique hot sauce that I make in small batches for friends and limited sales. It is a favorite of all my friends and I know Brandon will love it. <a href="http://larouexfoods.com/ProductsSauces.aspx" rel="nofollow ugc">http://larouexfoods.com/ProductsSauces.aspx</a></></>email <a href="mailto:Larouex@larouexfoods.com">Larouex@larouexfoods.com</a></></>Cheers, Larry</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6205" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12217850970833353800" class="url" rel="ugc external nofollow">Ed Bruske</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6205"><time class="comment-time" datetime="2007-03-30T10:23:00-04:00">Friday, March 30, 2007 at 10:23 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Not true! Not true! There are so many great things&#8211;great greens&#8211;growing all through the winter. Even locally. Do you not have a farmer&#8217;s market that&#8217;s open this time of year? I&#8217;ll bet if you check around, you&#8217;ll find that some enterprise grower is selling locally grown greens&#8211;recently picked&#8211;in your area. Here in the District of Columbia, he have a farm subscription that provides us with wonderful brassicas and sald green all through the winter. And there are several brave vendors who remain open at the Dupont Circle farmer&#8217;s market. This is not so dreary a time of year as you think&#8230;</></><a href="http://www.theslowcook.blogspot.com/" rel="nofollow ugc">http://www.theslowcook.blogspot.com/</a></p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6206" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Meryl</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6206"><time class="comment-time" datetime="2007-03-30T13:46:00-04:00">Friday, March 30, 2007 at 1:46 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Molly, what is this about the food network?  tell those us that don&#8217;t know the story!  Thanks 🙂</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6207" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6207"><time class="comment-time" datetime="2007-03-30T17:24:00-04:00">Friday, March 30, 2007 at 5:24 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Robin, your vote has been registered!  I&#8217;ve got a call in to my mom to try to get the recipe&#8230;</></>Osiris, your comment made my day.  I&#8217;m so glad that you found Orangette, and that it resonated with you.  Comments like yours remind me of why I write, and why I love to write, so thank <>you<>.  If Brandon and I are ever headed to Germany, we will most certainly be in touch.</></>Jora, I&#8217;ll write more about this Food Network madness(!) soon, but in the meantime, to answer your question, hmm, it&#8217;s hard to say exactly how you can catch it.  It&#8217;s just a short clip &#8211; 60 seconds &#8211; and it runs during commercial breaks.  That means it could run pretty much anytime!  There will be a longer version of the clip online soon, though, and when it is available, I&#8217;ll be sure to post a link here.</></>Rose, I would LOVE to have your harissa recipe.  Would you e-mail it to me?  cheeseandchocolate (at) gmail (dot) com.  Thank you.</></>What a great story, J. Bo!  Love it.  Rick Bayless is so genuinely enthusiastic about Mexican cuisine &#8211; it&#8217;s really inspiring.  And despite all his fame and cooking shows and whatnot, he still seems very connected to what brought him to this point in the first place.  And his recipes <>work<>!  A god indeed.</></>Thanks for the generous offer, Larry!  I&#8217;ll be in touch.</></>Ed Bruske, you&#8217;re very right.  Seattle does indeed have year-round farmers&#8217; markets, and we get wonderful local produce, no matter what month or season.  My point in this post (and the previous one), however, is that I&#8217;m itching for <>spring<> produce, which isn&#8217;t quite available yet.  I&#8217;ve eaten my weight in greens and brassicas this winter, and though I love them dearly, I&#8217;m sick of &#8217;em!  This week alone we&#8217;ve eaten a head of red cabbage, two bunches of kale, one bunch of chard, and more, but oh, what I wouldn&#8217;t give for some corn on the cob or a fresh apricot&#8230;</></>Meryl, I&#8217;ve been holding off in writing about it until I can get a link to the video online &#8211; which, unfortunately, isn&#8217;t up yet!  Grrr.  But to tide you over, yes, Brandon and I were filmed earlier this month for a little (60-second) promotional segment on the Food Network.  It&#8217;s one of series of videos called &#8220;The Power of Food,&#8221; in which everyday people talk about the ways food has changed their lives.  We told the story of how we met &#8211; through this blog, and more specifically because of a lemon cake recipe I posted back in 2004.  The segment airs during commercial breaks, so be on the lookout!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6208" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Sam. That Sam.</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6208"><time class="comment-time" datetime="2007-03-31T01:52:00-04:00">Saturday, March 31, 2007 at 1:52 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I will not bear with you as you take your sweet 8th Avenue time in between posts. Am I to believe that you&#8217;ve eaten nothing in that time? Well, I will not. I Mean!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6209" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/03460500094092230534" class="url" rel="ugc external nofollow">Lindsay</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6209"><time class="comment-time" datetime="2007-03-31T02:34:00-04:00">Saturday, March 31, 2007 at 2:34 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I have been reading your site regularly since I first came across it about three months ago, it&#8217;s one of my favorites! Tonight I saw your commercial on The Food Network and thought it was wonderful as well. I can&#8217;t wait to see what is next for you and I wish you all the best!!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6210" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6210"><time class="comment-time" datetime="2007-03-31T20:35:00-04:00">Saturday, March 31, 2007 at 8:35 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Am currently watching the food network and caught your commericial.  Very cute!  One of the reasons I love your blog is that you have given it so personable. Congratulations on all of your successes!</></>Susie</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6211" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13074949515498662453" class="url" rel="ugc external nofollow">E</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6211"><time class="comment-time" datetime="2007-03-31T21:31:00-04:00">Saturday, March 31, 2007 at 9:31 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>My roommates and I also love a variety of hot sauces, but currently our favorite is &#8220;Valencia&#8221; and at $1.09 for a 20oz bottle it&#8217;s a steal!</></>Caught your commercial on Food TV last night. All love should start with lemon cake.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6212" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6212"><time class="comment-time" datetime="2007-03-31T22:36:00-04:00">Saturday, March 31, 2007 at 10:36 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Sam, are you getting fussy over there?  Hmmm?  Do you need a nap?  Or maybe a pie and a pitcher at Piecora&#8217;s?  I was just telling Brandon that we&#8217;re due again for pizza soon&#8230;</></>Thank you, Lindsay!  So sweet.</></>And thank you, Susie!</></>Oooh, thanks for the tip, e! I&#8217;ll have to ask Brandon if he&#8217;s tried Valencia&#8230;</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6213" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01024856985562475049" class="url" rel="ugc external nofollow">SM</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6213"><time class="comment-time" datetime="2007-04-01T00:41:00-04:00">Sunday, April 1, 2007 at 12:41 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Another reader chiming in to say I saw your spot on Food Network.  &#8220;That&#8217;s Orangette, that&#8217;s Orangette!&#8221;</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6214" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/10095826971808854052" class="url" rel="ugc external nofollow">zinho</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6214"><time class="comment-time" datetime="2007-04-01T01:56:00-04:00">Sunday, April 1, 2007 at 1:56 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I too saw you on FN today, and I also want to hear/read more about it. I was sprawled on the couch about to slip into napland when all of a sudden, I reared to attention (&#8220;that&#8217;s Molly! and that&#8217;s Brandon!!!&#8221;) Sooo cute.</></><a href="http://theplayfulpalate.blogspot.com" rel="nofollow ugc">http://theplayfulpalate.blogspot.com</a></p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6215" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17606794524129340113" class="url" rel="ugc external nofollow">Miss13</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6215"><time class="comment-time" datetime="2007-04-03T13:28:00-04:00">Tuesday, April 3, 2007 at 1:28 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hello Molly, long time reader and maker of recipes posted 🙂</>I just wanted to say Thank you &#038; Brandon for posting this !</>I made it last night. It was a snap and I may double the batch for more next time 😉</>Can&#8217;t wait to taste it today !</>Good luck on Coconut Pie #2 ^_^</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6216" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6216"><time class="comment-time" datetime="2007-04-04T23:08:00-04:00">Wednesday, April 4, 2007 at 11:08 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Thanks, SM!</></>Too funny, Zinho!  Glad you liked it.  My mom called a few nights ago, almost breathless, to say that she&#8217;d just seen the spot.  She was SO excited.  This is all so wild for us&#8230;</></>Thanks so much for reporting back, Miss13!  How do you like it?  We think it really gets better and better with time.  It doesn&#8217;t seem hit its peak for at least a few days&#8230;</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6217" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17606794524129340113" class="url" rel="ugc external nofollow">Miss13</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6217"><time class="comment-time" datetime="2007-04-09T13:01:00-04:00">Monday, April 9, 2007 at 1:01 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I agree it changes over time, I think maybe the apple cider vinegar &#8220;sets in&#8221;. I served it along with some vegan green goddess pizza this weekend and everyone gave it rave reviews ^_^</></>I will definitely be making another batch ! Thank you for sharing !!</>(plus I counted and we have 7 hot sauces for now ;))</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6218" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Victoria</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6218"><time class="comment-time" datetime="2007-04-10T18:36:00-04:00">Tuesday, April 10, 2007 at 6:36 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hi Molly, I was wondering if you have a preferred brand of apple cider vinegar?  I lean towards Bragg but am going to try making this and want it to be the best it can be!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6219" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6219"><time class="comment-time" datetime="2007-04-10T18:49:00-04:00">Tuesday, April 10, 2007 at 6:49 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Rave reviews!  Miss13, that&#8217;s what I like to hear.  So glad you like it!</></>Victoria, that&#8217;s a great question.  We actually really like Bragg&#8217;s too.  You can use most any brand, so long as it&#8217;s *real* apple cider vinegar.  You wouldn&#8217;t believe how many brands say &#8220;distilled vinegar with apple flavoring&#8221; on the label.  Grrr.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6220" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Victoria</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6220"><time class="comment-time" datetime="2007-04-11T00:33:00-04:00">Wednesday, April 11, 2007 at 12:33 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Sorry for the double post Molly, but now I have a chile question. I looked all over Manhattan for arbol chiles or any of the equivalents listed on a chile thesaurus I found but to no avail, so have settled for some thin red ones that were labelled only &#8220;red indian chiles.&#8221; Do you have any idea if these are a worthy substitute or should I keep up the search? Perhaps Brandon has experimented with others, Ancho was what I found the most of. Thank you!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6221" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6221"><time class="comment-time" datetime="2007-04-11T04:54:00-04:00">Wednesday, April 11, 2007 at 4:54 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Victoria, we&#8217;ve got to find you some arbol chiles!  Hmm. Did you try a Mexican or Latin American grocery?  I&#8217;m sure they&#8217;d have them.  I&#8217;ve even bought them at Whole Foods, in the aisle where they have various Mexican products and canned chiles.  Hop to it!</></>Otherwise, though, Brandon wants me to assure you that he thinks most any dried chile will work &#8211; it&#8217;s just that the flavor and heat will be different.  You could always give it a go&#8230;</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6222" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6222"><time class="comment-time" datetime="2008-11-29T00:15:00-05:00">Saturday, November 29, 2008 at 12:15 am</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Hello from Toronto, Canada.  </>I&#8217;ve been trying to find &#8220;dry&#8221; chiles (de Arbol) and did, in a market today.  They are DRY, ie. brittle.  Is that how they&#8217;re supposed to be?</></>Best,</></>SabinaKatrina</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6223" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16812938603185538816" class="url" rel="ugc external nofollow">Sock Monkey</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6223"><time class="comment-time" datetime="2009-06-23T12:45:49-04:00">Tuesday, June 23, 2009 at 12:45 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>This looks delicious, but how does one find raw pumpkin seeds (short of carving one&#39;s own pumpkin)?</p>
+<p>Thanks!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6224" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00016267616137017674" class="url" rel="ugc external nofollow">Chris</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6224"><time class="comment-time" datetime="2009-07-03T14:52:11-04:00">Friday, July 3, 2009 at 2:52 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>Thanks for posting this recipe. I&#39;ve been making a bunch of hot sauces recently and gave this one a shot. Turned out awesome although I seem to have glanced over the part about browning the pumpin and sesame seeds and deseeding the Chiles but I have enough to try a second batch more closely following the directions.</p>
+<p>After making the sauce I decided to make some black/pinto bean dip and used 1 Tbsp. of the pressings and this has got to be the best bean dip ever. I&#39;ve copied the recipe below&#8230;</p>
+<p>1/2 Pound black beans<br />1/2 Pound pinto beans<br />1 onion diced fine<br />1 lemon<br />1 lime<br />1/2 cup cilantro chopped fine<br />1 tsp cumin<br />1 tsp celery powder<br />1 tspc orriander<br />salt to taste<br />1 tsp. pepper<br />Secret Ingredient &#8211; 1 Tbsp.  pressings from Rick Bayless&#39; Chile De Arbol sauce recipe</p>
+<p>Put beans in a pot with water in a 4:1 (water to bean) ratio and bring to boil, turn off and let sit for an hour. Change water while reserving 2-3 cups for later use bring new water and beans to a boil for 1/2 hour or until tender.</p>
+<p>Add beans in batches to blender or foor processor and puree using the reserved water. Result should be a smooth consistency.</p>
+<p>Remove to a bowl and combine ingredients. Adding water for a smoother consistency as desired. Serve warm.</p>
+<p>I think it could probably use a bit more of the pressing but I tend to go overboard sometimes and decided to limit myself.</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6225" class="comment odd alt thread-odd thread-alt depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/10683986759400387888" class="url" rel="ugc external nofollow">emily.nickerson@gmail.com</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6225"><time class="comment-time" datetime="2010-03-03T20:43:13-05:00">Wednesday, March 3, 2010 at 8:43 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I made Heidi&#39;s Salsa of the Year (<a href="http://www.101cookbooks.com/archives/000325.html" rel="nofollow ugc">http://www.101cookbooks.com/archives/000325.html</a>) (2005!!) a month or so ago and it was pretty awesome but maybe not what I had imagined it to be. I can&#39;t wait to try this! Also, I would like to respectfully add to the chorus of requests for the coconut pie recipe!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+  <li id="comment-6226" class="comment even thread-even depth-1">
+    <header class="comment--meta">
+      <div class="vcard"><cite class="comment-author fn"><a href="http://hilahcooking.com" class="url" rel="ugc external nofollow">Hilah</a></cite></div>
+      <a href="https://orangette.net/2007/03/hot-sauce/#comment-6226"><time class="comment-time" datetime="2010-12-10T14:00:35-05:00">Friday, December 10, 2010 at 2:00 pm</time></a>    </header>
+
+    
+    <div class="comment--content">
+      <p>I&#39;m making this today to go with my vegan tamale experiment. At least I know the salsa will be good!</p>
+    </div>
+
+      </li><!-- #comment-## -->
+    </ol>
+
+      
+  
+  		</section>
+      </footer>
+</article>
+        </main><!-- /.main -->
+                  <aside class="content-right">
+            <header class="right-header">
+  <a href="https://orangette.net/about/">
+    <h2 class="title">hellooooo</h2>
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+  </a>
+</header>
+<nav class="right-nav">
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div> 
+</nav>
+<div class="right-section">
+  <h3 class="right-heading">
+    <a href="https://orangette.net/books/">My Books</a>
+  </h3>
+  <div class="right-diptych">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+      </a>
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+      </a>
+      </div>
+  <div class="right-image-link">
+    <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+    </a>
+  </div>
+</div>
+<div class="right-section bordered">
+  <h4 class="right-subheading">Featured Posts</h4>
+  <ul class="right-post-list">
+          <li>
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
+          <div class="thumb">
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">April 7, 2014</div>
+            <h5 class="title">That word is eat</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">March 23, 2015</div>
+            <h5 class="title">The bean doctor</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">July 23, 2015</div>
+            <h5 class="title">We&#8217;ll go from left to right</h5>
+          </div>
+        </a>
+      </li>
+          <li>
+        <a href="https://orangette.net/2014/01/in-it-together/">
+          <div class="thumb">
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+          <div class="details">
+            <div class="dateline">January 16, 2014</div>
+            <h5 class="title">In it together</h5>
+          </div>
+        </a>
+      </li>
+      </ul>
+</div>
+<div class="right-section tall right-podcast">
+  <h3 class="right-heading">
+    <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
+  </h3>
+  <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+  </a>
+</div>
+<div class="right-section">
+  <h4 class="right-subheading alt">
+    <a href="https://orangette.net/links/">Links of Note</a>
+  </h4>
+  <ul class="right-link-list">
+    <li><a href="http://www.eatallaboutit.com/">Eat All About It</a></li>
+<li><a href="http://worldsendfarm.com/blog/" rel="noopener" target="_blank">World&#039;s End</a></li>
+<li><a href="http://asweetspoonful.com/" rel="noopener" target="_blank">A Sweet Spoonful</a></li>
+<li><a href="http://angrychicken.typepad.com/">angry chicken</a></li>
+<li><a href="http://www.bbc.co.uk/programmes/b006qfvv" rel="noopener" target="_blank">BBC Radio 4 Shipping Forecast</a></li>
+<li><a href="http://www.kerismith.com/blog/">Keri Smith</a></li>
+<li><a href="https://glutenfreegirl.com">Gluten-Free Girl</a></li>
+<li><a href="http://www.rootsandgrubs.com/">Roots and Grubs</a></li>
+<li><a href="http://whippedtheblog.com/">Whipped</a></li>
+<li><a href="http://www.lottieanddoof.com/" rel="noopener" target="_blank">Lottie + Doof</a></li>
+<li><a href="http://www.bonappetempt.com/" rel="noopener" title="Amelia Morris is really funny" target="_blank">Bon Appetempt</a></li>
+<li><a href="http://www.chocolateandzucchini.com/">Chocolate &amp; Zucchini</a></li>
+<li><a href="http://www.poormansfeast.com/">Poor Man&#8217;s Feast</a></li>
+<li><a href="http://journal.davidbyrne.com/">David Byrne Journal</a></li>
+<li><a href="http://www.eatdrinkonewoman.com/">eat drink one woman</a></li>
+  </ul>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
+</div>
+          </aside><!-- /.sidebar -->
+                
+      </div><!-- /.page-content -->
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+  </a>
+  <div class="footer-content">
+    <nav class="footer-nav" role="navigation">
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
+</ul></div>    </nav>
+    <nav class="footer-utility-nav">
+      <div class="menu-social-links-container"><ul id="menu-social-links" class=""><li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a href="https://twitter.com/mollyorangette">Twitter</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2518"><a href="https://www.facebook.com/molly.wizenberg">Facebook</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2519"><a href="https://www.instagram.com/mollyorangette/">Instagram</a></li>
+</ul></div>    </nav>
+  </div>
+  <p class="copyright">&copy; 2023 Orangette</p>
+  <p class="credit"><a href="http://madebyneversink.com">Made by Neversink</a></p>
+</footer>
+      <div class="nav-overlay" data-behavior="close-nav"></div>
+      <button class="elevator" data-behavior="jettison">Back to top</button>
+    </div><!-- /.container -->
+    <script type='text/javascript' src='https://orangette.net/wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+  </body>
+</html>

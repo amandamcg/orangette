@@ -1,0 +1,96 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>You know me well</title>
+    <style>
+      * { margin: 0; padding: 0; }
+      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
+      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
+      img { max-width: 100%; height: auto; }
+      p { margin-bottom: 0.75em; }
+      a { color: inherit; text-decoration: none; }
+      .recipe a[href]:after { content: " (" attr(href) ")"; }
+      header { margin-bottom: 2em; text-align: center; }
+      .logo { width: 200px; }
+      .recipe-utility-nav { display: none; }
+      .recipe-intro { margin-bottom: 1em; }
+      .recipe-list { margin-bottom: 1em; }
+      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+    </header>
+          
+<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
+  <header class="post-header">
+    <div class="kicker">Recipe</div>
+    <h2 class="title" itemprop="name">Chewy Granola Bars with Pecans, Chocolate, and Cherries</h2>
+    <h3 class="subtitle">Adapted from <a href="http://smittenkitchen.com/2010/02/thick-chewy-granola-bars/" target="_blank">Smitten Kitchen</a></h3>    <meta itemprop="author" content="Molly">
+    <meta itemprop="published" content="2012-05-04T23:52:00-04:00">
+  </header>
+
+      <figure class="hero">
+          </figure>
+  
+  <div class="recipe-intro" itemprop="summary">
+    <nav class="recipe-utility-nav">
+      <a href="/2012/05/?print_recipe=1" class="print icon-print"></a>
+    </nav>
+    <p>For my first go at this recipe, I used ½ cup (100 grams) sugar.  That amount yielded a balanced, mildly sweet bar, but whenever I got a bite with cherries or chocolate, I wished that the base mixture were even a little less sweet.  Next time, I’ll try cutting the sugar back to 1/3 cup (67 grams).  Oh, and I should tell you that I used unrefined cane sugar.  Like <a href="http://www.amazon.com/Wholesome-Sweetners-Organic-Milled-Unrefined/dp/B005TY1OH0" target="_blank">this</a>.  It’s what we use at Delancey, and over the past year, I’ve been using it more and more at home.  I find it to be 100% interchangeable with regular white sugar.</p>
+<p>Also, I might leave out the cinnamon next time.  Maybe.  It’s nice, but there’s already a lot of good stuff going on in here.</p>
+<p>For chocolate, I used Ghirardelli 60% chocolate chips, but you could chop up and use any chocolate you like, preferably bittersweet.  And if you’re confused by the thought of coconut chips, as I’ve been in the past, they’re the big, flat flakes. (Here’s a <a href="http://nuts.com/driedfruit/coconut/unsweeted-chips.html?gclid=CNrtx9b07K0CFQ5ihwod9Qnq6Q" target="_blank">photograph</a>.)  Last, you don’t have to use the pecan-coconut-chocolate-cherry flavor combination that I chose, of course.  You’re welcome to use a mixture of any fruits and/or nuts you want, ideally 2 to 3 cups in all.</p>
+  </div>
+
+      <div class="recipe-list">
+                                <div class="ingredient" itemprop="ingredients">
+            2 cups (190 grams) quick-cooking oats, divided          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup (67 grams) to ½ cup (100 grams) sugar (see above)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 cup (110 grams) raw pecan halves          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (25 grams) unsweetened coconut chips          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ cup (85 grams) chocolate chips or chopped chocolate of similar size          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ cup (40 grams) dried cherries          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ½ tsp. fine salt          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            ¼ tsp. ground cinnamon (optional)          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1/3 cup (85 grams) peanut butter          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 tsp. vanilla extract          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 Tbsp. (85 grams) unsalted butter, melted          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            6 Tbsp. (120 grams) honey          </div>
+                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. water          </div>
+                  </div>
+  
+      <div itemprop="instructions">
+      <p>Preheat the oven to 350°F.  Lightly butter an 8-inch square baking pan, or grease it with cooking spray. Cut a rectangle of parchment paper to line the bottom and two sides of the dish, leaving a little overhang.  Press the parchment paper into the dish.  Lightly grease the parchment paper.</p>
+<p>Put 1/3 cup (30 to 35 grams) of the quick-cooking oats in the bowl of a food processor.  Process until finely ground.</p>
+<p>In a large bowl, stir together the remaining 1 2/3 cup oats, ground oats, sugar, pecans, coconut chips, chocolate chips, dried cherries, salt, and, if using, cinnamon.</p>
+<p>In a medium bowl, whisk together the peanut butter, vanilla extract, melted butter, honey, and water. Pour the wet ingredients over the dry ingredients, and stir well, until the mixture is evenly moistened. Transfer to the prepared pan, pressing the mixture firmly to ensure that it molds to the shape of the pan. (A piece of plastic wrap helps: just lay it over the pan before you begin pressing.  Much less stickiness.)</p>
+<p>Bake the bars for about 30 minutes, or until they’re brown around the edges and just beginning to color on top, too.  (I set a timer for 25 minutes and began checking on them at that point, and I was surprised to find that they were already browning at the edges.  I left them in, however, for another 5 minutes or so, until the tops had a hint of color.)  The mixture will still seem soft and almost underbaked if you press on it, but it’ll set as it cools.</p>
+<p>Transfer the pan to a rack, and allow the bars to cool completely in the pan.  When cool, run a sharp knife along the edges of the pan; then pull up on the parchment paper to lift the sheet of bars out of the pan.  Cut the bars into squares.  Or, heck, rectangles.  Whatever you want.</p>
+<p><i>Note</i>:  I let my bars cool for a number of hours, and they cut very neatly, but I noticed that some commenters on Deb’s post mentioned issues with crumbling.  Here’s what she suggested:  If your bars seem crumbly, refrigerate them in the pan for 30 minutes to further set them, and then try cutting them while cold.</p>
+<p><i>Another note</i>: I stored my bars on a cutting board wrapped in plastic wrap, but if you’d like to put them in an airtight container, consider layering them between sheets of wax paper, so they don’t stick to one another.  In hot weather, you might need to refrigerate them.</p>
+    </div>
+  
+      <p itemprop="yield">Yield: 16 squares</p>
+  </section>
+        <footer>
+      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
+    </footer>
+    <script>window.print();</script>
+  </body>
+</html>
