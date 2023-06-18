@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2009/02/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I like this “cream” best when made with sour cream, but I’ve also used plain whole-milk yogurt, and it’s very good that way too. If you do use yogurt, keep in mind that it has less fat than sour cream, so you’ll probably need to add some olive oil to balance the acidity of the lemon. (Or just use less lemon!) I also found that the yogurt-based “cream” needed a pinch of sugar to balance it.</p>
 <p>Oh, and should you have some of the sour cream mixture left over, it makes a great dip for potato chips.</p>

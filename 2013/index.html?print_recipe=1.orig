@@ -1,748 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>From now on</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Gramercy Tavern Bar Nuts</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/product/0316045128/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0316045128&amp;linkCode=as2&amp;tag=orangette-20" target="_blank">Mix Shake Stir</a></i>, by Danny Meyer</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-12-20T04:35:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>This recipe uses two different kinds of salt. I don’t know why, although I’m guessing that the different salts coat the nuts differently? In any case, my kosher salt is Diamond Crystal brand, and that’s important to note, because it’s significantly less salty than Morton brand kosher salt. If you have Morton (or another brand), you’ll want to use much less than the 1 tablespoon this recipe calls for. I’d suggest about 1 ½ teaspoons.</p>
-<p>Also, to make simple syrup, combine equal parts sugar and water in a small saucepan, bring to a simmer, stir until the sugar dissolves, and then take it off the heat and allow it to cool.  (To be honest, though, I didn’t allow mine to cool; I made it just before using and only cooled it for a few minutes.)</p>
-<p>Last, the original version of this recipe uses volume measurements, and I forgot to convert them to weight measurements when I made it.  I know, I know; I usually give you both types of measurements, and I, myself, prefer weight. I am sad. Apologies.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 cup raw almonds          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 tablespoons turbinado sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tablespoon kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ teaspoons fine sea salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 ¼ teaspoons ground cumin          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 teaspoon ground cinnamon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 teaspoon cayenne pepper          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ teaspoon ground ginger          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon freshly ground black pepper          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon freshly grated nutmeg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups pecan halves          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ cup cashews          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup (2 fluid ounces) simple syrup (see headnote)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ teaspoons light corn syrup          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tablespoon grapeseed oil, or another oil with a similarly high smoke point          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 300˚F.</p>
-<p>Spread the almonds on a rimmed baking sheet, and bake until lightly toasted and fragrant, about 10 minutes. Immediately transfer to a plate, and set aside to cool.</p>
-<p>While the almonds toast, make the spice mix. Combine the sugar, salts, cumin, cinnamon, cayenne, ginger, black pepper, and nutmeg in a small bowl. Stir to mix.</p>
-<p>Reduce the oven temperature to 275˚F.  Line a rimmed baking sheet with parchment paper.</p>
-<p>In a large bowl, combine the almonds, pecans, and cashews. Toss to mix. Add the simple syrup, corn syrup, and grapeseed oil, and stir to coat the nuts. Add the spice mix, and toss gently until the nuts are evenly coated.  Spread on the prepared baking sheet.  Bake until the spice mixture is caramelized and the nuts are toasted, about 25-40 minutes. To check for doneness, take a few nuts out of the oven and let cool for a few minutes; if done, they should be dry to the touch.</p>
-<p>Cool completely; then store in an airtight container. (The original recipe says that the nuts should keep at room temperature for a week, but I’d guess that they’ll keep longer than that.  Two weeks, easy.)</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 4 cups</p>
-  </section>
-                    
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Rice and Smothered Cabbage Soup</h2>
-    <h3 class="subtitle">Adapted slightly from <i><a href="http://www.amazon.com/Essentials-Classic-Italian-Cooking-Marcella/dp/039458404X/?_encoding=UTF8&camp=1789&creative=9325&keywords=essentials%20of%20classic%20italian%20cooking&linkCode=ur2&qid=1386305956&sr=8-1&tag=orangette-20" target="_blank">Marcella Hazan’s Essentials of Classic Italian Cooking</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-12-06T05:27:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>This soup is very thick, but not quite as thick as risotto.  You could, in theory, eat it with a fork, but you’ll want to use a spoon.</p>
-<p>I should also add that I didn’t make my broth from scratch.  I used <a href="http://www.superiortouch.com/retail/products/better-than-bouillon/organic-bases/38/organic-chicken-base" target="_blank">Better Than Bouillon Organic Chicken Base</a>, my store-bought standby.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 batch Smothered Cabbage (see below)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups (475 ml) chicken or beef broth          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup (235 ml) water, and maybe more          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2/3 cup (about 135 grams) Arborio rice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. (28 grams) unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            About 1/3 cup (roughly 1 heaping handful) freshly grated Parmesan cheese, plus more for serving          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Freshly ground black pepper          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In a good-size pot (about 4 quarts), combine the cabbage, the broth, and 1 cup of water, and bring to a boil over medium-high heat. Stir in the rice, and then lower the heat so that the soup bubbles at a slow but steady simmer. Cook uncovered, stirring occasionally, until the rice is tender but firm to the bite, about 20 minutes. If you find that the soup is becoming too thick, add a little water. The soup should be pretty dense, but there should still be some liquid.</p>
-<p>When the rice is done, turn off the heat, and stir in the butter and the grated Parmesan. Taste, and correct for salt. Serve with black pepper and more Parmesan.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 to 6 servings - and try to save some for later, because these leftovers make a lunch worth looking forward to</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Ham Bone, Greens, and Bean Soup</h2>
-    <h3 class="subtitle">Adapted very slightly from Melissa Clark’s <i><a href="http://www.amazon.com/Cook-This-Now-Delectable-Dishes/dp/1401323987/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=orangette-20" target="_blank">Cook This Now</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-11-22T17:46:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>What makes this soup different from one that uses, say, ham hocks, is that the marrow in the ham bone melts into the soup, bringing extra richness and body. So if you have a ham bone, use it! You will be rewarded. If not, a ham hock will also be good. My ham bone fit easily into the pot I used, but Melissa Clark suggests that, in general, you ask your butcher to cut it in half or thirds for you, so that it’s guaranteed to fit and also has some marrow exposed.</p>
-<p>As for beans, you could probably use any light-colored bean you like. I had a bag of <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=SFNT&amp;Store_Code=RG" target="_blank">Rancho Gordo</a>’s <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=PROD&amp;Store_Code=RG&amp;Product_Code=1YEL&amp;Category_Code=DHAHB4#.Uo-SlpSxOac" target="_blank">yellow eye beans</a> in the cupboard, so I used those. (Rancho Gordo beans make a great holiday present, by the way.)  Also, I find that adding a little salt when I soak dried beans makes them turn out better when I cook them, and here’s <a href="http://www.americastestkitchenfeed.com/super-quick-video-tips/2012/04/the-importance-of-brining-your-beans-video/" target="_blank">a video</a> from America’s Test Kitchen that explains why.  I don’t tend to use the full amount of salt that’s called for in the video, but I have, and it worked beautifully.  (I don’t use that much because I tend to forget to rinse the beans after soaking, and then I wind up with salty beans. Using less salt still seems to help, and then there’s no need to rinse.)</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 cup (175 grams) dried pinto beans, or another bean you like          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 strips bacon, cut into ½-inch pieces          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 large carrots, diced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 celery stalks, diced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large yellow onion, diced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 garlic cloves, finely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ham bone (about 1 ¼ lb. / 565 grams)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 bay leaf          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 teaspoons kosher salt, or to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ head (about ¾ lb. / 340 grams) green cabbage, cored and thinly sliced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 bunch kale (about ½ lb. / 225 grams), stems removed and leaves chopped into bite-size pieces          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Freshly ground black pepper, for serving          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Hot sauce, for serving          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Twelve to 24 hours before you plan to start the soup, put the beans in a bowl and cover with plenty of cold water. Add a generous pinch of salt. Set aside at room temperature. (Or, if you don’t have that much time, you can instead use a quick-soak method: put the beans, lots of cold water, and a generous pinch of salt in a pot, bring it to a boil, turn off the heat, cover the pot, and let stand for 1 hour. Drain, and then proceed with the recipe.)</p>
-<p>Warm a large (about 5-quart) pot over medium-high heat. Add the bacon, and cook until crisp, about 5 to 7 minutes. Remove the bacon with a slotted spoon to a paper towel-lined plate, and save for garnishing the soup. Add the carrots, celery, and onion to the bacon fat in the pan. Cook, stirring, until softened, about 5 minutes. Add the garlic, and cook for 1 minute more.</p>
-<p>Put the ham bone and bay leaf into the pot, and add 8 cups water and 2 teaspoons kosher salt. Bring the mixture to a boil over high heat; then add the beans, reduce the heat to medium-low, and simmer for 30 minutes. Stir in the cabbage and simmer for 30 minutes more. At this point, fish out a bean and taste it: it should be nearly done. If it’s still pretty firm, let the soup simmer a bit longer before continuing. Then stir in the kale and simmer until the kale is soft but still bright green, about 15 minutes. Remove the ham bone and bay leaf. If you’d like, you can pull the meat from the ham bone, chop it up, and stir it back into the soup.</p>
-<p>Serve with freshly ground black pepper and a dash of hot sauce, and more salt, if needed. (Oh, and crumbled bacon, if you want.)</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 6 to 8 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Winter Squash Soup with Curry and Coconut Milk</h2>
-    <h3 class="subtitle">Adapted from Lisa Moussalli and <i><a href="http://www.bhg.com/recipe/soups/butternut-squash-soup-with-thai-gremolata/" target="_blank">Better Homes and Gardens</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-11-01T22:39:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I’ve made this soup twice now, once with kabocha squash and once with butternut. I slightly preferred the flavor of the kabocha, but I liked the texture of the butternut soup. (I also appreciate the fact that butternuts are easier to peel. I would rather throw a kabocha out the window than peel it.) You could use any winter squash, really &#8211; though if yours isn’t especially sweet, you might want an additional tablespoon of sweetener. And for the record, you don’t <i>have</i> to use maple syrup; you could try regular sugar, or brown sugar. In any case, taste and adjust as needed before serving.</p>
-<p>Oh, and I’ll bet this recipe would double nicely.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 to 3 tablespoons olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 medium or large yellow onion, chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 or 4 large garlic cloves, minced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tablespoon curry powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 winter squash (about 2 pounds / 500 g), peeled and cut into 1-inch cubes          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 (14-ounce) can unsweetened coconut milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups (475 ml) chicken or vegetable broth          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tablespoon maple syrup          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tablespoon Asian fish sauce          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 teaspoon Sriracha or other Asian chile sauce          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Juicy wedges of lime, for serving          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Warm the oil in a Dutch oven (or other approximately 5-quart pot) over medium heat. Add the onions, and cook, stirring, until they begin to soften, about 5 minutes. Add the garlic, and cook for another 1 to 2 minutes. Stir in the curry powder, and cook for 1 minute more. Add the squash, coconut milk, broth, maple syrup, fish sauce, and Sriracha, and stir well. Raise the heat to bring to a boil; then reduce the heat and simmer, covered, until the squash is soft, about 30 to 40 minutes.</p>
-<p>Using an immersion blender (or a regular blender), puree the soup until smooth and velvety. Taste for salt and sweetness, and adjust if necessary. (I don’t find that this soup needs any additional salt – it gets a lot from the fish sauce – but you may disagree.) Ladle the soup into big bowls, add a generous squeeze of lime to each, and serve hot.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 4 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Denise’s Fruit-Filled Butter Cake</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/Hedgebrook-Cookbook-Celebrating-Radical-Hospitality/dp/1938314220/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=orangette-20" target="_blank">Hedgebrook Cookbook</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-10-17T06:17:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Denise Barr, one of the cooks at Hedgebrook, served this cake at the first dinner of my stay.  She used fresh raspberries from the garden, and it was so good &#8211; simple, buttery, with a damp, nubbly, almost muffin-like crumb &#8211; that I dog-eared the recipe later that night. The cookbook calls it a Rhubarb Cake, but you could probably make it with any soft fruit, and when I tasted it, before I saw the recipe in the cookbook, it struck me first as a wonderful butter cake. I hope Denise won’t mind that I tweaked the name. When I made it at home, I thawed out a batch of rhubarb compote that I made last summer and spooned it into the batter, and it was terrific.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 ½ cup (210 grams) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 teaspoons baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon fine sea salt or table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (120 ml) whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 teaspoon vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 stick (113 grams) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup (200 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 ½ cups diced rhubarb, blueberries, or raspberries, or 1 batch <a href="http://orangette.net/2015/05/you-win/">Dana Cree’s rhubarb compote</a>          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tablespoons instant tapioca (if using fresh rhubarb or berries)          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F. Butter and flour an 8-inch square cake pan.</p>
-<p>In a small bowl, whisk together the flour, baking powder, and salt. Pour the milk into a measuring cup or small bowl, and add the vanilla extract. Set aside.</p>
-<p>In the bowl of a stand mixer (or with a handheld mixer in a large bowl), beat the butter and sugar until light and fluffy. Scrape down the sides of the bowl with a rubber spatula, and then add the eggs one at a time, beating well after each addition. With the mixer on low speed, add the flour mixture and the milk mixture in three doses each, alternating dry and wet. Mix until just combined; then use the rubber spatula to give the batter a brief final mix, to make sure the flour is absorbed.</p>
-<p>If you’re using fresh rhubarb or berries, stir the fruit with the tapioca in a small bowl.</p>
-<p>Scoop about half of the batter into the prepared cake pan, and spread it across the bottom. Scatter the fruit evenly over the batter – or, if you’re using rhubarb compote, dollop spoonfuls of it evenly over the batter. Do not press the fruit down. Top with the rest of the batter. Don’t worry if the batter doesn’t fully cover the fruit: it will puff and move a bit as it bakes.</p>
-<p>Bake for 35 to 40 minutes, or until a toothpick inserted in the center comes out clean. Cool before slicing into squares and serving.</p>
-<p><i>Note</i>: This cake is best on the day that it’s made, but wrapped tightly and stored at room temperature, it should be fine for at least a couple of days.</p>
-    </div>
-  
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Brown Sugar Clafoutis with Pears</h2>
-        <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-10-06T21:03:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I use golden brown sugar here, because it’s what I usually have, but if you have dark brown sugar, go ahead and try it. And then let me know how it is.  Also, I know this seems like a lot of sugar, but trust me.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            Butter, for greasing the pan          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            About 2 teaspoons granulated sugar, for dusting the pan          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large (about 225 to 285 grams, or 8 to 10 ounces) ripe pear          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ cups (295 ml) whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup (155 g) brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ tsp. vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/8 tsp. fine sea salt or table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (70 grams) all-purpose flour          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 375°F. Butter a 9 ½-inch pie plate and dust it lightly with granulated sugar. Shake out any excess.</p>
-<p>Peel and core the pear, and slice it thinly. (I cut mine into 12 to 14 slices.) Arrange them on the bottom of the prepared pan.</p>
-<p>In the jar of a blender, combine the milk through flour. Blend on high speed for 1 minute (stopping once, if needed, to scrape down any flour that may stick to the sides of the jar). Pour the batter over the pears.</p>
-<p>Bake until the custard is puffed and golden brown and a tester inserted into the center comes out clean, 30 to 35 minutes. Cool on a wire rack. The custard will deflate a little as it cools.</p>
-<p>Serve at room temperature or &#8211; my preference &#8211; chilled.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 6 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Rachel's Zucchini</h2>
-    <h3 class="subtitle">Adapted from <a href="http://racheleats.wordpress.com/2013/06/23/a-little-discretion/" target="_blank">this recipe</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-09-21T04:11:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-      </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 to 3 tablespoons olive oil, enough to seem generous without leaving the zucchini oily          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large garlic cloves, peeled and left whole          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ pounds (680 grams, or about six medium) zucchini, sliced into ¼-inch-thick rounds          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A handful of fresh basil leaves          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Fresh mozzarella, for serving          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Crusty bread, for serving          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Put the olive oil in a large (ideally, 12-inch) skillet, and add the garlic. Warm over medium heat, turning the garlic cloves occasionally, for about five minutes, or until the garlic is fragrant and just beginning to turn golden. (Do not, under any circumstances, allow the garlic to burn.) Remove and discard the garlic. Add the zucchini to the garlicky oil, along with a generous pinch of salt, and stir to coat the slices with oil. Cook gently over medium (or even medium-low) heat, stirring occasionally, until the zucchini is very soft &#8211; no longer creamy-white on the inside, but rather a pale shade of yellowy green. (For Rachel, this took 15 to 25 minutes, but for me, it takes closer to 45 minutes.) When the zucchini is ready, remove it from the heat. Tear the basil leaves, and stir them into the zucchini, allowing them to wilt in the heat.</p>
-<p>Serve warm or at warmish room temperature, with fresh mozzarella and bread.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 2 generous servings</p>
-  </section>
-                    
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Soft Apricots with Riesling and Vanilla Bean</h2>
-        <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-08-10T04:41:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>You could use any sweet-ish white wine here, though I particularly love the flavor of apricots with an off-dry riesling. (I’ve been using <a href="http://www.winesofthegorge.com/index.html" target="_blank">Memaloose</a> 2012 Idiot’s Grace Riesling.) I’ve also used <a href="http://www.alpenz.com/images/poftfolio/dolinvermouthfacts.htm" target="_blank">Dolin</a> Blanc vermouth and <a href="http://www.cocchi.it/eng/americano.htm" target="_blank">Cocchi Americano</a>, and both have yielded great results. You’re also welcome to try a drier white wine, or a rosé, and if you do, please report back.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 tablespoons (24 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            7 or 8 apricots (450 grams, or 1 pound), halved and pitted          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 vanilla bean, split and seeds scraped free          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/2 cup riesling          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 425 degrees.</p>
-<p>Measure the sugar into a saucer or a small plate. Press the apricot halves, cut side down, into the sugar: each one should wind up with a nice sugar crust on one side. Arrange the apricots, skin side down, in a baking dish that will comfortably hold them all in a single layer. Scrape the vanilla seeds into the baking dish &#8211; don’t worry if they clump &#8211; and wiggle the vanilla bean down between the apricots. Pour the riesling into the dish, taking care to pour it between the apricots, so that you don’t wash away the sugar.</p>
-<p>Bake for about 30 minutes, or until the apricots are tender. [Alternatively, you can do this all on the stove, placing the apricots in a large skillet with a lid and cooking them very gently over very low heat, covered, for 35 to 40 minutes.] Sometimes they start to fall apart, and that’s okay, but I like them best when they maintain their shape and barely resist the fork. Allow them to cool, and then carefully layer them in a jar, and pour the syrupy juices over the top. Chill thoroughly.  They’re best eaten icy cold, and as long as they’re covered in syrup, they’ll keep for more than a week.</p>
-<p>Serve the apricots with a drizzle of their vanilla-flecked syrup, or with a scoop of ice cream (salted caramel is very good) or a spoonful of plain yogurt.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: many tiny snacks or breakfasts, or dessert for 4 people</p>
-  </section>
-                    
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Apricot Macaroon Tart</h2>
-    <h3 class="subtitle">Adapted from Heidi Swanson’s <i><a href="http://www.amazon.com/Super-Natural-Every-Day-Well-Loved/dp/1580082777/?_encoding=UTF8&camp=1789&creative=9325&keywords=super%20natural%20every%20day&linkCode=ur2&qid=1373928182&sr=8-1&tag=orangette-20" target="_blank">Super Natural Every Day</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-07-19T21:49:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>A word (or many words) about flour: using <a href="http://glutenfreegirl.com/2012/07/how-to-make-a-gluten-free-all-purpose-flour-mix/" target="_blank">Shauna’s 40/60 ratio</a> for gluten-free baking, I whisked up a batch of all-purpose flour mix from 100 grams of buckwheat flour, 100 grams of brown rice flour, and 300 grams of tapioca flour.  (I then used 170 grams of this mixture in the recipe.)  I have no idea how well this mix of flours would work in other recipes, and I probably did everything wrong, but it worked nicely here, yielding a crust with a crunchy, slightly nubbly texture and great buckwheaty flavor.  The one thing that I will say, however, is that the crust wept a not-insignificant amount of butter onto the sheet pan.  I have to assume that this had something to do with the mix of flours I used, and their properties? Anyway, I doubt that the original recipe, as Heidi conceived it, has a butter-weeping problem.  In any case, consider yourself alerted. If your crust leaks a little butter onto the sheet pan, don’t worry.  That’s why the sheet pan is there.</p>
-<p>And one more word about flour: even if you do eat gluten, as I do, you really should consider using some buckwheat flour. The next time I make this tart, I might try using a mixture of buckwheat flour and standard all-purpose flour &#8211; maybe one-third buckwheat and two-thirds all-purpose?  Not that white whole wheat flour or whole wheat pastry flour are not interesting enough, but I really love what buckwheat brings to this crust.</p>
-<p>Oh, and if you find yourself without pistachios and are contemplating a trip to the grocery store: don’t worry about it.  I’ve forgotten to add the pistachios both times that I’ve made this tart, and though I imagine it would be prettier and maybe a little, little bit tastier with them, it’s wonderful without.</p>
-<p>Finally, if you live in Seattle, I strongly recommend the apricots from Bill’s Fruits, a stand toward the Ballard Inn end of the Ballard Farmers’ Market.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the crust:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups (170 g) white whole wheat flour, whole wheat pastry flour, or a mixture of flours (see above)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup (60 g) unsweetened finely shredded coconut          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (100 g) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. fine sea salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            10 tablespoons (140 g) unsalted butter, melted and cooled slightly          </div>
-                      <h3>For the filling:</h3>                  <div class="ingredient" itemprop="ingredients">
-            2 cups (140 g) unsweetened finely shredded coconut          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (70 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Pinch of fine sea salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 large egg whites          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 ounces (225 g) fresh apricots, pitted and quartered          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (45 g) pistachios, chopped          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F. Butter a 9-inch round removable-bottom tart pan, and set it on a rimmed sheet pan.</p>
-<p>To make the crust, combine the flour, coconut, sugar, and salt in a medium bowl. Stir to mix. Stir in the butter, and mix until the dough no longer looks dusty and all flour is absorbed. Press the mixture evenly into the bottom of the prepared pan: it should form a solid, flat layer. Bake for 15 minutes, or until barely golden. Remove from the oven, and set aside to cool for a few minutes.</p>
-<p>While the crust bakes, prepare the filling. Combine the coconut, sugar, and salt in a medium bowl. Stir to mix. Add the egg whites, and mix until well combined. When the crust is baked, evenly distribute the apricots over it. Drop dollops of the filling over the fruit, using your fingers to nudge it into the spaces in between.</p>
-<p>Bake for 20 to 30 minutes, until the peaks of the filling are deeply golden. Cool completely before topping with pistachios, slicing, and serving.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 8 to 12 servings</p>
-  </section>
-                              
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Pasta with Yogurt, Peas, and Chile</h2>
-    <h3 class="subtitle">Adapted slightly from Jerusalem, by Yotam Ottolenghi and Sami Tamimi</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-06-23T03:31:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>The original version of this recipe calls for <a href="http://en.wikipedia.org/wiki/Conchiglie" target="_blank">conchiglie</a>, or shell-shaped pasta, but you could use any small pasta shape you like: orecchiette, penne, farfalle, and so on.</p>
-<p>If you have some exotic type of dried chile, like Urfa chile, Aleppo chile, or Kirmizi biber, you lucky lucky dog, this is a great place to use it. If not, you can use regular red pepper flakes. I happened to have some Aleppo chile, and though it was ground, not in flakes, and probably a few years old, it worked beautifully. Oh, and if you’re worried about the amount of heat, consider starting with a little less of the chile than what is called for &#8211; or just don’t put much chile oil on your pasta.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 ½ cups (500 g) whole-milk Greek yogurt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2/3 cup (150 ml) olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 medium cloves garlic, crushed or pressed          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 pound (500 g) fresh or thawed frozen peas          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 pound (500 g) pasta shapes of your liking          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Scant ½ cup (60 g) pine nuts          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 teaspoons Turkish or Syrian chile flakes, or red pepper flakes          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 2/3 cups (40 g) basil leaves, coarsely torn          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 ounces (240 g) feta cheese, coarsely crumbled          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In the bowl of a food processor, combine the yogurt, 6 tablespoons (90 ml) of the olive oil, the garlic, and 2/3 cup (100 g) of the peas. Process to a uniform pale green sauce, and transfer to a large mixing bowl.</p>
-<p>Bring a large pot of water to a boil, and salt it until tastes like pleasantly salty seawater. Add the pasta, and cook until it is al dente. While the pasta cooks, warm the remaining olive oil in a small frying pan over medium heat. Add the pine nuts and chile flakes, and cook for 4 minutes, or until the pine nuts are golden and the oil is deep red. Also, warm the remaining peas in some boiling water (you could scoop out a bit of the pasta water for this); then drain.</p>
-<p>Drain the cooked pasta into a colander, and shake it well to get rid of excess water that may have settled into the pasta’s crevices. Add the pasta gradually to the yogurt sauce; adding it all at once may cause the yogurt to separate. Add the warm peas, the basil, feta, and 1 teaspoon kosher salt. Toss gently. Serve immediately, with pine nuts and chile oil spooned over each serving.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 6 servings</p>
-  </section>
-                              
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Cream Cheese Pound Cake</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/Southern-Cakes-Irresistible-Everyday-Celebrations/dp/0811853705/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=orangette-20" target="_blank">Southern Cakes</a></i>, by Nancie McDermott</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-05-04T05:20:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>This recipe was shared with McDermott by one Suzanne O’Hara of Burlington, North Carolina, and it comes together with remarkable speed and ease. I think I’ll be making it often.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            3 cups (420 g) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 teaspoon baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon fine salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 sticks (226 g) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            One 8-ounce (226 g) package cream cheese, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 cups (600 g) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 teaspoon vanilla extract          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 325°F. Grease and flour a 10-inch tube pan or two 9-by-5-inch loaf pans. (I also lined my pans with parchment, because it makes the cakes so easy to remove.)</p>
-<p>In a medium bowl, whisk together the flour, baking powder, and salt.</p>
-<p>In the bowl of a stand mixer fitted with the paddle attachment, combine the butter and cream cheese, and beat on medium speed until soft and fluffy. Add the sugar, and continue to beat for about 2 minutes more, stopping once to scrape down the sides. Add the eggs one at a time, beating well after each addition. Beat in the vanilla. Reduce the mixer speed to low, and add the flour mixture in three doses, beating only until the flour is absorbed and scraping down the sides of the bowl as needed. Scrape the batter into the prepared pan or pans.</p>
-<p>Bake for about 1 hour and 15 minutes (for a tube pan) or 55 to 60 minutes (for loaf pans), or until the cake is golden brown, pulling away from the sides of the pan, and a cake tester inserted into the center comes out clean. Transfer the cake to a wire rack, and cool completely before loosening the sides with a thin knife and removing the cake from the pan.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 1 loaf</p>
-  </section>
-                    
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Baked Oatmeal</h2>
-    <h3 class="subtitle">Adapted from Heidi Swanson’s <i><a href="http://www.amazon.com/Super-Natural-Every-Day-Well-Loved/dp/1580082777/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=super%20natural%20every%20day&amp;linkCode=ur2&amp;qid=1362865288&amp;sr=8-1&amp;tag=orangette-20" target="_blank">Super Natural Every Day</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-03-25T01:24:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I’ve made this oatmeal a few times with walnuts, as described below, but I also like to make it with almonds or pecans, either whole or coarsely chopped. It’s nice to toast the nuts beforehand – and it’s easy: just a few minutes on a sheet pan in a 350°F oven, until they smell fragrant – but I often skip it. No harm done.</p>
-<p>I’m a big believer in <a href="http://www.details.com/style-advice/the-body/201105/skim-milk-non-fat-milk-diet-foods" target="_blank">whole milk</a>, and I think this recipe needs its fat and richness. (I’ve had it with 1% and was disappointed in the result.) Actually, the next time I make this oatmeal, I might try replacing a cup of the milk with coconut milk.  That could be exciting.  I might also throw in a half-cup of unsweetened shredded coconut.  I’ve added coconut before &#8211; about a quarter-cup, or 25 grams &#8211; and though I can’t say that I was aware of its presence, Brandon and I both agreed that the baked oatmeal was especially good that morning.</p>
-<p>As for the fruit, you could use any berry, including frozen ones. I don’t even worry about thawing them first.  I suggest a range of amounts for the berries below, one that’s very berry-y and one that’s less so.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 cups (200 grams) rolled oats          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (60 g) walnut halves, toasted and chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 teaspoon baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ teaspoons ground cinnamon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon fine sea salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ to 1 ½ cups (90 to 185 g) blueberries          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups (475 ml) whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (80 ml) maple syrup          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large egg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 tablespoons (45 grams) unsalted butter, melted and cooled slightly          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 teaspoons vanilla extract          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 375°F with a rack in the top third of the oven.</p>
-<p>In an 8-inch square baking dish, mix together the oats, the nuts, baking powder, cinnamon, and salt. (This part can be done the night before, if you like, to make things easier in the morning.) Scatter the berries evenly over the oat mixture.</p>
-<p>In another bowl, whisk together the milk, maple syrup, egg, about half of the butter, and vanilla. Slowly drizzle the milk mixture over the oats. Gently give the baking dish a couple of thwacks on the countertop to make sure the liquid moves down through the oats.</p>
-<p>Bake for 35 to 45 minutes, or until the top is golden and the oat mixture has set. Remove from the oven, and allow to cool for a few minutes. If the remaining butter has solidified, rewarm it slightly; then drizzle it over the top of the oatmeal. Serve.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 6 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Warm Farro Salad with Chickpeas, Feta, and Spicy Dressing</h2>
-        <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-02-23T00:04:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I’ve found farro in Seattle at Whole Foods, PCC, and some grocery stores, or you can get it from <a href="http://chefshop.com/Farro-Emmer-Organic-P6425.aspx" target="_blank">ChefShop</a>. I like the farro grown by <a href="http://www.bluebirdgrainfarms.com/" target="_blank">Bluebird Grain Farms</a> of Winthrop, Washington. Farro should be soaked briefly before cooking, although Matthew often uses Trader Joe’s quick-cooking farro – done in 10 minutes! – and says that it’s great. In any case, I give instructions below for cooking standard farro, and hey, feel free to scale up and cook an even bigger batch, if you’d like. From one cup of uncooked farro, I wind up with enough cooked farro for three or four servings of this salad.</p>
-<p>Also: among types of feta, I like French feta best.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the farro:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 cup farro          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. salt          </div>
-                      <h3>For the dressing:</h3>                  <div class="ingredient" itemprop="ingredients">
-            3 Tbsp. fish sauce          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 Tbsp. lime juice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 to 3 Tbsp. (25 to 35 g) brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 to 8 Tbsp. water, to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 medium garlic clove, minced or pressed          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Thai chile, very thinly sliced          </div>
-                      <h3>For the salad:</h3>                  <div class="ingredient" itemprop="ingredients">
-            Chickpeas, either canned (drained and rinsed) or cooked from dried          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Escarole, coarsely chopped or sliced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Radicchio, coarsely sliced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Carrots, sliced into rounds          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Feta, coarsely crumbled          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Put the farro in a medium (2 ½- to 3-quart) saucepan, add cold water to cover, and set it aside to soak for 30 minutes. Then drain the farro, put it back into the saucepan, and add 3 cups of cold water and ½ teaspoon salt. Bring to a boil; then reduce the heat to maintain a gentle simmer and cook until tender but still a little chewy, about 45 minutes. It’s up to you, really, how “done” you want your farro. At 30 minutes, mine is usually too tough, but a few minutes later, it’s just right: al dente, but not exhausting to chew. When it’s ready, drain it, and either use it while it’s warm or transfer it to a storage container for later use. (Covered and chilled, cooked farro will keep for a few days, easy.)</p>
-<p>To make the dressing, combine the fish sauce, lime juice, 2 tablespoons of the brown sugar, 6 tablespoons of the water, the garlic, and chile in a small bowl. Whisk well. Taste: if it’s too pungent, add more water 1 tablespoon at a time. If you’d like a little more sweetness, add more brown sugar ½ tablespoon at a time. (Covered and chilled, the dressing will keep for three days to a week.)<br />
-To assemble a portion of salad, scoop out a couple of large spoonfuls of farro – maybe 1/3 to ½ cup – and put it in a wide bowl. If the farro is cold, you might want to microwave it for 45 seconds or so, to warm it. That’s what I do. Or you could put it in a small ovenproof dish, covered, and bake it for a few minutes to warm it. Or you can just leave it cold. Add a large spoonful of chickpeas, a good handful each of escarole and radicchio, and maybe half of a carrot, sliced. Top with a generous amount of feta, and then drizzle some dressing – maybe a tablespoon? Or to taste – over the whole thing. Toss, and eat.</p>
-    </div>
-  
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Oatcakes</h2>
-    <h3 class="subtitle">Adapted slightly from Stephanie Congdon Barnes and <a href="http://3191milesapart.myshopify.com/collections/3191-quarterly/products/new-3191-quarterly-issue-no-9#.UQL6h7uQswI" target="_blank">3191 Quarterly No. 9</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-01-25T22:15:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-      </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 ½ cups (150 grams) rolled oats          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup (140 grams) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (60 grams) packed brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. fine salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 stick (113 grams) cold unsalted butter, diced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup (60 ml) full-fat plain yogurt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Whole milk, if needed          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F. Line two baking sheets with parchment.</p>
-<p>In a large bowl, combine the oats, flour, brown sugar, baking soda, and salt, whisking to blend. Add the butter, and use your fingers, pressing and squeezing, to work it into the oat mixture until it resembles a coarse meal. Stir in the yogurt until a soft dough forms. (If your yogurt is on the thick side, you may need to add a tablespoon or so of milk, just enough to bring the dough together.) The dough should be a little crumbly. Lightly flour a work surface, and turn the dough out onto it, rolling or patting it to a ¼-inch thickness. (I found that the dough was a little too sticky to roll cleanly, but it worked out alright.) Using a 2-inch round cookie cutter, stamp out oatcakes, and transfer them to the prepared sheet pans. (A <a href="http://www.amazon.com/Winware-Stainless-Steel-Scraper-Handle/dp/B0017HUR9E/?_encoding=UTF8&amp;amp;amp;camp=1789&amp;amp;amp;creative=9325&amp;amp;amp;keywords=bench%20scraper&amp;amp;amp;linkCode=ur2&amp;amp;amp;qid=1359149516&amp;amp;amp;s=home-garden&amp;amp;amp;sr=1-3&amp;amp;amp;tag=orangette-20" target="_blank">bench scraper</a> comes in handy for transferring the oatcakes to the sheet pans and cleaning the counter afterward. I found that I could comfortably fit about 15 oatcakes on one pan and the remainder on the second.) (I am really into parentheses today.) It’s okay to gather and re-roll any scraps of dough.</p>
-<p>Bake the oatcakes for about 15 minutes, or until they are golden brown around the edges. Transfer to a wire rack to cool completely, and then store in an airtight container at room temperature.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 25 oatcakes</p>
-  </section>
-                  <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

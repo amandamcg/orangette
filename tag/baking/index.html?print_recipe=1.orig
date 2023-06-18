@@ -1,1098 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>100% birthday-worthy</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">The Violet Butterscotch Blondie</h2>
-    <h3 class="subtitle">from <a href="http://amzn.to/2xYVLdM" target="_blank" rel="noopener"><em>The Violet Bakery Cookbook</em></a>, by Claire Ptak</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2017-11-06T00:28:33-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>The original version of the recipe calls for milk chocolate. I used 55%, which is technically semisweet, but it&#8217;s what I had. I liked it a lot. And as always, the kosher salt I use is Diamond Crystal brand.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            250 grams (1 cup plus 1 Tablespoon) unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            300 grams (1 ¾ cups) golden brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ teaspoons vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            240 grams (1 ¾ cups) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ teaspoons baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ teaspoons kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            125 grams (4 ½ ounces) chocolate (see note above), chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            75 grams (2 ½ ounces) caramel shards (recipe follows)          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 320°F. Grease a 9-x-13-inch (or thereabouts) baking pan, and line it with parchment.</p>
-<p>In a small, heavy pan, melt the butter over low heat. Set aside to cool slightly.</p>
-<p>In a large bowl, whisk together the eggs, sugar, and vanilla until frothy. Whisk in the melted butter.</p>
-<p>In a separate bowl, whisk together the flour, baking powder, and kosher salt. Add the flour mixture to the egg-and-butter mixture, along with the chocolate. Mix until just combined.</p>
-<p>Scrape the mixture into the prepared pan, and smooth the top. Sprinkle the caramel shards over the top of the batter. Bake for 30 minutes, or until the center is puffed and looks set. Mine take a bit longer than 30 minutes &#8211; maybe more like 35 &#8211; and mostly, I&#8217;m looking for setness.</p>
-<p>Leave to cool completely in the pan. Then cut into squares or rectangles of whatever size you&#8217;d like.</p>
-<p>Store the blondies in an airtight container at room temperature. They&#8217;re best within three days.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 12 to 16 blondies, depending on how you cut them</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Jimmy's Pink Cookies</h2>
-    <h3 class="subtitle">from <i>A Homemade Life</i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2016-02-19T18:40:13-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I made the dough first thing on Wednesday morning, while June was watching <em>Daniel Tiger</em> &#8211; real talk &#8211; and it was ready to roll out an hour later, when our friends arrived. I <em>highly</em> recommend making the dough ahead, since waiting for dough to chill is not easy for kids. And if you can, go ahead and measure out the frosting ingredients while you&#8217;re doing the dough.</p>
-<p>Once we were ready to get started, I took charge of rolling out the dough, and then the girls went to work with their chosen cookie cutters. (The original recipe below calls for using round cookie cutters, but we used alphabet shapes.) I helped ease the dough shapes from the cutters onto the baking sheet, and I rerolled the dough scraps as needed. But mostly, I let them do their thing. While the cookies baked and cooled, June helped me beat up the frosting, and then each kid got a small knife and their own bowl of frosting for spreading on the finished cookies.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the cookies:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 ½ sticks (170 grams) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup powdered sugar, sifted          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups (210 grams) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon fine sea salt or table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon vanilla extract          </div>
-                      <h3>For the frosting:</h3>                  <div class="ingredient" itemprop="ingredients">
-            4 ounces (112 grams) cream cheese, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 tablespoons (42 grams) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups powdered sugar, sifted          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ teaspoon kirsch, or more to taste, or a half-capful of cherry extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Red food coloring (optional, but the frosting won't be pink without it)          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>To make the cookies, combine the butter and powdered sugar in the bowl of a stand mixer fitted with the paddle attachment. Beat, first on low speed and then slowly increasing to medium, until light and fluffy. Scrape down the side of the bowl as needed.</p>
-<p>In a medium bowl, whisk the flour and salt. With the mixer on low speed, add the flour mixture to the butter mixture, beating until the flour is just absorbed. Add the vanilla, and beat well to incorporate. Lay a sheet of plastic wrap on the countertop, and turn the dough out onto it. Gather the dough into a ball, and press it into a thin, smooth disk. Wrap well, and refrigerate for one hour.</p>
-<p>Preheat the oven to 325 degrees. Line two baking sheets with parchment.</p>
-<p>On a clean, lightly floured surface, roll out the dough to a thickness of about 3/8 inch. Using a cookie cutter, cut the dough into any shape you like. (My friend Jimmy uses a heart-shaped cutter when he makes these cookies; I usually use a 2 ½-inch circle.)</p>
-<p>Place the cookies on the prepared baking sheets, spacing them 1 ½ inches apart. Bake them one sheet at a time, keeping the second sheet in the fridge until the first is done, for about 16 minutes, or until the cookies look set and are just pale golden at the edge. Do not allow them to brown. Transfer the pan to a wire rack, and allow the cookies to cool completely on the pan. Repeat.</p>
-<p>To make the frosting, put the cream cheese and butter in the bowl of a stand mixer fitted with a paddle attachment, and beat on medium speed until smooth. Add the powdered sugar, and beat on low speed to incorporate. Then raise the speed to medium, and beat until there are no lumps, scraping down the side of the bowl as needed. Add the kirsch and a couple of drops of food coloring, and beat well.  The frosting should be pale pink, ideally, though June wanted it darker than that, so we added some more coloring. Spread the frosting generously &#8211; this is key! lots of frosting! &#8211; onto the fully cooled cookies.</p>
-<p>Stored in an airtight container, the frosted cookies will keep in the fridge for a few days, and they&#8217;re delicious cold. You can also freeze them.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 10 to 12 (3-inch) cookies, or more smaller cookies</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Leftover Oatmeal Muffins</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.soulemama.com/soulemama/2012/03/in-my-kitchen.html" target="_blank">Amanda Soule</a> and <i><a href="http://www.amazon.com/Fannie-Farmer-Cookbook-Marion-Cunningham/dp/0553568817/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=fannie%20farmer%20cookbook&amp;linkCode=ur2&amp;qid=1391112322&amp;sr=8-2&amp;tag=orangette-20" target="_blank">The Fannie Farmer Cookbook</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2014-01-31T18:53:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>These muffins come together quickly, especially if you mix up the dry ingredients the night before. I once managed to make them at 7:30 am while wearing a wiggly 14-month-old in a sling. FIST BUMP! (Or, <a href="http://www.youtube.com/watch?v=G_vmQrTi3aM" target="_blank">TERRORIST FIST JAB</a>!  <i>Uggghhhhh</i>.)</p>
-<p>Also, for the record, I like these best with walnuts and bittersweet chocolate as my add-ins.  I used a ¼ cup of each: that’s about 30 grams of walnuts, chopped, and 45 grams of Valrhona 64% Manjari chocolate discs, chopped.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 ½ cups (210 grams) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup (50 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 teaspoons baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon fine sea salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup add-ins (such as nuts, chopped chocolate, coconut flakes, fruit, etc.)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large egg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup (185 grams) cooked oatmeal, preferably steel-cut          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (120 ml) whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tablespoons (28 grams) unsalted butter, melted and cooled slightly          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 400°F, and grease a 12-cup muffin tin.</p>
-<p>In a large bowl, whisk together the flour, sugar, baking powder, salt, and add-ins.</p>
-<p>In another bowl, lightly beat the egg. Add the oatmeal to the egg, and mash with a fork to break up clumps. Add the milk and the butter, and stir or whisk to combine.</p>
-<p>Pour the wet mixture into the dry mixture, and stir briefly to just combine. Divide the batter evenly between the wells of the prepared muffin tin. Bake for 15 to 20 minutes, or until a toothpick inserted in the center of one of the muffins comes out clean. The muffins won’t brown much on top and might even look a little anemic, but that’s okay. Serve warm, ideally.</p>
-<p><i>Note</i>: These muffins are best when they’re fresh from the oven, or on the day that they’re made.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 12 smallish muffins</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Rye Crumble Bars with Jam</h2>
-    <h3 class="subtitle"> Adapted slightly from <span style="font-style: italic;"><a href="http://www.amazon.com/Good-Grain-Baking-Whole-Grain-Flours/dp/1584798300/?_encoding=UTF8&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325" target="_blank">Good to the Grain</a></span>, by Kim Boyce</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2012-03-21T21:49:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>For this recipe, I used <a href="http://www.bobsredmill.com/" target="_blank">Bob’s Red Mill</a> dark rye flour. You can also buy light rye flour, in which some parts of the grain have been removed before milling, but Boyce suggests the dark type, which has a deeper, nuttier flavor, and I second her recommendation.</p>
-<p>As for jam, choose any one you like, but make sure that it has a good level of brightness and acidity. That’ll help it hold up to the richness of the buttery crust. Also, if you come up a little short, don’t worry. I only had 1 ¼ cups, not 1 ½ cups, and it was no problem.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>Shortbread crust:</h3>                  <div class="ingredient" itemprop="ingredients">
-            65 grams (½ cup) dark rye flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            120 grams (1 cup) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            50 grams (1/3 cup) dark brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            113 grams (1 stick) unsalted butter, melted and cooled slightly          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                      <h3>Crumble:</h3>                  <div class="ingredient" itemprop="ingredients">
-            100 grams (1 cup) rolled oats          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            32 grams (3 Tbsp.) dark brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            52 grams (¼ cup plus 2 Tbsp.) dark rye flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            30 grams (¼ cup) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            38 grams (3 Tbsp.) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            85 grams (6 Tbsp.) unsalted butter, melted and cooled slightly          </div>
-                      <h3>To assemble:</h3>                  <div class="ingredient" itemprop="ingredients">
-            350 ml (1 ½ cups) jam, preserves, or fruit butter          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Set a rack in the middle of the oven, and preheat to 275°F. Rub a 9-inch springform pan with butter, or grease with cooking spray.</p>
-<p>To make the shortbread crust, combine the flours, sugar, and salt in a large bowl, and whisk to mix well. Add the melted butter and vanilla extract, and stir until thoroughly combined. (I found the mixture a little dry at first, so I put my hand in and squeezed and massaged a bit to bring the dough together.) Using your hands, press the dough evenly into the bottom of the prepared pan. Put the pan in the freezer for 30 minutes, while you make the crumble. [Or, if you’re doing this step ahead of time, wrap the pan in plastic wrap and put it in the fridge or freezer. If it’s in the fridge, just remember to transfer it to the freezer for 30 minutes before baking.]</p>
-<p>To make the crumble, put all of the crumble ingredients except the melted butter into the bowl of a food processor, and pulse until the oats are partially ground, about 5 or 10 seconds. Pour the mixture into a bowl. Add the melted butter and stir with your hands, squeezing the mixture as you stir to create small crumbly bits. Set aside. [Or, if you’re doing this step ahead of time, wrap the bowl in plastic wrap and put it in the fridge. Take it out about 30 minutes before using, and if needed, use a fork to break up any giant clumps that have hardened.]</p>
-<p>Bake the frozen shortbread until pale brown and firm when touched, about 50 to 55 minutes. Remove from the oven, and raise the oven temperature to 350°F.</p>
-<p>To assemble the bars, spread the jam over the shortbread crust, and then top with the crumble, evenly sprinkling it over the surface and squeezing bits of it together to create irregular nubs. Bake for 50 to 55 minutes, or until golden brown on top, rotating the pan halfway through for even baking.</p>
-<p>When the pan is cool enough to handle but still warm, run a sharp knife around the edge of the pan to loosen any jam that may have stuck. Remove the ring. Completely (or mostly, anyway) cool the bars on the pan base before cutting into wedges.</p>
-<p>Note: These bars are best when eaten in fairly short order. After three days or so, the flavors taste less clear.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: Boyce says 10 wedges, but these bars are rich, so I’d say more than that. Maybe 12 to 16 wedges, depending on the size you choose</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Salted Chocolate Cookies</h2>
-    <h3 class="subtitle"> Adapted from <span style="font-style: italic;"><a href="http://www.amazon.com/Tartine-Elisabeth-Prueitt/dp/0811851508/?_encoding=UTF8&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325" target="_blank">Tartine</a></span>, by Elisabeth M. Prueitt and Chad Robertson, and from Renee Erickson and <a href="http://www.boatstreetcafe.com/" target="_blank">Boat Street Café</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2012-01-12T06:51:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Renee tells me that when they make these cookies at Boat Street, they use Valrhona “Guanaja” 70% chocolate, so that’s what I used, too. Whatever brand of chocolate you choose, make sure you love it, because that’s what the finished cookies will taste like. 70% cacao is ideal, but anything above 60% will do the job. And if you can’t find Maldon salt, a coarse sea salt will probably be just fine.</p>
-<p>At Boat Street, they make these cookies quite small, about 1 ½ inches across. At home, I made half of the dough into small cookies, and I made the other half into more normal-sized ones, about 2 ¼ to 2 ½ inches across. I think I prefer the latter. In any case, if you want small cookies, divide your dough into four portions, and shape each portion into a skinny log, about an inch in diameter. For larger cookies, shape your dough into two logs, each about 1 ½-inches in diameter. Whichever way, you’ll wind up with a lot of cookies. I forgot to count them before we started eating them, so I don’t have an accurate yield size for you. Sorry! But really, you’ll have a LOT.</p>
-<p>Last, note that this dough tastes best &#8211; and is easiest to work with &#8211; when it’s been allowed to rest in the fridge for a day or so before baking.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            225 grams (8 ounces) bittersweet chocolate, coarsely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            155 grams (1 ¼ cups) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            50 grams (½ cup plus 2 Tbsp.) unsweetened cocoa powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            115 grams (8 Tbsp.) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            225 grams (1 cup plus 2 Tbsp.) sugar, plus more for rolling the logs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            75 ml (1/3 cup) whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Maldon salt, for finishing          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Pour water into a saucepan to a depth of about 2 inches. Bring to a simmer. Put the chocolate in a heatproof bowl that will rest securely on the rim of the saucepan, and place it over – not touching – the simmering water. (Make sure that the bowl is completely dry before putting the chocolate into it, and take care that no moisture gets into the chocolate. Moisture will cause it to seize.) Heat, stirring occasionally, just until the chocolate melts and is smooth. Remove from the heat and set aside to cool.</p>
-<p>In a medium bowl, whisk together the flour, cocoa, and baking powder. Using a stand mixer fitted with the paddle attachment, beat the butter on medium-high speed until creamy. Slowly add the sugar, and continue to beat until the mixture is completely smooth and soft, stopping to scrape down the sides of the bowl with a rubber spatula as needed. Add the eggs one at a time, mixing well after each addition. Beat in the salt and the vanilla, and then add the melted chocolate, beating to incorporate. Add the milk, and beat until combined. Finally, add the flour mixture and beat on low speed until just incorporated. The dough will be quite thick and stiff.</p>
-<p>Depending on what size cookie you’d like to wind up with (see headnote, above), divide the dough into 2 or 4 portions. Put each portion on a large piece of plastic wrap, and shape into a log, using the wrap to help you smoosh, roll, and smooth it. Twist the ends to seal. Chill overnight. (If you’re into advance planning, the dough can probably be kept in the fridge for at least a week, or frozen for longer keeping.)</p>
-<p>When you’re ready to bake the cookies, preheat the oven to 350°F, and line a baking sheet with parchment paper.</p>
-<p>Put another sheet of parchment paper on your work surface. Take a spoonful or two of sugar, and pour it onto the parchment, making a ridge of sugar of approximately the same length as your dough logs. Remove a log from the fridge, unwrap it, and roll in the sugar to evenly coat. Using a thin, sharp knife, slice the dough into ¼- to 1/3-inch slices. (If you’re making small cookies, the 1/3-inch thickness is best.) Lay the slices on the baking sheet, leaving about 2 inches between each cookie. Sprinkle each cookie with a few flakes of Maldon salt.</p>
-<p>Bake for 10 minutes, or until the top of the cookies looks set but still feels a little soft to the touch. Transfer to a wire rack, and leave the cookies on the pan to cool. Repeat with remaining dough.</p>
-<p>Note: These cookies will keep at room temperature for several days.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: a lot</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Dorie Greenspan’s Tender Shortcakes</h2>
-    <h3 class="subtitle"> From <span style="font-style: italic;"><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FBaking-Home-Yours-Dorie-Greenspan%2Fdp%2F0618443363%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1308769152%26sr%3D1-1&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Baking: From My Home to Yours</a></span></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2011-06-27T17:43:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>You could serve these shortcakes with any kind of berry, and I’ll bet sliced nectarines or peaches would also be outstanding. You’ll want about ½ cup fruit per serving. I like to keep it simple and toss the fruit only with sugar – a small amount, to taste – and whatever you do, be sure to let the sugared fruit sit for about 15 minutes before serving, so that it gets nice and juicy and some syrup pools at the bottom of the bowl. That’s the stuff. Serve with unsweetened, softly whipped cream.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            4 cups all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ tsp. salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 Tbsp. sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ sticks (12 Tbsp.) cold unsalted butter, cut into small pieces          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups cold heavy cream          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Center a rack in the oven, and preheat the oven to 425°F. Line a baking sheet with parchment.</p>
-<p>In a large bowl, whisk together the flour, baking powder, salt, and sugar. Add the butter and, using your fingers, toss to coat with flour. Quickly, working with your fingertips, pinch and rub the butter into the dry ingredients until the mixture is pebbly. Some pieces of butter will be about the size of peas, while other will be more like flakes of oatmeal.</p>
-<p>Pour the cream over the dry ingredients, and toss and gently turn the ingredients with a fork until you’ve got a very soft dough. You’ll probably still have some flour at the bottom of the bowl, so reach in and use your hand to mix and gently knead the dough until it’s evenly blended. But don’t get overzealous: it’s better to have a few dry spots than an overworked dough. The dough should be soft and sticky.</p>
-<p>Cut the dough into 10 roughly equal portions (each will be about 1/3 cup), and put 5 or 6 of them on the baking sheet, leaving about 3 inches of space between them. Pat each portion down until it’s about 1 inch high. [The shortcakes can be made to this point, wrapped in plastic wrap, and stashed in the freezer. Bake without defrosting – just add 5+ minutes to the baking time.]</p>
-<p>Bake for 15 to 18 minutes, rotating the sheet from front to back midway through, until the shortcakes are puffed and give just a little when poked with a fingertip. Pull the pan from the oven, and carefully transfer the shortcakes to a cooling rack. Repeat with the remaining dough, cooling the baking sheet first.</p>
-<p>Serve the shortcakes slightly warm or at room temperature. To serve, use a serrated knife to gently cut each cake in half horizontally. (They’re fragile, so go easy.) Put the bottom halves on plates, top with berries and whipped cream, and then cap with the top halves.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 10 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Nigel Slater’s Apple Crumble</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FTender-Cooks-Guide-Fruit-Garden%2Fdp%2F0007325215%2F&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Tender, Volume II: A Cook’s Guide to the Fruit Garden</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2011-02-21T07:29:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>For my crumble, I wanted a mixture of apples: some that would fall apart, and some that would hold their shape. But all I could find today was the latter, so that’s what I went with. I used two Braeburns and two Arkansas Blacks. The amount of sugar called for in the filling worked nicely with my apples, but if you’re using sweeter varieties, you might want to cut back. Also, it’s probably a good idea to taste the apples after they’ve cooked in the skillet, before you bake them; that way, you can add more lemon or sugar, if needed. I get the sense that Mr. Slater wants us to use our intuition.</p>
-<p>Also, about sugar: the original recipe calls for golden caster sugar, which is a challenge to find here. I don’t think it’s a dealbreaker to use standard granulated sugar instead. Or you could substitute a mixture of superfine sugar (also known as baker’s sugar) and brown sugar, maybe? I had some unrefined sugar in the pantry, so I used that, and it worked fine.</p>
-<p>One last thing: the original is written only in grams, but I’ve added volume measurements, so you can do it either way. But if you’ve got a scale, pull it out. Much less fiddly than using measuring cups and spoons.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the filling:</h3>                  <div class="ingredient" itemprop="ingredients">
-            4 medium (850 grams) apples          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Half a lemon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (75 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. (30 grams) unsalted butter          </div>
-                      <h3>For the topping:</h3>                  <div class="ingredient" itemprop="ingredients">
-            7 Tbsp. (95 grams) cold unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ cup (150 grams) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 ½ Tbsp. (45 grams) sugar          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F.</p>
-<p>Peel and core the apples, cut them into rough 1-inch chunks, and toss them with the juice of the lemon half and the sugar.</p>
-<p>Warm a skillet over medium-high heat. Add the butter, and when it stops foaming, dump in the apples and their juices. Nudge the apples around so that they lie in a single layer, and then leave them alone for a while. The juices will thicken to a syrup that coats the fruit, and the fruit should get golden in patches. Stir gently once or twice, cooking until the apples have a little color. (This may take longer than you’d expect.) They should smell sensational.</p>
-<p>Turn the apples and any caramelly juices out of the skillet into a baking dish. (I used an oval gratin dish that measures about 10 inches long and 7 inches wide, though you would be fine with a dish that’s even a little smaller.) If there are any sticky bits left in the skillet, add a squeeze of lemon juice and/or a splash of water, and stir until they dissolve. Add to the apples.</p>
-<p>To make the topping, put the butter and the flour in a medium bowl, and rub the butter into the flour with your fingertips until the mixture looks like fine breadcrumbs. (Alternatively, you could do this in a food processor.) Stir in the sugar. Drizzle in a tablespoon of water, and shake the bowl back and forth until some of the mixture sticks together in gravel-sized lumps. This way, you get some parts of the topping that are sandy and others that are gravelly or pebbly. Distribute the topping evenly over the apples. Bake for 45 minutes to 1 hour, or until pale golden. Serve warm or at room temperature.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Oatmeal Popovers</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FBreakfast-Book-Marion-Cunningham%2Fdp%2F0394555295%3Fie%3DUTF8%26qid%3D1295145208%26sr%3D8-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325">The Breakfast Book</a></i> and <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FNew-Best-Recipe-All-New%2Fdp%2F0936184744&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325">The New Best Recipe</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2011-01-24T08:20:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I’ve made these popovers twice now, and I find that they don’t rise quite as exuberantly high as normal (oatmeal-less) popovers. But they’re still perfectly airy on the inside, and the oil in the cups of the pan make the outer edges nice and crisp.</p>
-<p>Oh, and Marion Cunningham says that the combination of oatmeal and marmalade is very good. She’s right.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup rolled oats, coarsely ground in a food process or blender          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. unsalted butter, melted          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. vegetable oil, for the pan          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Orange marmalade, for serving (optional)          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In a large bowl – ideally one with a pour spout, if you have it – whisk the eggs and milk until well combined, about 20 seconds. Whisk the flour, oats, and salt in a separate bowl, and add to the egg mixture. Stir with a wooden spoon or spatula just until the flour is incorporated. The mixture will still be lumpy. Add the melted butter, and whisk until the batter is smooth, about 30 seconds. Set aside at room temperature for 30 minutes. (This gives the gluten time to relax and brings the chilled ingredients closer to room temperature, so that the batter isn’t quite so cold when it goes into the oven.)</p>
-<p><i>Note</i>: If you don’t have a popover pan, you can use a regular muffin tin. Don’t use all 12 cups, though; use only the 10 outer cups. You’ll need extra oil to grease them.</p>
-<p>While the batter rests, put ½ teaspoon oil into each cup of a popover pan. Adjust the oven rack to the lowest position, place the popover pan in the oven, and preheat to 450° F. After the batter has rested, remove the hot pan from the oven and, working quickly, distribute the batter evenly among the 6 cups of the pan. (If your bowl doesn’t have a spout, you might want to transfer it to a vessel that does; it’ll allow you to work much more quickly.) Return the pan to the oven. Bake for 20 minutes &#8211; and DO NOT open the oven door. Lower the heat to 350° F, and bake until evenly golden brown, about 15 minutes more. Remove the popovers from the pan and cool for 2 to 3 minutes before eating.</p>
-<p>&nbsp;</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 6 popovers</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Marion Cunningham’s Fresh Ginger Muffins</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FBreakfast-Book-Marion-Cunningham%2Fdp%2F0394555295%3Fie%3DUTF8%26qid%3D1295145208%26sr%3D8-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325">The Breakfast Book</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2011-01-16T06:56:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>A word of warning: before beginning, take care to wash the ginger root well, checking its crevices and wrinkles for dirt.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            One (~3-ounce) piece of unpeeled ginger root          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup plus 3 Tbsp. sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. grated lemon zest          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 Tbsp. (1 stick) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup buttermilk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ tsp. baking soda          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 375°F. Grease a muffin tin.</p>
-<p>Cut the unpeeled ginger root into large chunks. If you have a food processor, process the ginger until it is in tiny pieces; alternatively, mince by hand. Measure out ¼ cup – or a little more, if you like. It’s better to have too much than too little. Put the ginger and ¼ cup sugar in a small skillet and cook over medium heat, stirring, until the sugar has melted and the mixture is hot. Don’t walk away from the pan: this takes only a couple of minutes. Set aside to cool.</p>
-<p>In a small bowl, whisk together the lemon zest and 3 tablespoons of sugar. Add to the ginger mixture.</p>
-<p>Put the butter in the bowl of a stand mixer (or, a mixing bowl, if you plan to use handheld beaters or mix by hand). Beat the butter for a second or two, then add the remaining ½ cup sugar, and beat until smooth. Add the eggs, and beat well. Add the buttermilk, and beat until blended. Add the flour, salt, and baking soda, and beat just until smooth. Add the ginger-lemon mixture, and beat to mix well. Spoon the batter into the prepared muffin tin. Bake for 18 to 20 minutes, or until a tester comes out clean. Serve warm.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 12 muffins</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Whole Wheat Sablés with Cacao Nibs</h2>
-    <h3 class="subtitle">From Alice Medrich’s <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FCrispy-Crunchy-Your-Mouth-Cookies-Medrich%2Fdp%2F1579653979%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1291432021%26sr%3D8-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325">Chewy Gooey Crispy Crunchy Melt-in-Your-Mouth Cookies</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-12-04T09:20:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>This recipe is particularly quick to assemble if you get out a scale and use weight measurements. <i>So</i> quick! I used whole wheat pastry flour because I keep it around (for <a href="http://orangette.blogspot.com/2010/03/not-likely-love.html">scones</a>, mostly), but you can also use a mixture of regular whole wheat flour and white flour. And I don’t see any reason why you couldn’t substitute white whole wheat flour for the regular whole wheat, if you have it. Oh, and if you live in Seattle or nearby, try the cacao nibs from <a href="http://www.theochocolate.com/">Theo</a>. They’re the best I’ve had.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 cups (9 oz.) whole wheat pastry flour, OR 1 cup (4.5 oz.) all-purpose flour plus 1 scant cup (4 oz.) whole wheat flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            14 Tbsp. (1 ¾ sticks) unsalted butter, softened          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (3 ½ oz.) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (about 1 ¼ oz.) roasted cacao nibs          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>If using the two flours, combine them in a bowl, and mix with a whisk or fork.</p>
-<p>In a medium bowl, with a large spoon or an electric mixer, beat the butter with the sugar, salt, and vanilla until smooth and creamy but not fluffy, about 1 minute (with the mixer). Scrape down the sides of the bowl with a spatula, and add the nibs. Beat briefly to incorporate. Add the flour, and mix until just incorporated. Scrap the dough into a mass and, if necessary, knead it a little with your hands to make sure that the flour is completely incorporated. Form the dough into a 12-by-2-inch log. Wrap and refrigerate for at least 2 hours, or overnight.</p>
-<p>Set racks in the upper and lower thirds of the oven, and preheat the oven to 350°F. Line 2 cookie sheets with parchment paper.</p>
-<p>Use a sharp knife to cut the cold dough log into ¼-inch-thick slices. Place the cookies at least 1 ½ inches apart on the prepared sheet pans.</p>
-<p>Bake for 12 to 14 minutes, or until the cookies are light golden brown at the edges, rotating the pans from top to bottom and front to back halfway through the baking time. Cool the cookies for a minute on the pans, then transfer them (with or without their parchment) to a rack to cool completely. Repeat with remaining dough.</p>
-<p>These cookies are good on the first day, but they’re best with a little age, after at least a day or two. Store in an airtight container at room temperature for up to a month.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 48 cookies</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Whole Wheat Chocolate Chip Cookies</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FGood-Grain-Baking-Whole-Grain-Flours%2Fdp%2F1584798300&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325">Good to the Grain</a></i>, by Kim Boyce</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-11-06T05:10:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Without really planning to, I’ve played around quite a lot with this recipe. I’ve only made it twice, but each time was in a different kitchen, with different ingredients and tools. Both times, the cookies came out beautifully. Here are some thoughts:</p>
-<p>&#8211; A friend who had made this recipe suggested that I try making it with <a href="http://www.kingarthurflour.com/shop/items/king-arthur-white-whole-wheat-flour-5-lb">white whole wheat flour</a>, so I bought a fresh bag and used it in my first batch. I loved the resulting flavor – lightly wheaty, almost bran-like – and I highly recommend it. For my second batch, I used a <a href="http://www.stone-buhr.com/flours/whole-wheat-flour/">local brand</a> of whole wheat flour, and it was plenty nice, but the wheat flavor was darker and heartier. If you’re after that digestive biscuit flavor, I would use white whole wheat flour.</p>
-<p>&#8211; Because I am apparently getting ornery with age, I ignored Boyce’s advice to use cold butter. I honestly thought it was a typo, because I’ve always had a hard time creaming butter that’s even a little bit too cold. Instead, I used softened butter. (I left it at room temperature until it was still cool to the touch but took the imprint of a finger when I pressed it. Perfect for creaming.) It worked just fine, as you can see. But I’ve now done some poking around online and see that the recipe <i>is</i> indeed supposed to use cold butter, cubed for easier creaming. Oops! So, uh, never mind me. Do whatever you want.</p>
-<p>&#8211; The original recipe calls for chopped bittersweet chocolate, and I tried it once that way and once with bittersweet chips. (I used Ghirardelli 60% chocolate in both cases.) I preferred the chopped chocolate because the pieces were smaller, so it gave the sense that there was more chocolate. But if you want to keep it quick and simple, chips will do the job.</p>
-<p>&#8211; I made this dough once in a stand mixer and once with handheld electric beaters. The poor beaters had to labor a lot, and I wound up recruiting a sturdy spatula to help out, but it’s good to know that you can make do with whatever tools you have on hand.</p>
-<p>&#8211; Boyce says that this dough is designed to be baked without chilling first. (This, I think, is linked to her use of cold butter. The cold butter likely keeps the dough cool and helps it spread less in the oven.) But I apparently am not only ornery; I also can’t follow directions. I scooped my dough, put it on a sheet pan, covered it with plastic wrap, and chilled it before baking. Some of the dough was chilled for about 1 hour, and some stayed in the fridge for two days. Chilling dough generally results in a thicker cookie, and mine were certainly nice and plump, which I like. So I recommend chilling the dough. And hey, I also noticed that the cookies that stayed in the fridge for two days were particularly flavorful. So “aging” the dough a bit isn’t a bad idea, either.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            3 cups whole wheat flour (see note above)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 sticks (8 oz.) unsalted butter, cut into ½-inch cubes (see note above)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup lightly packed dark brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 oz. bittersweet chocolate, roughly chopped into ¼- and ½-inch pieces, or bittersweet chips          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Position racks in the upper and lower thirds of the oven, and preheat to 350°F. Line two baking sheets with parchment. (If you have no parchment, you can butter the sheets.)</p>
-<p>Combine the flour, baking powder, baking soda, and salt in a medium bowl, and whisk to blend.</p>
-<p>Put the butter and sugars in the bowl of a stand mixer fitted with the paddle attachment. With the mixer on low speed, mix just until the butter and sugars are blended, about 2 minutes. Scrape down the sides of the bowl with a spatula. Add the eggs one at a time, beating well after each addition. Beat in the vanilla. Add the flour mixture to the bowl, and blend on low speed until the flour is just incorporated. Scrape down the sides and bottom of the bowl. Add the chocolate, and mix on low speed until evenly combined. (If you have no stand mixer, you can do all of this with handheld electric beaters and/or a large, sturdy spoon.) Scrape down the sides and bottom of the bowl, and then use your hands to turn and gently massage the dough, making sure all the flour is absorbed.</p>
-<p>Scoop mounds of dough about 3 tablespoons in size onto the baking sheets, leaving about 3 inches between each cookie. (I was able to fit about 8 cookies on each sheet, staggering them in three rows.)</p>
-<p>Bake the cookies for 16 to 20 minutes, rotating the sheets halfway through, until the cookies are evenly browned. Transfer the cookies, still on parchment, to a rack to cool. Repeat with remaining dough.</p>
-<p>These cookies are very good while still warm from the oven, but I find that you can taste the wheat more – in a good way – once they’ve cooled.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 20 cookies</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Rustic Plum Tart</h2>
-    <h3 class="subtitle">From <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FPure-Dessert-Alice-Medrich%2Fdp%2F1579652115&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Pure Dessert</a></i>, by Alice Medrich</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-10-07T07:53:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Contrast is what makes this tart work: the crust is quite sweet, and the plums should be quite tart. Look for plums that are both sweet and tangy, especially the ones that make you pucker a little when you bite into the flesh closest to the skin. I’ve made this tart with some unnamed red-skinned, yellow-fleshed plums that I found at the farmers market, and also with Flavor King pluots. Medrich recommends Santa Rosa, Friar, Laroda, and Elephant Heart plums, and she advises against the small, oblong plums often called Italian prune plums. They’re not tangy enough.</p>
-<p>Also, I make the dough for this tart in a food processor, but you can make it by hand, so I’m including instructions for both. The food processor makes it especially quick and tidy, but either way is easy.</p>
-<p>Finally, for the tart dough, you don’t want ice cold, rock-hard, straight-from-the-fridge butter. You want it to be a little softer than that, but not as soft as it gets at room temperature. You want it to be firm, as it is when it’s pleasantly cool.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 cup all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/8 tsp. salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large egg, lightly whisked          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 Tbsp. unsalted butter, firm but not hard, cut into a few pieces          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 to 6 juicy, flavorful plums          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Set a rack in the lower third of the oven, and preheat the oven to 375°F. Generously butter a 9 ½-inch tart pan with a removable bottom – or, barring that, a 9-inch springform pan also works nicely.</p>
-<p><i>To make the dough by hand</i>, mix the flour, sugar, baking powder, and salt together in a medium bowl. Add the egg and butter, and use a pastry blender, a large fork, or a couple of knives to cut the mixture together, as though you were making pie dough. The dough is ready when it resembles a rough mass of damp yellow sand with no dry flour showing.</p>
-<p><i>To make the dough in a food processor</i>, combine the flour, sugar, baking powder, and salt in the bowl of a food processor, and pulse to mix. Add the egg and butter, and pulse just until the mixture resembles damp yellow sand and is beginning to clump around the blade.</p>
-<p>Press the dough gently but evenly over the bottom but not up the sides of the pan. You’re not trying to pack it down; you’re just lightly tamping it.</p>
-<p>If the plums are very small (under 2 inches in diameter), cut them in half and remove the pits. Cut larger plums into quarters or sixths, removing the pits. Leaving a margin of ½ inch around the edge of the pan, arrange halved plums cut side up over the dough, with a little space between each one. Arrange wedges skin side up – they look nice that way after baking – and press them lightly into the dough, so that they won’t turn onto their sides in the oven.</p>
-<p>Bake until the pastry is puffed, deep golden brown at the edges, and a lighter shade of golden brown in the center, about 50 to 55* minutes. Transfer to a rack to cool for 10 minutes. Then loosen and remove the rim of the pan, and cool further. Serve warm or at room temperature.</p>
-<p><i>Note</i>: This tart keeps at room temperature for a few days, but its texture is best on the first day.</p>
-<p>* <i><b><span class="Apple-style-span">UPDATED on November 3, 2010</span></b></i>: A number of readers have reported that 50 to 55 minutes was too long in their ovens, and that their tarts were burnt. To be on the safe side, set your timer for 35 to 40 minutes, and keep an eye on it.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 6 to 8 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Oatmeal Sandwich Bread</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FGood-Grain-Baking-Whole-Grain-Flours%2Fdp%2F1584798300&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><span style="font-style: italic;">Good to the Grain</span></a>, by Kim Boyce with Amy Scattergood</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-08-06T07:30:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I’ve noticed that some reviews of this book complain that it calls for ingredients using only volume measures, not weight measures. I don’t find that to be a deal-breaker, but it is important to measure the ingredients correctly, particularly the flours. Before you scoop any flour out of the container, take a spoon and stir the flour, lifting and loosening it. (It tends to get packed down, and you don’t want to measure packed flour.) Now, to measure, spoon the flour into your measuring cup until it heaps above the rim. Then sweep the back of a dinner knife, or any other straight utensil, across the top to level it, letting the excess flour fall back into the container.</p>
-<p>This recipe is made for a standard-size loaf pan, one that measures about 9 by 5 by 3 inches. But mine is on loan to Delancey, so I’ve been using a different pan, one that I picked up at a thrift shop a couple of years ago. It measures 10 by 3 ¾ by 3 inches, and I love the long, skinny loaf it makes.</p>
-<p>One last thing: the original version of this recipe calls for 1 tablespoon of kosher salt. That sounds like a lot, but kosher salt isn’t very salty, and I found the bread a little bland. Instead, I now use table salt, and I like the result when I use 2 ¼ teaspoons.</p>
-<p>Oh, and this bread is also good for sandwiches, as you might have guessed from its title.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 package (2 ¼ tsp.) active dry yeast          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 Tbsp. unsulphured (not blackstrap) molasses          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 ½ cups whole wheat flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups bread flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup rolled oats          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 Tbsp. unsalted butter, melted and cooled slightly          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 ¼ tsp. table salt, or to taste          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Grease a large bowl and a loaf pan (see above) with butter or cooking spray.</p>
-<p>In the bowl of a stand mixer, combine 2 cups warm water, the yeast, and molasses. Stir briefly, and then allow the yeast to bloom for about 5 minutes. Add the flours, oats, and butter, and stir to mix. The dough will look rough and shaggy. Cover with a towel, and let stand for 30 minutes. [This rest allows the dry ingredients to absorb the liquids, making for a dough that’s easy to work with and even-crumbed.]</p>
-<p>Attach the bowl and the bread hook to the mixer. Add the salt, and mix on medium speed for 6 minutes. The dough should come together around the hook and slap around the sides of the bowl without sticking. If the dough is sticking, add a tablespoon or two of bread flour, sprinkling it down between the dough and the sides of the bowl. [Alternatively, you can knead by hand for about 15 minutes, adding flour as needed.] The dough should be soft and supple and slightly sticky.</p>
-<p>For the first rise, scrape the dough onto a lightly floured work surface and knead it a few times. Put the dough into the greased bowl, cover with a towel, and leave it to rise for about 1 hour, or until it is doubled in size. To see if it’s ready, gently push a floured finger into it. If the dough springs back, it needs more time; if the dimple remains, it’s ready for the next step.</p>
-<p>To shape the dough, scrape it onto a floured work surface. Press down on it, working it into a square shape, taking care to depress any bubbles. Fold the dough down from the top to the middle, then up from the bottom to the middle. Next, bring the newly formed top and bottom edges together, pinching the seam to seal. Pinch the sides together, and roll the shaped dough back and forth, plumping it so that it’s evenly formed and about the size of your pan. Place the dough in the pan with the seam side down, and press it gently into the corners of the pan.</p>
-<p>For the second rise, cover the dough with a towel, and let it rest in a warm place for about 1 hour, or until the dough rises to half again its size. While the dough is rising, preheat the oven to 400°F.</p>
-<p>When the dough has finished its second rise, bake for about 40 minutes, rotating the pan halfway through. The loaf is ready when the top crust and bottom crusts are nicely browned. [Boyce says that the top crust should be the color of molasses, but mine never gets that dark.] To see if the bread is ready, give the top of the loaf a thump with your hand. If it sounds hollow, it’s ready; if not, give it another few minutes in the oven. Remove the finished loaf from the pan and cool completely on a wire rack. Resist the urge to cut in until it’s fully cooled, so that the crumb has time to set and the flavor can develop.</p>
-<p>Note: This bread keeps beautifully at room temperature. I keep mine in a plastic grocery bag, tied shut, and I set it on the counter with the cut side down. It stays good that way for 4 or 5 days, easy.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 1 loaf</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Cinnamon Toasts</h2>
-    <h3 class="subtitle">Adapted from my grandmother Elaine Mack</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-05-02T06:13:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>This recipe in its original form calls for dipping the bread in butter. On both sides. I tried it, and the bread got so saturated that it sort of terrified me. There was a LOT of butter in that little piece of bread. I found that brushing on the butter is a more moderate, palatable approach, and it still works very well. Either way, you’re going to use quite a bit of butter, and please don’t freak out about that. If it helps, keep reminding yourself that this is not breakfast; this is a cookie. Make it your mantra.</p>
-<p>Also, the original version of the recipe calls specifically for Pepperidge Farm white bread. My grocery store didn’t have any, so I used Franz brand “Milk and Honey” bread instead. Whatever brand you use, make sure that it’s not too squishy and spongy. The quantities of butter and cinnamon sugar listed below should be pretty close to perfect for six slices of sandwich bread, but if you have extra butter or sugar, just use more bread.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 stick (4 oz.) unsalted butter, cubed          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 slices white sandwich bread, or more as needed          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. ground cinnamon          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 325°F. If you want, line a baking sheet with parchment or aluminum foil. It makes cleanup easier.</p>
-<p>Put the butter into a pie plate or similar baking dish. Slide the dish into the oven, and keep an eye on it. You’re looking for the butter to melt completely.</p>
-<p>Stack the slices of bread, and then cut them diagonally into quarters. You should have 24 triangles.</p>
-<p>In a small bowl, whisk together the sugar and cinnamon. Turn the cinnamon sugar out onto a dinner plate, or another pie plate.</p>
-<p>When the butter is melted, remove it from the oven, and brush it onto both sides of a triangle of bread. Don’t be shy: apply the butter generously, so no spot is left uncoated. The bread should feel a little heavy in your hand. Dip the bread into the cinnamon sugar, taking care to coat both sides. Lay it on the prepared baking sheet. Repeat with remaining pieces of bread.</p>
-<p>Bake the toasts for about 25 minutes, until lightly browned. Transfer to a rack. The toasts will crisp as they cool. When cooled, store in an airtight container at room temperature.</p>
-<p>Note: These taste best with a little age. When I tasted them on the day they were made, they were just okay, but by the next day, the flavors had come together nicely.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 24 pieces</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Whole Wheat Apricot Scones</h2>
-        <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-03-18T08:25:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I used whole wheat pastry flour in this recipe, and I love how it works. Whole wheat pastry flour is more finely ground and lower in protein than regular whole wheat flour, and it yields a product very similar in texture to my usual all-purpose flour scones. I considered using white whole wheat flour, which I’ve also used occasionally in baking, but I really do prefer whole wheat pastry flour. White whole wheat flour, while more delicate than regular whole wheat, is still too coarsely ground, and it’s tougher, less delicate.</p>
-<p>You can make these scones with any kind of dried fruit you want, but I like them best with dried apricots. My favorites are from Trader Joe’s, labeled “California Slab Apricots, Blenheim Variety.” They’re soft and have a very true apricot flavor, sweet and also quite tart. (They’re sulfured, which some people avoid, but I prefer the flavor.)</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 cup all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup whole wheat pastry flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 Tbsp. (½ stick) cold unsalted butter, cut into ½-inch cubes          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup diced dried apricots          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup half-and-half, plus more for glazing          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large egg          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 425°F. Line a baking sheet with parchment paper.</p>
-<p>In a large bowl, whisk together the flours, baking powder, and salt. Using your hands, rub the butter into the flour mixture, squeezing and pinching with your fingertips until there are no butter lumps bigger than a large pea. Add the sugar and dried apricots, and whisk to incorporate.</p>
-<p>Pour the half-and-half into a small bowl, and add the egg. Beat with a fork to mix well. Pour the wet ingredients into the flour mixture, and stir (with the fork; it works fine) to just combine. The dough will look shaggy and rough, and there may be some unincorporated flour at the bottom of the bowl. Don’t worry about that. Using your hands, gently press and shape the dough, so that it holds together in a messy clump. Turn the dough and any excess flour out onto a board or countertop, and press and gather and knead it until it just comes together. Ideally, do not knead more than 12 times. As soon as the dough holds together, pat it into a rough circle about 1 ½ inches thick. Cut the circle into 8 wedges.</p>
-<p>Put the wedges on the prepared baking sheet. Pour a splash of half-and-half into a small bowl. Using a pastry brush, brush the tops of the scones with a thin coat to glaze. Bake for about 15 minutes, or until pale golden. Transfer to a wire rack to cool slightly. Serve warm &#8211; with butter, if that’s your style. (My mother used to split the Earth/Lovelight ones in half and toast them, and then smear them with butter. Very good.)</p>
-<p>Note: If you plan to eat them within a day or two, store the scones in an airtight container at room temperature. For longer storage, seal them in a heavy plastic bag or container, and freeze them. Before serving, bring them to room temperature. Either way, reheat them briefly in a 300°F oven. They’re best served warm.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 8 small scones</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Marmalade Cake</h2>
-    <h3 class="subtitle">Adapted from the Boonville Hotel</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-02-14T09:53:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>You could make this cake with store-bought roasted almonds, but I like to buy them raw and toast them myself. That way, I can control how deeply they’re toasted, and they also taste fresher. If you’re short on time, you can toast them a day or two ahead. You might also want to plan ahead for preparing the citrus fruits, since boiling and cooling them takes time. (And remember to use organic oranges and lemons, since you’ll be eating the rind.) Once you’ve got the nuts and fruits ready, this cake is quick to make.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 small to medium orange          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 lemon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 ounces raw almonds          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 large eggs, ideally at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2/3 cup olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Confectioners’ sugar, for serving          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>First, get to work on the citrus. Put the orange and the lemon in a saucepan, and cover with water. (They’ll want to float. Don’t worry about it.) Bring to a boil over medium-high heat; then reduce the heat to medium and simmer for 30 minutes. Drain, and cool.</p>
-<p>Meanwhile, toast the almonds. Preheat the oven to 325°F, and set a rack in the middle position. Put the almonds on an ungreased sheet pan, and bake until they look golden and smell warm and toasty, 10 to 15 minutes. (I tend to get nervous about burning them, and consequently, I always try to pull them out of the oven too soon. Don’t do that. Let them really toast.) Set aside to cool completely. When the almonds are cool, pulse them in a food processor until finely ground, the texture of coarse sand. Set aside.</p>
-<p>Set the oven to 350°F, and grease a 9-inch round springform pan.</p>
-<p>When the citrus is cool, cut the lemon in half, and scoop out and discard the pulp and seeds. Cut the orange in half, and discard the seeds. Put the lemon rind and orange halves in the food processor – there’s no need to wash it after grinding the almonds – and process to chop finely, almost to a coarse paste.</p>
-<p>In a small bowl, whisk together the flour and baking powder.</p>
-<p>Combine the eggs and salt in a mixing bowl. Beat until foamy. Gradually beat in the sugar. Fold in the flour mixture. Add the citrus, almonds, and olive oil, and beat on low speed to just incorporate. Do not overmix. Pour the batter into the prepared pan, and bake for about 1 hour, or until a toothpick inserted in the center comes out clean. Cool the cake in its pan on a wire rack. Remove the sides of the pan. Before serving, dust the cake with confectioners’ sugar.</p>
-<p>Note: This cake tastes even better on the second &#8211; or even third &#8211; day, as the flavors meld and mellow. Store it at room temperature, covered with plastic wrap.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 8 to 10 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Plum Crumble</h2>
-    <h3 class="subtitle">Adapted from Marion Burros and <a href="http://wednesdaychef.typepad.com/the_wednesday_chef/2007/08/marian-burross-.html">Luisa Weiss</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2009-09-20T21:37:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>The original version of this recipe is hard to improve upon, but I have made a couple of small changes. When I measure the sugar for the topping, I keep it on the scant side, because I like my plums solidly sweet-tart. I also reduced the butter a bit, because it seemed to want to pool in a kind of scary way at the bottom of the pan. Cutting it back even a little seems to help a lot.</p>
-<p>At Delancey, I make this crumble in bigger batches, and it scales up beautifully. If you need to feed a crowd, try tripling the recipe as I’ve written it below, and bake it in a 9”-by-13” dish, as pictured above. Works like a charm.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the plums:</h3>                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. lightly packed brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ Tbsp. all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. ground cinnamon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. ground ginger          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. finely chopped crystallized ginger          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            12 to 14 Italian prune plums, halved and pitted          </div>
-                      <h3>For the topping:</h3>                  <div class="ingredient" itemprop="ingredients">
-            Scant ¾ cup granulated sugar (about 4 to 4 ½ ounces)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. ground cinnamon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 egg, beaten well          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            7 Tbsp. unsalted butter, melted          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Position a rack in the center of your oven, and preheat the oven to 375°F.</p>
-<p>In a medium bowl, whisk together the seasoning for the plums: the brown sugar, flour, cinnamon, ginger, and crystallized ginger. Add the plums, and gently stir to coat. Arrange the plums skin side up in an ungreased deep 9-inch pie plate.</p>
-<p>In another medium bowl, combine the dry ingredients for the topping: the granulated sugar, flour, cinnamon, baking powder, and salt. Whisk to blend well. Add the egg. Using your hands, mix thoroughly, squeezing and tossing and pinching handfuls of the mixture, to produce moist little particles. Sprinkle evenly over the plums.</p>
-<p>Spoon the butter evenly over the topping, and bake for 30 to 35 minutes, until the top is browned and the plums yield easily when pricked with toothpick. Cool.</p>
-<p>Serve crumble warm or at room temperature, with crème fraîche, thick yogurt, or unsweetened whipped cream.</p>
-<p>Note: To reheat leftovers, it’s best to do it slowly, in an oven set to 300 degrees.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 6 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Sweet Potato Pound Cake</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/Southern-Cakes-Irresistible-Everyday-Celebrations/dp/0811853705/ref=sr_1_1?ie=UTF8&s=books&qid=1236042116&sr=1-1">Southern Cakes</a></i>, by Nancie McDermott</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2009-03-03T01:51:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I was introduced to this cake by my friend Shari, who co-curates the inspiring site <a href="http://thisjoyride.wordpress.com/">this joy+ride</a>. (That’s me in the current issue, #12. Thank you, sweet Shari.) She not only gave me the cookbook that contains this recipe, but she also posted <a href="http://www.flickr.com/photos/86831821@N00/3305952919/">an enticing photo</a> of it on Flickr the other day. She has never led me astray in anything, so I took the hint. I immediately flipped on the oven and pulled some butter out of the fridge, and I suggest that you do the same.</p>
-<p>This cake is perfect for late winter: moist, fragrant, warmly spiced, with a flavor a little bit like – and I mean this in a very good way – a spice doughnut. Or maybe an applesauce doughnut. In short, I am going to be making it for a long, long time. You can roast, peel, and mash the sweet potatoes ahead of time, and from there, the cake comes together fairly quickly and easily. The recipe comes with an optional buttermilk glaze, which I used and liked very much, but you could go either way. The glaze is mainly for added flavor and moisture: in my experience, it isn’t one of those types that sits prettily atop the cake, but rather soaks in like a syrup. The overall effect was dangerous. I think I ate about five slices on Saturday. Consider that a warning.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the cake:</h3>                  <div class="ingredient" itemprop="ingredients">
-            3 ¼ cups all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. freshly ground nutmeg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup milk (low-fat is okay)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 oz. (2 sticks) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup light brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups mashed cooked sweet potatoes          </div>
-                      <h3>For the buttermilk glaze (optional):</h3>                  <div class="ingredient" itemprop="ingredients">
-            ½ cup buttermilk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 Tbsp. (½ stick) unsalted butter, cubed          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ tsp. cornstarch or flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F. Grease and flour a 10-inch tube or Bundt pan. (If your pan is nonstick, you can get away with just some cooking spray; no need to flour.)</p>
-<p>In a medium bowl, combine the flour, baking powder, baking soda, nutmeg, and salt. Whisk well. In a small bowl or measuring cup, combine the milk and vanilla.</p>
-<p>In a large bowl, beat the butter, sugar, and light brown sugar until light and fluffy, stopping once or twice to scrape down the sides of the bowl. Add the eggs one at a time, beating well after each addition. Add the sweet potatoes, and mix until the batter is combined. (The batter may look terrible at this point: curdled, weird, terrible. Don’t worry.) With the mixer on low speed, add half of the flour mixture. Beat to just incorporate. Then add half of the milk mixture, and continue to beat on low until well blended. Add the remaining flour, followed by the remaining milk, and beat on low until the batter is thick and smooth.</p>
-<p>Scrape the batter into the prepared pan, and bake for 60 to 75 minutes, or until the cake springs back when pressed lightly and a toothpick inserted in the center comes out clean. Cool the cake in the pan on a wire rack for 20 minutes. Run a thin knife around the edge to loosen the cake, and then carefully invert it onto the rack.</p>
-<p>Meanwhile, make the glaze, if using. In a medium saucepan, combine the buttermilk, sugar, butter, cornstarch, and baking soda. Place it over medium heat, and bring it just to a gentle boil. Immediately remove it from the heat, stir well, and set it aside to cool to room temperature. Add the vanilla, and stir well.</p>
-<p>Set the wire rack &#8211; with the cake atop it &#8211; over a rimmed sheet pan. Spoon the glaze through a fine-mesh sieve over the warm cake. (I recommend using a sieve because my batch of glaze had some little gelatinous bits of clumped cornstarch in it.)</p>
-<p>Cool completely before serving.</p>
-    </div>
-  
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Real Danish Butter Cookies</h2>
-    <h3 class="subtitle">Adapted from Gourmet, December 2008</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2008-12-09T06:05:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>These would be really, really wonderful with a cup of tea. If you plan to give them as gifts, be sure to package them carefully, since they’re so delicate.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            4 cups all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 lb. unsalted Lurpak butter, at room temperature for 1 hour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup granulated sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large egg, beaten          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 to 4 Tbsp. sanding or other coarse-grain sugar, such as Turbinado          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Set racks in the upper and lower thirds of the oven, and preheat to 325°F. Line 2 large baking sheets with parchment.</p>
-<p>In a medium bowl, whisk together the flour and baking soda.</p>
-<p>In the bowl of a stand mixer fitted with the paddle attachment, beat the butter until fluffy. Then add the sugar and beat briefly to combine. Add the flour mixture, and beat on low speed until just combined. (Unless you have a plastic guard that sits around the rim of the bowl, this will make a big mess at first, with flour flying everywhere. I found that carefully holding a dish towel around the top of the bowl helped a lot.) The dough will appear crumbly, but if you squeeze a bit in your hand, it will cohere. Divide the dough in half.</p>
-<p>Roll each half between large sheets of plastic wrap into a rectangle approximately 10 by 15 inches, about 1/8 inch thick. Transfer, still in plastic wrap, to a baking sheet, and refrigerate until firm, about 30 minutes. Then remove the top layer of plastic wrap and cut into<br />
-2-by-1 ½-inch rectangles. (I tried this with some of my dough, but I found that the finished, baked cookies were a little larger than I wanted, so I wound up cutting next batch of rectangles in half, and I liked that size better. You might want to play around and decide for yourself.) Arrange the rectangles 1 inch apart on the prepared baking sheets. If the dough becomes too soft, chill or freeze until it is again firm enough to handle.</p>
-<p>Brush the tops of the cookies very lightly with the beaten egg, and then sprinkle with sanding sugar. Bake the cookies, 2 sheets at a time, switching positions of the pans halfway through baking, until they are very pale golden, 12 to 15 minutes. Cool on the baking sheets for 5 minutes; then carefully slide the cookies, still on the parchment, onto wire racks. Cool completely. Make more cookies with the remaining dough, baking on cooled, freshly lined baking sheets. Reroll scraps once.</p>
-<p><em>Note</em>: Cookies will keep at room temperature for up to a week. Because I don’t plan to give mine away to friends for a week or two, I froze mine, and I’ll bet they’d be just fine that for a month or two, easy.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 9 dozen cookies</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Banana Cake with Coconut-Cream Cheese Frosting</h2>
-    <h3 class="subtitle">Adapted from <i>Gourmet</i>, December 2005</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2006-10-10T05:52:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/baking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>This cake is a cinch to make — perfect for a weeknight dinner with friends or a lazy weekend treat. The original recipe calls for bananas that are “well mashed,” but I almost always prefer to purée mine. A little zizz in the blender or food processor makes them smooth, airy, and blissfully free of lumps, and that, in my opinion, makes for a better, more consistent crumb. For this recipe, I found that about 2 medium very ripe bananas yielded ¾ cup purée.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the cake:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 stick (4 oz.) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups unbleached all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ tsp baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup packed light brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large egg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup puréed very ripe bananas          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup sour cream          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp pure vanilla extract          </div>
-                      <h3>For the frosting:</h3>                  <div class="ingredient" itemprop="ingredients">
-            3 oz cream cheese, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 Tbs unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup confectioners sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 Tbs well-stirred canned cream of coconut (I used Coco Lopez brand); not coconut milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp dark rum          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup sweetened flaked coconut          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Place a rack in the middle of the oven, and preheat the oven to 350 degrees Fahrenheit. Lightly butter or spray a 9-inch round cake pan (I used a springform pan), and dust it with flour, shaking out any excess.</p>
-<p>In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.</p>
-<p>In the bowl of stand mixer, or in a large mixing bowl, beat the butter and brown sugar on high speed until pale and fluffy, stopping to scrape down the sides of the bowl with a rubber spatula as necessary. Add the egg, and beat until well combined. Add the banana purée, sour cream, and vanilla, and beat to combine well. Reduce the speed to low, and add the flour mixture, mixing until just combined. Do not overmix. (I found that it was best to beat in the flour only a little, and to finish mixing it by hand, with a rubber spatula.)</p>
-<p>Spread the batter in the prepared cake pan, and bake until the top is pale golden and a toothpick inserted in the center comes out clean, about 20-27 minutes.</p>
-<p>Cool the cake in the pan on a rack for 10 minutes. Run a thin knife around the edge of the pan; then invert the rack over the cake and invert the cake onto the rack to cool completely. (Alternatively, if you are using a springform pan, simply remove the sides and leave the cake on the rack to cool.)</p>
-<p>While the cake cools, make the frosting. In a medium bowl, beat together the cream cheese and the butter on medium speed until smooth. Reduce the speed to low; then add the confectioners sugar, cream of coconut, and rum. Mix until combined; then increase the speed to high and beat until light and fluffy, about two minutes.</p>
-<p>Spread over the top of the thoroughly cooled cake, and sprinkle evenly with coconut.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: About 8 servings, or fewer, if your name is Molly</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

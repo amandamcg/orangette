@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/nibbler/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This recipe in its original form calls for dipping the bread in butter. On both sides. I tried it, and the bread got so saturated that it sort of terrified me. There was a LOT of butter in that little piece of bread. I found that brushing on the butter is a more moderate, palatable approach, and it still works very well. Either way, you’re going to use quite a bit of butter, and please don’t freak out about that. If it helps, keep reminding yourself that this is not breakfast; this is a cookie. Make it your mantra.</p>
 <p>Also, the original version of the recipe calls specifically for Pepperidge Farm white bread. My grocery store didn’t have any, so I used Franz brand “Milk and Honey” bread instead. Whatever brand you use, make sure that it’s not too squishy and spongy. The quantities of butter and cinnamon sugar listed below should be pretty close to perfect for six slices of sandwich bread, but if you have extra butter or sugar, just use more bread.</p>

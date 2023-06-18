@@ -4,13 +4,13 @@
   <meta charset="utf-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <script src="https://cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
   <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
 
-    <link rel="shortcut icon" href="wp-content/themes/orangette/assets/icons/favicon.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
-  <link rel="mask-icon" href="wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
-  <link rel="manifest" href="wp-content/themes/orangette/assets/icons/manifest.json">
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
   <meta name="apple-mobile-web-app-title" content="Orangette">
   <meta name="application-name" content="Orangette">
   <meta name="msapplication-TileColor" content="#da532c">
@@ -42,11 +42,11 @@
 	<meta name="twitter:data1" content="Molly" />
 	<meta name="twitter:label2" content="Est. reading time" />
 	<meta name="twitter:data2" content="3 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://orangette.net/#website","url":"https://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"http://orangette.net/2017/11/100-birthday-worthy/#primaryimage","inLanguage":"en-US","url":"https://orangette.net/wp-content/uploads/2017/09/F7A6815.jpg","contentUrl":"https://orangette.net/wp-content/uploads/2017/09/F7A6815.jpg","width":1125,"height":750},{"@type":"WebPage","@id":"http://orangette.net/2017/11/100-birthday-worthy/#webpage","url":"http://orangette.net/2017/11/100-birthday-worthy/","name":"100% birthday-worthy | Orangette","isPartOf":{"@id":"https://orangette.net/#website"},"primaryImageOfPage":{"@id":"http://orangette.net/2017/11/100-birthday-worthy/#primaryimage"},"datePublished":"2017-11-06T05:28:33+00:00","dateModified":"2017-11-06T05:45:40+00:00","author":{"@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"http://orangette.net/2017/11/100-birthday-worthy/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://orangette.net/2017/11/100-birthday-worthy/"]}]},{"@type":"BreadcrumbList","@id":"http://orangette.net/2017/11/100-birthday-worthy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://orangette.net/"},{"@type":"ListItem","position":2,"name":"100% birthday-worthy"}]},{"@type":"Person","@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://orangette.net/#website","url":"http://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"http://orangette.net/2017/11/100-birthday-worthy/#primaryimage","inLanguage":"en-US","url":"https://orangette.net/wp-content/uploads/2017/09/F7A6815.jpg","contentUrl":"https://orangette.net/wp-content/uploads/2017/09/F7A6815.jpg","width":1125,"height":750},{"@type":"WebPage","@id":"http://orangette.net/2017/11/100-birthday-worthy/#webpage","url":"http://orangette.net/2017/11/100-birthday-worthy/","name":"100% birthday-worthy | Orangette","isPartOf":{"@id":"http://orangette.net/#website"},"primaryImageOfPage":{"@id":"http://orangette.net/2017/11/100-birthday-worthy/#primaryimage"},"datePublished":"2017-11-06T05:28:33+00:00","dateModified":"2017-11-06T05:45:40+00:00","author":{"@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"http://orangette.net/2017/11/100-birthday-worthy/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://orangette.net/2017/11/100-birthday-worthy/"]}]},{"@type":"BreadcrumbList","@id":"http://orangette.net/2017/11/100-birthday-worthy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"http://orangette.net/"},{"@type":"ListItem","position":2,"name":"100% birthday-worthy"}]},{"@type":"Person","@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; 100% birthday-worthy Comments Feed" href="2017/11/100-birthday-worthy/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; 100% birthday-worthy Comments Feed" href="https://orangette.net/2017/11/100-birthday-worthy/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
 /*! This file is auto-generated */
@@ -66,24 +66,24 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('index.html?p=9927');--wp--preset--duotone--grayscale: url('index.html?p=9927');--wp--preset--duotone--purple-yellow: url('index.html?p=9927');--wp--preset--duotone--blue-red: url('index.html?p=9927');--wp--preset--duotone--midnight: url('index.html?p=9927');--wp--preset--duotone--magenta-yellow: url('index.html?p=9927');--wp--preset--duotone--purple-green: url('index.html?p=9927');--wp--preset--duotone--blue-orange: url('index.html?p=9927');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='stcr-font-awesome-css' href='wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='sage/css-css' href='wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/posts/9927" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="alternate" type="application/json" href="https://orangette.net/wp-json/wp/v2/posts/9927" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.2.2" />
-<link rel='shortlink' href='index.html?p=9927' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Forangette.net%252F2017%252F11%252F100-birthday-worthy%252F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Forangette.net%252F2017%252F11%252F100-birthday-worthy%252F&amp;format=xml" />
+<link rel='shortlink' href='https://orangette.net/?p=9927' />
+<link rel="alternate" type="application/json+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2017%2F11%2F100-birthday-worthy%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2017%2F11%2F100-birthday-worthy%2F&#038;format=xml" />
   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
 </head>
   <body class="post-template-default single single-post postid-9927 single-format-standard 100-birthday-worthy sidebar-primary">
@@ -92,26 +92,26 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
     <![endif]-->
     <nav class="off-canvas-nav">
-  <a class="nav-logo" href="index.html"><img src="wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
-  <form role="search" method="get" class="search-form" action="index.html">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+  <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
 </form>
-  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
 </ul></div></nav>
     <div class="container" id="top">
       <header class="page-header" role="banner">
   <h1 class="header--title">
-    <a href="index.html">
-      <img class="title--mobile" src="wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
-      <img class="title--large" src="wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
     </a>
   </h1>
   <button class="search-toggle icon-search2" data-behavior="open-search"></button>
@@ -126,18 +126,18 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <time class="updated" datetime="2017-11-06T05:28:33+00:00">Monday, November 6, 2017</time>
     </div>
     <h1 class="title" >
-      <a href="index.html?p=9927">100% birthday-worthy</a>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/">100% birthday-worthy</a>
     </h1>
   </header>
   <div class="post-content" itemprop="articleBody">
     <p>In mid-September, I got out my digital camera for the first time in a geologic age. I&#8217;d tried a new-to-me recipe, and it turned out so well that I wanted immediately to rush to Ye Olde Ancient Blog and write it up. So I took the pictures. And then I spent approximately six weeks sitting around on them, perhaps confusing them with an egg and myself with a laying hen. Now here we are! Aged like a fine egg, as the saying goes.</p>
-<p><img decoding="async" width="662" height="441" class="alignnone size-medium wp-image-9932" src="http://orangette.net/wp-content/uploads/2017/09/F7A6815-662x441.jpg" alt="" srcset="wp-content/uploads/2017/09/F7A6815-662x441.jpg 662w, wp-content/uploads/2017/09/F7A6815-768x512.jpg 768w, wp-content/uploads/2017/09/F7A6815-870x580.jpg 870w, wp-content/uploads/2017/09/F7A6815.jpg 1125w" sizes="(max-width: 662px) 100vw, 662px" /></p>
+<p><img decoding="async" width="662" height="441" class="alignnone size-medium wp-image-9932" src="http://orangette.net/wp-content/uploads/2017/09/F7A6815-662x441.jpg" alt="" srcset="https://orangette.net/wp-content/uploads/2017/09/F7A6815-662x441.jpg 662w, https://orangette.net/wp-content/uploads/2017/09/F7A6815-768x512.jpg 768w, https://orangette.net/wp-content/uploads/2017/09/F7A6815-870x580.jpg 870w, https://orangette.net/wp-content/uploads/2017/09/F7A6815.jpg 1125w" sizes="(max-width: 662px) 100vw, 662px" /></p>
 <p>You might have heard of this recipe. It deserves to be heard of. David Lebovitz wrote about it back in 2015, and Shauna Sever in 2016, and who knows who else. Now&#8217;s my turn, because somehow I didn&#8217;t catch those posts back in 2015 and 2016, and it took me until late 2017 to join the party, and I won&#8217;t let that to happen to anyone else. The recipe I&#8217;m talking about is a blondie from <a href="http://amzn.to/2xYVLdM" target="_blank" rel="noopener"><em>The Violet Bakery Cookbook</em></a>, by Claire Ptak, a Californian transplant to London and owner of east London&#8217;s Violet Bakery. I&#8217;d heard of <a href="http://www.violetcakes.com/" target="_blank" rel="noopener">Violet</a> here and there, and I&#8217;ve always wanted to visit. Instead, I have the cookbook.</p>
-<p><img decoding="async" loading="lazy" width="662" height="441" class="alignnone size-medium wp-image-9931" src="http://orangette.net/wp-content/uploads/2017/09/F7A6807-662x441.jpg" alt="" srcset="wp-content/uploads/2017/09/F7A6807-662x441.jpg 662w, wp-content/uploads/2017/09/F7A6807-768x512.jpg 768w, wp-content/uploads/2017/09/F7A6807-870x580.jpg 870w, wp-content/uploads/2017/09/F7A6807.jpg 1125w" sizes="(max-width: 662px) 100vw, 662px" /></p>
+<p><img decoding="async" loading="lazy" width="662" height="441" class="alignnone size-medium wp-image-9931" src="http://orangette.net/wp-content/uploads/2017/09/F7A6807-662x441.jpg" alt="" srcset="https://orangette.net/wp-content/uploads/2017/09/F7A6807-662x441.jpg 662w, https://orangette.net/wp-content/uploads/2017/09/F7A6807-768x512.jpg 768w, https://orangette.net/wp-content/uploads/2017/09/F7A6807-870x580.jpg 870w, https://orangette.net/wp-content/uploads/2017/09/F7A6807.jpg 1125w" sizes="(max-width: 662px) 100vw, 662px" /></p>
 <p>Behold the Violet Butterscotch Blondie, a very special specimen of the genre: a rich brown sugar batter, freckled with chocolate and topped with bits of homemade caramel that you&#8217;ve cooled and broken into glass-like shards. I use the word &#8220;glass&#8221; with intention: I accidentally stabbed a fingertip and drew blood. It was worth it.</p>
-<p><img decoding="async" loading="lazy" class="alignnone wp-image-9937 size-medium" src="http://orangette.net/wp-content/uploads/2017/11/F7A6828-662x441.jpg" alt="" width="662" height="441" srcset="wp-content/uploads/2017/11/F7A6828-662x441.jpg 662w, wp-content/uploads/2017/11/F7A6828-768x512.jpg 768w, wp-content/uploads/2017/11/F7A6828-870x580.jpg 870w, wp-content/uploads/2017/11/F7A6828.jpg 1125w" sizes="(max-width: 662px) 100vw, 662px" /></p>
+<p><img decoding="async" loading="lazy" class="alignnone wp-image-9937 size-medium" src="http://orangette.net/wp-content/uploads/2017/11/F7A6828-662x441.jpg" alt="" width="662" height="441" srcset="https://orangette.net/wp-content/uploads/2017/11/F7A6828-662x441.jpg 662w, https://orangette.net/wp-content/uploads/2017/11/F7A6828-768x512.jpg 768w, https://orangette.net/wp-content/uploads/2017/11/F7A6828-870x580.jpg 870w, https://orangette.net/wp-content/uploads/2017/11/F7A6828.jpg 1125w" sizes="(max-width: 662px) 100vw, 662px" /></p>
 <p>If these blondies seem too fiddly for everyday baking, maybe they are. You do have to make a caramel, albeit the most basic and quick of caramels. But a single batch of the caramel makes enough shards for <em>two</em> pans of blondies. I stashed my extra caramel glass in a plastic baggie in the freezer door. And then making a second batch of blondies &#8211; which I did not long after I&#8217;d made the first &#8211; was no more work than a standard chocolate chip cookie recipe. You don&#8217;t even have to remember to bring butter to room temperature, because you&#8217;re going to melt the butter anyway. The batter comes together without even a mixer, just a couple of bowls and a spoon. In the oven, it sets to a fudgy-brownie kind of texture: soft and dense, substantial enough to cut into tidy pieces, but still with a fine degree of squish. And the caramel melts and sinks, settling into pools of concentrated butterscotch flavor, some of them chewy as candy.</p>
-<p><img decoding="async" loading="lazy" class="alignnone wp-image-9930 size-medium" src="http://orangette.net/wp-content/uploads/2017/09/F7A6796-662x441.jpg" alt="" width="662" height="441" srcset="wp-content/uploads/2017/09/F7A6796-662x441.jpg 662w, wp-content/uploads/2017/09/F7A6796-768x512.jpg 768w, wp-content/uploads/2017/09/F7A6796-870x580.jpg 870w, wp-content/uploads/2017/09/F7A6796.jpg 1125w" sizes="(max-width: 662px) 100vw, 662px" /></p>
+<p><img decoding="async" loading="lazy" class="alignnone wp-image-9930 size-medium" src="http://orangette.net/wp-content/uploads/2017/09/F7A6796-662x441.jpg" alt="" width="662" height="441" srcset="https://orangette.net/wp-content/uploads/2017/09/F7A6796-662x441.jpg 662w, https://orangette.net/wp-content/uploads/2017/09/F7A6796-768x512.jpg 768w, https://orangette.net/wp-content/uploads/2017/09/F7A6796-870x580.jpg 870w, https://orangette.net/wp-content/uploads/2017/09/F7A6796.jpg 1125w" sizes="(max-width: 662px) 100vw, 662px" /></p>
 <p>For those of you who follow me on <a href="https://www.instagram.com/mollyorangette/" target="_blank" rel="noopener">Instagram</a>, or who follow my partner Ash, these are the blondies she posted a photo of.  I baked them for her birthday, and I know a number of you asked about them. Thank you for waiting. They are 100% birthday-worthy. They&#8217;re 100% repertoire-worthy. I always make handwritten notes in my cookbooks &#8211; what I changed, what I added or omitted, what to watch for, that kind of thing &#8211; and on this recipe, I wrote only <em>PERFECT.</em></p>
 <p>P.S. Speaking of perfect, <a href="http://cupofjo.com/2017/11/mari-andrew-self-care/" target="_blank" rel="noopener">this</a> is quietly brilliant.</p>
 
@@ -154,7 +154,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="2017/11/100-birthday-worthy/index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2017/11/100-birthday-worthy/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original version of the recipe calls for milk chocolate. I used 55%, which is technically semisweet, but it&#8217;s what I had. I liked it a lot. And as always, the kosher salt I use is Diamond Crystal brand.</p>
   </div>
@@ -207,7 +207,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="2017/11/100-birthday-worthy/index.html?print_recipe=2" class="print icon-print"></a>
+      <a href="/2017/11/100-birthday-worthy/?print_recipe=2" class="print icon-print"></a>
     </nav>
     <p>I&#8217;ve only ever used this caramel in the Violet Butterscotch Blondie, but Ptak says you could add the shards to almost any cake, cookie, or bar &#8211; and certainly to brownies. Leftovers can be kept in a plastic container or bag in the freezer for up to three months.</p>
   </div>
@@ -240,17 +240,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
               <div class="tag-list">
         <h4 class="label">Filed under:</h4>
         <ul>
-                        <li><a href="tag/baking/index.html">baking</a></li>
-                        <li><a href="tag/blondies/index.html">blondies</a></li>
-                        <li><a href="ingredient/brown-sugar/index.html">brown sugar</a></li>
-                        <li><a href="ingredient/butter/index.html">butter</a></li>
-                        <li><a href="ingredient/chocolate/index.html">chocolate</a></li>
-                        <li><a href="tag/food-that-looks-like-aerial-photos-of-the-desert/index.html">food that looks like aerial photos of the desert</a></li>
-                        <li><a href="tag/repertoire/index.html">repertoire</a></li>
+                        <li><a href="https://orangette.net/tag/baking/">baking</a></li>
+                        <li><a href="https://orangette.net/tag/blondies/">blondies</a></li>
+                        <li><a href="https://orangette.net/ingredient/brown-sugar/">brown sugar</a></li>
+                        <li><a href="https://orangette.net/ingredient/butter/">butter</a></li>
+                        <li><a href="https://orangette.net/ingredient/chocolate/">chocolate</a></li>
+                        <li><a href="https://orangette.net/tag/food-that-looks-like-aerial-photos-of-the-desert/">food that looks like aerial photos of the desert</a></li>
+                        <li><a href="https://orangette.net/tag/repertoire/">repertoire</a></li>
                   </ul>
       </div>
               <nav class="navigation post-navigation left-nav" role="navigation">
-        <div class="left"><a href="index.html?p=9880" rel="prev">June 30</a></div>        <div class="right"><a href="index.html?p=9969" rel="next">November 28</a></div>      </nav>
+        <div class="left"><a href="https://orangette.net/2017/07/june-30/" rel="prev">June 30</a></div>        <div class="right"><a href="https://orangette.net/2018/11/november-28/" rel="next">November 28</a></div>      </nav>
       
 <section id="comments" class="comment-area">
       <h2 class="comment-area--title">Comments</h2>
@@ -259,7 +259,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         <li id="comment-67644" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Allyn</cite></div>
-      <a href="index.html?p=9927#comment-67644"><time class="comment-time" datetime="2017-11-06T09:55:46-05:00">Monday, November 6, 2017 at 9:55 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67644"><time class="comment-time" datetime="2017-11-06T09:55:46-05:00">Monday, November 6, 2017 at 9:55 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -267,12 +267,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67644' data-commentid="67644" data-postid="9927" data-belowelement="comment-67644" data-respondelement="respond" data-replyto="Reply to Allyn" aria-label='Reply to Allyn'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67644' data-commentid="67644" data-postid="9927" data-belowelement="comment-67644" data-respondelement="respond" data-replyto="Reply to Allyn" aria-label='Reply to Allyn'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67645" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">tessa</cite></div>
-      <a href="index.html?p=9927#comment-67645"><time class="comment-time" datetime="2017-11-06T11:22:14-05:00">Monday, November 6, 2017 at 11:22 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67645"><time class="comment-time" datetime="2017-11-06T11:22:14-05:00">Monday, November 6, 2017 at 11:22 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -281,12 +281,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67645' data-commentid="67645" data-postid="9927" data-belowelement="comment-67645" data-respondelement="respond" data-replyto="Reply to tessa" aria-label='Reply to tessa'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67645' data-commentid="67645" data-postid="9927" data-belowelement="comment-67645" data-respondelement="respond" data-replyto="Reply to tessa" aria-label='Reply to tessa'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67647" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=9927#comment-67647"><time class="comment-time" datetime="2017-11-06T12:21:23-05:00">Monday, November 6, 2017 at 12:21 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67647"><time class="comment-time" datetime="2017-11-06T12:21:23-05:00">Monday, November 6, 2017 at 12:21 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -294,12 +294,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67647' data-commentid="67647" data-postid="9927" data-belowelement="comment-67647" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67647' data-commentid="67647" data-postid="9927" data-belowelement="comment-67647" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67650" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.lindenandlavender.com" class="url" rel="ugc external nofollow">Shauna | Linden &amp; Lavender</a></cite></div>
-      <a href="index.html?p=9927#comment-67650"><time class="comment-time" datetime="2017-11-06T13:12:54-05:00">Monday, November 6, 2017 at 1:12 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67650"><time class="comment-time" datetime="2017-11-06T13:12:54-05:00">Monday, November 6, 2017 at 1:12 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -307,12 +307,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67650' data-commentid="67650" data-postid="9927" data-belowelement="comment-67650" data-respondelement="respond" data-replyto="Reply to Shauna | Linden &amp; Lavender" aria-label='Reply to Shauna | Linden &amp; Lavender'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67650' data-commentid="67650" data-postid="9927" data-belowelement="comment-67650" data-respondelement="respond" data-replyto="Reply to Shauna | Linden &amp; Lavender" aria-label='Reply to Shauna | Linden &amp; Lavender'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67651" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Andrea Stoeckel</cite></div>
-      <a href="index.html?p=9927#comment-67651"><time class="comment-time" datetime="2017-11-06T13:29:36-05:00">Monday, November 6, 2017 at 1:29 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67651"><time class="comment-time" datetime="2017-11-06T13:29:36-05:00">Monday, November 6, 2017 at 1:29 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -320,12 +320,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67651' data-commentid="67651" data-postid="9927" data-belowelement="comment-67651" data-respondelement="respond" data-replyto="Reply to Andrea Stoeckel" aria-label='Reply to Andrea Stoeckel'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67651' data-commentid="67651" data-postid="9927" data-belowelement="comment-67651" data-respondelement="respond" data-replyto="Reply to Andrea Stoeckel" aria-label='Reply to Andrea Stoeckel'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67652" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.ittybittyyiddies.net" class="url" rel="ugc external nofollow">Emma</a></cite></div>
-      <a href="index.html?p=9927#comment-67652"><time class="comment-time" datetime="2017-11-06T14:00:02-05:00">Monday, November 6, 2017 at 2:00 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67652"><time class="comment-time" datetime="2017-11-06T14:00:02-05:00">Monday, November 6, 2017 at 2:00 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -333,12 +333,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67652' data-commentid="67652" data-postid="9927" data-belowelement="comment-67652" data-respondelement="respond" data-replyto="Reply to Emma" aria-label='Reply to Emma'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67652' data-commentid="67652" data-postid="9927" data-belowelement="comment-67652" data-respondelement="respond" data-replyto="Reply to Emma" aria-label='Reply to Emma'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67653" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Nancy Bowers</cite></div>
-      <a href="index.html?p=9927#comment-67653"><time class="comment-time" datetime="2017-11-06T14:24:07-05:00">Monday, November 6, 2017 at 2:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67653"><time class="comment-time" datetime="2017-11-06T14:24:07-05:00">Monday, November 6, 2017 at 2:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -346,12 +346,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67653' data-commentid="67653" data-postid="9927" data-belowelement="comment-67653" data-respondelement="respond" data-replyto="Reply to Nancy Bowers" aria-label='Reply to Nancy Bowers'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67653' data-commentid="67653" data-postid="9927" data-belowelement="comment-67653" data-respondelement="respond" data-replyto="Reply to Nancy Bowers" aria-label='Reply to Nancy Bowers'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67654" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Mimi Findlay</cite></div>
-      <a href="index.html?p=9927#comment-67654"><time class="comment-time" datetime="2017-11-06T15:19:14-05:00">Monday, November 6, 2017 at 3:19 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67654"><time class="comment-time" datetime="2017-11-06T15:19:14-05:00">Monday, November 6, 2017 at 3:19 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -359,12 +359,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67654' data-commentid="67654" data-postid="9927" data-belowelement="comment-67654" data-respondelement="respond" data-replyto="Reply to Mimi Findlay" aria-label='Reply to Mimi Findlay'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67654' data-commentid="67654" data-postid="9927" data-belowelement="comment-67654" data-respondelement="respond" data-replyto="Reply to Mimi Findlay" aria-label='Reply to Mimi Findlay'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67656" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Jill Baldauf</cite></div>
-      <a href="index.html?p=9927#comment-67656"><time class="comment-time" datetime="2017-11-06T18:30:00-05:00">Monday, November 6, 2017 at 6:30 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67656"><time class="comment-time" datetime="2017-11-06T18:30:00-05:00">Monday, November 6, 2017 at 6:30 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -372,12 +372,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67656' data-commentid="67656" data-postid="9927" data-belowelement="comment-67656" data-respondelement="respond" data-replyto="Reply to Jill Baldauf" aria-label='Reply to Jill Baldauf'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67656' data-commentid="67656" data-postid="9927" data-belowelement="comment-67656" data-respondelement="respond" data-replyto="Reply to Jill Baldauf" aria-label='Reply to Jill Baldauf'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67657" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://forcedbloom.wordpress.com/" class="url" rel="ugc external nofollow">Linda Friday</a></cite></div>
-      <a href="index.html?p=9927#comment-67657"><time class="comment-time" datetime="2017-11-06T18:44:56-05:00">Monday, November 6, 2017 at 6:44 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67657"><time class="comment-time" datetime="2017-11-06T18:44:56-05:00">Monday, November 6, 2017 at 6:44 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -385,12 +385,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67657' data-commentid="67657" data-postid="9927" data-belowelement="comment-67657" data-respondelement="respond" data-replyto="Reply to Linda Friday" aria-label='Reply to Linda Friday'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67657' data-commentid="67657" data-postid="9927" data-belowelement="comment-67657" data-respondelement="respond" data-replyto="Reply to Linda Friday" aria-label='Reply to Linda Friday'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67658" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Nancy</cite></div>
-      <a href="index.html?p=9927#comment-67658"><time class="comment-time" datetime="2017-11-06T19:02:02-05:00">Monday, November 6, 2017 at 7:02 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67658"><time class="comment-time" datetime="2017-11-06T19:02:02-05:00">Monday, November 6, 2017 at 7:02 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -398,12 +398,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67658' data-commentid="67658" data-postid="9927" data-belowelement="comment-67658" data-respondelement="respond" data-replyto="Reply to Nancy" aria-label='Reply to Nancy'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67658' data-commentid="67658" data-postid="9927" data-belowelement="comment-67658" data-respondelement="respond" data-replyto="Reply to Nancy" aria-label='Reply to Nancy'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67659" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">wendelah1</cite></div>
-      <a href="index.html?p=9927#comment-67659"><time class="comment-time" datetime="2017-11-06T19:05:51-05:00">Monday, November 6, 2017 at 7:05 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67659"><time class="comment-time" datetime="2017-11-06T19:05:51-05:00">Monday, November 6, 2017 at 7:05 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -411,12 +411,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67659' data-commentid="67659" data-postid="9927" data-belowelement="comment-67659" data-respondelement="respond" data-replyto="Reply to wendelah1" aria-label='Reply to wendelah1'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67659' data-commentid="67659" data-postid="9927" data-belowelement="comment-67659" data-respondelement="respond" data-replyto="Reply to wendelah1" aria-label='Reply to wendelah1'>Reply</a>    </div>
   <ol class="children">
   <li id="comment-67662" class="comment byuser comment-author-molly bypostauthor even depth-2">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://orangette.net" class="url" rel="ugc">Molly</a></cite></div>
-      <a href="index.html?p=9927#comment-67662"><time class="comment-time" datetime="2017-11-07T00:25:27-05:00">Tuesday, November 7, 2017 at 12:25 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67662"><time class="comment-time" datetime="2017-11-07T00:25:27-05:00">Tuesday, November 7, 2017 at 12:25 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -431,7 +431,7 @@ i look forward to making these.</p>
   <li id="comment-67660" class="comment odd alt thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Angie</cite></div>
-      <a href="index.html?p=9927#comment-67660"><time class="comment-time" datetime="2017-11-06T21:57:42-05:00">Monday, November 6, 2017 at 9:57 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67660"><time class="comment-time" datetime="2017-11-06T21:57:42-05:00">Monday, November 6, 2017 at 9:57 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -439,12 +439,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67660' data-commentid="67660" data-postid="9927" data-belowelement="comment-67660" data-respondelement="respond" data-replyto="Reply to Angie" aria-label='Reply to Angie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67660' data-commentid="67660" data-postid="9927" data-belowelement="comment-67660" data-respondelement="respond" data-replyto="Reply to Angie" aria-label='Reply to Angie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67661" class="comment even thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">RITA</cite></div>
-      <a href="index.html?p=9927#comment-67661"><time class="comment-time" datetime="2017-11-07T00:16:57-05:00">Tuesday, November 7, 2017 at 12:16 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67661"><time class="comment-time" datetime="2017-11-07T00:16:57-05:00">Tuesday, November 7, 2017 at 12:16 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -452,12 +452,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67661' data-commentid="67661" data-postid="9927" data-belowelement="comment-67661" data-respondelement="respond" data-replyto="Reply to RITA" aria-label='Reply to RITA'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67661' data-commentid="67661" data-postid="9927" data-belowelement="comment-67661" data-respondelement="respond" data-replyto="Reply to RITA" aria-label='Reply to RITA'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67697" class="comment odd alt thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Sara</cite></div>
-      <a href="index.html?p=9927#comment-67697"><time class="comment-time" datetime="2017-11-07T13:07:46-05:00">Tuesday, November 7, 2017 at 1:07 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67697"><time class="comment-time" datetime="2017-11-07T13:07:46-05:00">Tuesday, November 7, 2017 at 1:07 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -465,12 +465,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67697' data-commentid="67697" data-postid="9927" data-belowelement="comment-67697" data-respondelement="respond" data-replyto="Reply to Sara" aria-label='Reply to Sara'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67697' data-commentid="67697" data-postid="9927" data-belowelement="comment-67697" data-respondelement="respond" data-replyto="Reply to Sara" aria-label='Reply to Sara'>Reply</a>    </div>
   <ol class="children">
   <li id="comment-67698" class="comment byuser comment-author-molly bypostauthor even depth-2">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://orangette.net" class="url" rel="ugc">Molly</a></cite></div>
-      <a href="index.html?p=9927#comment-67698"><time class="comment-time" datetime="2017-11-07T13:54:12-05:00">Tuesday, November 7, 2017 at 1:54 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67698"><time class="comment-time" datetime="2017-11-07T13:54:12-05:00">Tuesday, November 7, 2017 at 1:54 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -485,7 +485,7 @@ i look forward to making these.</p>
   <li id="comment-67704" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Martyd</cite></div>
-      <a href="index.html?p=9927#comment-67704"><time class="comment-time" datetime="2017-11-07T19:55:41-05:00">Tuesday, November 7, 2017 at 7:55 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67704"><time class="comment-time" datetime="2017-11-07T19:55:41-05:00">Tuesday, November 7, 2017 at 7:55 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -493,12 +493,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67704' data-commentid="67704" data-postid="9927" data-belowelement="comment-67704" data-respondelement="respond" data-replyto="Reply to Martyd" aria-label='Reply to Martyd'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67704' data-commentid="67704" data-postid="9927" data-belowelement="comment-67704" data-respondelement="respond" data-replyto="Reply to Martyd" aria-label='Reply to Martyd'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67707" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">brenda marshall</cite></div>
-      <a href="index.html?p=9927#comment-67707"><time class="comment-time" datetime="2017-11-08T01:16:22-05:00">Wednesday, November 8, 2017 at 1:16 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67707"><time class="comment-time" datetime="2017-11-08T01:16:22-05:00">Wednesday, November 8, 2017 at 1:16 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -506,12 +506,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67707' data-commentid="67707" data-postid="9927" data-belowelement="comment-67707" data-respondelement="respond" data-replyto="Reply to brenda marshall" aria-label='Reply to brenda marshall'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67707' data-commentid="67707" data-postid="9927" data-belowelement="comment-67707" data-respondelement="respond" data-replyto="Reply to brenda marshall" aria-label='Reply to brenda marshall'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67711" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Alex Hershey Meyers</cite></div>
-      <a href="index.html?p=9927#comment-67711"><time class="comment-time" datetime="2017-11-08T06:57:12-05:00">Wednesday, November 8, 2017 at 6:57 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67711"><time class="comment-time" datetime="2017-11-08T06:57:12-05:00">Wednesday, November 8, 2017 at 6:57 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -519,12 +519,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67711' data-commentid="67711" data-postid="9927" data-belowelement="comment-67711" data-respondelement="respond" data-replyto="Reply to Alex Hershey Meyers" aria-label='Reply to Alex Hershey Meyers'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67711' data-commentid="67711" data-postid="9927" data-belowelement="comment-67711" data-respondelement="respond" data-replyto="Reply to Alex Hershey Meyers" aria-label='Reply to Alex Hershey Meyers'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67745" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">anne</cite></div>
-      <a href="index.html?p=9927#comment-67745"><time class="comment-time" datetime="2017-11-10T22:40:27-05:00">Friday, November 10, 2017 at 10:40 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67745"><time class="comment-time" datetime="2017-11-10T22:40:27-05:00">Friday, November 10, 2017 at 10:40 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -532,12 +532,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67745' data-commentid="67745" data-postid="9927" data-belowelement="comment-67745" data-respondelement="respond" data-replyto="Reply to anne" aria-label='Reply to anne'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67745' data-commentid="67745" data-postid="9927" data-belowelement="comment-67745" data-respondelement="respond" data-replyto="Reply to anne" aria-label='Reply to anne'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67754" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Liz</cite></div>
-      <a href="index.html?p=9927#comment-67754"><time class="comment-time" datetime="2017-11-11T12:15:07-05:00">Saturday, November 11, 2017 at 12:15 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67754"><time class="comment-time" datetime="2017-11-11T12:15:07-05:00">Saturday, November 11, 2017 at 12:15 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -545,12 +545,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67754' data-commentid="67754" data-postid="9927" data-belowelement="comment-67754" data-respondelement="respond" data-replyto="Reply to Liz" aria-label='Reply to Liz'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67754' data-commentid="67754" data-postid="9927" data-belowelement="comment-67754" data-respondelement="respond" data-replyto="Reply to Liz" aria-label='Reply to Liz'>Reply</a>    </div>
   <ol class="children">
   <li id="comment-67771" class="comment byuser comment-author-molly bypostauthor even depth-2">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://orangette.net" class="url" rel="ugc">Molly</a></cite></div>
-      <a href="index.html?p=9927#comment-67771"><time class="comment-time" datetime="2017-11-12T22:32:25-05:00">Sunday, November 12, 2017 at 10:32 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67771"><time class="comment-time" datetime="2017-11-12T22:32:25-05:00">Sunday, November 12, 2017 at 10:32 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -565,7 +565,7 @@ i look forward to making these.</p>
   <li id="comment-67757" class="comment odd alt thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Lynda Engle</cite></div>
-      <a href="index.html?p=9927#comment-67757"><time class="comment-time" datetime="2017-11-11T17:09:57-05:00">Saturday, November 11, 2017 at 5:09 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67757"><time class="comment-time" datetime="2017-11-11T17:09:57-05:00">Saturday, November 11, 2017 at 5:09 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -573,12 +573,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67757' data-commentid="67757" data-postid="9927" data-belowelement="comment-67757" data-respondelement="respond" data-replyto="Reply to Lynda Engle" aria-label='Reply to Lynda Engle'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67757' data-commentid="67757" data-postid="9927" data-belowelement="comment-67757" data-respondelement="respond" data-replyto="Reply to Lynda Engle" aria-label='Reply to Lynda Engle'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67760" class="comment even thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Victoria</cite></div>
-      <a href="index.html?p=9927#comment-67760"><time class="comment-time" datetime="2017-11-12T01:33:08-05:00">Sunday, November 12, 2017 at 1:33 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67760"><time class="comment-time" datetime="2017-11-12T01:33:08-05:00">Sunday, November 12, 2017 at 1:33 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -586,12 +586,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67760' data-commentid="67760" data-postid="9927" data-belowelement="comment-67760" data-respondelement="respond" data-replyto="Reply to Victoria" aria-label='Reply to Victoria'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67760' data-commentid="67760" data-postid="9927" data-belowelement="comment-67760" data-respondelement="respond" data-replyto="Reply to Victoria" aria-label='Reply to Victoria'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67761" class="comment odd alt thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Victoria</cite></div>
-      <a href="index.html?p=9927#comment-67761"><time class="comment-time" datetime="2017-11-12T01:45:36-05:00">Sunday, November 12, 2017 at 1:45 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67761"><time class="comment-time" datetime="2017-11-12T01:45:36-05:00">Sunday, November 12, 2017 at 1:45 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -599,12 +599,12 @@ i look forward to making these.</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67761' data-commentid="67761" data-postid="9927" data-belowelement="comment-67761" data-respondelement="respond" data-replyto="Reply to Victoria" aria-label='Reply to Victoria'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67761' data-commentid="67761" data-postid="9927" data-belowelement="comment-67761" data-respondelement="respond" data-replyto="Reply to Victoria" aria-label='Reply to Victoria'>Reply</a>    </div>
   <ol class="children">
   <li id="comment-67928" class="comment even depth-2">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://urbanfoodlover.wordpress.com/" class="url" rel="ugc external nofollow">Adity</a></cite></div>
-      <a href="index.html?p=9927#comment-67928"><time class="comment-time" datetime="2017-11-26T18:08:21-05:00">Sunday, November 26, 2017 at 6:08 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67928"><time class="comment-time" datetime="2017-11-26T18:08:21-05:00">Sunday, November 26, 2017 at 6:08 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -619,7 +619,7 @@ i look forward to making these.</p>
   <li id="comment-67762" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Victoria</cite></div>
-      <a href="index.html?p=9927#comment-67762"><time class="comment-time" datetime="2017-11-12T01:52:31-05:00">Sunday, November 12, 2017 at 1:52 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67762"><time class="comment-time" datetime="2017-11-12T01:52:31-05:00">Sunday, November 12, 2017 at 1:52 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -628,12 +628,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67762' data-commentid="67762" data-postid="9927" data-belowelement="comment-67762" data-respondelement="respond" data-replyto="Reply to Victoria" aria-label='Reply to Victoria'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67762' data-commentid="67762" data-postid="9927" data-belowelement="comment-67762" data-respondelement="respond" data-replyto="Reply to Victoria" aria-label='Reply to Victoria'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67772" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Tanya</cite></div>
-      <a href="index.html?p=9927#comment-67772"><time class="comment-time" datetime="2017-11-13T00:47:16-05:00">Monday, November 13, 2017 at 12:47 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67772"><time class="comment-time" datetime="2017-11-13T00:47:16-05:00">Monday, November 13, 2017 at 12:47 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -641,12 +641,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67772' data-commentid="67772" data-postid="9927" data-belowelement="comment-67772" data-respondelement="respond" data-replyto="Reply to Tanya" aria-label='Reply to Tanya'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67772' data-commentid="67772" data-postid="9927" data-belowelement="comment-67772" data-respondelement="respond" data-replyto="Reply to Tanya" aria-label='Reply to Tanya'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67777" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://ganching.typepad.com" class="url" rel="ugc external nofollow">ganching</a></cite></div>
-      <a href="index.html?p=9927#comment-67777"><time class="comment-time" datetime="2017-11-14T03:48:59-05:00">Tuesday, November 14, 2017 at 3:48 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67777"><time class="comment-time" datetime="2017-11-14T03:48:59-05:00">Tuesday, November 14, 2017 at 3:48 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -654,12 +654,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67777' data-commentid="67777" data-postid="9927" data-belowelement="comment-67777" data-respondelement="respond" data-replyto="Reply to ganching" aria-label='Reply to ganching'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67777' data-commentid="67777" data-postid="9927" data-belowelement="comment-67777" data-respondelement="respond" data-replyto="Reply to ganching" aria-label='Reply to ganching'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67780" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.culinarydepotinc.com" class="url" rel="ugc external nofollow">Jason</a></cite></div>
-      <a href="index.html?p=9927#comment-67780"><time class="comment-time" datetime="2017-11-14T13:08:20-05:00">Tuesday, November 14, 2017 at 1:08 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67780"><time class="comment-time" datetime="2017-11-14T13:08:20-05:00">Tuesday, November 14, 2017 at 1:08 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -667,12 +667,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67780' data-commentid="67780" data-postid="9927" data-belowelement="comment-67780" data-respondelement="respond" data-replyto="Reply to Jason" aria-label='Reply to Jason'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67780' data-commentid="67780" data-postid="9927" data-belowelement="comment-67780" data-respondelement="respond" data-replyto="Reply to Jason" aria-label='Reply to Jason'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67796" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://shaunasever.com" class="url" rel="ugc external nofollow">Shauna</a></cite></div>
-      <a href="index.html?p=9927#comment-67796"><time class="comment-time" datetime="2017-11-15T15:29:53-05:00">Wednesday, November 15, 2017 at 3:29 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67796"><time class="comment-time" datetime="2017-11-15T15:29:53-05:00">Wednesday, November 15, 2017 at 3:29 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -680,12 +680,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67796' data-commentid="67796" data-postid="9927" data-belowelement="comment-67796" data-respondelement="respond" data-replyto="Reply to Shauna" aria-label='Reply to Shauna'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67796' data-commentid="67796" data-postid="9927" data-belowelement="comment-67796" data-respondelement="respond" data-replyto="Reply to Shauna" aria-label='Reply to Shauna'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67834" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">JB</cite></div>
-      <a href="index.html?p=9927#comment-67834"><time class="comment-time" datetime="2017-11-19T20:37:56-05:00">Sunday, November 19, 2017 at 8:37 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67834"><time class="comment-time" datetime="2017-11-19T20:37:56-05:00">Sunday, November 19, 2017 at 8:37 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -693,12 +693,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67834' data-commentid="67834" data-postid="9927" data-belowelement="comment-67834" data-respondelement="respond" data-replyto="Reply to JB" aria-label='Reply to JB'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67834' data-commentid="67834" data-postid="9927" data-belowelement="comment-67834" data-respondelement="respond" data-replyto="Reply to JB" aria-label='Reply to JB'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67850" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Margie</cite></div>
-      <a href="index.html?p=9927#comment-67850"><time class="comment-time" datetime="2017-11-20T11:59:43-05:00">Monday, November 20, 2017 at 11:59 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67850"><time class="comment-time" datetime="2017-11-20T11:59:43-05:00">Monday, November 20, 2017 at 11:59 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -706,12 +706,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67850' data-commentid="67850" data-postid="9927" data-belowelement="comment-67850" data-respondelement="respond" data-replyto="Reply to Margie" aria-label='Reply to Margie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67850' data-commentid="67850" data-postid="9927" data-belowelement="comment-67850" data-respondelement="respond" data-replyto="Reply to Margie" aria-label='Reply to Margie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67851" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Georgie</cite></div>
-      <a href="index.html?p=9927#comment-67851"><time class="comment-time" datetime="2017-11-20T12:16:37-05:00">Monday, November 20, 2017 at 12:16 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67851"><time class="comment-time" datetime="2017-11-20T12:16:37-05:00">Monday, November 20, 2017 at 12:16 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -719,12 +719,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67851' data-commentid="67851" data-postid="9927" data-belowelement="comment-67851" data-respondelement="respond" data-replyto="Reply to Georgie" aria-label='Reply to Georgie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67851' data-commentid="67851" data-postid="9927" data-belowelement="comment-67851" data-respondelement="respond" data-replyto="Reply to Georgie" aria-label='Reply to Georgie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67965" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://letscookandbefriends.blogspot.com" class="url" rel="ugc external nofollow">Margarita</a></cite></div>
-      <a href="index.html?p=9927#comment-67965"><time class="comment-time" datetime="2017-11-28T23:44:43-05:00">Tuesday, November 28, 2017 at 11:44 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67965"><time class="comment-time" datetime="2017-11-28T23:44:43-05:00">Tuesday, November 28, 2017 at 11:44 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -733,12 +733,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67965' data-commentid="67965" data-postid="9927" data-belowelement="comment-67965" data-respondelement="respond" data-replyto="Reply to Margarita" aria-label='Reply to Margarita'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67965' data-commentid="67965" data-postid="9927" data-belowelement="comment-67965" data-respondelement="respond" data-replyto="Reply to Margarita" aria-label='Reply to Margarita'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-67973" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://letscookandbefriends.blogspot.com" class="url" rel="ugc external nofollow">Margarita</a></cite></div>
-      <a href="index.html?p=9927#comment-67973"><time class="comment-time" datetime="2017-11-29T12:11:48-05:00">Wednesday, November 29, 2017 at 12:11 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-67973"><time class="comment-time" datetime="2017-11-29T12:11:48-05:00">Wednesday, November 29, 2017 at 12:11 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -746,12 +746,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-67973' data-commentid="67973" data-postid="9927" data-belowelement="comment-67973" data-respondelement="respond" data-replyto="Reply to Margarita" aria-label='Reply to Margarita'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-67973' data-commentid="67973" data-postid="9927" data-belowelement="comment-67973" data-respondelement="respond" data-replyto="Reply to Margarita" aria-label='Reply to Margarita'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68327" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.theyellowdesk.com" class="url" rel="ugc external nofollow">Blume Bauer</a></cite></div>
-      <a href="index.html?p=9927#comment-68327"><time class="comment-time" datetime="2017-12-26T21:57:11-05:00">Tuesday, December 26, 2017 at 9:57 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68327"><time class="comment-time" datetime="2017-12-26T21:57:11-05:00">Tuesday, December 26, 2017 at 9:57 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -759,12 +759,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68327' data-commentid="68327" data-postid="9927" data-belowelement="comment-68327" data-respondelement="respond" data-replyto="Reply to Blume Bauer" aria-label='Reply to Blume Bauer'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68327' data-commentid="68327" data-postid="9927" data-belowelement="comment-68327" data-respondelement="respond" data-replyto="Reply to Blume Bauer" aria-label='Reply to Blume Bauer'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68332" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://cookbestrice.com/" class="url" rel="ugc external nofollow">Steve</a></cite></div>
-      <a href="index.html?p=9927#comment-68332"><time class="comment-time" datetime="2017-12-27T21:53:36-05:00">Wednesday, December 27, 2017 at 9:53 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68332"><time class="comment-time" datetime="2017-12-27T21:53:36-05:00">Wednesday, December 27, 2017 at 9:53 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -772,12 +772,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68332' data-commentid="68332" data-postid="9927" data-belowelement="comment-68332" data-respondelement="respond" data-replyto="Reply to Steve" aria-label='Reply to Steve'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68332' data-commentid="68332" data-postid="9927" data-belowelement="comment-68332" data-respondelement="respond" data-replyto="Reply to Steve" aria-label='Reply to Steve'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68356" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Jenna</cite></div>
-      <a href="index.html?p=9927#comment-68356"><time class="comment-time" datetime="2017-12-31T16:40:13-05:00">Sunday, December 31, 2017 at 4:40 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68356"><time class="comment-time" datetime="2017-12-31T16:40:13-05:00">Sunday, December 31, 2017 at 4:40 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -785,12 +785,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68356' data-commentid="68356" data-postid="9927" data-belowelement="comment-68356" data-respondelement="respond" data-replyto="Reply to Jenna" aria-label='Reply to Jenna'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68356' data-commentid="68356" data-postid="9927" data-belowelement="comment-68356" data-respondelement="respond" data-replyto="Reply to Jenna" aria-label='Reply to Jenna'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68384" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Caroline Kipps</cite></div>
-      <a href="index.html?p=9927#comment-68384"><time class="comment-time" datetime="2018-01-05T11:29:18-05:00">Friday, January 5, 2018 at 11:29 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68384"><time class="comment-time" datetime="2018-01-05T11:29:18-05:00">Friday, January 5, 2018 at 11:29 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -798,12 +798,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68384' data-commentid="68384" data-postid="9927" data-belowelement="comment-68384" data-respondelement="respond" data-replyto="Reply to Caroline Kipps" aria-label='Reply to Caroline Kipps'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68384' data-commentid="68384" data-postid="9927" data-belowelement="comment-68384" data-respondelement="respond" data-replyto="Reply to Caroline Kipps" aria-label='Reply to Caroline Kipps'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68395" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://foodlitdishcoveries.wordpress.com/" class="url" rel="ugc external nofollow">Cathie B Punsalang</a></cite></div>
-      <a href="index.html?p=9927#comment-68395"><time class="comment-time" datetime="2018-01-07T15:24:16-05:00">Sunday, January 7, 2018 at 3:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68395"><time class="comment-time" datetime="2018-01-07T15:24:16-05:00">Sunday, January 7, 2018 at 3:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -811,12 +811,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68395' data-commentid="68395" data-postid="9927" data-belowelement="comment-68395" data-respondelement="respond" data-replyto="Reply to Cathie B Punsalang" aria-label='Reply to Cathie B Punsalang'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68395' data-commentid="68395" data-postid="9927" data-belowelement="comment-68395" data-respondelement="respond" data-replyto="Reply to Cathie B Punsalang" aria-label='Reply to Cathie B Punsalang'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68540" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.lauracooks.wordpress.com" class="url" rel="ugc external nofollow">Laura Alabaf</a></cite></div>
-      <a href="index.html?p=9927#comment-68540"><time class="comment-time" datetime="2018-01-26T18:59:06-05:00">Friday, January 26, 2018 at 6:59 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68540"><time class="comment-time" datetime="2018-01-26T18:59:06-05:00">Friday, January 26, 2018 at 6:59 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -824,12 +824,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68540' data-commentid="68540" data-postid="9927" data-belowelement="comment-68540" data-respondelement="respond" data-replyto="Reply to Laura Alabaf" aria-label='Reply to Laura Alabaf'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68540' data-commentid="68540" data-postid="9927" data-belowelement="comment-68540" data-respondelement="respond" data-replyto="Reply to Laura Alabaf" aria-label='Reply to Laura Alabaf'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68634" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Jayna</cite></div>
-      <a href="index.html?p=9927#comment-68634"><time class="comment-time" datetime="2018-02-05T13:25:55-05:00">Monday, February 5, 2018 at 1:25 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68634"><time class="comment-time" datetime="2018-02-05T13:25:55-05:00">Monday, February 5, 2018 at 1:25 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -837,12 +837,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68634' data-commentid="68634" data-postid="9927" data-belowelement="comment-68634" data-respondelement="respond" data-replyto="Reply to Jayna" aria-label='Reply to Jayna'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68634' data-commentid="68634" data-postid="9927" data-belowelement="comment-68634" data-respondelement="respond" data-replyto="Reply to Jayna" aria-label='Reply to Jayna'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68714" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.arthurandhenry.com" class="url" rel="ugc external nofollow">Cal</a></cite></div>
-      <a href="index.html?p=9927#comment-68714"><time class="comment-time" datetime="2018-02-14T17:21:41-05:00">Wednesday, February 14, 2018 at 5:21 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68714"><time class="comment-time" datetime="2018-02-14T17:21:41-05:00">Wednesday, February 14, 2018 at 5:21 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -850,12 +850,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68714' data-commentid="68714" data-postid="9927" data-belowelement="comment-68714" data-respondelement="respond" data-replyto="Reply to Cal" aria-label='Reply to Cal'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68714' data-commentid="68714" data-postid="9927" data-belowelement="comment-68714" data-respondelement="respond" data-replyto="Reply to Cal" aria-label='Reply to Cal'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68857" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Kat</cite></div>
-      <a href="index.html?p=9927#comment-68857"><time class="comment-time" datetime="2018-03-11T12:20:14-04:00">Sunday, March 11, 2018 at 12:20 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68857"><time class="comment-time" datetime="2018-03-11T12:20:14-04:00">Sunday, March 11, 2018 at 12:20 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -863,12 +863,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68857' data-commentid="68857" data-postid="9927" data-belowelement="comment-68857" data-respondelement="respond" data-replyto="Reply to Kat" aria-label='Reply to Kat'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68857' data-commentid="68857" data-postid="9927" data-belowelement="comment-68857" data-respondelement="respond" data-replyto="Reply to Kat" aria-label='Reply to Kat'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68932" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Ellen</cite></div>
-      <a href="index.html?p=9927#comment-68932"><time class="comment-time" datetime="2018-03-21T13:29:08-04:00">Wednesday, March 21, 2018 at 1:29 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68932"><time class="comment-time" datetime="2018-03-21T13:29:08-04:00">Wednesday, March 21, 2018 at 1:29 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -876,12 +876,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68932' data-commentid="68932" data-postid="9927" data-belowelement="comment-68932" data-respondelement="respond" data-replyto="Reply to Ellen" aria-label='Reply to Ellen'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68932' data-commentid="68932" data-postid="9927" data-belowelement="comment-68932" data-respondelement="respond" data-replyto="Reply to Ellen" aria-label='Reply to Ellen'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-68947" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Patricia</cite></div>
-      <a href="index.html?p=9927#comment-68947"><time class="comment-time" datetime="2018-03-26T19:11:01-04:00">Monday, March 26, 2018 at 7:11 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-68947"><time class="comment-time" datetime="2018-03-26T19:11:01-04:00">Monday, March 26, 2018 at 7:11 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -889,12 +889,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-68947' data-commentid="68947" data-postid="9927" data-belowelement="comment-68947" data-respondelement="respond" data-replyto="Reply to Patricia" aria-label='Reply to Patricia'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-68947' data-commentid="68947" data-postid="9927" data-belowelement="comment-68947" data-respondelement="respond" data-replyto="Reply to Patricia" aria-label='Reply to Patricia'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-69092" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Bunny</cite></div>
-      <a href="index.html?p=9927#comment-69092"><time class="comment-time" datetime="2018-04-19T15:57:58-04:00">Thursday, April 19, 2018 at 3:57 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-69092"><time class="comment-time" datetime="2018-04-19T15:57:58-04:00">Thursday, April 19, 2018 at 3:57 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -902,12 +902,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-69092' data-commentid="69092" data-postid="9927" data-belowelement="comment-69092" data-respondelement="respond" data-replyto="Reply to Bunny" aria-label='Reply to Bunny'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-69092' data-commentid="69092" data-postid="9927" data-belowelement="comment-69092" data-respondelement="respond" data-replyto="Reply to Bunny" aria-label='Reply to Bunny'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-69462" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">umberto</cite></div>
-      <a href="index.html?p=9927#comment-69462"><time class="comment-time" datetime="2018-06-11T00:04:58-04:00">Monday, June 11, 2018 at 12:04 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-69462"><time class="comment-time" datetime="2018-06-11T00:04:58-04:00">Monday, June 11, 2018 at 12:04 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -915,12 +915,12 @@ Amazon — apparently the conversion from metric appears to have quite a few mis
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-69462' data-commentid="69462" data-postid="9927" data-belowelement="comment-69462" data-respondelement="respond" data-replyto="Reply to umberto" aria-label='Reply to umberto'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-69462' data-commentid="69462" data-postid="9927" data-belowelement="comment-69462" data-respondelement="respond" data-replyto="Reply to umberto" aria-label='Reply to umberto'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-69546" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Cindy</cite></div>
-      <a href="index.html?p=9927#comment-69546"><time class="comment-time" datetime="2018-07-05T00:34:05-04:00">Thursday, July 5, 2018 at 12:34 am</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-69546"><time class="comment-time" datetime="2018-07-05T00:34:05-04:00">Thursday, July 5, 2018 at 12:34 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -929,12 +929,12 @@ Cake so good I&#8217;m making it again!</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-69546' data-commentid="69546" data-postid="9927" data-belowelement="comment-69546" data-respondelement="respond" data-replyto="Reply to Cindy" aria-label='Reply to Cindy'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-69546' data-commentid="69546" data-postid="9927" data-belowelement="comment-69546" data-respondelement="respond" data-replyto="Reply to Cindy" aria-label='Reply to Cindy'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-69605" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.phillybite.com" class="url" rel="ugc external nofollow">Philly Bite</a></cite></div>
-      <a href="index.html?p=9927#comment-69605"><time class="comment-time" datetime="2018-07-21T21:59:48-04:00">Saturday, July 21, 2018 at 9:59 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-69605"><time class="comment-time" datetime="2018-07-21T21:59:48-04:00">Saturday, July 21, 2018 at 9:59 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -942,12 +942,12 @@ Cake so good I&#8217;m making it again!</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-69605' data-commentid="69605" data-postid="9927" data-belowelement="comment-69605" data-respondelement="respond" data-replyto="Reply to Philly Bite" aria-label='Reply to Philly Bite'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-69605' data-commentid="69605" data-postid="9927" data-belowelement="comment-69605" data-respondelement="respond" data-replyto="Reply to Philly Bite" aria-label='Reply to Philly Bite'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-69675" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Tracy</cite></div>
-      <a href="index.html?p=9927#comment-69675"><time class="comment-time" datetime="2018-08-07T20:51:51-04:00">Tuesday, August 7, 2018 at 8:51 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-69675"><time class="comment-time" datetime="2018-08-07T20:51:51-04:00">Tuesday, August 7, 2018 at 8:51 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -955,12 +955,12 @@ Cake so good I&#8217;m making it again!</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-69675' data-commentid="69675" data-postid="9927" data-belowelement="comment-69675" data-respondelement="respond" data-replyto="Reply to Tracy" aria-label='Reply to Tracy'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-69675' data-commentid="69675" data-postid="9927" data-belowelement="comment-69675" data-respondelement="respond" data-replyto="Reply to Tracy" aria-label='Reply to Tracy'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-69862" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://thesweetteaspoon.com" class="url" rel="ugc external nofollow">Whitney</a></cite></div>
-      <a href="index.html?p=9927#comment-69862"><time class="comment-time" datetime="2018-09-04T19:39:19-04:00">Tuesday, September 4, 2018 at 7:39 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-69862"><time class="comment-time" datetime="2018-09-04T19:39:19-04:00">Tuesday, September 4, 2018 at 7:39 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -968,12 +968,12 @@ Cake so good I&#8217;m making it again!</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-69862' data-commentid="69862" data-postid="9927" data-belowelement="comment-69862" data-respondelement="respond" data-replyto="Reply to Whitney" aria-label='Reply to Whitney'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-69862' data-commentid="69862" data-postid="9927" data-belowelement="comment-69862" data-respondelement="respond" data-replyto="Reply to Whitney" aria-label='Reply to Whitney'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-69891" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Martyd</cite></div>
-      <a href="index.html?p=9927#comment-69891"><time class="comment-time" datetime="2018-09-06T19:06:47-04:00">Thursday, September 6, 2018 at 7:06 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-69891"><time class="comment-time" datetime="2018-09-06T19:06:47-04:00">Thursday, September 6, 2018 at 7:06 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -981,12 +981,12 @@ Cake so good I&#8217;m making it again!</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-69891' data-commentid="69891" data-postid="9927" data-belowelement="comment-69891" data-respondelement="respond" data-replyto="Reply to Martyd" aria-label='Reply to Martyd'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-69891' data-commentid="69891" data-postid="9927" data-belowelement="comment-69891" data-respondelement="respond" data-replyto="Reply to Martyd" aria-label='Reply to Martyd'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-70344" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Linda Friday</cite></div>
-      <a href="index.html?p=9927#comment-70344"><time class="comment-time" datetime="2018-10-29T23:13:11-04:00">Monday, October 29, 2018 at 11:13 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-70344"><time class="comment-time" datetime="2018-10-29T23:13:11-04:00">Monday, October 29, 2018 at 11:13 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -994,12 +994,12 @@ Cake so good I&#8217;m making it again!</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-70344' data-commentid="70344" data-postid="9927" data-belowelement="comment-70344" data-respondelement="respond" data-replyto="Reply to Linda Friday" aria-label='Reply to Linda Friday'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-70344' data-commentid="70344" data-postid="9927" data-belowelement="comment-70344" data-respondelement="respond" data-replyto="Reply to Linda Friday" aria-label='Reply to Linda Friday'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-70770" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Kara</cite></div>
-      <a href="index.html?p=9927#comment-70770"><time class="comment-time" datetime="2018-12-04T13:01:21-05:00">Tuesday, December 4, 2018 at 1:01 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-70770"><time class="comment-time" datetime="2018-12-04T13:01:21-05:00">Tuesday, December 4, 2018 at 1:01 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1007,12 +1007,12 @@ Cake so good I&#8217;m making it again!</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-70770' data-commentid="70770" data-postid="9927" data-belowelement="comment-70770" data-respondelement="respond" data-replyto="Reply to Kara" aria-label='Reply to Kara'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-70770' data-commentid="70770" data-postid="9927" data-belowelement="comment-70770" data-respondelement="respond" data-replyto="Reply to Kara" aria-label='Reply to Kara'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-75448" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Guusje</cite></div>
-      <a href="index.html?p=9927#comment-75448"><time class="comment-time" datetime="2019-11-19T21:21:12-05:00">Tuesday, November 19, 2019 at 9:21 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-75448"><time class="comment-time" datetime="2019-11-19T21:21:12-05:00">Tuesday, November 19, 2019 at 9:21 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1020,12 +1020,12 @@ Cake so good I&#8217;m making it again!</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-75448' data-commentid="75448" data-postid="9927" data-belowelement="comment-75448" data-respondelement="respond" data-replyto="Reply to Guusje" aria-label='Reply to Guusje'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-75448' data-commentid="75448" data-postid="9927" data-belowelement="comment-75448" data-respondelement="respond" data-replyto="Reply to Guusje" aria-label='Reply to Guusje'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-76841" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Pamela Turner</cite></div>
-      <a href="index.html?p=9927#comment-76841"><time class="comment-time" datetime="2020-03-29T12:44:15-04:00">Sunday, March 29, 2020 at 12:44 pm</time></a>    </header>
+      <a href="https://orangette.net/2017/11/100-birthday-worthy/#comment-76841"><time class="comment-time" datetime="2020-03-29T12:44:15-04:00">Sunday, March 29, 2020 at 12:44 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1034,39 +1034,39 @@ Cake so good I&#8217;m making it again!</p>
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=9927#comment-76841' data-commentid="76841" data-postid="9927" data-belowelement="comment-76841" data-respondelement="respond" data-replyto="Reply to Pamela Turner" aria-label='Reply to Pamela Turner'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-76841' data-commentid="76841" data-postid="9927" data-belowelement="comment-76841" data-respondelement="respond" data-replyto="Reply to Pamela Turner" aria-label='Reply to Pamela Turner'>Reply</a>    </div>
   </li><!-- #comment-## -->
     </ol>
 
       
   
   	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html?p=9927#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/11/100-birthday-worthy/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
 <p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='9927' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="277a98357f" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="3"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="c45cd87980" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="191"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	</section>
       </footer>
 </article>
         </main><!-- /.main -->
                   <aside class="content-right">
             <header class="right-header">
-  <a href="index.html?p=4">
+  <a href="https://orangette.net/about/">
     <h2 class="title">hellooooo</h2>
-    <img src="wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
   </a>
 </header>
 <nav class="right-nav">
-  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
-</ul></div>  <form role="search" method="get" class="search-form" action="index.html">
+</ul></div>  <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
@@ -1074,19 +1074,19 @@ Cake so good I&#8217;m making it again!</p>
 </nav>
 <div class="right-section">
   <h3 class="right-heading">
-    <a href="index.html?p=8">My Books</a>
+    <a href="https://orangette.net/books/">My Books</a>
   </h3>
   <div class="right-diptych">
-                <a class="right-image-link half" href="index.html?p=8#the-fixed-stars">
-        <img src="wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
       </a>
-                <a class="right-image-link half" href="index.html?p=8#delancey">
-        <img src="wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
       </a>
       </div>
   <div class="right-image-link">
     <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
-      <img src="wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
     </a>
   </div>
 </div>
@@ -1094,9 +1094,9 @@ Cake so good I&#8217;m making it again!</p>
   <h4 class="right-subheading">Featured Posts</h4>
   <ul class="right-post-list">
           <li>
-        <a href="index.html?p=178">
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
           <div class="thumb">
-            <img width="380" height="250" src="wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">April 7, 2014</div>
             <h5 class="title">That word is eat</h5>
@@ -1104,9 +1104,9 @@ Cake so good I&#8217;m making it again!</p>
         </a>
       </li>
           <li>
-        <a href="index.html?p=26">
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">March 23, 2015</div>
             <h5 class="title">The bean doctor</h5>
@@ -1114,9 +1114,9 @@ Cake so good I&#8217;m making it again!</p>
         </a>
       </li>
           <li>
-        <a href="index.html?p=1851">
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">July 23, 2015</div>
             <h5 class="title">We&#8217;ll go from left to right</h5>
@@ -1124,9 +1124,9 @@ Cake so good I&#8217;m making it again!</p>
         </a>
       </li>
           <li>
-        <a href="index.html?p=221">
+        <a href="https://orangette.net/2014/01/in-it-together/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">January 16, 2014</div>
             <h5 class="title">In it together</h5>
@@ -1140,35 +1140,35 @@ Cake so good I&#8217;m making it again!</p>
     <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
   </h3>
   <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
-    <img src="wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
   </a>
 </div>
 <div class="right-section">
   <h4 class="right-subheading alt">
-    <a href="index.html?p=2521">Links of Note</a>
+    <a href="https://orangette.net/links/">Links of Note</a>
   </h4>
   <ul class="right-link-list">
-    <li><a href="http://www.kitchen-repertoire.com/" rel="noopener" target="_blank">Kitchen Repertoire</a></li>
-<li><a href="http://www.kerismith.com/blog/">Keri Smith</a></li>
-<li><a href="http://vicsrecipes.blogspot.com/">Vic&#8217;s Recipes</a></li>
-<li><a href="http://wednesdaychef.typepad.com/">The Wednesday Chef</a></li>
-<li><a href="http://whippedtheblog.com/">Whipped</a></li>
-<li><a href="http://www.bbc.co.uk/programmes/b006qfvv" rel="noopener" target="_blank">BBC Radio 4 Shipping Forecast</a></li>
+    <li><a href="http://mollysmadeleine.blogspot.com/">my madeleine</a></li>
+<li><a href="http://katechristensen.net/" rel="noopener" target="_blank">Kate Christensen</a></li>
+<li><a href="http://www.notmartha.org/">not martha</a></li>
+<li><a href="http://www.dinneralovestory.com/" rel="noopener" target="_blank">Dinner: A Love Story</a></li>
+<li><a href="http://sproutedkitchen.com/">Sprouted Kitchen</a></li>
 <li><a href="http://dressingfordinner.blogspot.com/">Dressing for dinner</a></li>
-<li><a href="http://happyolks.com/" rel="noopener" target="_blank">Happyolks</a></li>
-<li><a href="http://blairpeter.typepad.com/">wise.. craft</a></li>
 <li><a href="http://lunch.thecanalhouse.com/">Canal House Cooks Lunch</a></li>
-<li><a href="http://www.bonappetempt.com/" rel="noopener" title="Amelia Morris is really funny" target="_blank">Bon Appetempt</a></li>
-<li><a href="http://casayellow.com/">The Yellow House</a></li>
-<li><a href="http://www.rootsandgrubs.com/">Roots and Grubs</a></li>
-<li><a href="http://www.eatallaboutit.com/">Eat All About It</a></li>
-<li><a href="http://www.sevenspoons.net/">seven spoons</a></li>
+<li><a href="http://coffeeinthewoodshed.com/" rel="noopener" target="_blank">Coffee in the Woodshed</a></li>
+<li><a href="http://benandbirdy.blogspot.com/" rel="noopener" title="A blog by extremely funny person Catherine Newman" target="_blank">Ben &amp; Birdy</a></li>
+<li><a href="http://joannagoddard.blogspot.com/index.html">A Cup of Jo</a></li>
+<li><a href="http://www.nordljus.co.uk/en/index.php">Nordljus</a></li>
+<li><a href="http://allbuttonedup.typepad.com/all_buttoned_up/">all buttoned up</a></li>
+<li><a href="http://wednesdaychef.typepad.com/">The Wednesday Chef</a></li>
+<li><a href="http://www.sweetamandine.com/">Sweet Amandine</a></li>
+<li><a href="http://www.kerismith.com/blog/">Keri Smith</a></li>
   </ul>
-  <a class="right-more" href="index.html?p=2521">More</a>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
                 <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="index.html">
+          <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
@@ -1176,17 +1176,17 @@ Cake so good I&#8217;m making it again!</p>
           <div class="overlay--close" data-behavior="close-search"></div>
         </div>
       </div><!-- /.page-content -->
-      <script async defer data-pin-hover="true" data-pin-color="white" src="https://assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
-  <a class="footer-logo" href="index.html">
-    <img src="wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
   </a>
   <div class="footer-content">
     <nav class="footer-nav" role="navigation">
-      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
 </ul></div>    </nav>
@@ -1202,7 +1202,7 @@ Cake so good I&#8217;m making it again!</p>
       <div class="nav-overlay" data-behavior="close-nav"></div>
       <button class="elevator" data-behavior="jettison">Back to top</button>
     </div><!-- /.container -->
-    <script type='text/javascript' src='wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
-<script type='text/javascript' src='wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+    <script type='text/javascript' src='https://orangette.net/wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
   </body>
 </html>

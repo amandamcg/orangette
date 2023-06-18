@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2015/06/here-was-an-opportunity/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This recipe halves easily, and I’ll bet it also doubles well. And if you use a scale to measure the ingredients by weight, it comes together very, very fast. Oh, and though the original version calls for Greek yogurt, I prefer regular plain yogurt, so that’s what I keep around, and it worked just fine.</p>
 <p>To toast the coriander and cumin seeds, put a small skillet over medium heat, add the seeds (only one type at a time; they’ll probably toast at different rates), and stay nearby, shaking the pan occasionally. They’re ready when they smell fragrant. Remove them from the heat immediately, and crush them coarsely in a mortar and pestle or under the side of a knife. Repeat with the other type of seeds.</p>

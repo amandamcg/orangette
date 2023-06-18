@@ -1,84 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>I am here to tell you</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Olive Oil and Maple Granola</h2>
-    <h3 class="subtitle">Adapted from Nekisia Davis, <a href="http://www.earlybirdfoods.com" target="_blank">Early Bird Foods</a>, and <a href="http://www.food52.com/recipes/15831_nekisia_davis_olive_oil_and_maple_granola" target="_blank">Food 52</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2012-01-26T07:30:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2012/01/i-am-here-to-tell-you/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Nuts and seeds can add up, but I buy mine at Trader Joe&#8217;s or in the bulk section of my local grocery store, and that helps keep the cost down. I also was able to find coconut chips in bulk. (And if you&#8217;re wondering exactly what coconut chips are, <a href="http://nuts.com/driedfruit/coconut/unsweeted-chips.html?gclid=CNrtx9b07K0CFQ5ihwod9Qnq6Q" target="_blank">here</a>&#8216;s a picture.)</p>
-<p>The next time I make this, I might cut back a little on the brown sugar, but I recommend trying it as written first.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            300 grams (3 cups) rolled oats          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            125 grams (1 cup) raw hulled pumpkin seeds          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            130 grams (1 cup) raw hulled sunflower seeds          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            50 grams (1 cup) unsweetened coconut chips          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            135 grams (1 ¼ cup) raw pecans, whole or chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            85 grams (packed ½ cup) light brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            175 ml (¾ cup) maple syrup, preferably Grade B          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            120 ml (½ cup) olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Dried cherries, optional          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 300°F. Line a rimmed baking sheet with parchment paper.</p>
-<p>In a large bowl, combine the oats, pumpkin seeds, sunflower seeds, coconut chips, pecans, light brown sugar, and salt. Stir to mix. Add the olive oil and maple syrup, and stir until well combined. Spread the mixture in an even layer on the prepared sheet pan. Bake, stirring every 15 minutes, until the granola is golden brown and toasted, about 45 minutes. Remove the granola from the oven, and season with more salt to taste. Cool completely on a wire rack. If you&#8217;d like, stir in some dried cherries. Store in an airtight container.</p>
-<p>Note: Will keep at room temperature for up to a month.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 7 cups</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

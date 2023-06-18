@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -35,11 +35,11 @@
   </header>
 
       <figure class="hero">
-      <img width="1324" height="882" src="../../wp-content/uploads/2015/09/2359b-_f7a59991-1324x882.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" itemprop="photo" srcset="../../wp-content/uploads/2015/09/2359b-_f7a59991-1324x882.jpg 1324w, ../../wp-content/uploads/2015/09/2359b-_f7a59991-662x441.jpg 662w, ../../wp-content/uploads/2015/09/2359b-_f7a59991-870x580.jpg 870w, ../../wp-content/uploads/2015/09/2359b-_f7a59991.jpg 1600w" sizes="(max-width: 1324px) 100vw, 1324px" />    </figure>
+      <img width="1324" height="882" src="https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-1324x882.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" itemprop="photo" srcset="https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-1324x882.jpg 1324w, https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-662x441.jpg 662w, https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-870x580.jpg 870w, https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991.jpg 1600w" sizes="(max-width: 1324px) 100vw, 1324px" />    </figure>
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/politics/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>These popsicles will only taste as good as the watermelon you start with, so start with a sweet, flavorful one. Oh, and you can omit the vodka, if you want.</p>
   </div>

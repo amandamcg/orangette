@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2016/10/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Charlie Brigham used <a class="u-underline" href="https://www.campbells.com/swanson/broths-and-stocks/" data-link-name="in body link">Swanson</a> canned chicken broth, fideo vermicelli, egg, and <a class="u-underline" href="http://www.forbes.com/sites/larryolmsted/2012/11/19/the-dark-side-of-parmesan-cheese-what-you-dont-know-might-hurt-you/#74f1215f71be" data-link-name="in body link">Kraft parmesan cheese</a> – the green‑canister kind that keeps for a small eternity. Today, you might swap in organic chicken broth (homemade or not), capellini and freshly grated parmesan.</p>
   </div>

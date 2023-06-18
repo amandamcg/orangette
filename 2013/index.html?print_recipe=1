@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This recipe uses two different kinds of salt. I don’t know why, although I’m guessing that the different salts coat the nuts differently? In any case, my kosher salt is Diamond Crystal brand, and that’s important to note, because it’s significantly less salty than Morton brand kosher salt. If you have Morton (or another brand), you’ll want to use much less than the 1 tablespoon this recipe calls for. I’d suggest about 1 ½ teaspoons.</p>
 <p>Also, to make simple syrup, combine equal parts sugar and water in a small saucepan, bring to a simmer, stir until the sugar dissolves, and then take it off the heat and allow it to cool.  (To be honest, though, I didn’t allow mine to cool; I made it just before using and only cooled it for a few minutes.)</p>
@@ -104,7 +104,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This soup is very thick, but not quite as thick as risotto.  You could, in theory, eat it with a fork, but you’ll want to use a spoon.</p>
 <p>I should also add that I didn’t make my broth from scratch.  I used <a href="http://www.superiortouch.com/retail/products/better-than-bouillon/organic-bases/38/organic-chicken-base" target="_blank">Better Than Bouillon Organic Chicken Base</a>, my store-bought standby.</p>
@@ -150,7 +150,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>What makes this soup different from one that uses, say, ham hocks, is that the marrow in the ham bone melts into the soup, bringing extra richness and body. So if you have a ham bone, use it! You will be rewarded. If not, a ham hock will also be good. My ham bone fit easily into the pot I used, but Melissa Clark suggests that, in general, you ask your butcher to cut it in half or thirds for you, so that it’s guaranteed to fit and also has some marrow exposed.</p>
 <p>As for beans, you could probably use any light-colored bean you like. I had a bag of <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=SFNT&amp;Store_Code=RG" target="_blank">Rancho Gordo</a>’s <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=PROD&amp;Store_Code=RG&amp;Product_Code=1YEL&amp;Category_Code=DHAHB4#.Uo-SlpSxOac" target="_blank">yellow eye beans</a> in the cupboard, so I used those. (Rancho Gordo beans make a great holiday present, by the way.)  Also, I find that adding a little salt when I soak dried beans makes them turn out better when I cook them, and here’s <a href="http://www.americastestkitchenfeed.com/super-quick-video-tips/2012/04/the-importance-of-brining-your-beans-video/" target="_blank">a video</a> from America’s Test Kitchen that explains why.  I don’t tend to use the full amount of salt that’s called for in the video, but I have, and it worked beautifully.  (I don’t use that much because I tend to forget to rinse the beans after soaking, and then I wind up with salty beans. Using less salt still seems to help, and then there’s no need to rinse.)</p>
@@ -208,7 +208,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve made this soup twice now, once with kabocha squash and once with butternut. I slightly preferred the flavor of the kabocha, but I liked the texture of the butternut soup. (I also appreciate the fact that butternuts are easier to peel. I would rather throw a kabocha out the window than peel it.) You could use any winter squash, really &#8211; though if yours isn’t especially sweet, you might want an additional tablespoon of sweetener. And for the record, you don’t <i>have</i> to use maple syrup; you could try regular sugar, or brown sugar. In any case, taste and adjust as needed before serving.</p>
 <p>Oh, and I’ll bet this recipe would double nicely.</p>
@@ -260,7 +260,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Denise Barr, one of the cooks at Hedgebrook, served this cake at the first dinner of my stay.  She used fresh raspberries from the garden, and it was so good &#8211; simple, buttery, with a damp, nubbly, almost muffin-like crumb &#8211; that I dog-eared the recipe later that night. The cookbook calls it a Rhubarb Cake, but you could probably make it with any soft fruit, and when I tasted it, before I saw the recipe in the cookbook, it struck me first as a wonderful butter cake. I hope Denise won’t mind that I tweaked the name. When I made it at home, I thawed out a batch of rhubarb compote that I made last summer and spooned it into the batter, and it was terrific.</p>
   </div>
@@ -313,7 +313,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I use golden brown sugar here, because it’s what I usually have, but if you have dark brown sugar, go ahead and try it. And then let me know how it is.  Also, I know this seems like a lot of sugar, but trust me.</p>
   </div>
@@ -363,7 +363,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
       </div>
 
@@ -405,7 +405,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>You could use any sweet-ish white wine here, though I particularly love the flavor of apricots with an off-dry riesling. (I’ve been using <a href="http://www.winesofthegorge.com/index.html" target="_blank">Memaloose</a> 2012 Idiot’s Grace Riesling.) I’ve also used <a href="http://www.alpenz.com/images/poftfolio/dolinvermouthfacts.htm" target="_blank">Dolin</a> Blanc vermouth and <a href="http://www.cocchi.it/eng/americano.htm" target="_blank">Cocchi Americano</a>, and both have yielded great results. You’re also welcome to try a drier white wine, or a rosé, and if you do, please report back.</p>
   </div>
@@ -444,7 +444,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>A word (or many words) about flour: using <a href="http://glutenfreegirl.com/2012/07/how-to-make-a-gluten-free-all-purpose-flour-mix/" target="_blank">Shauna’s 40/60 ratio</a> for gluten-free baking, I whisked up a batch of all-purpose flour mix from 100 grams of buckwheat flour, 100 grams of brown rice flour, and 300 grams of tapioca flour.  (I then used 170 grams of this mixture in the recipe.)  I have no idea how well this mix of flours would work in other recipes, and I probably did everything wrong, but it worked nicely here, yielding a crust with a crunchy, slightly nubbly texture and great buckwheaty flavor.  The one thing that I will say, however, is that the crust wept a not-insignificant amount of butter onto the sheet pan.  I have to assume that this had something to do with the mix of flours I used, and their properties? Anyway, I doubt that the original recipe, as Heidi conceived it, has a butter-weeping problem.  In any case, consider yourself alerted. If your crust leaks a little butter onto the sheet pan, don’t worry.  That’s why the sheet pan is there.</p>
 <p>And one more word about flour: even if you do eat gluten, as I do, you really should consider using some buckwheat flour. The next time I make this tart, I might try using a mixture of buckwheat flour and standard all-purpose flour &#8211; maybe one-third buckwheat and two-thirds all-purpose?  Not that white whole wheat flour or whole wheat pastry flour are not interesting enough, but I really love what buckwheat brings to this crust.</p>
@@ -500,7 +500,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original version of this recipe calls for <a href="http://en.wikipedia.org/wiki/Conchiglie" target="_blank">conchiglie</a>, or shell-shaped pasta, but you could use any small pasta shape you like: orecchiette, penne, farfalle, and so on.</p>
 <p>If you have some exotic type of dried chile, like Urfa chile, Aleppo chile, or Kirmizi biber, you lucky lucky dog, this is a great place to use it. If not, you can use regular red pepper flakes. I happened to have some Aleppo chile, and though it was ground, not in flakes, and probably a few years old, it worked beautifully. Oh, and if you’re worried about the amount of heat, consider starting with a little less of the chile than what is called for &#8211; or just don’t put much chile oil on your pasta.</p>
@@ -551,7 +551,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This recipe was shared with McDermott by one Suzanne O’Hara of Burlington, North Carolina, and it comes together with remarkable speed and ease. I think I’ll be making it often.</p>
   </div>
@@ -598,7 +598,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve made this oatmeal a few times with walnuts, as described below, but I also like to make it with almonds or pecans, either whole or coarsely chopped. It’s nice to toast the nuts beforehand – and it’s easy: just a few minutes on a sheet pan in a 350°F oven, until they smell fragrant – but I often skip it. No harm done.</p>
 <p>I’m a big believer in <a href="http://www.details.com/style-advice/the-body/201105/skim-milk-non-fat-milk-diet-foods" target="_blank">whole milk</a>, and I think this recipe needs its fat and richness. (I’ve had it with 1% and was disappointed in the result.) Actually, the next time I make this oatmeal, I might try replacing a cup of the milk with coconut milk.  That could be exciting.  I might also throw in a half-cup of unsweetened shredded coconut.  I’ve added coconut before &#8211; about a quarter-cup, or 25 grams &#8211; and though I can’t say that I was aware of its presence, Brandon and I both agreed that the baked oatmeal was especially good that morning.</p>
@@ -653,7 +653,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve found farro in Seattle at Whole Foods, PCC, and some grocery stores, or you can get it from <a href="http://chefshop.com/Farro-Emmer-Organic-P6425.aspx" target="_blank">ChefShop</a>. I like the farro grown by <a href="http://www.bluebirdgrainfarms.com/" target="_blank">Bluebird Grain Farms</a> of Winthrop, Washington. Farro should be soaked briefly before cooking, although Matthew often uses Trader Joe’s quick-cooking farro – done in 10 minutes! – and says that it’s great. In any case, I give instructions below for cooking standard farro, and hey, feel free to scale up and cook an even bigger batch, if you’d like. From one cup of uncooked farro, I wind up with enough cooked farro for three or four servings of this salad.</p>
 <p>Also: among types of feta, I like French feta best.</p>
@@ -709,7 +709,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/?print_recipe=1" class="print icon-print"></a>
     </nav>
       </div>
 

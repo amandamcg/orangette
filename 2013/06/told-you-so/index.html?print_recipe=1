@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/06/told-you-so/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original version of this recipe calls for <a href="http://en.wikipedia.org/wiki/Conchiglie" target="_blank">conchiglie</a>, or shell-shaped pasta, but you could use any small pasta shape you like: orecchiette, penne, farfalle, and so on.</p>
 <p>If you have some exotic type of dried chile, like Urfa chile, Aleppo chile, or Kirmizi biber, you lucky lucky dog, this is a great place to use it. If not, you can use regular red pepper flakes. I happened to have some Aleppo chile, and though it was ground, not in flakes, and probably a few years old, it worked beautifully. Oh, and if you’re worried about the amount of heat, consider starting with a little less of the chile than what is called for &#8211; or just don’t put much chile oil on your pasta.</p>

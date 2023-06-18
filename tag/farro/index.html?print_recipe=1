@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/farro/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>What follows is closer to a set of guidelines than it is to a real recipe, so do with it what you will. The most important part is the onions: be sure to take your time with them, and stir them frequently. Make this on a Sunday, or on a weeknight when you have some extra time to cook.</p>
 <p>We eat this as a main dish, but it would be a nice side for almost any roasted or grilled meat. It is also delicious &#8211; and prettier &#8211; with some cooked kale or chard stirred in. Just boil the greens in nicely salted water for about 5 to 7 minutes, until tender but not mushy; then drain them, squeeze all the water out, coarsely chop, and add to the farro mixture.</p>

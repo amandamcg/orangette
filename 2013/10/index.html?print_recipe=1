@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/10/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Denise Barr, one of the cooks at Hedgebrook, served this cake at the first dinner of my stay.  She used fresh raspberries from the garden, and it was so good &#8211; simple, buttery, with a damp, nubbly, almost muffin-like crumb &#8211; that I dog-eared the recipe later that night. The cookbook calls it a Rhubarb Cake, but you could probably make it with any soft fruit, and when I tasted it, before I saw the recipe in the cookbook, it struck me first as a wonderful butter cake. I hope Denise won’t mind that I tweaked the name. When I made it at home, I thawed out a batch of rhubarb compote that I made last summer and spooned it into the batter, and it was terrific.</p>
   </div>
@@ -92,7 +92,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/10/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I use golden brown sugar here, because it’s what I usually have, but if you have dark brown sugar, go ahead and try it. And then let me know how it is.  Also, I know this seems like a lot of sugar, but trust me.</p>
   </div>

@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/11/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>What makes this soup different from one that uses, say, ham hocks, is that the marrow in the ham bone melts into the soup, bringing extra richness and body. So if you have a ham bone, use it! You will be rewarded. If not, a ham hock will also be good. My ham bone fit easily into the pot I used, but Melissa Clark suggests that, in general, you ask your butcher to cut it in half or thirds for you, so that it’s guaranteed to fit and also has some marrow exposed.</p>
 <p>As for beans, you could probably use any light-colored bean you like. I had a bag of <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=SFNT&amp;Store_Code=RG" target="_blank">Rancho Gordo</a>’s <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=PROD&amp;Store_Code=RG&amp;Product_Code=1YEL&amp;Category_Code=DHAHB4#.Uo-SlpSxOac" target="_blank">yellow eye beans</a> in the cupboard, so I used those. (Rancho Gordo beans make a great holiday present, by the way.)  Also, I find that adding a little salt when I soak dried beans makes them turn out better when I cook them, and here’s <a href="http://www.americastestkitchenfeed.com/super-quick-video-tips/2012/04/the-importance-of-brining-your-beans-video/" target="_blank">a video</a> from America’s Test Kitchen that explains why.  I don’t tend to use the full amount of salt that’s called for in the video, but I have, and it worked beautifully.  (I don’t use that much because I tend to forget to rinse the beans after soaking, and then I wind up with salty beans. Using less salt still seems to help, and then there’s no need to rinse.)</p>
@@ -97,7 +97,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/11/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve made this soup twice now, once with kabocha squash and once with butternut. I slightly preferred the flavor of the kabocha, but I liked the texture of the butternut soup. (I also appreciate the fact that butternuts are easier to peel. I would rather throw a kabocha out the window than peel it.) You could use any winter squash, really &#8211; though if yours isn’t especially sweet, you might want an additional tablespoon of sweetener. And for the record, you don’t <i>have</i> to use maple syrup; you could try regular sugar, or brown sugar. In any case, taste and adjust as needed before serving.</p>
 <p>Oh, and I’ll bet this recipe would double nicely.</p>

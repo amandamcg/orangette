@@ -1,85 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>Pile it on</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name"> Russian Egg and Mushroom Salad</h2>
-    <h3 class="subtitle"> Adapted from <i><a href="http://www.saveur.com/">Saveur</a></i>, and from Anya von Bremzen’s <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FPlease-Table-Anya-von-Bremzen%2Fdp%2F0894807536&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Please to the Table: The Russian Cookbook</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2011-05-11T01:33:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2011/05/pile-it-on/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>The original recipe called for white button mushrooms, but because I like crimini mushrooms more, that’s what I chose. And for the mayonnaise, I used Best Foods (also sold as Hellmann’s). Homemade would be terrific, but there’s nothing wrong with Best Foods.</p>
-<p>Also: the flavor of this salad really deepens with time, so consider making it a day (or even two) before you want to eat it.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            5 Tbsp. canola oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 lb. mushrooms, roughly chopped (see note, above)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ medium yellow onion, roughly chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup finely chopped fresh dill          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 hard-boiled eggs, roughly chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup mayonnaise          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. Dijon mustard          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. fresh lemon juice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Freshly ground black pepper          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Heat 3 tablespoons of the oil in a 10” or 12” skillet over medium-high heat, and add the mushrooms. (If they don’t all fit in the pan at once, let the first panful wilt down a bit, and then add the rest. It’ll work out fine.) Cook, stirring often, until lighly browned, 14-16 minutes. Transfer to a large bowl, and set aside. Wipe out the skillet.</p>
-<p>Heat the remaining oil in the skillet over medium-high heat, and add the onion. Cook, stirring often, until the onions begin to soften; then reduce the heat to low and continue to cook until lightly caramelized, 10-15 minutes. Transfer to the bowl with the mushrooms. Add the dill and eggs, and stir to mix.</p>
-<p>In a small bowl, whisk together the mayonnaise, mustard, and lemon juice. Add a couple of spoonfuls to the mushroom mixture, and toss until evenly combined. Taste, and add more dressing as needed. (All in all, I used only about two-thirds of the dressing.) Season with salt and pepper. Depending on how deeply browned the onions are, you might also want an extra squeeze of lemon.</p>
-<p>Pile on lightly toasted bread – preferably sourdough rye, if you’ve got some – and serve open-faced.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 2 cups</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

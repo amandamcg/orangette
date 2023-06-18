@@ -4,13 +4,13 @@
   <meta charset="utf-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <script src="https://cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
   <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
 
-    <link rel="shortcut icon" href="wp-content/themes/orangette/assets/icons/favicon.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
-  <link rel="mask-icon" href="wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
-  <link rel="manifest" href="wp-content/themes/orangette/assets/icons/manifest.json">
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
   <meta name="apple-mobile-web-app-title" content="Orangette">
   <meta name="application-name" content="Orangette">
   <meta name="msapplication-TileColor" content="#da532c">
@@ -21,12 +21,12 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Hello again, finally. | Orangette</title>
-	<link rel="canonical" href="http://orangette.net/2008/09/hello-again-finally/" />
+	<link rel="canonical" href="https://orangette.net/2008/09/hello-again-finally/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Hello again, finally. | Orangette" />
 	<meta property="og:description" content="It feels so good to say that. Thank you for your immensely kind comments last week, friends, and for waiting patiently while I plowed through a few deadlines. It’s always so nice to come back to this space after a little while away. It is also very nice, I hear, to sit on the couch with a good book and drink a beer. I hope I still remember how to do that. I also hope to clean the baseboards around our apartment sometime soon, because you would not believe how much dust those things can accumulate. Or maybe you would? Seriously. They’re like little tiny shelves &#8211; Barbie™-sized, almost &#8211; only instead of holding useful objects like tiny plates or&hellip;" />
-	<meta property="og:url" content="http://orangette.net/2008/09/hello-again-finally/" />
+	<meta property="og:url" content="https://orangette.net/2008/09/hello-again-finally/" />
 	<meta property="og:site_name" content="Orangette" />
 	<meta property="article:publisher" content="https://www.facebook.com/molly.wizenberg" />
 	<meta property="article:published_time" content="2008-09-23T04:23:00+00:00" />
@@ -38,11 +38,11 @@
 	<meta name="twitter:data1" content="Molly" />
 	<meta name="twitter:label2" content="Est. reading time" />
 	<meta name="twitter:data2" content="4 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://orangette.net/#website","url":"https://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"http://orangette.net/2008/09/hello-again-finally/#primaryimage","inLanguage":"en-US","url":"http://orangette.net/wp-content/uploads/2015/09/d1d61-polahoneyicecreamprep-11.jpg?w=300","contentUrl":"http://orangette.net/wp-content/uploads/2015/09/d1d61-polahoneyicecreamprep-11.jpg?w=300"},{"@type":"WebPage","@id":"http://orangette.net/2008/09/hello-again-finally/#webpage","url":"http://orangette.net/2008/09/hello-again-finally/","name":"Hello again, finally. | Orangette","isPartOf":{"@id":"https://orangette.net/#website"},"primaryImageOfPage":{"@id":"http://orangette.net/2008/09/hello-again-finally/#primaryimage"},"datePublished":"2008-09-23T04:23:00+00:00","dateModified":"2008-09-23T04:23:00+00:00","author":{"@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"http://orangette.net/2008/09/hello-again-finally/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://orangette.net/2008/09/hello-again-finally/"]}]},{"@type":"BreadcrumbList","@id":"http://orangette.net/2008/09/hello-again-finally/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://orangette.net/"},{"@type":"ListItem","position":2,"name":"Hello again, finally."}]},{"@type":"Person","@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://orangette.net/#website","url":"http://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://orangette.net/2008/09/hello-again-finally/#primaryimage","inLanguage":"en-US","url":"http://orangette.net/wp-content/uploads/2015/09/d1d61-polahoneyicecreamprep-11.jpg?w=300","contentUrl":"http://orangette.net/wp-content/uploads/2015/09/d1d61-polahoneyicecreamprep-11.jpg?w=300"},{"@type":"WebPage","@id":"https://orangette.net/2008/09/hello-again-finally/#webpage","url":"https://orangette.net/2008/09/hello-again-finally/","name":"Hello again, finally. | Orangette","isPartOf":{"@id":"http://orangette.net/#website"},"primaryImageOfPage":{"@id":"https://orangette.net/2008/09/hello-again-finally/#primaryimage"},"datePublished":"2008-09-23T04:23:00+00:00","dateModified":"2008-09-23T04:23:00+00:00","author":{"@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"https://orangette.net/2008/09/hello-again-finally/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://orangette.net/2008/09/hello-again-finally/"]}]},{"@type":"BreadcrumbList","@id":"https://orangette.net/2008/09/hello-again-finally/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"http://orangette.net/"},{"@type":"ListItem","position":2,"name":"Hello again, finally."}]},{"@type":"Person","@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; Hello again, finally. Comments Feed" href="2008/09/hello-again-finally/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; Hello again, finally. Comments Feed" href="https://orangette.net/2008/09/hello-again-finally/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
 /*! This file is auto-generated */
@@ -62,24 +62,24 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('index.html?p=1134');--wp--preset--duotone--grayscale: url('index.html?p=1134');--wp--preset--duotone--purple-yellow: url('index.html?p=1134');--wp--preset--duotone--blue-red: url('index.html?p=1134');--wp--preset--duotone--midnight: url('index.html?p=1134');--wp--preset--duotone--magenta-yellow: url('index.html?p=1134');--wp--preset--duotone--purple-green: url('index.html?p=1134');--wp--preset--duotone--blue-orange: url('index.html?p=1134');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='stcr-font-awesome-css' href='wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='sage/css-css' href='wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/posts/1134" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="alternate" type="application/json" href="https://orangette.net/wp-json/wp/v2/posts/1134" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.2.2" />
-<link rel='shortlink' href='index.html?p=1134' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Forangette.net%252F2008%252F09%252Fhello-again-finally%252F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Forangette.net%252F2008%252F09%252Fhello-again-finally%252F&amp;format=xml" />
+<link rel='shortlink' href='https://orangette.net/?p=1134' />
+<link rel="alternate" type="application/json+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2008%2F09%2Fhello-again-finally%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2008%2F09%2Fhello-again-finally%2F&#038;format=xml" />
   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
 </head>
   <body class="post-template-default single single-post postid-1134 single-format-standard hello-again-finally sidebar-primary">
@@ -88,26 +88,26 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
     <![endif]-->
     <nav class="off-canvas-nav">
-  <a class="nav-logo" href="index.html"><img src="wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
-  <form role="search" method="get" class="search-form" action="index.html">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+  <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
 </form>
-  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
 </ul></div></nav>
     <div class="container" id="top">
       <header class="page-header" role="banner">
   <h1 class="header--title">
-    <a href="index.html">
-      <img class="title--mobile" src="wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
-      <img class="title--large" src="wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
     </a>
   </h1>
   <button class="search-toggle icon-search2" data-behavior="open-search"></button>
@@ -122,16 +122,16 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <time class="updated" datetime="2008-09-23T04:23:00+00:00">Tuesday, September 23, 2008</time>
     </div>
     <h1 class="title" >
-      <a href="index.html?p=1134">Hello again, finally.</a>
+      <a href="https://orangette.net/2008/09/hello-again-finally/">Hello again, finally.</a>
     </h1>
   </header>
   <div class="post-content" itemprop="articleBody">
     <p>It feels so good to say that.</p>
 <p>Thank you for your immensely kind comments last week, friends, and for waiting patiently while I plowed through a few deadlines.  It’s always so nice to come back to this space after a little while away.  It is also very nice, I hear, to sit on the couch with a good book and drink a beer.  I hope I still remember how to do that.  I also hope to clean the baseboards around our apartment sometime soon, because you would not <span style="font-style:italic;">believe</span> how much dust those things can accumulate.  Or maybe you would? Seriously.  They’re like little tiny shelves &#8211; Barbie™-sized, almost &#8211; only instead of holding useful objects like tiny plates or tiny books, they hold tiny dirt.</p>
 <p><span>Wow</span>.  It really is good to be back.</p>
-<p><a href="wp-content/uploads/2015/09/d1d61-polahoneyicecreamprep-11.jpg"><img decoding="async" src="wp-content/uploads/2015/09/d1d61-polahoneyicecreamprep-11.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5248912910595359858" border="0" /></a><br />Now, I don’t know if I mentioned this before, but my birthday took place recently, in the midst of all the hullabaloo.  It was a week ago yesterday, and it was my thirtieth.  I’m not sure how that could possibly be, but seeing as my birth certificate says 1978, I’ve decided to go with it.  Anyway, I don’t really mind the thought of entering another decade.  A number of people have told me that their thirties were a very peaceful time, mellow and forgiving, and I like the sound of that.  I’m ready.  I also think that my thirties might be the time for a pair of <a href="http://www.habitatshoes.com/see/farylrobin/silvia_">red heels</a>.  My grandmother loves red shoes &#8211; she says they go with everything &#8211; and I do have her genes, after all.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/d1d61-polahoneyicecreamprep-11.jpg"><img decoding="async" src="http://orangette.net/wp-content/uploads/2015/09/d1d61-polahoneyicecreamprep-11.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5248912910595359858" border="0" /></a><br />Now, I don’t know if I mentioned this before, but my birthday took place recently, in the midst of all the hullabaloo.  It was a week ago yesterday, and it was my thirtieth.  I’m not sure how that could possibly be, but seeing as my birth certificate says 1978, I’ve decided to go with it.  Anyway, I don’t really mind the thought of entering another decade.  A number of people have told me that their thirties were a very peaceful time, mellow and forgiving, and I like the sound of that.  I’m ready.  I also think that my thirties might be the time for a pair of <a href="http://www.habitatshoes.com/see/farylrobin/silvia_">red heels</a>.  My grandmother loves red shoes &#8211; she says they go with everything &#8211; and I do have her genes, after all.</p>
 <p>But what I really wanted to tell you about was what we ate that night, last Sunday night, the night of my birthday.  The refrigerator was almost empty, so we decided to go to <a href="http://www.cafelago.com/newlago/hours.html">Cafe Lago</a>.  It was late when we got there, and the kitchen was closing, but we managed to grab an order of ravioli and a serving of lasagna, along with a glass of prosecco for me and a beer for Brandon.  Our friend Carla was working that night, and she kept us company while we ate. But when our plates were cleared, she sneaked away &#8211; she’s very sneaky, that Carla &#8211; and a few minutes later, she emerged from the kitchen with a wide, flat bowl.  Inside it were two halves of a grilled peach, topped with a scoop of honey ice cream.</p>
-<p><a href="wp-content/uploads/2015/09/eaf67-polahoneyicecream1.jpg"><img decoding="async" src="wp-content/uploads/2015/09/eaf67-polahoneyicecream1.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5249004341451285330" border="0" /></a><br />Needless to say, we did not protest.  We picked up our spoons and dug in.  The peaches were warm and tender, having been cooked over apple wood until their juices went thick and sticky.  They were lovely, perfectly late-summer, but in truth, the ice cream was even better.  Sitting atop the fruit, it was melting quickly, forming a milky puddle at the bottom of the bowl, so we spooned it up like soup.  Then we scraped the bowl.  Even soft and half-melted, the ice cream was superlative: silky and delicate and surreally light, and faintly floral from the honey.  I asked Carla how she had made it, and she smiled a little sheepishly.  The recipe came from Alice Medrich, she said, and it was <span style="font-style:italic;">ridiculously</span> easy.  You just scald some milk, let it cool, stir in honey and salt and cream, and freeze it in an ice cream machine.  Ba daa!  The end. Happy birthday to me.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/eaf67-polahoneyicecream1.jpg"><img decoding="async" src="http://orangette.net/wp-content/uploads/2015/09/eaf67-polahoneyicecream1.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5249004341451285330" border="0" /></a><br />Needless to say, we did not protest.  We picked up our spoons and dug in.  The peaches were warm and tender, having been cooked over apple wood until their juices went thick and sticky.  They were lovely, perfectly late-summer, but in truth, the ice cream was even better.  Sitting atop the fruit, it was melting quickly, forming a milky puddle at the bottom of the bowl, so we spooned it up like soup.  Then we scraped the bowl.  Even soft and half-melted, the ice cream was superlative: silky and delicate and surreally light, and faintly floral from the honey.  I asked Carla how she had made it, and she smiled a little sheepishly.  The recipe came from Alice Medrich, she said, and it was <span style="font-style:italic;">ridiculously</span> easy.  You just scald some milk, let it cool, stir in honey and salt and cream, and freeze it in an ice cream machine.  Ba daa!  The end. Happy birthday to me.</p>
 <p>I made some yesterday, just to be sure that it really was that simple, and of course, it was.  Which is why I am telling you about it today.  So hurry up! Go make some.  And while you’re at it, maybe grill a few peaches to go alongside?  Or make a plum crisp?  Or how about a cornmeal cake?   Or no, wait, how about <span style="font-style:italic;">this</span>: bake a batch of ginger cookies &#8211; the soft, chewy kind with a crinkly top &#8211; and turn them into ice cream sandwiches.  I might even do that myself, come to think of it,  if the couch doesn’t claim me first.</p>
 <p><span style="font-weight:bold;">Honey Ice Cream</span><br />Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FPure-Dessert-Alice-Medrich%2Fdp%2F1579652115%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1222144669%26sr%3D8-1&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style:italic;">Pure Dessert</span></a>, by Alice Medrich</p>
 <p>The original version of this ice cream calls for ½ cup honey, but I found that to be a bit too intense and sweet.  I think, however, that it’s mainly a question of what type of honey you use.  I used blackberry honey, which has a fairly strong flavor.  If I had used something more dainty and mild, I think the result would have been more balanced.  So, that said, I guess I would recommend starting with a bit less honey, no matter what type you use.  Then taste and adjust to your liking.</p>
@@ -146,7 +146,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
           <a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Forangette.net%2F2008%2F09%2Fhello-again-finally%2F&t=Hello%20again%2C%20finally." onclick="window.open(this.href, 'facebook-share', 'width=580,height=300'); return false;" title="Facebook"></a>
           <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Forangette.net%2F2008%2F09%2Fhello-again-finally%2F&media=&description=Hello%20again%2C%20finally." data-pin-custom="true" title="Pinterest"></a></nav>
                   <nav class="navigation post-navigation left-nav" role="navigation">
-        <div class="left"><a href="index.html?p=1147" rel="prev">IOU</a></div>        <div class="right"><a href="index.html?p=1126" rel="next">On cue</a></div>      </nav>
+        <div class="left"><a href="https://orangette.net/2008/09/iou/" rel="prev">IOU</a></div>        <div class="right"><a href="https://orangette.net/2008/09/on-cue/" rel="next">On cue</a></div>      </nav>
       
 <section id="comments" class="comment-area">
       <h2 class="comment-area--title">Comments</h2>
@@ -155,7 +155,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         <li id="comment-13138" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.blairpeter.typepad.com" class="url" rel="ugc external nofollow">blair</a></cite></div>
-      <a href="index.html?p=1134#comment-13138"><time class="comment-time" datetime="2008-09-23T05:18:00-04:00">Tuesday, September 23, 2008 at 5:18 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13138"><time class="comment-time" datetime="2008-09-23T05:18:00-04:00">Tuesday, September 23, 2008 at 5:18 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -163,12 +163,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13138' data-commentid="13138" data-postid="1134" data-belowelement="comment-13138" data-respondelement="respond" data-replyto="Reply to blair" aria-label='Reply to blair'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13138' data-commentid="13138" data-postid="1134" data-belowelement="comment-13138" data-respondelement="respond" data-replyto="Reply to blair" aria-label='Reply to blair'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13139" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11906603744688924740" class="url" rel="ugc external nofollow">ash</a></cite></div>
-      <a href="index.html?p=1134#comment-13139"><time class="comment-time" datetime="2008-09-23T05:18:00-04:00">Tuesday, September 23, 2008 at 5:18 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13139"><time class="comment-time" datetime="2008-09-23T05:18:00-04:00">Tuesday, September 23, 2008 at 5:18 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -176,12 +176,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13139' data-commentid="13139" data-postid="1134" data-belowelement="comment-13139" data-respondelement="respond" data-replyto="Reply to ash" aria-label='Reply to ash'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13139' data-commentid="13139" data-postid="1134" data-belowelement="comment-13139" data-respondelement="respond" data-replyto="Reply to ash" aria-label='Reply to ash'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13140" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Emily J.</cite></div>
-      <a href="index.html?p=1134#comment-13140"><time class="comment-time" datetime="2008-09-23T06:13:00-04:00">Tuesday, September 23, 2008 at 6:13 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13140"><time class="comment-time" datetime="2008-09-23T06:13:00-04:00">Tuesday, September 23, 2008 at 6:13 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -189,12 +189,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13140' data-commentid="13140" data-postid="1134" data-belowelement="comment-13140" data-respondelement="respond" data-replyto="Reply to Emily J." aria-label='Reply to Emily J.'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13140' data-commentid="13140" data-postid="1134" data-belowelement="comment-13140" data-respondelement="respond" data-replyto="Reply to Emily J." aria-label='Reply to Emily J.'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13141" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17856149227289023374" class="url" rel="ugc external nofollow">Maggie</a></cite></div>
-      <a href="index.html?p=1134#comment-13141"><time class="comment-time" datetime="2008-09-23T06:40:00-04:00">Tuesday, September 23, 2008 at 6:40 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13141"><time class="comment-time" datetime="2008-09-23T06:40:00-04:00">Tuesday, September 23, 2008 at 6:40 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -202,12 +202,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13141' data-commentid="13141" data-postid="1134" data-belowelement="comment-13141" data-respondelement="respond" data-replyto="Reply to Maggie" aria-label='Reply to Maggie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13141' data-commentid="13141" data-postid="1134" data-belowelement="comment-13141" data-respondelement="respond" data-replyto="Reply to Maggie" aria-label='Reply to Maggie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13142" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/10484206064352654258" class="url" rel="ugc external nofollow">lottie</a></cite></div>
-      <a href="index.html?p=1134#comment-13142"><time class="comment-time" datetime="2008-09-23T06:49:00-04:00">Tuesday, September 23, 2008 at 6:49 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13142"><time class="comment-time" datetime="2008-09-23T06:49:00-04:00">Tuesday, September 23, 2008 at 6:49 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -215,12 +215,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13142' data-commentid="13142" data-postid="1134" data-belowelement="comment-13142" data-respondelement="respond" data-replyto="Reply to lottie" aria-label='Reply to lottie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13142' data-commentid="13142" data-postid="1134" data-belowelement="comment-13142" data-respondelement="respond" data-replyto="Reply to lottie" aria-label='Reply to lottie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13143" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01063182254948276379" class="url" rel="ugc external nofollow">Astrid</a></cite></div>
-      <a href="index.html?p=1134#comment-13143"><time class="comment-time" datetime="2008-09-23T07:38:00-04:00">Tuesday, September 23, 2008 at 7:38 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13143"><time class="comment-time" datetime="2008-09-23T07:38:00-04:00">Tuesday, September 23, 2008 at 7:38 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -228,12 +228,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13143' data-commentid="13143" data-postid="1134" data-belowelement="comment-13143" data-respondelement="respond" data-replyto="Reply to Astrid" aria-label='Reply to Astrid'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13143' data-commentid="13143" data-postid="1134" data-belowelement="comment-13143" data-respondelement="respond" data-replyto="Reply to Astrid" aria-label='Reply to Astrid'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13144" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12069825275231321637" class="url" rel="ugc external nofollow">Victoria</a></cite></div>
-      <a href="index.html?p=1134#comment-13144"><time class="comment-time" datetime="2008-09-23T08:08:00-04:00">Tuesday, September 23, 2008 at 8:08 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13144"><time class="comment-time" datetime="2008-09-23T08:08:00-04:00">Tuesday, September 23, 2008 at 8:08 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -241,12 +241,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13144' data-commentid="13144" data-postid="1134" data-belowelement="comment-13144" data-respondelement="respond" data-replyto="Reply to Victoria" aria-label='Reply to Victoria'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13144' data-commentid="13144" data-postid="1134" data-belowelement="comment-13144" data-respondelement="respond" data-replyto="Reply to Victoria" aria-label='Reply to Victoria'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13145" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00653763434441310867" class="url" rel="ugc external nofollow">Gemma</a></cite></div>
-      <a href="index.html?p=1134#comment-13145"><time class="comment-time" datetime="2008-09-23T08:46:00-04:00">Tuesday, September 23, 2008 at 8:46 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13145"><time class="comment-time" datetime="2008-09-23T08:46:00-04:00">Tuesday, September 23, 2008 at 8:46 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -254,12 +254,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13145' data-commentid="13145" data-postid="1134" data-belowelement="comment-13145" data-respondelement="respond" data-replyto="Reply to Gemma" aria-label='Reply to Gemma'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13145' data-commentid="13145" data-postid="1134" data-belowelement="comment-13145" data-respondelement="respond" data-replyto="Reply to Gemma" aria-label='Reply to Gemma'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13146" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://danamccauley.wordpress.com" class="url" rel="ugc external nofollow">Dana McCauley</a></cite></div>
-      <a href="index.html?p=1134#comment-13146"><time class="comment-time" datetime="2008-09-23T11:03:00-04:00">Tuesday, September 23, 2008 at 11:03 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13146"><time class="comment-time" datetime="2008-09-23T11:03:00-04:00">Tuesday, September 23, 2008 at 11:03 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -267,12 +267,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13146' data-commentid="13146" data-postid="1134" data-belowelement="comment-13146" data-respondelement="respond" data-replyto="Reply to Dana McCauley" aria-label='Reply to Dana McCauley'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13146' data-commentid="13146" data-postid="1134" data-belowelement="comment-13146" data-respondelement="respond" data-replyto="Reply to Dana McCauley" aria-label='Reply to Dana McCauley'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13147" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/09244939459354984129" class="url" rel="ugc external nofollow">heather smith jones</a></cite></div>
-      <a href="index.html?p=1134#comment-13147"><time class="comment-time" datetime="2008-09-23T11:56:00-04:00">Tuesday, September 23, 2008 at 11:56 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13147"><time class="comment-time" datetime="2008-09-23T11:56:00-04:00">Tuesday, September 23, 2008 at 11:56 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -280,12 +280,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13147' data-commentid="13147" data-postid="1134" data-belowelement="comment-13147" data-respondelement="respond" data-replyto="Reply to heather smith jones" aria-label='Reply to heather smith jones'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13147' data-commentid="13147" data-postid="1134" data-belowelement="comment-13147" data-respondelement="respond" data-replyto="Reply to heather smith jones" aria-label='Reply to heather smith jones'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13148" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Mel</cite></div>
-      <a href="index.html?p=1134#comment-13148"><time class="comment-time" datetime="2008-09-23T12:46:00-04:00">Tuesday, September 23, 2008 at 12:46 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13148"><time class="comment-time" datetime="2008-09-23T12:46:00-04:00">Tuesday, September 23, 2008 at 12:46 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -293,12 +293,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13148' data-commentid="13148" data-postid="1134" data-belowelement="comment-13148" data-respondelement="respond" data-replyto="Reply to Mel" aria-label='Reply to Mel'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13148' data-commentid="13148" data-postid="1134" data-belowelement="comment-13148" data-respondelement="respond" data-replyto="Reply to Mel" aria-label='Reply to Mel'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13149" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.rootsandgrubs.com" class="url" rel="ugc external nofollow">Laurie</a></cite></div>
-      <a href="index.html?p=1134#comment-13149"><time class="comment-time" datetime="2008-09-23T13:01:00-04:00">Tuesday, September 23, 2008 at 1:01 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13149"><time class="comment-time" datetime="2008-09-23T13:01:00-04:00">Tuesday, September 23, 2008 at 1:01 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -306,12 +306,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13149' data-commentid="13149" data-postid="1134" data-belowelement="comment-13149" data-respondelement="respond" data-replyto="Reply to Laurie" aria-label='Reply to Laurie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13149' data-commentid="13149" data-postid="1134" data-belowelement="comment-13149" data-respondelement="respond" data-replyto="Reply to Laurie" aria-label='Reply to Laurie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13150" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08640518727966455241" class="url" rel="ugc external nofollow">Susan Spracher Macaluso</a></cite></div>
-      <a href="index.html?p=1134#comment-13150"><time class="comment-time" datetime="2008-09-23T13:08:00-04:00">Tuesday, September 23, 2008 at 1:08 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13150"><time class="comment-time" datetime="2008-09-23T13:08:00-04:00">Tuesday, September 23, 2008 at 1:08 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -319,12 +319,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13150' data-commentid="13150" data-postid="1134" data-belowelement="comment-13150" data-respondelement="respond" data-replyto="Reply to Susan Spracher Macaluso" aria-label='Reply to Susan Spracher Macaluso'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13150' data-commentid="13150" data-postid="1134" data-belowelement="comment-13150" data-respondelement="respond" data-replyto="Reply to Susan Spracher Macaluso" aria-label='Reply to Susan Spracher Macaluso'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13151" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12530609592374250360" class="url" rel="ugc external nofollow">alexandra&amp;apos;s kitchen</a></cite></div>
-      <a href="index.html?p=1134#comment-13151"><time class="comment-time" datetime="2008-09-23T13:24:00-04:00">Tuesday, September 23, 2008 at 1:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13151"><time class="comment-time" datetime="2008-09-23T13:24:00-04:00">Tuesday, September 23, 2008 at 1:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -332,12 +332,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13151' data-commentid="13151" data-postid="1134" data-belowelement="comment-13151" data-respondelement="respond" data-replyto="Reply to alexandra&amp;apos;s kitchen" aria-label='Reply to alexandra&amp;apos;s kitchen'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13151' data-commentid="13151" data-postid="1134" data-belowelement="comment-13151" data-respondelement="respond" data-replyto="Reply to alexandra&amp;apos;s kitchen" aria-label='Reply to alexandra&amp;apos;s kitchen'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-43928" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12530609592374250360" class="url" rel="ugc external nofollow">alexandra&amp;apos;s kitchen</a></cite></div>
-      <a href="index.html?p=1134#comment-43928"><time class="comment-time" datetime="2008-09-23T13:24:00-04:00">Tuesday, September 23, 2008 at 1:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-43928"><time class="comment-time" datetime="2008-09-23T13:24:00-04:00">Tuesday, September 23, 2008 at 1:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -345,12 +345,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-43928' data-commentid="43928" data-postid="1134" data-belowelement="comment-43928" data-respondelement="respond" data-replyto="Reply to alexandra&amp;apos;s kitchen" aria-label='Reply to alexandra&amp;apos;s kitchen'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-43928' data-commentid="43928" data-postid="1134" data-belowelement="comment-43928" data-respondelement="respond" data-replyto="Reply to alexandra&amp;apos;s kitchen" aria-label='Reply to alexandra&amp;apos;s kitchen'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13152" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/04548578181174543021" class="url" rel="ugc external nofollow">maggie</a></cite></div>
-      <a href="index.html?p=1134#comment-13152"><time class="comment-time" datetime="2008-09-23T13:36:00-04:00">Tuesday, September 23, 2008 at 1:36 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13152"><time class="comment-time" datetime="2008-09-23T13:36:00-04:00">Tuesday, September 23, 2008 at 1:36 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -358,12 +358,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13152' data-commentid="13152" data-postid="1134" data-belowelement="comment-13152" data-respondelement="respond" data-replyto="Reply to maggie" aria-label='Reply to maggie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13152' data-commentid="13152" data-postid="1134" data-belowelement="comment-13152" data-respondelement="respond" data-replyto="Reply to maggie" aria-label='Reply to maggie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13153" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/04604043603331696042" class="url" rel="ugc external nofollow">Mary</a></cite></div>
-      <a href="index.html?p=1134#comment-13153"><time class="comment-time" datetime="2008-09-23T13:52:00-04:00">Tuesday, September 23, 2008 at 1:52 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13153"><time class="comment-time" datetime="2008-09-23T13:52:00-04:00">Tuesday, September 23, 2008 at 1:52 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -371,12 +371,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13153' data-commentid="13153" data-postid="1134" data-belowelement="comment-13153" data-respondelement="respond" data-replyto="Reply to Mary" aria-label='Reply to Mary'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13153' data-commentid="13153" data-postid="1134" data-belowelement="comment-13153" data-respondelement="respond" data-replyto="Reply to Mary" aria-label='Reply to Mary'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13154" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12198436879038391267" class="url" rel="ugc external nofollow">Adrienne</a></cite></div>
-      <a href="index.html?p=1134#comment-13154"><time class="comment-time" datetime="2008-09-23T13:54:00-04:00">Tuesday, September 23, 2008 at 1:54 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13154"><time class="comment-time" datetime="2008-09-23T13:54:00-04:00">Tuesday, September 23, 2008 at 1:54 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -384,12 +384,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13154' data-commentid="13154" data-postid="1134" data-belowelement="comment-13154" data-respondelement="respond" data-replyto="Reply to Adrienne" aria-label='Reply to Adrienne'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13154' data-commentid="13154" data-postid="1134" data-belowelement="comment-13154" data-respondelement="respond" data-replyto="Reply to Adrienne" aria-label='Reply to Adrienne'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13155" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05375293685586497432" class="url" rel="ugc external nofollow">hannah</a></cite></div>
-      <a href="index.html?p=1134#comment-13155"><time class="comment-time" datetime="2008-09-23T14:02:00-04:00">Tuesday, September 23, 2008 at 2:02 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13155"><time class="comment-time" datetime="2008-09-23T14:02:00-04:00">Tuesday, September 23, 2008 at 2:02 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -397,12 +397,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13155' data-commentid="13155" data-postid="1134" data-belowelement="comment-13155" data-respondelement="respond" data-replyto="Reply to hannah" aria-label='Reply to hannah'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13155' data-commentid="13155" data-postid="1134" data-belowelement="comment-13155" data-respondelement="respond" data-replyto="Reply to hannah" aria-label='Reply to hannah'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13156" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://lisaiscooking.blogspot.com/" class="url" rel="ugc external nofollow">lisa</a></cite></div>
-      <a href="index.html?p=1134#comment-13156"><time class="comment-time" datetime="2008-09-23T14:30:00-04:00">Tuesday, September 23, 2008 at 2:30 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13156"><time class="comment-time" datetime="2008-09-23T14:30:00-04:00">Tuesday, September 23, 2008 at 2:30 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -410,12 +410,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13156' data-commentid="13156" data-postid="1134" data-belowelement="comment-13156" data-respondelement="respond" data-replyto="Reply to lisa" aria-label='Reply to lisa'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13156' data-commentid="13156" data-postid="1134" data-belowelement="comment-13156" data-respondelement="respond" data-replyto="Reply to lisa" aria-label='Reply to lisa'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13157" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://p2ppress.visualblogging.com" class="url" rel="ugc external nofollow">mav</a></cite></div>
-      <a href="index.html?p=1134#comment-13157"><time class="comment-time" datetime="2008-09-23T14:30:00-04:00">Tuesday, September 23, 2008 at 2:30 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13157"><time class="comment-time" datetime="2008-09-23T14:30:00-04:00">Tuesday, September 23, 2008 at 2:30 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -423,12 +423,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13157' data-commentid="13157" data-postid="1134" data-belowelement="comment-13157" data-respondelement="respond" data-replyto="Reply to mav" aria-label='Reply to mav'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13157' data-commentid="13157" data-postid="1134" data-belowelement="comment-13157" data-respondelement="respond" data-replyto="Reply to mav" aria-label='Reply to mav'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13158" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01059572329081628835" class="url" rel="ugc external nofollow">anita</a></cite></div>
-      <a href="index.html?p=1134#comment-13158"><time class="comment-time" datetime="2008-09-23T14:45:00-04:00">Tuesday, September 23, 2008 at 2:45 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13158"><time class="comment-time" datetime="2008-09-23T14:45:00-04:00">Tuesday, September 23, 2008 at 2:45 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -436,12 +436,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13158' data-commentid="13158" data-postid="1134" data-belowelement="comment-13158" data-respondelement="respond" data-replyto="Reply to anita" aria-label='Reply to anita'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13158' data-commentid="13158" data-postid="1134" data-belowelement="comment-13158" data-respondelement="respond" data-replyto="Reply to anita" aria-label='Reply to anita'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13159" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1134#comment-13159"><time class="comment-time" datetime="2008-09-23T14:47:00-04:00">Tuesday, September 23, 2008 at 2:47 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13159"><time class="comment-time" datetime="2008-09-23T14:47:00-04:00">Tuesday, September 23, 2008 at 2:47 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -449,12 +449,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13159' data-commentid="13159" data-postid="1134" data-belowelement="comment-13159" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13159' data-commentid="13159" data-postid="1134" data-belowelement="comment-13159" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13160" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07058340175438627669" class="url" rel="ugc external nofollow">Lisa</a></cite></div>
-      <a href="index.html?p=1134#comment-13160"><time class="comment-time" datetime="2008-09-23T14:49:00-04:00">Tuesday, September 23, 2008 at 2:49 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13160"><time class="comment-time" datetime="2008-09-23T14:49:00-04:00">Tuesday, September 23, 2008 at 2:49 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -462,12 +462,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13160' data-commentid="13160" data-postid="1134" data-belowelement="comment-13160" data-respondelement="respond" data-replyto="Reply to Lisa" aria-label='Reply to Lisa'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13160' data-commentid="13160" data-postid="1134" data-belowelement="comment-13160" data-respondelement="respond" data-replyto="Reply to Lisa" aria-label='Reply to Lisa'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13161" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/18373641395097947589" class="url" rel="ugc external nofollow">kgr</a></cite></div>
-      <a href="index.html?p=1134#comment-13161"><time class="comment-time" datetime="2008-09-23T14:49:00-04:00">Tuesday, September 23, 2008 at 2:49 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13161"><time class="comment-time" datetime="2008-09-23T14:49:00-04:00">Tuesday, September 23, 2008 at 2:49 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -475,12 +475,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13161' data-commentid="13161" data-postid="1134" data-belowelement="comment-13161" data-respondelement="respond" data-replyto="Reply to kgr" aria-label='Reply to kgr'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13161' data-commentid="13161" data-postid="1134" data-belowelement="comment-13161" data-respondelement="respond" data-replyto="Reply to kgr" aria-label='Reply to kgr'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13162" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16474153316588551039" class="url" rel="ugc external nofollow">Zoomie</a></cite></div>
-      <a href="index.html?p=1134#comment-13162"><time class="comment-time" datetime="2008-09-23T15:28:00-04:00">Tuesday, September 23, 2008 at 3:28 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13162"><time class="comment-time" datetime="2008-09-23T15:28:00-04:00">Tuesday, September 23, 2008 at 3:28 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -488,12 +488,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13162' data-commentid="13162" data-postid="1134" data-belowelement="comment-13162" data-respondelement="respond" data-replyto="Reply to Zoomie" aria-label='Reply to Zoomie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13162' data-commentid="13162" data-postid="1134" data-belowelement="comment-13162" data-respondelement="respond" data-replyto="Reply to Zoomie" aria-label='Reply to Zoomie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13163" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://hande.wordpress.com/" class="url" rel="ugc external nofollow">Hande</a></cite></div>
-      <a href="index.html?p=1134#comment-13163"><time class="comment-time" datetime="2008-09-23T15:44:00-04:00">Tuesday, September 23, 2008 at 3:44 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13163"><time class="comment-time" datetime="2008-09-23T15:44:00-04:00">Tuesday, September 23, 2008 at 3:44 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -501,12 +501,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13163' data-commentid="13163" data-postid="1134" data-belowelement="comment-13163" data-respondelement="respond" data-replyto="Reply to Hande" aria-label='Reply to Hande'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13163' data-commentid="13163" data-postid="1134" data-belowelement="comment-13163" data-respondelement="respond" data-replyto="Reply to Hande" aria-label='Reply to Hande'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13164" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://myland.typepad.com" class="url" rel="ugc external nofollow">amy h</a></cite></div>
-      <a href="index.html?p=1134#comment-13164"><time class="comment-time" datetime="2008-09-23T16:24:00-04:00">Tuesday, September 23, 2008 at 4:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13164"><time class="comment-time" datetime="2008-09-23T16:24:00-04:00">Tuesday, September 23, 2008 at 4:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -514,12 +514,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13164' data-commentid="13164" data-postid="1134" data-belowelement="comment-13164" data-respondelement="respond" data-replyto="Reply to amy h" aria-label='Reply to amy h'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13164' data-commentid="13164" data-postid="1134" data-belowelement="comment-13164" data-respondelement="respond" data-replyto="Reply to amy h" aria-label='Reply to amy h'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13165" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14100246167922097033" class="url" rel="ugc external nofollow">Lizzie</a></cite></div>
-      <a href="index.html?p=1134#comment-13165"><time class="comment-time" datetime="2008-09-23T16:38:00-04:00">Tuesday, September 23, 2008 at 4:38 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13165"><time class="comment-time" datetime="2008-09-23T16:38:00-04:00">Tuesday, September 23, 2008 at 4:38 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -527,12 +527,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13165' data-commentid="13165" data-postid="1134" data-belowelement="comment-13165" data-respondelement="respond" data-replyto="Reply to Lizzie" aria-label='Reply to Lizzie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13165' data-commentid="13165" data-postid="1134" data-belowelement="comment-13165" data-respondelement="respond" data-replyto="Reply to Lizzie" aria-label='Reply to Lizzie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13166" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01778609851405529676" class="url" rel="ugc external nofollow">ღღ Š î $↕ Ŧ ۞ ღღ</a></cite></div>
-      <a href="index.html?p=1134#comment-13166"><time class="comment-time" datetime="2008-09-23T16:42:00-04:00">Tuesday, September 23, 2008 at 4:42 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13166"><time class="comment-time" datetime="2008-09-23T16:42:00-04:00">Tuesday, September 23, 2008 at 4:42 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -540,12 +540,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13166' data-commentid="13166" data-postid="1134" data-belowelement="comment-13166" data-respondelement="respond" data-replyto="Reply to ღღ Š î $↕ Ŧ ۞ ღღ" aria-label='Reply to ღღ Š î $↕ Ŧ ۞ ღღ'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13166' data-commentid="13166" data-postid="1134" data-belowelement="comment-13166" data-respondelement="respond" data-replyto="Reply to ღღ Š î $↕ Ŧ ۞ ღღ" aria-label='Reply to ღღ Š î $↕ Ŧ ۞ ღღ'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13167" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/18357930679694220549" class="url" rel="ugc external nofollow">Just Jen</a></cite></div>
-      <a href="index.html?p=1134#comment-13167"><time class="comment-time" datetime="2008-09-23T17:03:00-04:00">Tuesday, September 23, 2008 at 5:03 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13167"><time class="comment-time" datetime="2008-09-23T17:03:00-04:00">Tuesday, September 23, 2008 at 5:03 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -553,12 +553,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13167' data-commentid="13167" data-postid="1134" data-belowelement="comment-13167" data-respondelement="respond" data-replyto="Reply to Just Jen" aria-label='Reply to Just Jen'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13167' data-commentid="13167" data-postid="1134" data-belowelement="comment-13167" data-respondelement="respond" data-replyto="Reply to Just Jen" aria-label='Reply to Just Jen'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13168" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05441908955945141424" class="url" rel="ugc external nofollow">chef-renee</a></cite></div>
-      <a href="index.html?p=1134#comment-13168"><time class="comment-time" datetime="2008-09-23T17:16:00-04:00">Tuesday, September 23, 2008 at 5:16 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13168"><time class="comment-time" datetime="2008-09-23T17:16:00-04:00">Tuesday, September 23, 2008 at 5:16 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -566,12 +566,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13168' data-commentid="13168" data-postid="1134" data-belowelement="comment-13168" data-respondelement="respond" data-replyto="Reply to chef-renee" aria-label='Reply to chef-renee'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13168' data-commentid="13168" data-postid="1134" data-belowelement="comment-13168" data-respondelement="respond" data-replyto="Reply to chef-renee" aria-label='Reply to chef-renee'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13169" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08640518727966455241" class="url" rel="ugc external nofollow">Warm Bunny</a></cite></div>
-      <a href="index.html?p=1134#comment-13169"><time class="comment-time" datetime="2008-09-23T18:28:00-04:00">Tuesday, September 23, 2008 at 6:28 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13169"><time class="comment-time" datetime="2008-09-23T18:28:00-04:00">Tuesday, September 23, 2008 at 6:28 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -579,12 +579,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13169' data-commentid="13169" data-postid="1134" data-belowelement="comment-13169" data-respondelement="respond" data-replyto="Reply to Warm Bunny" aria-label='Reply to Warm Bunny'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13169' data-commentid="13169" data-postid="1134" data-belowelement="comment-13169" data-respondelement="respond" data-replyto="Reply to Warm Bunny" aria-label='Reply to Warm Bunny'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13170" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://chewonthatblog.com" class="url" rel="ugc external nofollow">Hillary</a></cite></div>
-      <a href="index.html?p=1134#comment-13170"><time class="comment-time" datetime="2008-09-23T20:09:00-04:00">Tuesday, September 23, 2008 at 8:09 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13170"><time class="comment-time" datetime="2008-09-23T20:09:00-04:00">Tuesday, September 23, 2008 at 8:09 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -592,12 +592,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13170' data-commentid="13170" data-postid="1134" data-belowelement="comment-13170" data-respondelement="respond" data-replyto="Reply to Hillary" aria-label='Reply to Hillary'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13170' data-commentid="13170" data-postid="1134" data-belowelement="comment-13170" data-respondelement="respond" data-replyto="Reply to Hillary" aria-label='Reply to Hillary'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13171" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13181577253486355574" class="url" rel="ugc external nofollow">Beth</a></cite></div>
-      <a href="index.html?p=1134#comment-13171"><time class="comment-time" datetime="2008-09-23T21:00:00-04:00">Tuesday, September 23, 2008 at 9:00 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13171"><time class="comment-time" datetime="2008-09-23T21:00:00-04:00">Tuesday, September 23, 2008 at 9:00 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -605,12 +605,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13171' data-commentid="13171" data-postid="1134" data-belowelement="comment-13171" data-respondelement="respond" data-replyto="Reply to Beth" aria-label='Reply to Beth'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13171' data-commentid="13171" data-postid="1134" data-belowelement="comment-13171" data-respondelement="respond" data-replyto="Reply to Beth" aria-label='Reply to Beth'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13172" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.wetakeiteasy.com" class="url" rel="ugc external nofollow">Gracia</a></cite></div>
-      <a href="index.html?p=1134#comment-13172"><time class="comment-time" datetime="2008-09-23T21:59:00-04:00">Tuesday, September 23, 2008 at 9:59 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13172"><time class="comment-time" datetime="2008-09-23T21:59:00-04:00">Tuesday, September 23, 2008 at 9:59 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -618,12 +618,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13172' data-commentid="13172" data-postid="1134" data-belowelement="comment-13172" data-respondelement="respond" data-replyto="Reply to Gracia" aria-label='Reply to Gracia'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13172' data-commentid="13172" data-postid="1134" data-belowelement="comment-13172" data-respondelement="respond" data-replyto="Reply to Gracia" aria-label='Reply to Gracia'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13173" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/09655137183746112080" class="url" rel="ugc external nofollow">Sarah McColl</a></cite></div>
-      <a href="index.html?p=1134#comment-13173"><time class="comment-time" datetime="2008-09-23T22:10:00-04:00">Tuesday, September 23, 2008 at 10:10 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13173"><time class="comment-time" datetime="2008-09-23T22:10:00-04:00">Tuesday, September 23, 2008 at 10:10 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -631,12 +631,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13173' data-commentid="13173" data-postid="1134" data-belowelement="comment-13173" data-respondelement="respond" data-replyto="Reply to Sarah McColl" aria-label='Reply to Sarah McColl'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13173' data-commentid="13173" data-postid="1134" data-belowelement="comment-13173" data-respondelement="respond" data-replyto="Reply to Sarah McColl" aria-label='Reply to Sarah McColl'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13174" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/10795119468340273821" class="url" rel="ugc external nofollow">Tea</a></cite></div>
-      <a href="index.html?p=1134#comment-13174"><time class="comment-time" datetime="2008-09-23T22:20:00-04:00">Tuesday, September 23, 2008 at 10:20 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13174"><time class="comment-time" datetime="2008-09-23T22:20:00-04:00">Tuesday, September 23, 2008 at 10:20 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -644,12 +644,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13174' data-commentid="13174" data-postid="1134" data-belowelement="comment-13174" data-respondelement="respond" data-replyto="Reply to Tea" aria-label='Reply to Tea'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13174' data-commentid="13174" data-postid="1134" data-belowelement="comment-13174" data-respondelement="respond" data-replyto="Reply to Tea" aria-label='Reply to Tea'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13175" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05784213169853209167" class="url" rel="ugc external nofollow">nicole</a></cite></div>
-      <a href="index.html?p=1134#comment-13175"><time class="comment-time" datetime="2008-09-23T22:22:00-04:00">Tuesday, September 23, 2008 at 10:22 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13175"><time class="comment-time" datetime="2008-09-23T22:22:00-04:00">Tuesday, September 23, 2008 at 10:22 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -657,12 +657,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13175' data-commentid="13175" data-postid="1134" data-belowelement="comment-13175" data-respondelement="respond" data-replyto="Reply to nicole" aria-label='Reply to nicole'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13175' data-commentid="13175" data-postid="1134" data-belowelement="comment-13175" data-respondelement="respond" data-replyto="Reply to nicole" aria-label='Reply to nicole'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13176" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15244914405050828277" class="url" rel="ugc external nofollow">Jillian</a></cite></div>
-      <a href="index.html?p=1134#comment-13176"><time class="comment-time" datetime="2008-09-24T00:26:00-04:00">Wednesday, September 24, 2008 at 12:26 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13176"><time class="comment-time" datetime="2008-09-24T00:26:00-04:00">Wednesday, September 24, 2008 at 12:26 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -670,12 +670,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13176' data-commentid="13176" data-postid="1134" data-belowelement="comment-13176" data-respondelement="respond" data-replyto="Reply to Jillian" aria-label='Reply to Jillian'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13176' data-commentid="13176" data-postid="1134" data-belowelement="comment-13176" data-respondelement="respond" data-replyto="Reply to Jillian" aria-label='Reply to Jillian'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13177" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1134#comment-13177"><time class="comment-time" datetime="2008-09-24T01:38:00-04:00">Wednesday, September 24, 2008 at 1:38 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13177"><time class="comment-time" datetime="2008-09-24T01:38:00-04:00">Wednesday, September 24, 2008 at 1:38 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -683,12 +683,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13177' data-commentid="13177" data-postid="1134" data-belowelement="comment-13177" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13177' data-commentid="13177" data-postid="1134" data-belowelement="comment-13177" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13178" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05153910403783107480" class="url" rel="ugc external nofollow">amisha</a></cite></div>
-      <a href="index.html?p=1134#comment-13178"><time class="comment-time" datetime="2008-09-24T02:25:00-04:00">Wednesday, September 24, 2008 at 2:25 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13178"><time class="comment-time" datetime="2008-09-24T02:25:00-04:00">Wednesday, September 24, 2008 at 2:25 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -696,12 +696,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13178' data-commentid="13178" data-postid="1134" data-belowelement="comment-13178" data-respondelement="respond" data-replyto="Reply to amisha" aria-label='Reply to amisha'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13178' data-commentid="13178" data-postid="1134" data-belowelement="comment-13178" data-respondelement="respond" data-replyto="Reply to amisha" aria-label='Reply to amisha'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13179" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/09539720277859555024" class="url" rel="ugc external nofollow">Foodie</a></cite></div>
-      <a href="index.html?p=1134#comment-13179"><time class="comment-time" datetime="2008-09-24T02:48:00-04:00">Wednesday, September 24, 2008 at 2:48 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13179"><time class="comment-time" datetime="2008-09-24T02:48:00-04:00">Wednesday, September 24, 2008 at 2:48 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -709,12 +709,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13179' data-commentid="13179" data-postid="1134" data-belowelement="comment-13179" data-respondelement="respond" data-replyto="Reply to Foodie" aria-label='Reply to Foodie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13179' data-commentid="13179" data-postid="1134" data-belowelement="comment-13179" data-respondelement="respond" data-replyto="Reply to Foodie" aria-label='Reply to Foodie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13180" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12966494025294623276" class="url" rel="ugc external nofollow">shari</a></cite></div>
-      <a href="index.html?p=1134#comment-13180"><time class="comment-time" datetime="2008-09-24T12:28:00-04:00">Wednesday, September 24, 2008 at 12:28 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13180"><time class="comment-time" datetime="2008-09-24T12:28:00-04:00">Wednesday, September 24, 2008 at 12:28 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -722,12 +722,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13180' data-commentid="13180" data-postid="1134" data-belowelement="comment-13180" data-respondelement="respond" data-replyto="Reply to shari" aria-label='Reply to shari'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13180' data-commentid="13180" data-postid="1134" data-belowelement="comment-13180" data-respondelement="respond" data-replyto="Reply to shari" aria-label='Reply to shari'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13181" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/03334937267441477469" class="url" rel="ugc external nofollow">kmb</a></cite></div>
-      <a href="index.html?p=1134#comment-13181"><time class="comment-time" datetime="2008-09-24T14:16:00-04:00">Wednesday, September 24, 2008 at 2:16 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13181"><time class="comment-time" datetime="2008-09-24T14:16:00-04:00">Wednesday, September 24, 2008 at 2:16 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -735,12 +735,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13181' data-commentid="13181" data-postid="1134" data-belowelement="comment-13181" data-respondelement="respond" data-replyto="Reply to kmb" aria-label='Reply to kmb'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13181' data-commentid="13181" data-postid="1134" data-belowelement="comment-13181" data-respondelement="respond" data-replyto="Reply to kmb" aria-label='Reply to kmb'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13182" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17773428182105442661" class="url" rel="ugc external nofollow">jackie</a></cite></div>
-      <a href="index.html?p=1134#comment-13182"><time class="comment-time" datetime="2008-09-24T14:25:00-04:00">Wednesday, September 24, 2008 at 2:25 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13182"><time class="comment-time" datetime="2008-09-24T14:25:00-04:00">Wednesday, September 24, 2008 at 2:25 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -748,12 +748,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13182' data-commentid="13182" data-postid="1134" data-belowelement="comment-13182" data-respondelement="respond" data-replyto="Reply to jackie" aria-label='Reply to jackie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13182' data-commentid="13182" data-postid="1134" data-belowelement="comment-13182" data-respondelement="respond" data-replyto="Reply to jackie" aria-label='Reply to jackie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13183" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13552721454371060936" class="url" rel="ugc external nofollow">Cheryl A</a></cite></div>
-      <a href="index.html?p=1134#comment-13183"><time class="comment-time" datetime="2008-09-24T17:15:00-04:00">Wednesday, September 24, 2008 at 5:15 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13183"><time class="comment-time" datetime="2008-09-24T17:15:00-04:00">Wednesday, September 24, 2008 at 5:15 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -761,12 +761,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13183' data-commentid="13183" data-postid="1134" data-belowelement="comment-13183" data-respondelement="respond" data-replyto="Reply to Cheryl A" aria-label='Reply to Cheryl A'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13183' data-commentid="13183" data-postid="1134" data-belowelement="comment-13183" data-respondelement="respond" data-replyto="Reply to Cheryl A" aria-label='Reply to Cheryl A'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-43929" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13552721454371060936" class="url" rel="ugc external nofollow">Cheryl A</a></cite></div>
-      <a href="index.html?p=1134#comment-43929"><time class="comment-time" datetime="2008-09-24T17:15:00-04:00">Wednesday, September 24, 2008 at 5:15 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-43929"><time class="comment-time" datetime="2008-09-24T17:15:00-04:00">Wednesday, September 24, 2008 at 5:15 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -774,12 +774,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-43929' data-commentid="43929" data-postid="1134" data-belowelement="comment-43929" data-respondelement="respond" data-replyto="Reply to Cheryl A" aria-label='Reply to Cheryl A'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-43929' data-commentid="43929" data-postid="1134" data-belowelement="comment-43929" data-respondelement="respond" data-replyto="Reply to Cheryl A" aria-label='Reply to Cheryl A'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13184" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://theendivechronicles.com/" class="url" rel="ugc external nofollow">Erin</a></cite></div>
-      <a href="index.html?p=1134#comment-13184"><time class="comment-time" datetime="2008-09-24T20:21:00-04:00">Wednesday, September 24, 2008 at 8:21 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13184"><time class="comment-time" datetime="2008-09-24T20:21:00-04:00">Wednesday, September 24, 2008 at 8:21 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -787,12 +787,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13184' data-commentid="13184" data-postid="1134" data-belowelement="comment-13184" data-respondelement="respond" data-replyto="Reply to Erin" aria-label='Reply to Erin'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13184' data-commentid="13184" data-postid="1134" data-belowelement="comment-13184" data-respondelement="respond" data-replyto="Reply to Erin" aria-label='Reply to Erin'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13185" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/06616267341650445312" class="url" rel="ugc external nofollow">kickpleat</a></cite></div>
-      <a href="index.html?p=1134#comment-13185"><time class="comment-time" datetime="2008-09-24T21:33:00-04:00">Wednesday, September 24, 2008 at 9:33 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13185"><time class="comment-time" datetime="2008-09-24T21:33:00-04:00">Wednesday, September 24, 2008 at 9:33 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -800,12 +800,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13185' data-commentid="13185" data-postid="1134" data-belowelement="comment-13185" data-respondelement="respond" data-replyto="Reply to kickpleat" aria-label='Reply to kickpleat'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13185' data-commentid="13185" data-postid="1134" data-belowelement="comment-13185" data-respondelement="respond" data-replyto="Reply to kickpleat" aria-label='Reply to kickpleat'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13186" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.spicedish.typepad.com" class="url" rel="ugc external nofollow">EB</a></cite></div>
-      <a href="index.html?p=1134#comment-13186"><time class="comment-time" datetime="2008-09-24T23:05:00-04:00">Wednesday, September 24, 2008 at 11:05 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13186"><time class="comment-time" datetime="2008-09-24T23:05:00-04:00">Wednesday, September 24, 2008 at 11:05 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -813,12 +813,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13186' data-commentid="13186" data-postid="1134" data-belowelement="comment-13186" data-respondelement="respond" data-replyto="Reply to EB" aria-label='Reply to EB'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13186' data-commentid="13186" data-postid="1134" data-belowelement="comment-13186" data-respondelement="respond" data-replyto="Reply to EB" aria-label='Reply to EB'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13187" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11857727104777522497" class="url" rel="ugc external nofollow">The Fabulous One</a></cite></div>
-      <a href="index.html?p=1134#comment-13187"><time class="comment-time" datetime="2008-09-25T01:39:00-04:00">Thursday, September 25, 2008 at 1:39 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13187"><time class="comment-time" datetime="2008-09-25T01:39:00-04:00">Thursday, September 25, 2008 at 1:39 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -826,12 +826,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13187' data-commentid="13187" data-postid="1134" data-belowelement="comment-13187" data-respondelement="respond" data-replyto="Reply to The Fabulous One" aria-label='Reply to The Fabulous One'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13187' data-commentid="13187" data-postid="1134" data-belowelement="comment-13187" data-respondelement="respond" data-replyto="Reply to The Fabulous One" aria-label='Reply to The Fabulous One'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13188" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13165462410726380715" class="url" rel="ugc external nofollow">Lael</a></cite></div>
-      <a href="index.html?p=1134#comment-13188"><time class="comment-time" datetime="2008-09-25T01:47:00-04:00">Thursday, September 25, 2008 at 1:47 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13188"><time class="comment-time" datetime="2008-09-25T01:47:00-04:00">Thursday, September 25, 2008 at 1:47 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -839,12 +839,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13188' data-commentid="13188" data-postid="1134" data-belowelement="comment-13188" data-respondelement="respond" data-replyto="Reply to Lael" aria-label='Reply to Lael'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13188' data-commentid="13188" data-postid="1134" data-belowelement="comment-13188" data-respondelement="respond" data-replyto="Reply to Lael" aria-label='Reply to Lael'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13189" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">wahine13</cite></div>
-      <a href="index.html?p=1134#comment-13189"><time class="comment-time" datetime="2008-09-25T01:52:00-04:00">Thursday, September 25, 2008 at 1:52 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13189"><time class="comment-time" datetime="2008-09-25T01:52:00-04:00">Thursday, September 25, 2008 at 1:52 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -852,12 +852,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13189' data-commentid="13189" data-postid="1134" data-belowelement="comment-13189" data-respondelement="respond" data-replyto="Reply to wahine13" aria-label='Reply to wahine13'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13189' data-commentid="13189" data-postid="1134" data-belowelement="comment-13189" data-respondelement="respond" data-replyto="Reply to wahine13" aria-label='Reply to wahine13'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13190" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Rachel</cite></div>
-      <a href="index.html?p=1134#comment-13190"><time class="comment-time" datetime="2008-09-25T02:54:00-04:00">Thursday, September 25, 2008 at 2:54 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13190"><time class="comment-time" datetime="2008-09-25T02:54:00-04:00">Thursday, September 25, 2008 at 2:54 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -865,12 +865,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13190' data-commentid="13190" data-postid="1134" data-belowelement="comment-13190" data-respondelement="respond" data-replyto="Reply to Rachel" aria-label='Reply to Rachel'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13190' data-commentid="13190" data-postid="1134" data-belowelement="comment-13190" data-respondelement="respond" data-replyto="Reply to Rachel" aria-label='Reply to Rachel'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13191" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07731192226758265928" class="url" rel="ugc external nofollow">Rachel</a></cite></div>
-      <a href="index.html?p=1134#comment-13191"><time class="comment-time" datetime="2008-09-25T15:29:00-04:00">Thursday, September 25, 2008 at 3:29 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13191"><time class="comment-time" datetime="2008-09-25T15:29:00-04:00">Thursday, September 25, 2008 at 3:29 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -878,12 +878,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13191' data-commentid="13191" data-postid="1134" data-belowelement="comment-13191" data-respondelement="respond" data-replyto="Reply to Rachel" aria-label='Reply to Rachel'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13191' data-commentid="13191" data-postid="1134" data-belowelement="comment-13191" data-respondelement="respond" data-replyto="Reply to Rachel" aria-label='Reply to Rachel'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13192" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14197941729065664394" class="url" rel="ugc external nofollow">Lindsey</a></cite></div>
-      <a href="index.html?p=1134#comment-13192"><time class="comment-time" datetime="2008-09-25T15:53:00-04:00">Thursday, September 25, 2008 at 3:53 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13192"><time class="comment-time" datetime="2008-09-25T15:53:00-04:00">Thursday, September 25, 2008 at 3:53 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -891,12 +891,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13192' data-commentid="13192" data-postid="1134" data-belowelement="comment-13192" data-respondelement="respond" data-replyto="Reply to Lindsey" aria-label='Reply to Lindsey'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13192' data-commentid="13192" data-postid="1134" data-belowelement="comment-13192" data-respondelement="respond" data-replyto="Reply to Lindsey" aria-label='Reply to Lindsey'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13193" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.fromargentinawithlove.typepad.com" class="url" rel="ugc external nofollow">Rebecca</a></cite></div>
-      <a href="index.html?p=1134#comment-13193"><time class="comment-time" datetime="2008-09-25T19:35:00-04:00">Thursday, September 25, 2008 at 7:35 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13193"><time class="comment-time" datetime="2008-09-25T19:35:00-04:00">Thursday, September 25, 2008 at 7:35 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -904,12 +904,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13193' data-commentid="13193" data-postid="1134" data-belowelement="comment-13193" data-respondelement="respond" data-replyto="Reply to Rebecca" aria-label='Reply to Rebecca'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13193' data-commentid="13193" data-postid="1134" data-belowelement="comment-13193" data-respondelement="respond" data-replyto="Reply to Rebecca" aria-label='Reply to Rebecca'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13194" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/18324379926724874629" class="url" rel="ugc external nofollow">Maria</a></cite></div>
-      <a href="index.html?p=1134#comment-13194"><time class="comment-time" datetime="2008-09-25T21:13:00-04:00">Thursday, September 25, 2008 at 9:13 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13194"><time class="comment-time" datetime="2008-09-25T21:13:00-04:00">Thursday, September 25, 2008 at 9:13 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -917,12 +917,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13194' data-commentid="13194" data-postid="1134" data-belowelement="comment-13194" data-respondelement="respond" data-replyto="Reply to Maria" aria-label='Reply to Maria'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13194' data-commentid="13194" data-postid="1134" data-belowelement="comment-13194" data-respondelement="respond" data-replyto="Reply to Maria" aria-label='Reply to Maria'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13195" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08120286412281135707" class="url" rel="ugc external nofollow">Lynn</a></cite></div>
-      <a href="index.html?p=1134#comment-13195"><time class="comment-time" datetime="2008-09-26T00:34:00-04:00">Friday, September 26, 2008 at 12:34 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13195"><time class="comment-time" datetime="2008-09-26T00:34:00-04:00">Friday, September 26, 2008 at 12:34 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -930,12 +930,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13195' data-commentid="13195" data-postid="1134" data-belowelement="comment-13195" data-respondelement="respond" data-replyto="Reply to Lynn" aria-label='Reply to Lynn'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13195' data-commentid="13195" data-postid="1134" data-belowelement="comment-13195" data-respondelement="respond" data-replyto="Reply to Lynn" aria-label='Reply to Lynn'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13196" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1134#comment-13196"><time class="comment-time" datetime="2008-09-26T03:25:00-04:00">Friday, September 26, 2008 at 3:25 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13196"><time class="comment-time" datetime="2008-09-26T03:25:00-04:00">Friday, September 26, 2008 at 3:25 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -943,12 +943,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13196' data-commentid="13196" data-postid="1134" data-belowelement="comment-13196" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13196' data-commentid="13196" data-postid="1134" data-belowelement="comment-13196" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13197" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11807753816055147479" class="url" rel="ugc external nofollow">Chief Cook &amp;amp; Bottle Washer</a></cite></div>
-      <a href="index.html?p=1134#comment-13197"><time class="comment-time" datetime="2008-09-26T21:16:00-04:00">Friday, September 26, 2008 at 9:16 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13197"><time class="comment-time" datetime="2008-09-26T21:16:00-04:00">Friday, September 26, 2008 at 9:16 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -956,12 +956,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13197' data-commentid="13197" data-postid="1134" data-belowelement="comment-13197" data-respondelement="respond" data-replyto="Reply to Chief Cook &amp;amp; Bottle Washer" aria-label='Reply to Chief Cook &amp;amp; Bottle Washer'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13197' data-commentid="13197" data-postid="1134" data-belowelement="comment-13197" data-respondelement="respond" data-replyto="Reply to Chief Cook &amp;amp; Bottle Washer" aria-label='Reply to Chief Cook &amp;amp; Bottle Washer'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13198" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/06141234159609900257" class="url" rel="ugc external nofollow">mapgirl</a></cite></div>
-      <a href="index.html?p=1134#comment-13198"><time class="comment-time" datetime="2008-09-26T21:17:00-04:00">Friday, September 26, 2008 at 9:17 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13198"><time class="comment-time" datetime="2008-09-26T21:17:00-04:00">Friday, September 26, 2008 at 9:17 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -969,12 +969,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13198' data-commentid="13198" data-postid="1134" data-belowelement="comment-13198" data-respondelement="respond" data-replyto="Reply to mapgirl" aria-label='Reply to mapgirl'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13198' data-commentid="13198" data-postid="1134" data-belowelement="comment-13198" data-respondelement="respond" data-replyto="Reply to mapgirl" aria-label='Reply to mapgirl'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13199" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.shiningegg.com" class="url" rel="ugc external nofollow">emily</a></cite></div>
-      <a href="index.html?p=1134#comment-13199"><time class="comment-time" datetime="2008-09-27T13:57:00-04:00">Saturday, September 27, 2008 at 1:57 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13199"><time class="comment-time" datetime="2008-09-27T13:57:00-04:00">Saturday, September 27, 2008 at 1:57 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -982,12 +982,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13199' data-commentid="13199" data-postid="1134" data-belowelement="comment-13199" data-respondelement="respond" data-replyto="Reply to emily" aria-label='Reply to emily'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13199' data-commentid="13199" data-postid="1134" data-belowelement="comment-13199" data-respondelement="respond" data-replyto="Reply to emily" aria-label='Reply to emily'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13200" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16247322373413702252" class="url" rel="ugc external nofollow">Kelsey</a></cite></div>
-      <a href="index.html?p=1134#comment-13200"><time class="comment-time" datetime="2008-09-28T00:00:00-04:00">Sunday, September 28, 2008 at 12:00 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13200"><time class="comment-time" datetime="2008-09-28T00:00:00-04:00">Sunday, September 28, 2008 at 12:00 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -995,12 +995,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13200' data-commentid="13200" data-postid="1134" data-belowelement="comment-13200" data-respondelement="respond" data-replyto="Reply to Kelsey" aria-label='Reply to Kelsey'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13200' data-commentid="13200" data-postid="1134" data-belowelement="comment-13200" data-respondelement="respond" data-replyto="Reply to Kelsey" aria-label='Reply to Kelsey'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13201" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05564450760405974595" class="url" rel="ugc external nofollow">Zephyr</a></cite></div>
-      <a href="index.html?p=1134#comment-13201"><time class="comment-time" datetime="2008-09-28T01:40:00-04:00">Sunday, September 28, 2008 at 1:40 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13201"><time class="comment-time" datetime="2008-09-28T01:40:00-04:00">Sunday, September 28, 2008 at 1:40 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1008,12 +1008,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13201' data-commentid="13201" data-postid="1134" data-belowelement="comment-13201" data-respondelement="respond" data-replyto="Reply to Zephyr" aria-label='Reply to Zephyr'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13201' data-commentid="13201" data-postid="1134" data-belowelement="comment-13201" data-respondelement="respond" data-replyto="Reply to Zephyr" aria-label='Reply to Zephyr'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13202" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
-      <a href="index.html?p=1134#comment-13202"><time class="comment-time" datetime="2008-09-28T04:09:00-04:00">Sunday, September 28, 2008 at 4:09 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13202"><time class="comment-time" datetime="2008-09-28T04:09:00-04:00">Sunday, September 28, 2008 at 4:09 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1021,12 +1021,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13202' data-commentid="13202" data-postid="1134" data-belowelement="comment-13202" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13202' data-commentid="13202" data-postid="1134" data-belowelement="comment-13202" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13203" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15814091610722372004" class="url" rel="ugc external nofollow">Deanna</a></cite></div>
-      <a href="index.html?p=1134#comment-13203"><time class="comment-time" datetime="2008-09-28T22:04:00-04:00">Sunday, September 28, 2008 at 10:04 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13203"><time class="comment-time" datetime="2008-09-28T22:04:00-04:00">Sunday, September 28, 2008 at 10:04 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1034,12 +1034,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13203' data-commentid="13203" data-postid="1134" data-belowelement="comment-13203" data-respondelement="respond" data-replyto="Reply to Deanna" aria-label='Reply to Deanna'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13203' data-commentid="13203" data-postid="1134" data-belowelement="comment-13203" data-respondelement="respond" data-replyto="Reply to Deanna" aria-label='Reply to Deanna'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13204" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://appetiteforchina.com" class="url" rel="ugc external nofollow">Diana</a></cite></div>
-      <a href="index.html?p=1134#comment-13204"><time class="comment-time" datetime="2008-09-29T01:19:00-04:00">Monday, September 29, 2008 at 1:19 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13204"><time class="comment-time" datetime="2008-09-29T01:19:00-04:00">Monday, September 29, 2008 at 1:19 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1047,12 +1047,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13204' data-commentid="13204" data-postid="1134" data-belowelement="comment-13204" data-respondelement="respond" data-replyto="Reply to Diana" aria-label='Reply to Diana'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13204' data-commentid="13204" data-postid="1134" data-belowelement="comment-13204" data-respondelement="respond" data-replyto="Reply to Diana" aria-label='Reply to Diana'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13205" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.smosch.com" class="url" rel="ugc external nofollow">sandra</a></cite></div>
-      <a href="index.html?p=1134#comment-13205"><time class="comment-time" datetime="2008-09-29T06:56:00-04:00">Monday, September 29, 2008 at 6:56 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13205"><time class="comment-time" datetime="2008-09-29T06:56:00-04:00">Monday, September 29, 2008 at 6:56 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1060,12 +1060,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13205' data-commentid="13205" data-postid="1134" data-belowelement="comment-13205" data-respondelement="respond" data-replyto="Reply to sandra" aria-label='Reply to sandra'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13205' data-commentid="13205" data-postid="1134" data-belowelement="comment-13205" data-respondelement="respond" data-replyto="Reply to sandra" aria-label='Reply to sandra'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13206" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00310434713490902199" class="url" rel="ugc external nofollow">Snooky doodle</a></cite></div>
-      <a href="index.html?p=1134#comment-13206"><time class="comment-time" datetime="2008-09-29T19:14:00-04:00">Monday, September 29, 2008 at 7:14 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13206"><time class="comment-time" datetime="2008-09-29T19:14:00-04:00">Monday, September 29, 2008 at 7:14 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1073,12 +1073,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13206' data-commentid="13206" data-postid="1134" data-belowelement="comment-13206" data-respondelement="respond" data-replyto="Reply to Snooky doodle" aria-label='Reply to Snooky doodle'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13206' data-commentid="13206" data-postid="1134" data-belowelement="comment-13206" data-respondelement="respond" data-replyto="Reply to Snooky doodle" aria-label='Reply to Snooky doodle'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13207" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.glutenfreeforgood.com/blog/" class="url" rel="ugc external nofollow">glutenfreeforgood</a></cite></div>
-      <a href="index.html?p=1134#comment-13207"><time class="comment-time" datetime="2008-09-29T20:23:00-04:00">Monday, September 29, 2008 at 8:23 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13207"><time class="comment-time" datetime="2008-09-29T20:23:00-04:00">Monday, September 29, 2008 at 8:23 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1086,12 +1086,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13207' data-commentid="13207" data-postid="1134" data-belowelement="comment-13207" data-respondelement="respond" data-replyto="Reply to glutenfreeforgood" aria-label='Reply to glutenfreeforgood'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13207' data-commentid="13207" data-postid="1134" data-belowelement="comment-13207" data-respondelement="respond" data-replyto="Reply to glutenfreeforgood" aria-label='Reply to glutenfreeforgood'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13208" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Maija</cite></div>
-      <a href="index.html?p=1134#comment-13208"><time class="comment-time" datetime="2008-09-30T19:25:00-04:00">Tuesday, September 30, 2008 at 7:25 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13208"><time class="comment-time" datetime="2008-09-30T19:25:00-04:00">Tuesday, September 30, 2008 at 7:25 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1099,12 +1099,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13208' data-commentid="13208" data-postid="1134" data-belowelement="comment-13208" data-respondelement="respond" data-replyto="Reply to Maija" aria-label='Reply to Maija'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13208' data-commentid="13208" data-postid="1134" data-belowelement="comment-13208" data-respondelement="respond" data-replyto="Reply to Maija" aria-label='Reply to Maija'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13209" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.badhomecooking.com" class="url" rel="ugc external nofollow">Julie T.</a></cite></div>
-      <a href="index.html?p=1134#comment-13209"><time class="comment-time" datetime="2008-10-02T04:14:00-04:00">Thursday, October 2, 2008 at 4:14 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13209"><time class="comment-time" datetime="2008-10-02T04:14:00-04:00">Thursday, October 2, 2008 at 4:14 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1112,12 +1112,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13209' data-commentid="13209" data-postid="1134" data-belowelement="comment-13209" data-respondelement="respond" data-replyto="Reply to Julie T." aria-label='Reply to Julie T.'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13209' data-commentid="13209" data-postid="1134" data-belowelement="comment-13209" data-respondelement="respond" data-replyto="Reply to Julie T." aria-label='Reply to Julie T.'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13210" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01482848073211974088" class="url" rel="ugc external nofollow">PetiteKitchen</a></cite></div>
-      <a href="index.html?p=1134#comment-13210"><time class="comment-time" datetime="2008-10-12T18:56:00-04:00">Sunday, October 12, 2008 at 6:56 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13210"><time class="comment-time" datetime="2008-10-12T18:56:00-04:00">Sunday, October 12, 2008 at 6:56 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1125,12 +1125,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13210' data-commentid="13210" data-postid="1134" data-belowelement="comment-13210" data-respondelement="respond" data-replyto="Reply to PetiteKitchen" aria-label='Reply to PetiteKitchen'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13210' data-commentid="13210" data-postid="1134" data-belowelement="comment-13210" data-respondelement="respond" data-replyto="Reply to PetiteKitchen" aria-label='Reply to PetiteKitchen'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13211" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07329046060706681174" class="url" rel="ugc external nofollow">Meander</a></cite></div>
-      <a href="index.html?p=1134#comment-13211"><time class="comment-time" datetime="2008-10-20T11:54:00-04:00">Monday, October 20, 2008 at 11:54 am</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13211"><time class="comment-time" datetime="2008-10-20T11:54:00-04:00">Monday, October 20, 2008 at 11:54 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1138,12 +1138,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13211' data-commentid="13211" data-postid="1134" data-belowelement="comment-13211" data-respondelement="respond" data-replyto="Reply to Meander" aria-label='Reply to Meander'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13211' data-commentid="13211" data-postid="1134" data-belowelement="comment-13211" data-respondelement="respond" data-replyto="Reply to Meander" aria-label='Reply to Meander'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13212" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/04507623476364996461" class="url" rel="ugc external nofollow">Jessie</a></cite></div>
-      <a href="index.html?p=1134#comment-13212"><time class="comment-time" datetime="2008-10-25T20:39:00-04:00">Saturday, October 25, 2008 at 8:39 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13212"><time class="comment-time" datetime="2008-10-25T20:39:00-04:00">Saturday, October 25, 2008 at 8:39 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1151,12 +1151,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13212' data-commentid="13212" data-postid="1134" data-belowelement="comment-13212" data-respondelement="respond" data-replyto="Reply to Jessie" aria-label='Reply to Jessie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13212' data-commentid="13212" data-postid="1134" data-belowelement="comment-13212" data-respondelement="respond" data-replyto="Reply to Jessie" aria-label='Reply to Jessie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-13213" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15256702338439917385" class="url" rel="ugc external nofollow">Doris</a></cite></div>
-      <a href="index.html?p=1134#comment-13213"><time class="comment-time" datetime="2008-11-03T21:38:00-05:00">Monday, November 3, 2008 at 9:38 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/09/hello-again-finally/#comment-13213"><time class="comment-time" datetime="2008-11-03T21:38:00-05:00">Monday, November 3, 2008 at 9:38 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1164,39 +1164,39 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1134#comment-13213' data-commentid="13213" data-postid="1134" data-belowelement="comment-13213" data-respondelement="respond" data-replyto="Reply to Doris" aria-label='Reply to Doris'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-13213' data-commentid="13213" data-postid="1134" data-belowelement="comment-13213" data-respondelement="respond" data-replyto="Reply to Doris" aria-label='Reply to Doris'>Reply</a>    </div>
   </li><!-- #comment-## -->
     </ol>
 
       
   
   	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html?p=1134#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2008/09/hello-again-finally/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
 <p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1134' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a866de3832" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="25"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="fbaf93f04f" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="85"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	</section>
       </footer>
 </article>
         </main><!-- /.main -->
                   <aside class="content-right">
             <header class="right-header">
-  <a href="index.html?p=4">
+  <a href="https://orangette.net/about/">
     <h2 class="title">hellooooo</h2>
-    <img src="wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
   </a>
 </header>
 <nav class="right-nav">
-  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
-</ul></div>  <form role="search" method="get" class="search-form" action="index.html">
+</ul></div>  <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
@@ -1204,19 +1204,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </nav>
 <div class="right-section">
   <h3 class="right-heading">
-    <a href="index.html?p=8">My Books</a>
+    <a href="https://orangette.net/books/">My Books</a>
   </h3>
   <div class="right-diptych">
-                <a class="right-image-link half" href="index.html?p=8#the-fixed-stars">
-        <img src="wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
       </a>
-                <a class="right-image-link half" href="index.html?p=8#delancey">
-        <img src="wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
       </a>
       </div>
   <div class="right-image-link">
     <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
-      <img src="wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
     </a>
   </div>
 </div>
@@ -1224,9 +1224,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <h4 class="right-subheading">Featured Posts</h4>
   <ul class="right-post-list">
           <li>
-        <a href="index.html?p=178">
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
           <div class="thumb">
-            <img width="380" height="250" src="wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">April 7, 2014</div>
             <h5 class="title">That word is eat</h5>
@@ -1234,9 +1234,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </a>
       </li>
           <li>
-        <a href="index.html?p=26">
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">March 23, 2015</div>
             <h5 class="title">The bean doctor</h5>
@@ -1244,9 +1244,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </a>
       </li>
           <li>
-        <a href="index.html?p=1851">
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">July 23, 2015</div>
             <h5 class="title">We&#8217;ll go from left to right</h5>
@@ -1254,9 +1254,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </a>
       </li>
           <li>
-        <a href="index.html?p=221">
+        <a href="https://orangette.net/2014/01/in-it-together/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">January 16, 2014</div>
             <h5 class="title">In it together</h5>
@@ -1270,35 +1270,35 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
   </h3>
   <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
-    <img src="wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
   </a>
 </div>
 <div class="right-section">
   <h4 class="right-subheading alt">
-    <a href="index.html?p=2521">Links of Note</a>
+    <a href="https://orangette.net/links/">Links of Note</a>
   </h4>
   <ul class="right-link-list">
-    <li><a href="http://www.thewednesdaychef.com/berlin_on_a_platter/">Berlin on a Platter</a></li>
-<li><a href="http://mollysmadeleine.blogspot.com/">my madeleine</a></li>
-<li><a href="http://www.spilledmilkpodcast.com/">Spilled Milk, my podcast with Matthew Amster-Burton</a></li>
-<li><a href="http://vicsrecipes.blogspot.com/">Vic&#8217;s Recipes</a></li>
-<li><a href="http://www.dinneralovestory.com/" rel="noopener" target="_blank">Dinner: A Love Story</a></li>
-<li><a href="http://3191milesapart.com/">3191</a></li>
+    <li><a href="http://www.36words.typepad.com/">habit</a></li>
+<li><a href="http://katechristensen.net/" rel="noopener" target="_blank">Kate Christensen</a></li>
+<li><a href="http://allbuttonedup.typepad.com/all_buttoned_up/">all buttoned up</a></li>
+<li><a href="http://www.poormansfeast.com/">Poor Man&#8217;s Feast</a></li>
+<li><a href="http://www.leciawphinney.com/" rel="noopener" target="_blank">A Day That Is Dessert</a></li>
+<li><a href="http://joannagoddard.blogspot.com/index.html">A Cup of Jo</a></li>
 <li><a href="http://www.kerismith.com/blog/">Keri Smith</a></li>
+<li><a href="http://blog.youngnapark.com/">Youngna Park</a></li>
+<li><a href="http://saipua.blogspot.com/">Saipua</a></li>
 <li><a href="http://www.heyadamroberts.com/">Hey, Adam Roberts</a></li>
-<li><a href="http://www.eatallaboutit.com/">Eat All About It</a></li>
-<li><a href="http://nprfreshair.tumblr.com/">NPR Fresh Air</a></li>
-<li><a href="http://www.eatdrinkonewoman.com/">eat drink one woman</a></li>
-<li><a href="http://casayellow.com/">The Yellow House</a></li>
-<li><a href="http://curiousbird.typepad.com/">Curious Bird</a></li>
 <li><a href="http://blairpeter.typepad.com/">wise.. craft</a></li>
-<li><a href="http://teaandcookies.blogspot.com/">Tea and Cookies</a></li>
+<li><a href="http://dressingfordinner.blogspot.com/">Dressing for dinner</a></li>
+<li><a href="http://www.bonappetempt.com/" rel="noopener" title="Amelia Morris is really funny" target="_blank">Bon Appetempt</a></li>
+<li><a href="http://www.kitchen-repertoire.com/" rel="noopener" target="_blank">Kitchen Repertoire</a></li>
+<li><a href="http://happyolks.com/" rel="noopener" target="_blank">Happyolks</a></li>
   </ul>
-  <a class="right-more" href="index.html?p=2521">More</a>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
                 <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="index.html">
+          <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
@@ -1306,17 +1306,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
           <div class="overlay--close" data-behavior="close-search"></div>
         </div>
       </div><!-- /.page-content -->
-      <script async defer data-pin-hover="true" data-pin-color="white" src="https://assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
-  <a class="footer-logo" href="index.html">
-    <img src="wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
   </a>
   <div class="footer-content">
     <nav class="footer-nav" role="navigation">
-      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
 </ul></div>    </nav>
@@ -1332,7 +1332,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <div class="nav-overlay" data-behavior="close-nav"></div>
       <button class="elevator" data-behavior="jettison">Back to top</button>
     </div><!-- /.container -->
-    <script type='text/javascript' src='wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
-<script type='text/javascript' src='wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+    <script type='text/javascript' src='https://orangette.net/wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
   </body>
 </html>

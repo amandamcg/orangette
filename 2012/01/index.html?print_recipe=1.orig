@@ -1,142 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>I am here to tell you</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Olive Oil and Maple Granola</h2>
-    <h3 class="subtitle">Adapted from Nekisia Davis, <a href="http://www.earlybirdfoods.com" target="_blank">Early Bird Foods</a>, and <a href="http://www.food52.com/recipes/15831_nekisia_davis_olive_oil_and_maple_granola" target="_blank">Food 52</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2012-01-26T07:30:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2012/01/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Nuts and seeds can add up, but I buy mine at Trader Joe&#8217;s or in the bulk section of my local grocery store, and that helps keep the cost down. I also was able to find coconut chips in bulk. (And if you&#8217;re wondering exactly what coconut chips are, <a href="http://nuts.com/driedfruit/coconut/unsweeted-chips.html?gclid=CNrtx9b07K0CFQ5ihwod9Qnq6Q" target="_blank">here</a>&#8216;s a picture.)</p>
-<p>The next time I make this, I might cut back a little on the brown sugar, but I recommend trying it as written first.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            300 grams (3 cups) rolled oats          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            125 grams (1 cup) raw hulled pumpkin seeds          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            130 grams (1 cup) raw hulled sunflower seeds          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            50 grams (1 cup) unsweetened coconut chips          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            135 grams (1 ¼ cup) raw pecans, whole or chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            85 grams (packed ½ cup) light brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            175 ml (¾ cup) maple syrup, preferably Grade B          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            120 ml (½ cup) olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Dried cherries, optional          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 300°F. Line a rimmed baking sheet with parchment paper.</p>
-<p>In a large bowl, combine the oats, pumpkin seeds, sunflower seeds, coconut chips, pecans, light brown sugar, and salt. Stir to mix. Add the olive oil and maple syrup, and stir until well combined. Spread the mixture in an even layer on the prepared sheet pan. Bake, stirring every 15 minutes, until the granola is golden brown and toasted, about 45 minutes. Remove the granola from the oven, and season with more salt to taste. Cool completely on a wire rack. If you&#8217;d like, stir in some dried cherries. Store in an airtight container.</p>
-<p>Note: Will keep at room temperature for up to a month.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 7 cups</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Salted Chocolate Cookies</h2>
-    <h3 class="subtitle"> Adapted from <span style="font-style: italic;"><a href="http://www.amazon.com/Tartine-Elisabeth-Prueitt/dp/0811851508/?_encoding=UTF8&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325" target="_blank">Tartine</a></span>, by Elisabeth M. Prueitt and Chad Robertson, and from Renee Erickson and <a href="http://www.boatstreetcafe.com/" target="_blank">Boat Street Café</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2012-01-12T06:51:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2012/01/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Renee tells me that when they make these cookies at Boat Street, they use Valrhona “Guanaja” 70% chocolate, so that’s what I used, too. Whatever brand of chocolate you choose, make sure you love it, because that’s what the finished cookies will taste like. 70% cacao is ideal, but anything above 60% will do the job. And if you can’t find Maldon salt, a coarse sea salt will probably be just fine.</p>
-<p>At Boat Street, they make these cookies quite small, about 1 ½ inches across. At home, I made half of the dough into small cookies, and I made the other half into more normal-sized ones, about 2 ¼ to 2 ½ inches across. I think I prefer the latter. In any case, if you want small cookies, divide your dough into four portions, and shape each portion into a skinny log, about an inch in diameter. For larger cookies, shape your dough into two logs, each about 1 ½-inches in diameter. Whichever way, you’ll wind up with a lot of cookies. I forgot to count them before we started eating them, so I don’t have an accurate yield size for you. Sorry! But really, you’ll have a LOT.</p>
-<p>Last, note that this dough tastes best &#8211; and is easiest to work with &#8211; when it’s been allowed to rest in the fridge for a day or so before baking.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            225 grams (8 ounces) bittersweet chocolate, coarsely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            155 grams (1 ¼ cups) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            50 grams (½ cup plus 2 Tbsp.) unsweetened cocoa powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            115 grams (8 Tbsp.) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            225 grams (1 cup plus 2 Tbsp.) sugar, plus more for rolling the logs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            75 ml (1/3 cup) whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Maldon salt, for finishing          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Pour water into a saucepan to a depth of about 2 inches. Bring to a simmer. Put the chocolate in a heatproof bowl that will rest securely on the rim of the saucepan, and place it over – not touching – the simmering water. (Make sure that the bowl is completely dry before putting the chocolate into it, and take care that no moisture gets into the chocolate. Moisture will cause it to seize.) Heat, stirring occasionally, just until the chocolate melts and is smooth. Remove from the heat and set aside to cool.</p>
-<p>In a medium bowl, whisk together the flour, cocoa, and baking powder. Using a stand mixer fitted with the paddle attachment, beat the butter on medium-high speed until creamy. Slowly add the sugar, and continue to beat until the mixture is completely smooth and soft, stopping to scrape down the sides of the bowl with a rubber spatula as needed. Add the eggs one at a time, mixing well after each addition. Beat in the salt and the vanilla, and then add the melted chocolate, beating to incorporate. Add the milk, and beat until combined. Finally, add the flour mixture and beat on low speed until just incorporated. The dough will be quite thick and stiff.</p>
-<p>Depending on what size cookie you’d like to wind up with (see headnote, above), divide the dough into 2 or 4 portions. Put each portion on a large piece of plastic wrap, and shape into a log, using the wrap to help you smoosh, roll, and smooth it. Twist the ends to seal. Chill overnight. (If you’re into advance planning, the dough can probably be kept in the fridge for at least a week, or frozen for longer keeping.)</p>
-<p>When you’re ready to bake the cookies, preheat the oven to 350°F, and line a baking sheet with parchment paper.</p>
-<p>Put another sheet of parchment paper on your work surface. Take a spoonful or two of sugar, and pour it onto the parchment, making a ridge of sugar of approximately the same length as your dough logs. Remove a log from the fridge, unwrap it, and roll in the sugar to evenly coat. Using a thin, sharp knife, slice the dough into ¼- to 1/3-inch slices. (If you’re making small cookies, the 1/3-inch thickness is best.) Lay the slices on the baking sheet, leaving about 2 inches between each cookie. Sprinkle each cookie with a few flakes of Maldon salt.</p>
-<p>Bake for 10 minutes, or until the top of the cookies looks set but still feels a little soft to the touch. Transfer to a wire rack, and leave the cookies on the pan to cool. Repeat with remaining dough.</p>
-<p>Note: These cookies will keep at room temperature for several days.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: a lot</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

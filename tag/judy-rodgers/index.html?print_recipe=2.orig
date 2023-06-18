@@ -1,138 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>I changed my mind</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-2" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">A Caesar Dressing Sans Raw Egg</h2>
-        <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2015-08-16T16:14:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/judy-rodgers/?print_recipe=2" class="print icon-print"></a>
-    </nav>
-    <p>Unless I’m going to make my own mayonnaise, which I don’t do in most everyday instances, I use Best Foods (which is also sold as Hellmann’s).</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For dressing:</h3>                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (105 grams) Best Foods / Hellmann’s mayonnaise          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 ½ tablespoons fresh lemon juice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tablespoons olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 to 5 oil-packed anchovy fillets (see note in top recipe), minced and mashed to a paste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cloves garlic, pressed or minced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon Dijon mustard          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon Worchestershire sauce          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Three-finger pinch of kosher salt          </div>
-                      <h3>For serving:</h3>                  <div class="ingredient" itemprop="ingredients">
-            Romaine or other greens of your choice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Croutons or cooked farro, optional          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Parmigiano-Reggiano          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Freshly ground black pepper          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Combine all ingredients in a small mixing bowl. Whisk to blend well.</p>
-<p>Spoon as desired onto romaine or other greens, and fold and toss carefully to coat. Add croutons or cooked farro, if you want, and more grated cheese. Serve with a final dusting of cheese on top and some freshly ground black pepper.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 3/4 cup dressing</p>
-  </section>
-                              
-<section id="recipe-2" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Chez Panisse’s Sauce Gribiche</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FChez-Panisse-Cookbook-Alice-Waters%2Fdp%2F0060175834%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1241593584%26sr%3D1-1&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">Chez Panisse Café Cookbook</span></a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2009-05-06T06:46:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/judy-rodgers/?print_recipe=2" class="print icon-print"></a>
-    </nav>
-    <p>For this recipe, it’s important to use a big, fruity-tasting olive oil, because it will be the foundation flavor here. You want one with a round fragrance and as little bitterness as possible.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 large egg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 medium shallot, finely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. lemon juice, or to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. finely chopped parsley          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. finely chopped chervil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. thinly sliced chives          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Finely grated zest of ½ lemon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. capers, rinsed and finely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 cornichons, finely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Salt, to taste          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Put the egg in a small saucepan, and cover with cold water. Place the pan over medium-high heat, and bring to a boil. As soon as it boils, remove the pan from the heat, cover it, and set a timer for 12 minutes. When the timer goes off, drain away the hot water and rinse the egg under cold water until it is thoroughly cool.</p>
-<p>Meanwhile, combine the shallot and the lemon juice in a small bowl. Set aside to macerate while you prepare the rest of the sauce.</p>
-<p>Combine the parsley, chervil, chives, lemon zest, capers, cornichons, and olive oil in a small bowl. Whisk well. Peel the egg, and then finely chop the yolk and dice the white. Add the egg to the bowl. Add the lemon juice, shallots, and a good pinch of salt, and whisk well. Taste, and adjust with more lemon juice and salt, if needed.</p>
-<p>Serve over asparagus, steamed or boiled potatoes, grilled endives, fish, cold roasted chicken, or other cold leftover meats.</p>
-    </div>
-  
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

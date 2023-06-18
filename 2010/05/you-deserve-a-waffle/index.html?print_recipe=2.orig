@@ -1,86 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>You deserve a waffle</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-2" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">A Great Make-the-Morning-of Waffle</h2>
-    <h3 class="subtitle">Adapted slightly from the “<a href="http://www.foodnetwork.com/recipes/40-a-day/waffle-of-insane-greatness-recipe/index.html">Waffle of Insane Greatness</a>” recipe</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-05-18T00:34:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2010/05/you-deserve-a-waffle/?print_recipe=2" class="print icon-print"></a>
-    </nav>
-    <p>The original version of this recipe calls for 1 cup milk or buttermilk, but I split the difference and use ½ cup of each. The texture of the batter was lovely, and I liked the slight tangy quality of the waffles, so I’d recommend that you try the same course of action.</p>
-<p>Also, this waffle works in any kind of waffle maker.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            ¾ cup all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup cornstarch          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ tsp. sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup buttermilk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup vegetable oil, such as canola          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large egg, lightly beaten          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ tsp. vanilla extract          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In a medium bowl, combine the flour, cornstarch, baking powder, baking soda, salt, and sugar. Whisk well. Add the milk, buttermilk, vegetable oil, egg, and vanilla extract. Whisk to blend well, so that few (if any) lumps remain. Set aside to rest for 30 minutes.</p>
-<p>Preheat a waffle iron. Follow your waffle maker’s instruction manual for this, but my guess is that you’ll want to heat it on whatever setting is approximately medium-high. My waffle maker has a heat dial that runs from 1 to 7, and I turned it to 5. There’s no need to grease the waffle maker.</p>
-<p>Pour an appropriate amount of batter into your hot waffle maker: this amount will vary from machine to machine, and you should plan to use your first waffle as a test specimen. Cook until golden and crisp.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: depends on the size and configuration of your waffle iron</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

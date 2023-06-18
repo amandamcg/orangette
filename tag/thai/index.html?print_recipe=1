@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/thai/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>In Thailand, the eggs would be fried in the wok, either before or after cooking the rest of the dish. But Matthew claims that he always breaks the yolk when he does it that way, and he’s ten times better at stir-frying than I am, so I cook the eggs separately, in a skillet.</p>
 <p>As for the chiles, the number that you use is up to you. I used five chiles the first time I made this, and it was pleasantly fiery. The second time I made it, I was eating solo and decided to go a little milder, so I used only three chiles. (You can always remove some of the seeds, too.)  Oh, and if you have an exhaust fan over your stove, turn it on. I always forget until the chiles hit the hot wok and I have a coughing fit.</p>

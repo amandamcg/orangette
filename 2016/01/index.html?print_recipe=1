@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2016/01/?print_recipe=1" class="print icon-print"></a>
     </nav>
       </div>
 
@@ -97,7 +97,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2016/01/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>In Seattle, I&#8217;ve found quince at the farmers&#8217; market in the wintertime, and I venture to guess that Whole Foods or another fancy-ish store might have it, too. I also hear that you can sometimes find it at Asian and Middle Eastern markets.</p>
 <p>Oh, and everyone talks about how difficult and treacherous it is to peel a quince, but as long as I use my extremely <a href="http://www.amazon.com/gp/product/B001BCFTWU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B001BCFTWU&amp;linkCode=as2&amp;tag=orangette-20&amp;linkId=RT7TRPTVPFSZHRUC" target="_blank">cheap-and-trusty Y-peeler</a>, it&#8217;s no biggie. Muuuuch easier than using a knife.</p>

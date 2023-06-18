@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/smitten-kitchen/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Deb’s recipe calls for browning these meatballs in a pan and then finishing them in the oven, and while that certainly yields a stunner of a meatball, both in flavor and beauty, I regularly take a lazier route: I only bake them. Then I can basically walk away, and <i>ta da</i>, the meatballs cook themselves. Cleanup is also very easy, thanks to the parchment on the sheet pan.  Do what you will.</p>
   </div>
@@ -96,7 +96,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/smitten-kitchen/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>For my first go at this recipe, I used ½ cup (100 grams) sugar.  That amount yielded a balanced, mildly sweet bar, but whenever I got a bite with cherries or chocolate, I wished that the base mixture were even a little less sweet.  Next time, I’ll try cutting the sugar back to 1/3 cup (67 grams).  Oh, and I should tell you that I used unrefined cane sugar.  Like <a href="http://www.amazon.com/Wholesome-Sweetners-Organic-Milled-Unrefined/dp/B005TY1OH0" target="_blank">this</a>.  It’s what we use at Delancey, and over the past year, I’ve been using it more and more at home.  I find it to be 100% interchangeable with regular white sugar.</p>
 <p>Also, I might leave out the cinnamon next time.  Maybe.  It’s nice, but there’s already a lot of good stuff going on in here.</p>

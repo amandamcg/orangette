@@ -1,85 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>Slow-roasting</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Gâteau au Citron, or, French-Style Yogurt Cake with Lemon</h2>
-    <h3 class="subtitle">adapted from <a href="http://amzn.to/2icXW9z">Gâteaux de Mamie</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2004-08-02T01:10:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/yogurt-cake/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>This type of cake is an old classic in France, the sort of humble treat that a grandmother would make. Traditionally, the ingredients are measured in a yogurt jar, a small glass cylinder that holds about 125 ml. Because most American yogurts don&#8217;t come in such smart packaging, you&#8217;ll want to know that 1 jar equals about 1/2 cup.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the cake:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 jar plain yogurt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 jars granulated sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 jars unbleached all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. grated lemon zest          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 jar canola oil          </div>
-                      <h3>For the glaze:</h3>                  <div class="ingredient" itemprop="ingredients">
-            Juice from 2 lemons          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/2 jar powdered sugar          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350 degrees Fahrenheit.</p>
-<p>In a large bowl, combine the yogurt, sugar, and eggs, stirring until well blended. Add the flour, baking powder, and zest, mixing to just combine. Add the oil and stir to incorporate. At first, it will look like a horrible, oily mess, but keep stirring, and it will come together into a smooth batter. Pour and scrape the batter into a buttered 9-inch round cake pan (after buttering, I sometimes line the bottom with a round of wax or parchment paper, and then I butter that too).</p>
-<p>Bake for 30-35 minutes, until the cake feels springy to the touch and a toothpick or cake tester inserted into the center comes out clean. Do not overbake.</p>
-<p>Cool cake on a rack for about 20 minutes; then turn it out of the pan to cool completely.</p>
-<p>When the cake is thoroughly cooled, combine the lemon juice and powdered sugar in a small bowl and spoon it gently over the cake. The glaze will be thin and will soak in like a syrup.<br />
-Serve.</p>
-<p><em>Variations</em>: This type of yogurt-based cake is a terrific base for many improvisations. For a basic yogurt cake, leave out the lemon zest and do not use the lemon juice glaze. For an almond version, try replacing 1 jar of flour with 1 jar of finely ground almonds. You can also play with adding various fruits (if frozen, do NOT thaw before adding) or nuts, if you like. When I add fruit, I generally pour half the cake batter into the prepared pan, top it with a layer of fruit, and then pour in the other half of the batter, sometimes adding more fruit on the very top.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 8 servings, or thereabouts</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

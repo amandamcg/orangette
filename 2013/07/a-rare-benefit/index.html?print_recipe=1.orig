@@ -1,89 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>A rare benefit</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Apricot Macaroon Tart</h2>
-    <h3 class="subtitle">Adapted from Heidi Swanson’s <i><a href="http://www.amazon.com/Super-Natural-Every-Day-Well-Loved/dp/1580082777/?_encoding=UTF8&camp=1789&creative=9325&keywords=super%20natural%20every%20day&linkCode=ur2&qid=1373928182&sr=8-1&tag=orangette-20" target="_blank">Super Natural Every Day</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-07-19T21:49:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/07/a-rare-benefit/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>A word (or many words) about flour: using <a href="http://glutenfreegirl.com/2012/07/how-to-make-a-gluten-free-all-purpose-flour-mix/" target="_blank">Shauna’s 40/60 ratio</a> for gluten-free baking, I whisked up a batch of all-purpose flour mix from 100 grams of buckwheat flour, 100 grams of brown rice flour, and 300 grams of tapioca flour.  (I then used 170 grams of this mixture in the recipe.)  I have no idea how well this mix of flours would work in other recipes, and I probably did everything wrong, but it worked nicely here, yielding a crust with a crunchy, slightly nubbly texture and great buckwheaty flavor.  The one thing that I will say, however, is that the crust wept a not-insignificant amount of butter onto the sheet pan.  I have to assume that this had something to do with the mix of flours I used, and their properties? Anyway, I doubt that the original recipe, as Heidi conceived it, has a butter-weeping problem.  In any case, consider yourself alerted. If your crust leaks a little butter onto the sheet pan, don’t worry.  That’s why the sheet pan is there.</p>
-<p>And one more word about flour: even if you do eat gluten, as I do, you really should consider using some buckwheat flour. The next time I make this tart, I might try using a mixture of buckwheat flour and standard all-purpose flour &#8211; maybe one-third buckwheat and two-thirds all-purpose?  Not that white whole wheat flour or whole wheat pastry flour are not interesting enough, but I really love what buckwheat brings to this crust.</p>
-<p>Oh, and if you find yourself without pistachios and are contemplating a trip to the grocery store: don’t worry about it.  I’ve forgotten to add the pistachios both times that I’ve made this tart, and though I imagine it would be prettier and maybe a little, little bit tastier with them, it’s wonderful without.</p>
-<p>Finally, if you live in Seattle, I strongly recommend the apricots from Bill’s Fruits, a stand toward the Ballard Inn end of the Ballard Farmers’ Market.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the crust:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups (170 g) white whole wheat flour, whole wheat pastry flour, or a mixture of flours (see above)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup (60 g) unsweetened finely shredded coconut          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (100 g) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. fine sea salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            10 tablespoons (140 g) unsalted butter, melted and cooled slightly          </div>
-                      <h3>For the filling:</h3>                  <div class="ingredient" itemprop="ingredients">
-            2 cups (140 g) unsweetened finely shredded coconut          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (70 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Pinch of fine sea salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 large egg whites          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 ounces (225 g) fresh apricots, pitted and quartered          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (45 g) pistachios, chopped          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F. Butter a 9-inch round removable-bottom tart pan, and set it on a rimmed sheet pan.</p>
-<p>To make the crust, combine the flour, coconut, sugar, and salt in a medium bowl. Stir to mix. Stir in the butter, and mix until the dough no longer looks dusty and all flour is absorbed. Press the mixture evenly into the bottom of the prepared pan: it should form a solid, flat layer. Bake for 15 minutes, or until barely golden. Remove from the oven, and set aside to cool for a few minutes.</p>
-<p>While the crust bakes, prepare the filling. Combine the coconut, sugar, and salt in a medium bowl. Stir to mix. Add the egg whites, and mix until well combined. When the crust is baked, evenly distribute the apricots over it. Drop dollops of the filling over the fruit, using your fingers to nudge it into the spaces in between.</p>
-<p>Bake for 20 to 30 minutes, until the peaks of the filling are deeply golden. Cool completely before topping with pistachios, slicing, and serving.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 8 to 12 servings</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

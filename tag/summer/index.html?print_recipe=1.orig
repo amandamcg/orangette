@@ -1,589 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>June 30</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Chicken Cutlets Smothered in Peas</h2>
-    <h3 class="subtitle">Inspired by <i><a href="https://www.thecanalhousebooks.com/#/volume-n-6-the-grocery-store/">Canal House Cooking, Vol. 6: The Grocery Store</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2017-07-01T00:08:18-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>June didn&#8217;t like the scallion flavor in the peas, so next time, I&#8217;ll be leaving the scallions out. I like it either way.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            All-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large egg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Panko          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 (boneless, skinless) chicken cutlets          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Peanut oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tablespoons unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 ounces (half a standard-sized bag) frozen peas          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 scallions, trimmed and thinly sliced into rounds          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Set out three shallow bowls. Put a large, heaping spoonful of flour in the first, the egg in the second, and a large, heaping spoonful of panko in the third. I didn&#8217;t measure the flour or panko, and I think you can safely eyeball it. Beat the egg well with a fork.</p>
-<p>Season the cutlets with kosher salt.</p>
-<p>Working with one cutlet at a time, dredge in flour with one hand, shaking off excess. Transfer to the egg dish, turning the cutlet with your other hand to coat both sides. Lift, allowing excess egg to drain off. Transfer to the panko bowl. With your first hand, scoop panko on top of the cutlet and gently press to adhere, taking care that the whole thing is coated. Transfer to a clean plate. Repeat with remaining cutlets. If this is done properly, your first hand should touch only dry ingredients, while your second hand should touch only wet, and ideally it&#8217;s not too messy. If it is, oh well.</p>
-<p>Pour oil into a 10-inch skillet to a depth of  ¼ to 1/3 inch. Place over medium-high heat. When the oil shimmers and runs loosely around the pan when you tilt it (around 350°F), gently lower the cutlets into the pan, laying them down away from you to prevent splashes of hot fat. Don&#8217;t crowd the pan; cook in batches if necessary. Cook cutlets until the bottom side is set, and then flip and fry until the second side is set. Continue cooking, flipping occasionally for even browning, until the cutlets are golden brown &#8211; fried-chicken color &#8211; and cooked through, about 4 to 5 minutes per side. I use a <a href="http://www.thermoworks.com/Classic-Thermapen" target="_blank" rel="noopener">Thermapen</a> to test for doneness, pulling cutlets from the pan around 155°F. They will rise to 165°F (the USDA safe temperature) as they rest. Transfer to a plate lined with a paper towel.</p>
-<p>Meanwhile, melt the butter in a saucepan over medium heat. Add the peas and scallions and a generous dash of salt, stir to coat, cover, and cook until tender. I didn&#8217;t time this. Maybe 10 minutes?</p>
-<p>Serve everything hot, the buttery peas spooned over the cutlets.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 2 to 3 servings</p>
-  </section>
-                    
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Natalie's Famous Cucumber Ranch Dip</h2>
-    <h3 class="subtitle">from Natalie Riha and Daphne Eck</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2016-06-13T22:57:12-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>You could use any kind of cucumber here, but the fewer the seeds, the better. Oh, and if you can get it, Daisy is my favorite brand of sour cream. And for eating, potato chips with ridges are key for getting the &#8220;very most amount of dip possible,&#8221; in Natalie&#8217;s words.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 packet Hidden Valley Ranch mix          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            16 ounces sour cream          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Japanese cucumber, or about 2/3 of an English cucumber          </div>
-                      <h3>For serving:</h3>                  <div class="ingredient" itemprop="ingredients">
-            Salt-and-pepper potato chips with ridges, or regular potato chips with ridges, or raw vegetables          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In a medium bowl, stir together Ranch packet and sour cream.</p>
-<p>Put two layers of paper towel on a large plate. Using the large-hole side of a box grater, grate the cucumber, skin and all, onto the plate. Put another sheet of paper towel over the pile of grated cucumber, and press and squeeze out the excess liquid. Add the grated cucumber to the sour cream mixture, and stir well to mix.</p>
-<p>Eat cold and promptly, ideally with potato chips.</p>
-    </div>
-  
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Watermelon Pops</h2>
-    <h3 class="subtitle">Adapted from David Lebovitz’s The Perfect Scoop</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2015-06-26T20:47:00-04:00">
-  </header>
-
-      <figure class="hero">
-      <img width="1324" height="882" src="https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-1324x882.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" itemprop="photo" srcset="https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-1324x882.jpg 1324w, https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-662x441.jpg 662w, https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-870x580.jpg 870w, https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991.jpg 1600w" sizes="(max-width: 1324px) 100vw, 1324px" />    </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>These popsicles will only taste as good as the watermelon you start with, so start with a sweet, flavorful one. Oh, and you can omit the vodka, if you want.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            A roughly 3-pound (1.5-kg) chunk of watermelon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (100 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Big pinch of kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tablespoon freshly squeezed lime juice, or to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 to 2 tablespoons vodka (optional)          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Cut away and discard the rind of the watermelon, and cut the flesh into cubes. Chuck the cubes into a blender or food processor, and process until liquefied. Pour through a strainer (to remove seeds) into a large measuring cup. You should have about 3 cups (750 ml) of watermelon juice. (If you have more, well, drink up! Or freeze for future use.)</p>
-<p>In a small, nonreactive saucepan, warm about ½ cup (125 ml) of the watermelon juice with the sugar and then salt, stirring until the sugar is dissolved. Remove from the heat, and stir this syrup into the remaining 2 ½ cups (625 ml) watermelon juice. Mix in the lime juice and vodka, if using. Taste, and add more lime juice, if you want, or more salt. You shouldn’t taste the salt; it’s just there to intensify the watermelon flavor.</p>
-<p>Chill the mixture thoroughly &#8211; if the watermelon was refrigerator-cold when you started the process, this won&#8217;t take long &#8211; and then pour it into your popsicle mold of choice. (I used <a href="http://www.amazon.com/gp/product/B0002IBJOG/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0002IBJOG&amp;linkCode=as2&amp;tag=orangette-20&amp;linkId=DJZ6FRDPYU73DGRY" target="_blank">this</a>.) If you have more mixture than will fit in your popsicle molds, drink it, or for mini-pops(!) and other fun stuff, freeze it in ice-cube trays.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 10 pops</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Fudgesicles</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.foodnetwork.com/recipes/alton-brown/good-eats-fudgepops-recipe.html" target="_blank">Alton Brown</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2014-08-29T04:16:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>You will note that there’s no sugar in this recipe, which means that you need to be thoughtful about the chocolate you use, because that’s what will bring sweetness. Brown calls only for &#8220;bittersweet chocolate,&#8221; but when I tried using 70% cacao chocolate, which I think of as a pretty standard percentage for bittersweet, it made for a <i>very</i> bittersweet popsicle. More bitter than sweet. Brandon loved it, and June ate it, but it wasn’t really my thing. I like to combine two types of chocolate for this recipe: Valrhona “<a href="http://www.valrhona-chocolate.com/shop/Jivara-40-10978.html" target="_blank">Jivara</a>” 40% milk chocolate, and Valrhona “<a href="http://www.valrhona-chocolate.com/shop/Manjari-64-10976.html" target="_blank">Manjari</a>” 64% dark chocolate. I use four ounces, or 113 grams, of each. (Yes, they are wildly expensive! I know. We buy them in 3-kg bags at the restaurant, and I regularly steal some for my home use. I am a lucky bastard.) If you don’t want to shell out like that, Scharffen Berger also has a good <a href="http://shop.scharffenberger.com/41-Milk-Chocolate-Bar/p/SFB-CBMILK&amp;c=ScharffenBerger@Chocolate@Milk" target="_blank">41% milk chocolate</a>, and my guess is that it would blend nicely here with either the <a href="http://shop.scharffenberger.com/62-Semisweet-Chocolate-Bar/p/SFB-CBSEMI&amp;c=ScharffenBerger@Chocolate@Dark" target="_blank">62% semisweet</a> or the <a href="http://shop.scharffenberger.com/70-Bittersweet-Chocolate-Bar/p/SFB-CBBITTER&amp;c=ScharffenBerger@Chocolate@Dark" target="_blank">70% bittersweet</a>. Whatever chocolate you choose, I wouldn’t recommend going above 64%, at the highest.</p>
-<p>And as for popsicle molds, I use <a href="http://coldmolds.com/index.php/pop-molds/product/41-cmp4210" target="_blank">these</a>.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            8 ounces (225 grams) chocolate, ideally between 45% and 65% cacao          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups (355 ml) heavy cream          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup (240 ml) whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tablespoons (about 11 grams) unsweetened cocoa          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 teaspoons vanilla extract          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Finely chop the chocolate, and put it in a medium bowl. (If you have a bowl with a pour spout, use that! Perfect.)</p>
-<p>In a medium (2- to 3-quart) saucepan, combine the cream, milk, and cocoa. Whisk well to dissolve the cocoa, and bring just to a simmer, whisking frequently. Remove from the heat, let sit for a few seconds, and then pour it over the chocolate. Let stand undisturbed for 2 or 3 minutes; then whisk to combine well. Whisk in the vanilla extract. Divide between popsicle molds, and freeze until hard.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 8 to 10 popsicles, depending on the size of your molds.</p>
-  </section>
-                              
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Sour Cherry Shake</h2>
-    <h3 class="subtitle">From <i><a href="http://www.amazon.com/Hungry-Monkey-Food-Loving-Fathers-Adventurous/dp/0547336896/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=SZ6HC6VOFKMB47VZ" target="_blank">Hungry Monkey</a></i>, by Matthew Amster-Burton</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2014-07-12T05:46:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>The season for sour cherries is short, and they can be hard to find. But keep an eye out: they’re small, bright red, and often labeled as Montmorency cherries. (Or, if they’re dark red, they’re probably the other main sour variety, morello.) You can pit them with a cherry pitter, or you can do it by hand: just pull gently on the stem with one hand while you gently squeeze the cherry with the other. Usually the pit will slip right out with the stem. Usually. (And if not, they’re still easy to pit by hand, tearing them open and pulling out the pit with your fingers. Be sure to do it over a bowl, so as not to lose any juice.) If you can’t get fresh sour cherries, Matthew says that jarred or canned sour cherries (note: not pie filling!) make a good substitute, and that the jarred morello cherries from Trader Joe’s are his favorite.</p>
-<p>Oh, and don’t feel as though you have to have two full pounds of cherries on hand to make this recipe! Sour cherries are expensive! I get it. I only had about 12 ounces last weekend, myself, so I just scaled back accordingly, using about one and a half cups of ice cream. We wound up with three small shakes, perfect for an afternoon snack.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 pounds (900 grams) fresh sour cherries, stemmed and pitted, or 24 ounces canned or jarred cherries, drained          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 quart vanilla ice cream          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Put the cherries in a blender or food processor, and blend to a smooth puree. Add the ice cream, and continue to blend until the mixture is smooth and pale pink. Pour into four glasses, and serve immediately.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 (12-ounce) shakes</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Strawberry Yogurt Popsicles</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/product/158008219X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=158008219X&linkCode=as2&tag=orangette-20&linkId=2RPAASM6AOIBIZJG" target="_blank">The Perfect Scoop</a></i>, by David Lebovitz</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2014-06-23T19:33:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>A word about popsicle molds: I use <a href="http://coldmolds.com/index.php/pop-molds/product/41-cmp4210" target="_blank">these silicone ones</a>, which I learned about from the book <i><a href="http://www.amazon.com/gp/product/1607743906/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1607743906&amp;linkCode=as2&amp;tag=orangette-20&amp;linkId=D74SRCKETJDQ5J3Y" target="_blank">Modern Art Desserts</a></i>, by Caitlin Freeman. (And high five to my talented friend <a href="http://leahrosenberg.com/" target="_blank">Leah Rosenberg</a>, who called my attention to the <a href="http://www.mercurynews.com/ci_23132267/recipe-zurier-ice-pop" target="_blank">Zurier Pops</a> recipe and inspired me to get these molds. Leah, when I bought strawberries last week, I <i>meant</i> to make Zurier Pops, but I got lazy. But I still will. I swear.) Anyway, if you’re using silicone molds like mine, which are soft and pliable, don’t forget to set the molds on a sheet pan before filling them! That way, they’ll be easy to transport to the freezer. And don’t forget to insert the popsicle sticks into the mold before filling, either. It all sounds obvious, but you never know.</p>
-<p>I also have <a href="http://www.amazon.com/Norpro-423-Ice-Pop-Maker/dp/B0002IBJOG/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=popsicle%20molds&amp;linkCode=ur2&amp;qid=1403542718&amp;sr=8-2&amp;tag=orangette-20&amp;linkId=ELB7VLU4D37UMIGN" target="_blank">this popsicle mold</a>, but we loaned it to a friend (ahem, Katie), so I haven’t been able to try it yet. I’ll report back. I have a feeling it’ll be better for very liquid-y pops than the silicone molds, which might leak. Lastly, if you’re using <a href="http://www.amazon.com/Luminarc-6-Piece-Drink-Islande-2-25-Ounce/dp/B005EEYKQC/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=vodka%20shot%20glass&amp;linkCode=ur2&amp;qid=1403408105&amp;sr=8-8&amp;tag=orangette-20&amp;linkId=BU6MQMWLKTFVMFLM" target="_blank">vodka shooter glasses</a>, which is what I used when we served popsicles at <a href="http://delanceyseattle.com/" target="_blank">Delancey</a>, you’ll want to pour the mixture into the glasses; freeze them for 20 to 30 minutes, or until the mixture begins to set; insert the popsicle sticks; and then freeze them until they’re hard. To serve, briefly run the sides of the glass under tepid water to loosen the popsicle, and gently twist the stick as you lift.</p>
-<p>I should tell you that these popsicles are not as smooth, texture-wise, as churned frozen yogurt – or, for that matter, as commercial popsicles. They’ll be a little icy, even if you use the kirsch or vodka. The texture doesn’t bother me. I like it.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 generous pound (about 500 grams) fresh strawberries, rinsed          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2/3 cup (130 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 teaspoons kirsch or vodka (optional)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup (240 grams) plain whole-milk yogurt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 teaspoon lemon juice          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Trim the green leaves from the strawberries, and quarter them (or, if they’re small, halve them; it doesn’t really matter much). Toss in a bowl with the sugar and kirsch or vodka, if using, stirring until the sugar begins to dissolve. Set aside at room temperature for about an hour, stirring occasionally.</p>
-<p>Scrape the strawberries and their liquid into the jar of a blender, add the yogurt and lemon juice, and process until smooth. If you want to remove the seeds – though I usually just leave them be – set a strainer over a bowl (or other vessel) with a pour spout. Press the mixture through the strainer to remove seeds. Divide the mixture among popsicle molds of your choosing, and freeze until hard.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: depends on your molds. I get about 8 when I use my 4-ounce silicone molds.</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Soft Apricots with Riesling and Vanilla Bean</h2>
-        <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-08-10T04:41:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>You could use any sweet-ish white wine here, though I particularly love the flavor of apricots with an off-dry riesling. (I’ve been using <a href="http://www.winesofthegorge.com/index.html" target="_blank">Memaloose</a> 2012 Idiot’s Grace Riesling.) I’ve also used <a href="http://www.alpenz.com/images/poftfolio/dolinvermouthfacts.htm" target="_blank">Dolin</a> Blanc vermouth and <a href="http://www.cocchi.it/eng/americano.htm" target="_blank">Cocchi Americano</a>, and both have yielded great results. You’re also welcome to try a drier white wine, or a rosé, and if you do, please report back.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 tablespoons (24 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            7 or 8 apricots (450 grams, or 1 pound), halved and pitted          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 vanilla bean, split and seeds scraped free          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/2 cup riesling          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 425 degrees.</p>
-<p>Measure the sugar into a saucer or a small plate. Press the apricot halves, cut side down, into the sugar: each one should wind up with a nice sugar crust on one side. Arrange the apricots, skin side down, in a baking dish that will comfortably hold them all in a single layer. Scrape the vanilla seeds into the baking dish &#8211; don’t worry if they clump &#8211; and wiggle the vanilla bean down between the apricots. Pour the riesling into the dish, taking care to pour it between the apricots, so that you don’t wash away the sugar.</p>
-<p>Bake for about 30 minutes, or until the apricots are tender. [Alternatively, you can do this all on the stove, placing the apricots in a large skillet with a lid and cooking them very gently over very low heat, covered, for 35 to 40 minutes.] Sometimes they start to fall apart, and that’s okay, but I like them best when they maintain their shape and barely resist the fork. Allow them to cool, and then carefully layer them in a jar, and pour the syrupy juices over the top. Chill thoroughly.  They’re best eaten icy cold, and as long as they’re covered in syrup, they’ll keep for more than a week.</p>
-<p>Serve the apricots with a drizzle of their vanilla-flecked syrup, or with a scoop of ice cream (salted caramel is very good) or a spoonful of plain yogurt.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: many tiny snacks or breakfasts, or dessert for 4 people</p>
-  </section>
-                    
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Apricot Macaroon Tart</h2>
-    <h3 class="subtitle">Adapted from Heidi Swanson’s <i><a href="http://www.amazon.com/Super-Natural-Every-Day-Well-Loved/dp/1580082777/?_encoding=UTF8&camp=1789&creative=9325&keywords=super%20natural%20every%20day&linkCode=ur2&qid=1373928182&sr=8-1&tag=orangette-20" target="_blank">Super Natural Every Day</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-07-19T21:49:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>A word (or many words) about flour: using <a href="http://glutenfreegirl.com/2012/07/how-to-make-a-gluten-free-all-purpose-flour-mix/" target="_blank">Shauna’s 40/60 ratio</a> for gluten-free baking, I whisked up a batch of all-purpose flour mix from 100 grams of buckwheat flour, 100 grams of brown rice flour, and 300 grams of tapioca flour.  (I then used 170 grams of this mixture in the recipe.)  I have no idea how well this mix of flours would work in other recipes, and I probably did everything wrong, but it worked nicely here, yielding a crust with a crunchy, slightly nubbly texture and great buckwheaty flavor.  The one thing that I will say, however, is that the crust wept a not-insignificant amount of butter onto the sheet pan.  I have to assume that this had something to do with the mix of flours I used, and their properties? Anyway, I doubt that the original recipe, as Heidi conceived it, has a butter-weeping problem.  In any case, consider yourself alerted. If your crust leaks a little butter onto the sheet pan, don’t worry.  That’s why the sheet pan is there.</p>
-<p>And one more word about flour: even if you do eat gluten, as I do, you really should consider using some buckwheat flour. The next time I make this tart, I might try using a mixture of buckwheat flour and standard all-purpose flour &#8211; maybe one-third buckwheat and two-thirds all-purpose?  Not that white whole wheat flour or whole wheat pastry flour are not interesting enough, but I really love what buckwheat brings to this crust.</p>
-<p>Oh, and if you find yourself without pistachios and are contemplating a trip to the grocery store: don’t worry about it.  I’ve forgotten to add the pistachios both times that I’ve made this tart, and though I imagine it would be prettier and maybe a little, little bit tastier with them, it’s wonderful without.</p>
-<p>Finally, if you live in Seattle, I strongly recommend the apricots from Bill’s Fruits, a stand toward the Ballard Inn end of the Ballard Farmers’ Market.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the crust:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups (170 g) white whole wheat flour, whole wheat pastry flour, or a mixture of flours (see above)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup (60 g) unsweetened finely shredded coconut          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (100 g) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. fine sea salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            10 tablespoons (140 g) unsalted butter, melted and cooled slightly          </div>
-                      <h3>For the filling:</h3>                  <div class="ingredient" itemprop="ingredients">
-            2 cups (140 g) unsweetened finely shredded coconut          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (70 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Pinch of fine sea salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 large egg whites          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 ounces (225 g) fresh apricots, pitted and quartered          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (45 g) pistachios, chopped          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F. Butter a 9-inch round removable-bottom tart pan, and set it on a rimmed sheet pan.</p>
-<p>To make the crust, combine the flour, coconut, sugar, and salt in a medium bowl. Stir to mix. Stir in the butter, and mix until the dough no longer looks dusty and all flour is absorbed. Press the mixture evenly into the bottom of the prepared pan: it should form a solid, flat layer. Bake for 15 minutes, or until barely golden. Remove from the oven, and set aside to cool for a few minutes.</p>
-<p>While the crust bakes, prepare the filling. Combine the coconut, sugar, and salt in a medium bowl. Stir to mix. Add the egg whites, and mix until well combined. When the crust is baked, evenly distribute the apricots over it. Drop dollops of the filling over the fruit, using your fingers to nudge it into the spaces in between.</p>
-<p>Bake for 20 to 30 minutes, until the peaks of the filling are deeply golden. Cool completely before topping with pistachios, slicing, and serving.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 8 to 12 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Matthew’s Spicy Sauteed Corn</h2>
-    <h3 class="subtitle">  Adapted slightly from <a href="http://www.spilledmilkpodcast.com/2010/09/16/tomato-corn-salad-and-spicy-corn-recipes-from-episode-21/" target="_blank">Spilled Milk</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2011-09-17T01:38:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I bought my corn late last week and didn’t have time to cook it before we went camping, so I cut it off the cob, spread it in a single layer on a sheet pan, and froze it. Then, before I cooked it today, I let it defrost in a colander for about 30 minutes, shaking the colander a couple of times. It worked very nicely, and based on that, I am happy to say that you don’t have to use fresh corn kernels for this recipe! You can make it at any time of year, with frozen corn. If it simplifies things, note that you will need 10 to 12 ounces of kernels for a single batch.</p>
-<p>Also, I used a 10-inch cast-iron skillet here, but you can use whatever kind of skillet you have.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            3 Tbsp. unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kernels from 3-4 ears fresh corn          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 scallions, thinly sliced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 jalapeno pepper, seeds removed if desired, minced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. water          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. freshly squeezed lime juice, plus lime wedges for serving          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Heat the butter in a large skillet over medium-high until bubbling. Add the corn, scallions, and jalapeno, stirring to coat with butter. Cook, stirring occasionally, until the corn begins to brown and stick to the bottom of the pan, about 10 minutes. (You might hear some kernels popping toward the end.) Add the water and stir, scraping the bottom of the pan to dislodge any extremely delicious brown bits. When the water has boiled off, add salt to taste. Remove from the heat, and stir in the lime juice. Serve immediately, with additional lime wedges.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 side-dish servings</p>
-  </section>
-                    
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Berry Cobbler</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FChez-Panisse-Desserts-Lindsey-Shere%2Fdp%2F0679755713%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1282793490%26sr%3D1-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><span style="font-style: italic;">Chez Panisse Desserts</span></a>, by Lindsey R. Shere</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-08-27T07:49:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Lindsey Shere was Chez Panisse’s original pastry chef, and I love her style. She approaches even the simplest desserts with elegance and great precision. This cobbler is a good example of that.</p>
-<p>The original version of this recipe calls for boysenberries, blueberries, and raspberries. I make it with roughly 3 cups of blueberries and 1½ cups of raspberries, and I love the flavor that results. I think I’ll be sticking with that combination for a while, although I might be tempted to work in some blackberries. The only berries that don’t work so nicely here are strawberries. The texture gets weird: spongy and slimy, a little reminiscent of a jellyfish. Oh, and if you’re using frozen berries, I recommend thawing them at least partially, or else they take a little longer to cook.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For fruit:</h3>                  <div class="ingredient" itemprop="ingredients">
-            4½ cups berries of your choice, fresh or frozen          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 to 1½ Tbsp. all-purpose flour          </div>
-                      <h3>For cobbler dough:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1½ cups all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3/8 tsp. table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1½ Tbsp. sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2¼ tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 Tbsp. cold unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup whipping cream          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 375°F.</p>
-<p>Toss the berries with the sugar and flour. Use the larger amount of flour if the berries are very juicy. Set aside.</p>
-<p>In a medium bowl, combine the dry ingredients for the cobbler dough. Using your fingers or a pastry blender, cut in the butter until the mixture looks like coarse cornmeal. Add the cream and mix lightly, until the dry ingredients are just moistened. [You can prepare the dry ingredients and butter up to a few days ahead, storing it in the refrigerator. The cream should not be added until you’re ready to bake.]</p>
-<p>Put the berry mixture into a 1½-quart baking dish. Scoop up lumps of dough and form into rough patties, 2 to 2½ inches in diameter and about ½ inch thick. I find that the dough is a little sticky, so it helps to moisten my hands with a little water. Arrange the dough patties on top of the berries. Bake for 35 to 40 minutes, or until the topping is set and lightly browned and the berry juices bubble thickly around the edges of the dish.</p>
-<p>Serve warm, with cream to pour over.</p>
-<p>Note: This cobbler keeps well at room temperature for about two days. (I don’t like to refrigerate it, because the texture of the topping changes.) Rewarm it gently, if you want, before serving.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 to 6 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Raspberry Yogurt Popsicles</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FPerfect-Scoop-Sorbets-Granitas-Accompaniments%2Fdp%2F158008219X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1278912186%26sr%3D1-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><span style="font-style: italic;">The Perfect Scoop</span></a>, by David Lebovitz</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-07-12T07:14:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>These pops are perfectly tangy and perfectly sweet, and the best part is, the yogurt flavor really shines. Be sure to use whole-milk yogurt, not low-fat or nonfat. It tastes better, and it makes for a better tasting popsicle. I buy my popsicle sticks at Fred Meyer, but you can also find them at craft stores.</p>
-<p>Lastly, I should tell you that these popsicles will not be as smooth, texture-wise, as churned frozen yogurt. They will be a little icy &#8211; you know, like a popsicle.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 cups (480 grams) plain whole-milk yogurt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups (240 grams) fresh or frozen raspberries          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ cup (150 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. lemon juice          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Combine all ingredients in the jar of a blender, and process until smooth. Set a strainer over a bowl (or other vessel) with a pour spout. Press the mixture through the strainer to remove seeds. Divide mixture among popsicle molds of your choosing. Freeze for 20 to 30 minutes, or until the mixture begins to set; then insert popsicle sticks. Freeze until very hard.</p>
-<p>To serve, briefly run the sides of the mold under tepid water to loosen the popsicle, and gently twist or wiggle the popsicle stick as you lift.</p>
-<p>Note: I’ve also made this recipe with blackberries, and that’s very good, too. Keep in mind, though, that you may need to adjust the amount of sugar or lemon juice.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 10 to 11 vodka shooter-size pops</p>
-  </section>
-                    
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Chilled Peaches in White Wine</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FPlatter-Figs-Other-Recipes%2Fdp%2F1579653464&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><span style="font-style: italic;">A Platter of Figs and Other Recipes</span></a>, by David Tanis</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2009-08-12T16:21:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I’ve tried this method with a couple of different wines, but my favorite is <a href="http://www.charlesnealselections.com/wine/southwest/pellehaut-cotes-gascogne/">Domaine de Pellehaut “Harmonie de Gascogne.”</a> It’s on our wine list, and it’s hard not to love: crisp and light, a little grapefruity, not too expensive &#8211; and perfect, perfect for peaches. And about the peaches themselves: be sure to choose specimens that are firm and meaty, not watery or mealy.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            8 ripe peaches (white or yellow, or a mixture), washed well and rubbed dry          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 Tbsp. sugar, or more to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 bottle (750 ml) dry white wine          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Slice the peaches thinly. (I get about 16 slices per peach.) Combine the peaches and sugar, and toss gently to mix. Add the wine, and toss gently again. Taste, and adjust sugar as needed. (Brandon likes them a little sweeter than I do.) Cover, and refrigerate for several hours &#8211; or up to a few days, if you want.</p>
-<p>Serve the peaches cold, in a glass or shallow bowl, with a small ladleful of their liquid. Eat the peaches with a fork and then drink the liquid left in the glass.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 8 servings</p>
-  </section>
-                    
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Luisa Weiss's Rice-Stuffed Tomatoes</h2>
-    <h3 class="subtitle">Adapted from <a href="http://wednesdaychef.typepad.com/the_wednesday_chef/2007/07/bladibla-bladib.html">this blog post</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2008-09-30T01:20:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I made my own breadcrumbs for this, but it’s not really necessary. It is nice, though. If you happen to have some leftover baguette lying around, or some crusty white bread or something like that, it will take you about 5 minutes. Just cut off the crust, cut the soft center into cubes, and whirl the cubes in a food processor until they are reduced to fine crumbs. (Only process a couple of handfuls at a time, though, or the motor of the machine could overheat.)</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            4 large, good-tasting tomatoes          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 small yellow onion, diced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup Arborio rice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup water          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            5 fresh basil leaves          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Breadcrumbs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 medium Yukon gold potatoes, sliced into ¼-inch-thick rounds          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F.</p>
-<p>Cut the tops off the tomatoes. Holding them over a bowl, scoop out their insides – flesh, seeds, and juice – and let it all fall into the bowl. Set the tomatoes in a lightly oiled 9”x13” baking dish. Then fish the flesh out of the bowl, and chop it. Return it to the bowl with the juice and seeds.</p>
-<p>In a medium (2-quart) saucepan, warm a glug of olive oil over medium heat. Add the onion, and cook, stirring frequently, until soft and translucent. Add the rice, and continue to cook, stirring, for another minute or two. Add the tomato flesh, juice, and seeds – it may look like a lot, but add it all – as well as the water. Tear the basil leaves into small pieces, and add them too. Add a generous pinch or two of salt. Reduce the heat slightly, cover the pot, and simmer for 10 minutes. Taste, and if needed, add more salt.</p>
-<p>Spoon the par-cooked rice mixture into the tomatoes. Top them with a sprinkling of breadcrumbs. Arrange the potato slices around the tomatoes in the pan. Give everything a good drizzle of olive oil. (You might want to flip and rub the potatoes a bit, to make sure that each has a nice coat of oil.) Bake for 1 hour and 15 minutes. The tomatoes should shrivel a bit and release some of their juices, and the potatoes should cook through.</p>
-<p>Cool for 15 minutes or so before eating, so that the tomato juices have time to settle.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 servings</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

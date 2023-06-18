@@ -1,84 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>I like to imagine</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Whole Wheat Date Scones</h2>
-    <h3 class="subtitle">Inspired by <i><a href="http://www.amazon.com/Breakfast-Lunch-Tea-Little-Bakery/dp/0714844659/?_encoding=UTF8&camp=1789&creative=9325&keywords=breakfast%20lunch%20tea&linkCode=ur2&qid=1429219873&sr=8-1&tag=orangette-20&linkId=EJAG7OFWVGURMG37" target="_blank">Breakfast, Lunch, Tea</a></i>, by Rose Carrarini</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2015-04-18T05:26:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/scone/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Carrarini says that these scones should be eaten warm, with lots of butter, and eaten slowly. <i>Eaten slowly</i>! Riiiiiiiiight.</p>
-<p>As for kosher salt, I use Diamond Crystal brand, and though it might seem like a trivial detail, the brand does make a difference. If you use Morton’s, note that it’s saltier than Diamond Crystal, so use less.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            125 grams (¾ cup plus 2 tablespoons) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            125 grams (1 cup) whole wheat flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 teaspoons baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon freshly grated nutmeg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 heaping tablespoons golden brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            60 grams (4 ½ or 5 tablespoons) cold unsalted butter, diced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            90 to 100 grams (½ cup) pitted, chopped dates          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            150 ml (2/3 cup) whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 egg, beaten well          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Set a rack in the middle of the oven, and preheat to 400°F. Line a baking sheet with parchment paper.<br />
-In a large bowl, combine the flours, baking powder, salt, and nutmeg. Whisk to blend well. Add the brown sugar, whisking again, and then add the butter. Using your fingers, work the butter into the flour mixture, rubbing and pinching the butter until there are not lumps of butter bigger than a pea. Stir in the dates. Add about three-quarters of the milk, and using a fork, stir it into the dry ingredients. If it seems too dry and crumbly, add more milk as needed, but start sparingly, so that the dough doesn’t wind up sticky. Once the dough is coming together, put down the fork and finish bringing it together with your hand, pressing it and turning it to incorporate all the flour. Turn the dough out onto a lightly floured work surface, and massage it into a disk roughly 1 inch tall. Cut the dough into 10 even wedges (or squares, if you want, or you can use a cutter to make circles), and arrange them on the baking sheet. Brush lightly with egg.</p>
-<p>Bake for about 15 minutes, or until the tops are lightly golden. Serve warm – or, if eating later, reheat gently before eating.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 10 small scones</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

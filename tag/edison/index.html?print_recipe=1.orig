@@ -1,85 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>May 7</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Breadfarm Graham Crackers</h2>
-    <h3 class="subtitle">Adapted from Renee Bourgault and Breadfarm</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2015-05-07T18:05:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/edison/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Keep in mind that unrefined cane sugar doesn’t cream with butter the same way that granulated sugar does—the mixture won’t get fluffy, but creamy. Keeping the dough cold throughout the process of making it allows this rich dough to cut neatly and to bake without spreading.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 3⁄4 cups whole-wheat pastry flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1⁄2 cup whole-wheat flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1⁄4 cup all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tbsp. plus 2 tsp. wheat bran          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1⁄2 tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1⁄2 tsp. ground cinnamon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 sticks (1 cup) unsalted butter, softened          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2⁄3 cup unrefined cane sugar or turbinado sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tbsp. honey          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In a medium bowl, whisk the flours with the wheat bran, baking soda, salt, and cinnamon. In the bowl of a stand mixer fitted with the paddle attachment, beat the butter, sugar, and honey on medium speed, stopping occasionally to scrape down the sides of the bowl, until the mixture is creamy, 2 minutes. With the mixer on low speed, add the dry ingredients in three batches, stopping as needed to scrape down the bowl, until the flour is fully incorporated. Continue beating until the dough comes together around the paddle, pulling away from the sides of the bowl.</p>
-<p class="instruction">Scrape the dough out onto a work surface and gather into a ball. Halve the dough ball and place each half on a 12” x 16” sheet of parchment paper. Pat each half into a 1”-thick rectangle and then cover with another sheet of parchment paper, lining it up with the first. Using a rolling pin, roll each dough half between the sheets of parchment to an even thickness of <sup>1</sup>⁄<sub>8</sub>”, maintaining its rectangular shape. Carefully transfer the two dough halves, still between the parchment sheets, onto two baking sheets and freeze for 30 minutes.</p>
-<p class="instruction">Remove each sheet from the freezer, and transfer the parchment-wrapped dough sheets to a clean work surface. Remove the top sheet of parchment from each, and working quickly, use a fork or skewer to prick the dough sheets at roughly 1-inch intervals. Using a pizza cutter or a sharp knife, score the dough into 2-inch squares. Trim the scraps, and reserve to use for rerolling and making more cookies. Return the pricked and scored dough sheets, still in single, large sheets, to the freezer for 15 to 20 minutes, until very firm.</p>
-<p class="instruction">Position racks in the upper and lower thirds of the oven, and heat to 350°. Remove the chilled dough sheets from the freezer, and invert each onto a clean work surface. Peel away and discard the parchment paper and, working quickly, separate the dough sheets along with score lines into individual squares. Place the squares onto three parchment paper-lined baking sheets, spacing them about 1 <sup>1</sup>⁄<sub>2</sub> inches apart. Chill the squares on the baking sheets for 15 minutes.</p>
-<div class="instruction">Bake the squares for 14 minutes, until golden at the edges; rotate the baking sheets front to back and top to bottom halfway through cooking. Transfer to a rack and cool completely. Store in an airtight container at room temperature for up to 2 weeks.</div>
-    </div>
-  
-      <p itemprop="yield">Yield: about 4 dozen (2-inch) squares</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

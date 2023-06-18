@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/toast/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve noticed that some reviews of this book complain that it calls for ingredients using only volume measures, not weight measures. I don’t find that to be a deal-breaker, but it is important to measure the ingredients correctly, particularly the flours. Before you scoop any flour out of the container, take a spoon and stir the flour, lifting and loosening it. (It tends to get packed down, and you don’t want to measure packed flour.) Now, to measure, spoon the flour into your measuring cup until it heaps above the rim. Then sweep the back of a dinner knife, or any other straight utensil, across the top to level it, letting the excess flour fall back into the container.</p>
 <p>This recipe is made for a standard-size loaf pan, one that measures about 9 by 5 by 3 inches. But mine is on loan to Delancey, so I’ve been using a different pan, one that I picked up at a thrift shop a couple of years ago. It measures 10 by 3 ¾ by 3 inches, and I love the long, skinny loaf it makes.</p>

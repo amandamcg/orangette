@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/chana-masala/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>When I’m not hovering next to him with a pen and paper, Brandon makes his chana masala by feel, tasting and tweaking, stirring and sniffing. The recipe that follows is our joint effort to make his rendition reproducible, and to make it user-friendly for those who love a good, prescriptive recipe, myself included. You should feel free, however, to taste and tweak as you see fit. It&#8217;s the Brandon Way.</p>
 <p>This chana masala can be served in two different styles: with a half-cup of whole-milk yogurt to smooth and soften the flavors, or sans yogurt, served with a squeeze of lemon and a pinch of fresh cilantro. I prefer the former, but Brandon leans toward the latter. Either way, this dish is even better the second—or third—day.</p>

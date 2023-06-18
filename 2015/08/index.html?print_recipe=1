@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2015/08/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Rodgers calls for salt-packed anchovies, but I use Scalia brand oil-packed, which I steal from Delancey. They’re not cheap, but they keep in the fridge for a long, long time, and they have wonderful flavor. Before using, I rinse them well and dry them on paper towels. And about the quantity of kosher salt: <a href="http://www.thekitchn.com/cooks-talk-a-threefingered-pin-90144" target="_blank">a three-finger pinch</a> is the amount you pick up when you pinch with your thumb, index finger, and middle finger.</p>
 <p>Oh, and a tip for applying thick dressings, and for applying any dressing to whole leaves of romaine: keep a box of powder-free latex gloves in your kitchen. Spoon some dressing into the bowl of lettuce, slide on a pair of gloves, and use your hands to gently rub the dressing onto each leaf. You could also do it without gloves, if you don&#8217;t mind smelling garlicky for a bit.</p>

@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/canned-beans-to-the-rescue/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’m no fan of the liquid in cans of beans &#8211; it’s just so&#8230; <i>slimy</i> &#8211; but this is a recipe where it really is useful. Take a deep breath, and dump it in.</p>
 <p>As for butter, Katie doesn’t measure it, but she told me that she probably uses two tablespoons for four cans of beans. I prefer mine with more butter, ideally with a tablespoon per can. Brandon also suggests adding garlic, pressed or minced, and that’s very nice, too. It adds a faint depth of flavor. But I defer to you.</p>

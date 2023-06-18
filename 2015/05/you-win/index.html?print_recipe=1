@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2015/05/you-win/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Over the years, I’ve tweaked this recipe slightly. Her version suggests halving the rhubarb stalks lengthwise before slicing, so you wind up with 1-cm cubes; I get lazy and just cut the stalks crosswise into chunks. The chunks are still small enough that some break down during cooking, while others just get soft and plump, making for a variation in texture that I like very much. As for sugar, Dana’s version uses ¾ cup sugar for 1 pound rhubarb, but I’ve come to prefer mine with slightly less, roughly a scant 2/3 cup. I know that ¾ cup, or even 2/3 cup, might sound like a lot, but the rhubarb can take it. You could use less, sure, but keep in mind that the sugar also helps thicken the rhubarb’s juices and give the compote its body, so if you cut back too much, the texture will be different. The most recent time I made it, I doubled the recipe and used 1 ¼ cups of sugar, just FYI.</p>
   </div>

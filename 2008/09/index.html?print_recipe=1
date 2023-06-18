@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2008/09/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I made my own breadcrumbs for this, but it’s not really necessary. It is nice, though. If you happen to have some leftover baguette lying around, or some crusty white bread or something like that, it will take you about 5 minutes. Just cut off the crust, cut the soft center into cubes, and whirl the cubes in a food processor until they are reduced to fine crumbs. (Only process a couple of handfuls at a time, though, or the motor of the machine could overheat.)</p>
   </div>

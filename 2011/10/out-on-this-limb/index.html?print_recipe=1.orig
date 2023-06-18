@@ -1,89 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>Out on this limb</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Salted Peanut Butter Cookies</h2>
-    <h3 class="subtitle">Adapted from Autumn Martin and <a href="http://www.getyourhotcakes.com" target="_blank">Hot Cakes Confections</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2011-10-07T04:10:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2011/10/out-on-this-limb/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Hot Cakes Confections uses a brand of natural peanut butter called Aunt Patty’s, but I used <a href="http://www.adamspeanutbutter.com/product" target="_blank">Adams</a> Natural Peanut Butter, which is what I keep at home. (Note that I buy the kind that needs to be stirred well before using, not the no-stir kind. And make sure not to accidentally buy the unsalted one. Hate it when that happens.)</p>
-<p>For the milk chocolate, Hot Cakes uses <a href="https://www.theochocolate.com/store/products/chocolate-bars/classic-collection/45-milk-chocolate" target="_blank">Theo milk chocolate</a>. I also love the milk chocolate made by <a href="http://shop.scharffenberger.com/41-Cacao-Extra-Rich-Milk-Chocolate/p/SFB-CBMILK&amp;c=ScharffenBerger@Bars" target="_blank">Scharffen Berger</a>. I’ve also tried <a href="http://ghirardelli.com/products/chips_milk.aspx" target="_blank">Ghirardelli</a> milk chocolate chips, which aren’t great, but they get the job done. Whichever you use, note that I call for a larger amount than the original recipe: it calls for about 115 grams (4 ounces) milk chocolate, but I like 170 grams (6 ounces).</p>
-<p>For kosher salt, I use Diamond Crystal brand. Note that different brands have different flake sizes, so measuring by weight is very important! (If you use Morton’s brand, for instance, 12 grams is only 1 ¾ teaspoons by volume.)</p>
-<p>Lastly, Autumn’s recipe was written in ounces, but I have converted it to grams and cups.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            240 grams (2 cups plus 1 tsp.) pastry flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            5 grams (1 tsp.) baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            12 grams (1 Tbsp. plus 1 tsp.) kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            275 grams (2 sticks plus 3.5 Tbsp.) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            200 grams (about 1 ¼ cup, packed) dark brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            170 grams (¾ cup plus 2.5 Tbsp.) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            400 grams (1 ½ cup) natural salted creamy peanut butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            170 grams chopped milk chocolate          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F, and line a baking sheet with parchment paper.</p>
-<p>In a bowl, combine the pastry flour, baking soda, and salt, and whisk well.</p>
-<p>In the bowl of a mixer fitted with the paddle attachment, beat the butter with the sugars until light and fluffy, scraping down the sides of the bowl as needed. (You can also do this by hand, with a sturdy spoon.) Add the eggs one at a time, beating between each addition. Add the peanut butter and vanilla, and beat on medium-low speed to blend. Add the dry ingredients in three batches, mixing on low speed until incorporated and scraping down the sides of the bowl as needed. Add the chocolate, and beat briefly on low speed, just until evenly incorporated.</p>
-<p>Using an ice cream scoop – mine has a capacity of about ¼ cup &#8211; scoop the batter onto the prepared sheet pan, taking care to leave plenty of space between cookies. (I limit it to six cookies per pan; if you add more, they run together.) Bake for 15 to 18 minutes, or until the cookies are puffed and pale golden around the edges, but their tops have no color. (The cookies will not look fully baked, and this is important! The chewy texture of these cookies depends on it. They’re not nearly as good when baked until golden and crisp.) Transfer the pan to a rack, and cool the cookies completely on the sheet pan. They will firm up as they cool. (Also, they taste better when fully cooled. Promise.)</p>
-<p>Repeat with remaining dough.</p>
-<p><i>Note</i>: This dough freezes beautifully. Actually, I like the texture of these cookies best when they’re baked from frozen. Scoop the dough onto a sheet pan and freeze until hard; then transfer the dough mounds to a freezer bag or other airtight container. Do not defrost before baking, and plan to add four or five minutes to the baking time.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 20 large (4-inch) cookies</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2009/09/what-i-do-now/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original version of this recipe is hard to improve upon, but I have made a couple of small changes. When I measure the sugar for the topping, I keep it on the scant side, because I like my plums solidly sweet-tart. I also reduced the butter a bit, because it seemed to want to pool in a kind of scary way at the bottom of the pan. Cutting it back even a little seems to help a lot.</p>
 <p>At Delancey, I make this crumble in bigger batches, and it scales up beautifully. If you need to feed a crowd, try tripling the recipe as I’ve written it below, and bake it in a 9”-by-13” dish, as pictured above. Works like a charm.</p>

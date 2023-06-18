@@ -1,81 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>This one does something interesting</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Nigel Slater’s Apple Crumble</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FTender-Cooks-Guide-Fruit-Garden%2Fdp%2F0007325215%2F&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Tender, Volume II: A Cook’s Guide to the Fruit Garden</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2011-02-21T07:29:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2011/02/this-one-does-something-interesting/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>For my crumble, I wanted a mixture of apples: some that would fall apart, and some that would hold their shape. But all I could find today was the latter, so that’s what I went with. I used two Braeburns and two Arkansas Blacks. The amount of sugar called for in the filling worked nicely with my apples, but if you’re using sweeter varieties, you might want to cut back. Also, it’s probably a good idea to taste the apples after they’ve cooked in the skillet, before you bake them; that way, you can add more lemon or sugar, if needed. I get the sense that Mr. Slater wants us to use our intuition.</p>
-<p>Also, about sugar: the original recipe calls for golden caster sugar, which is a challenge to find here. I don’t think it’s a dealbreaker to use standard granulated sugar instead. Or you could substitute a mixture of superfine sugar (also known as baker’s sugar) and brown sugar, maybe? I had some unrefined sugar in the pantry, so I used that, and it worked fine.</p>
-<p>One last thing: the original is written only in grams, but I’ve added volume measurements, so you can do it either way. But if you’ve got a scale, pull it out. Much less fiddly than using measuring cups and spoons.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the filling:</h3>                  <div class="ingredient" itemprop="ingredients">
-            4 medium (850 grams) apples          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Half a lemon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup (75 grams) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. (30 grams) unsalted butter          </div>
-                      <h3>For the topping:</h3>                  <div class="ingredient" itemprop="ingredients">
-            7 Tbsp. (95 grams) cold unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ cup (150 grams) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 ½ Tbsp. (45 grams) sugar          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F.</p>
-<p>Peel and core the apples, cut them into rough 1-inch chunks, and toss them with the juice of the lemon half and the sugar.</p>
-<p>Warm a skillet over medium-high heat. Add the butter, and when it stops foaming, dump in the apples and their juices. Nudge the apples around so that they lie in a single layer, and then leave them alone for a while. The juices will thicken to a syrup that coats the fruit, and the fruit should get golden in patches. Stir gently once or twice, cooking until the apples have a little color. (This may take longer than you’d expect.) They should smell sensational.</p>
-<p>Turn the apples and any caramelly juices out of the skillet into a baking dish. (I used an oval gratin dish that measures about 10 inches long and 7 inches wide, though you would be fine with a dish that’s even a little smaller.) If there are any sticky bits left in the skillet, add a squeeze of lemon juice and/or a splash of water, and stir until they dissolve. Add to the apples.</p>
-<p>To make the topping, put the butter and the flour in a medium bowl, and rub the butter into the flour with your fingertips until the mixture looks like fine breadcrumbs. (Alternatively, you could do this in a food processor.) Stir in the sugar. Drizzle in a tablespoon of water, and shake the bowl back and forth until some of the mixture sticks together in gravel-sized lumps. This way, you get some parts of the topping that are sandy and others that are gravelly or pebbly. Distribute the topping evenly over the apples. Bake for 45 minutes to 1 hour, or until pale golden. Serve warm or at room temperature.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 servings</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

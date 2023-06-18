@@ -1,75 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>July 29</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Campari Granita</h2>
-    <h3 class="subtitle">From Bitter, by Jennifer McLagan</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2015-07-29T19:38:00-04:00">
-  </header>
-
-      <figure class="hero">
-      <img width="1324" height="882" src="https://orangette.net/wp-content/uploads/2015/09/b8bd1-_f7a60341-1324x882.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" itemprop="photo" srcset="https://orangette.net/wp-content/uploads/2015/09/b8bd1-_f7a60341-1324x882.jpg 1324w, https://orangette.net/wp-content/uploads/2015/09/b8bd1-_f7a60341-662x441.jpg 662w, https://orangette.net/wp-content/uploads/2015/09/b8bd1-_f7a60341-870x580.jpg 870w, https://orangette.net/wp-content/uploads/2015/09/b8bd1-_f7a60341.jpg 1600w" sizes="(max-width: 1324px) 100vw, 1324px" />    </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/cocktail/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>The world does not need Campari Granita. It is enough, I think, that Campari exists, and that we can mix it with soda water and drink it. But the instant I saw this recipe in Jennifer McLagan&#8217;s excellent book <i>Bitter</i>, I knew I had to make it, because the only thing better than straight-up Campari and soda (or a <a href="https://en.wikipedia.org/wiki/Negroni" target="_blank">Negroni</a>, or an <a href="https://en.wikipedia.org/wiki/Americano_(cocktail)" target="_blank">Americano</a>, or a <a href="http://food52.com/recipes/23497-campari-shandy" target="_blank">shandy</a>), is Campari and orange or grapefruit juice and the smallest splash of lemon juice, frozen and forked to the texture of a snow cone and eaten with a spoon on a sticky July evening, while you make dinner. Or more succinctly, in the words of our friend Michael Riha: this stuff is great. Cheers.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3> For the orange version:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 cup (250 ml) freshly squeezed orange juice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (125 ml) Campari          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon freshly squeezed lemon juice          </div>
-                      <h3> Or for the grapefruit version, which is more bitter, and which I prefer:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 cup (250 ml) freshly squeezed grapefruit juice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (125 ml) Campari          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tablespoons (25 grams) superfine or caster sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon freshly squeezed lemon juice          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Stir the juice, Campari, and lemon juice (and sugar, if using grapefruit juice) together. Pour into an 8-inch square metal pan (or another pan of similar volume). Place in the freezer. Stir the mixture with a spoon every hour or so, to break it up into large ice crystals. I used a fork for the last stirring, to make the ice crystals finer and fluffier. It took about three hours for my granita to be fully frozen and to the right texture. If you forget to stir the mixture and it freezes solid, don’t panic: just break it into chunks and pulse briefly in the food processor. To serve, spoon the granita into chilled glasses.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 to 6 servings</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

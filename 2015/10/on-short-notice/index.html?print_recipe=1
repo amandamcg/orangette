@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2015/10/on-short-notice/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original version of this recipe calls for cannellini beans, but any light-colored bean works. I wouldn’t recommend pinto beans or any other brown or red bean, though; the flavor is too dark and muddy here. And you’ll note that, if you use canned beans rather than beans cooked from dried, you’ll need to add some stock. I like chicken stock &#8211; though you could use vegetable, I’m sure – and in a pinch, <a href="http://www.betterthanbouillon.com" target="_blank">Better Than Bouillon</a> is more than adequate.</p>
 <p>Be sure to have some bread on hand when you serve this, and be sure to toast that bread and rub it with garlic. We usually keep the bread on the side, but you can also ladle the escarole and beans over it and let it get all nice and juicy and sogged.</p>
@@ -57,7 +57,7 @@
                   <div class="ingredient" itemprop="ingredients">
             Kosher salt          </div>
                   <div class="ingredient" itemprop="ingredients">
-            <a href="../../../while-youre-not-looking/index.html" target="_blank">1 batch of white beans cooked according to these directions</a>, OR about 2 ½ cups canned beans (a little less than two 15-ounce cans), drained and rinsed, plus 1 cup chicken stock          </div>
+            <a href="http://orangette.net/while-youre-not-looking/" target="_blank">1 batch of white beans cooked according to these directions</a>, OR about 2 ½ cups canned beans (a little less than two 15-ounce cans), drained and rinsed, plus 1 cup chicken stock          </div>
                   <div class="ingredient" itemprop="ingredients">
             ½ of a lemon          </div>
                   <div class="ingredient" itemprop="ingredients">

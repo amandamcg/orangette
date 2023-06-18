@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2014/09/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>If you don’t mind the expense, it’s a good idea to buy a couple more avocados than you actually need for this recipe. Inevitably, one will have some gnarly spots of rot inside, and you’ll want to throw it out. Also, don’t cut open your avocados until you’ve prepped the rest of the ingredients, because the flesh browns quickly when exposed to air.</p>
 <p>Last, note that this recipe scales up nicely. At Essex, our batches are ten times this size, and we mix them in a bowl big enough to sit in.</p>

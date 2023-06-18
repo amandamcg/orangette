@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2010/07/for-a-popsicle/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>These pops are perfectly tangy and perfectly sweet, and the best part is, the yogurt flavor really shines. Be sure to use whole-milk yogurt, not low-fat or nonfat. It tastes better, and it makes for a better tasting popsicle. I buy my popsicle sticks at Fred Meyer, but you can also find them at craft stores.</p>
 <p>Lastly, I should tell you that these popsicles will not be as smooth, texture-wise, as churned frozen yogurt. They will be a little icy &#8211; you know, like a popsicle.</p>

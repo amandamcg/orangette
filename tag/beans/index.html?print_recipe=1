@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/beans/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This is more method than recipe. I’ve used this method with all kinds of beans – cannellini, pinto, corona, flageolet, little heirloom beans whose names I don’t know – and it works with all of them. I don’t even measure my beans anymore, or any of the seasonings. You can wing it. [<em><strong>Updated to add</strong></em>: a couple of readers have called to my attention an important fact of which I was unaware: <strong>red kidney beans must be boiled briskly</strong> before consuming, because they contain a toxin. Thus I cannot advise this gentle oven method for red kidney beans. <a href="http://www.fda.gov/Food/FoodborneIllnessContaminants/CausesOfIllnessBadBugBook/ucm071092.htm" target="_blank">Go here</a> for more information.) A few notes:</p>
 <p style="padding-left: 30px;">1. I’m writing the recipe below mostly as John Thorne intended, but you should know that I generally only season my beans with olive oil, salt, and sometimes red pepper flakes. That’s all. Do as you wish.<br />

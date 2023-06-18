@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2015/04/i-like-to-imagine/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Carrarini says that these scones should be eaten warm, with lots of butter, and eaten slowly. <i>Eaten slowly</i>! Riiiiiiiiight.</p>
 <p>As for kosher salt, I use Diamond Crystal brand, and though it might seem like a trivial detail, the brand does make a difference. If you use Morton’s, note that it’s saltier than Diamond Crystal, so use less.</p>

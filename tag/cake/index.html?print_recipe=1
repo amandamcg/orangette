@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/cake/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>If you have only light brown sugar in the house, by all means, use it.  But having made the cake both ways, with light brown sugar and with dark brown sugar, I prefer it with dark. The flavor is fuller, with a different depth.</p>
   </div>
@@ -107,7 +107,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/cake/?print_recipe=1" class="print icon-print"></a>
     </nav>
       </div>
 
@@ -154,7 +154,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/cake/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This recipe was shared with McDermott by one Suzanne O’Hara of Burlington, North Carolina, and it comes together with remarkable speed and ease. I think I’ll be making it often.</p>
   </div>
@@ -201,7 +201,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/cake/?print_recipe=1" class="print icon-print"></a>
     </nav>
       </div>
 
@@ -253,7 +253,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/cake/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>You could make this cake with store-bought roasted almonds, but I like to buy them raw and toast them myself. That way, I can control how deeply they’re toasted, and they also taste fresher. If you’re short on time, you can toast them a day or two ahead. You might also want to plan ahead for preparing the citrus fruits, since boiling and cooling them takes time. (And remember to use organic oranges and lemons, since you’ll be eating the rind.) Once you’ve got the nuts and fruits ready, this cake is quick to make.</p>
   </div>

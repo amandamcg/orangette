@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2009/08/tonight-at-five/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve tried this method with a couple of different wines, but my favorite is <a href="http://www.charlesnealselections.com/wine/southwest/pellehaut-cotes-gascogne/">Domaine de Pellehaut “Harmonie de Gascogne.”</a> It’s on our wine list, and it’s hard not to love: crisp and light, a little grapefruity, not too expensive &#8211; and perfect, perfect for peaches. And about the peaches themselves: be sure to choose specimens that are firm and meaty, not watery or mealy.</p>
   </div>

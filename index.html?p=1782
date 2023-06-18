@@ -4,13 +4,13 @@
   <meta charset="utf-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <script src="https://cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
   <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
 
-    <link rel="shortcut icon" href="wp-content/themes/orangette/assets/icons/favicon.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
-  <link rel="mask-icon" href="wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
-  <link rel="manifest" href="wp-content/themes/orangette/assets/icons/manifest.json">
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
   <meta name="apple-mobile-web-app-title" content="Orangette">
   <meta name="application-name" content="Orangette">
   <meta name="msapplication-TileColor" content="#da532c">
@@ -21,12 +21,12 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>On industry, indolence, and Italian vegetable soup | Orangette</title>
-	<link rel="canonical" href="http://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/" />
+	<link rel="canonical" href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="On industry, indolence, and Italian vegetable soup | Orangette" />
 	<meta property="og:description" content="Every now and then, something comes over me, and I produce. With no real hunger or purpose, I make, say, three mini-loaves of fancy banana bread, a batch of strawberry scones, a loaf of sourdough, and barrelfuls of Italian vegetable soup—all in less than twenty-four hours, and mostly on a Friday night, no less. Behold the pinnacle of geekiness! But because a girl’s got to keep these things in check, I usually make sure that my bouts of industriousness are immediately followed by a good dose of sloth, generally in the company of someone upon whom I can foist some of the products of my labor. Hence Saturday night’s languorous session on the couch, spooning whipped cream and sipping wine,&hellip;" />
-	<meta property="og:url" content="http://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/" />
+	<meta property="og:url" content="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/" />
 	<meta property="og:site_name" content="Orangette" />
 	<meta property="article:publisher" content="https://www.facebook.com/molly.wizenberg" />
 	<meta property="article:published_time" content="2005-01-16T21:40:00+00:00" />
@@ -39,11 +39,11 @@
 	<meta name="twitter:data1" content="Molly" />
 	<meta name="twitter:label2" content="Est. reading time" />
 	<meta name="twitter:data2" content="5 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://orangette.net/#website","url":"https://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"http://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#primaryimage","inLanguage":"en-US","url":"http://orangette.net/wp-content/uploads/2005/01/Fretwell-soup%2C-served_text.jpg","contentUrl":"http://orangette.net/wp-content/uploads/2005/01/Fretwell-soup%2C-served_text.jpg"},{"@type":"WebPage","@id":"http://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#webpage","url":"http://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/","name":"On industry, indolence, and Italian vegetable soup | Orangette","isPartOf":{"@id":"https://orangette.net/#website"},"primaryImageOfPage":{"@id":"http://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#primaryimage"},"datePublished":"2005-01-16T21:40:00+00:00","dateModified":"2015-09-24T03:54:32+00:00","author":{"@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"http://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/"]}]},{"@type":"BreadcrumbList","@id":"http://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://orangette.net/"},{"@type":"ListItem","position":2,"name":"On industry, indolence, and Italian vegetable soup"}]},{"@type":"Person","@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://orangette.net/#website","url":"http://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#primaryimage","inLanguage":"en-US","url":"http://orangette.net/wp-content/uploads/2005/01/Fretwell-soup%2C-served_text.jpg","contentUrl":"http://orangette.net/wp-content/uploads/2005/01/Fretwell-soup%2C-served_text.jpg"},{"@type":"WebPage","@id":"https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#webpage","url":"https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/","name":"On industry, indolence, and Italian vegetable soup | Orangette","isPartOf":{"@id":"http://orangette.net/#website"},"primaryImageOfPage":{"@id":"https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#primaryimage"},"datePublished":"2005-01-16T21:40:00+00:00","dateModified":"2015-09-24T03:54:32+00:00","author":{"@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/"]}]},{"@type":"BreadcrumbList","@id":"https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"http://orangette.net/"},{"@type":"ListItem","position":2,"name":"On industry, indolence, and Italian vegetable soup"}]},{"@type":"Person","@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; On industry, indolence, and Italian vegetable soup Comments Feed" href="2005/01/on-industry-indolence-and-italian-vegetable-soup/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; On industry, indolence, and Italian vegetable soup Comments Feed" href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
 /*! This file is auto-generated */
@@ -63,24 +63,24 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('index.html?p=1782');--wp--preset--duotone--grayscale: url('index.html?p=1782');--wp--preset--duotone--purple-yellow: url('index.html?p=1782');--wp--preset--duotone--blue-red: url('index.html?p=1782');--wp--preset--duotone--midnight: url('index.html?p=1782');--wp--preset--duotone--magenta-yellow: url('index.html?p=1782');--wp--preset--duotone--purple-green: url('index.html?p=1782');--wp--preset--duotone--blue-orange: url('index.html?p=1782');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='stcr-font-awesome-css' href='wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='sage/css-css' href='wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/posts/1782" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="alternate" type="application/json" href="https://orangette.net/wp-json/wp/v2/posts/1782" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.2.2" />
-<link rel='shortlink' href='index.html?p=1782' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Forangette.net%252F2005%252F01%252Fon-industry-indolence-and-italian-vegetable-soup%252F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Forangette.net%252F2005%252F01%252Fon-industry-indolence-and-italian-vegetable-soup%252F&amp;format=xml" />
+<link rel='shortlink' href='https://orangette.net/?p=1782' />
+<link rel="alternate" type="application/json+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2005%2F01%2Fon-industry-indolence-and-italian-vegetable-soup%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2005%2F01%2Fon-industry-indolence-and-italian-vegetable-soup%2F&#038;format=xml" />
   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
 </head>
   <body class="post-template-default single single-post postid-1782 single-format-standard on-industry-indolence-and-italian-vegetable-soup sidebar-primary">
@@ -89,26 +89,26 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
     <![endif]-->
     <nav class="off-canvas-nav">
-  <a class="nav-logo" href="index.html"><img src="wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
-  <form role="search" method="get" class="search-form" action="index.html">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+  <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
 </form>
-  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
 </ul></div></nav>
     <div class="container" id="top">
       <header class="page-header" role="banner">
   <h1 class="header--title">
-    <a href="index.html">
-      <img class="title--mobile" src="wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
-      <img class="title--large" src="wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
     </a>
   </h1>
   <button class="search-toggle icon-search2" data-behavior="open-search"></button>
@@ -123,7 +123,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <time class="updated" datetime="2005-01-16T21:40:00+00:00">Sunday, January 16, 2005</time>
     </div>
     <h1 class="title" >
-      <a href="index.html?p=1782">On industry, indolence, and Italian vegetable soup</a>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/">On industry, indolence, and Italian vegetable soup</a>
     </h1>
   </header>
   <div class="post-content" itemprop="articleBody">
@@ -131,10 +131,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p>I arrived at Kate’s with a heavy bag of loot: a crusty homemade sourdough boule, my jagged-toothed Wüsthof bread knife, a wedge of bleu d’Auvergne from my personal ripening cellar (a.k.a. the refrigerator), a baggie of scones, and a Tupperware full of still-warm soup. Taking stock of our wares and coming up short, we ran down to <a href="http://www.delaurenti.com/">DeLaurenti’s</a>, barraged the poor wine saleswoman with inarticulate questions about Italian reds, and returned to Kate&#8217;s with a bottle of Argiolas Perdera Isola dei Nuraghi 2002, jammy, spicy, and as fun to pronounce as it is to drink. I set the table—complete with the few napkins I <em>didn’t</em> set on fire at <a href="http://orangette.blogspot.com/2004/09/26-or-almost.html">my birthday dinner</a>—while she washed lettuce and handfuls of peppery watercress. With rain falling on the cold streets outside, we sat down to a warming winter dinner: steaming bowls of soup, hearty with carrots, cabbage, zucchini, Swiss chard, and sweet white beans,</p>
 <p><img decoding="async" alt="" src="http://orangette.net/wp-content/uploads/2005/01/Fretwell-soup%2C-served_text.jpg" border="0" />and, on the side, greens with vinaigrette, creamy bleu d’Auvergne, and chewy bread.</p>
 <p>And, because we needed to meet our regular whipped-cream quota, we collaborated on a now-routine-but-still-exhilarating <a href="http://orangette.blogspot.com/2004/08/and-then-cake-came-forth.html">gâteau au chocolat fondant</a>, which, incidentally, gave me a chance to show off my natural grace in the kitchen. Not only did I drop <strong>a chocolate-batter-covered spoon</strong> on the floor and nearly knock over a pitcher of kitchen utensils while making the thing, but, once it was out of the oven and cool, I shot a knife across the kitchen trying to serve it. I just get so <em>eager</em>.</p>
-<p><img decoding="async" alt="" src="wp-content/uploads/2005/01/Dropped-knife_text.jpg" border="0" />Kate, on the other hand, whipped the cream with <strong>uncommon elegance</strong>. </p>
-<p><img decoding="async" alt="" src="wp-content/uploads/2005/01/KK-whipping-cream_text.jpg" border="0" />We collapsed onto the couch and, wine glasses and bowl of cream nearby, made fast work of the cake. Then, in only a couple of hours, <strong>we planned</strong> <strong>our entire lives and a cocktail party</strong>. Even in times of slothfulness, we can’t help but be productive.</p>
+<p><img decoding="async" alt="" src="http://orangette.net/wp-content/uploads/2005/01/Dropped-knife_text.jpg" border="0" />Kate, on the other hand, whipped the cream with <strong>uncommon elegance</strong>. </p>
+<p><img decoding="async" alt="" src="http://orangette.net/wp-content/uploads/2005/01/KK-whipping-cream_text.jpg" border="0" />We collapsed onto the couch and, wine glasses and bowl of cream nearby, made fast work of the cake. Then, in only a couple of hours, <strong>we planned</strong> <strong>our entire lives and a cocktail party</strong>. Even in times of slothfulness, we can’t help but be productive.</p>
 <p>And what’s more, before I left, we even took out the trash.</p>
-<p><img decoding="async" alt="" src="wp-content/uploads/2005/01/Rubbish-chute-cropped_text.jpg" border="0" />The <strong>rubbish chute</strong> is the highlight of every visit chez Kate. I <em>adore</em> it, and, knowing this, Kate saves her very best trash just for me. I’ve thrown into the chute&#8217;s greedy mouth everything from a candy-coated apple to a bag full of mussel shells, and I can’t get enough of the <strong>clicketty-clacketty-THUMP!</strong> of trash tumbling down through the darkness. It’s pure heaven. Someday I’ll have a rubbish chute of my own, and I’ll fulfill my dream of sliding down it. I’ve long had visions of putting myself in small, confined spaces: cabinets, the space under airplane seats, and so on. When I was moving into my current apartment, I crawled into a corner cabinet in the kitchen and had my mother close the door behind me. It was strangely satisfying, if only for a few seconds. A rubbish-chute ride would surely be divine, if painful.</p>
+<p><img decoding="async" alt="" src="http://orangette.net/wp-content/uploads/2005/01/Rubbish-chute-cropped_text.jpg" border="0" />The <strong>rubbish chute</strong> is the highlight of every visit chez Kate. I <em>adore</em> it, and, knowing this, Kate saves her very best trash just for me. I’ve thrown into the chute&#8217;s greedy mouth everything from a candy-coated apple to a bag full of mussel shells, and I can’t get enough of the <strong>clicketty-clacketty-THUMP!</strong> of trash tumbling down through the darkness. It’s pure heaven. Someday I’ll have a rubbish chute of my own, and I’ll fulfill my dream of sliding down it. I’ve long had visions of putting myself in small, confined spaces: cabinets, the space under airplane seats, and so on. When I was moving into my current apartment, I crawled into a corner cabinet in the kitchen and had my mother close the door behind me. It was strangely satisfying, if only for a few seconds. A rubbish-chute ride would surely be divine, if painful.</p>
 <p>Coming home and sighing contentedly, I gave thanks for so much industry and indolence by turning out the light and tumbling down through the darkness to my bed.</p>
 <p><strong>Fretwell (Italian Vegetable) Soup</strong></p>
 <p>This soup recipe comes from the Fretwell family, longtime friends in Oklahoma, and they in turn discovered it somewhere in Italy. I have only a blurry Xeroxed copy of the recipe (which the Fretwells had faxed to them from wherever they first ate it), and so I thus cannot give credit here to its original author. That’s a true shame, because this is one of the most delicious vegetable soups I’ve ever tasted. The Fretwells brought us many meals while <a href="http://orangette.blogspot.com/2004/12/two-years.html">my father</a> was ill, and this was one we requested repeatedly. But consider yourself warned: this recipe makes a veritable cauldron of soup. If you don’t have a stockpot that can hold twelve quarts or so, do this in two batches, or halve the recipe.</p>
@@ -149,7 +149,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
           <a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Forangette.net%2F2005%2F01%2Fon-industry-indolence-and-italian-vegetable-soup%2F&t=On%20industry%2C%20indolence%2C%20and%20Italian%20vegetable%20soup" onclick="window.open(this.href, 'facebook-share', 'width=580,height=300'); return false;" title="Facebook"></a>
           <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Forangette.net%2F2005%2F01%2Fon-industry-indolence-and-italian-vegetable-soup%2F&media=https%3A%2F%2Forangette.net%2Fwp-content%2Fuploads%2F2005%2F01%2FFretwell-soup%252C-served_text.jpg&description=On%20industry%2C%20indolence%2C%20and%20Italian%20vegetable%20soup" data-pin-custom="true" title="Pinterest"></a></nav>
                   <nav class="navigation post-navigation left-nav" role="navigation">
-        <div class="left"><a href="index.html?p=1783" rel="prev">Outline of a Theory of Cabbage</a></div>        <div class="right"><a href="index.html?p=1781" rel="next">The city of intrepid palates</a></div>      </nav>
+        <div class="left"><a href="https://orangette.net/2005/01/outline-of-a-theory-of-cabbage/" rel="prev">Outline of a Theory of Cabbage</a></div>        <div class="right"><a href="https://orangette.net/2005/01/the-city-of-intrepid-palates/" rel="next">The city of intrepid palates</a></div>      </nav>
       
 <section id="comments" class="comment-area">
       <h2 class="comment-area--title">Comments</h2>
@@ -158,7 +158,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         <li id="comment-1195" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01346291537784641980" class="url" rel="ugc external nofollow">amylou</a></cite></div>
-      <a href="index.html?p=1782#comment-1195"><time class="comment-time" datetime="2005-01-16T22:29:00-05:00">Sunday, January 16, 2005 at 10:29 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1195"><time class="comment-time" datetime="2005-01-16T22:29:00-05:00">Sunday, January 16, 2005 at 10:29 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -167,12 +167,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1195' data-commentid="1195" data-postid="1782" data-belowelement="comment-1195" data-respondelement="respond" data-replyto="Reply to amylou" aria-label='Reply to amylou'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1195' data-commentid="1195" data-postid="1782" data-belowelement="comment-1195" data-respondelement="respond" data-replyto="Reply to amylou" aria-label='Reply to amylou'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1196" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/02638700874093907879" class="url" rel="ugc external nofollow">Pusekatt</a></cite></div>
-      <a href="index.html?p=1782#comment-1196"><time class="comment-time" datetime="2005-01-16T23:01:00-05:00">Sunday, January 16, 2005 at 11:01 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1196"><time class="comment-time" datetime="2005-01-16T23:01:00-05:00">Sunday, January 16, 2005 at 11:01 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -180,12 +180,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1196' data-commentid="1196" data-postid="1782" data-belowelement="comment-1196" data-respondelement="respond" data-replyto="Reply to Pusekatt" aria-label='Reply to Pusekatt'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1196' data-commentid="1196" data-postid="1782" data-belowelement="comment-1196" data-respondelement="respond" data-replyto="Reply to Pusekatt" aria-label='Reply to Pusekatt'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1197" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
-      <a href="index.html?p=1782#comment-1197"><time class="comment-time" datetime="2005-01-16T23:06:00-05:00">Sunday, January 16, 2005 at 11:06 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1197"><time class="comment-time" datetime="2005-01-16T23:06:00-05:00">Sunday, January 16, 2005 at 11:06 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -194,12 +194,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1197' data-commentid="1197" data-postid="1782" data-belowelement="comment-1197" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1197' data-commentid="1197" data-postid="1782" data-belowelement="comment-1197" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1198" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1782#comment-1198"><time class="comment-time" datetime="2005-01-17T02:56:00-05:00">Monday, January 17, 2005 at 2:56 am</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1198"><time class="comment-time" datetime="2005-01-17T02:56:00-05:00">Monday, January 17, 2005 at 2:56 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -208,12 +208,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1198' data-commentid="1198" data-postid="1782" data-belowelement="comment-1198" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1198' data-commentid="1198" data-postid="1782" data-belowelement="comment-1198" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1199" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1782#comment-1199"><time class="comment-time" datetime="2005-01-17T19:58:00-05:00">Monday, January 17, 2005 at 7:58 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1199"><time class="comment-time" datetime="2005-01-17T19:58:00-05:00">Monday, January 17, 2005 at 7:58 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -221,12 +221,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1199' data-commentid="1199" data-postid="1782" data-belowelement="comment-1199" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1199' data-commentid="1199" data-postid="1782" data-belowelement="comment-1199" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1200" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
-      <a href="index.html?p=1782#comment-1200"><time class="comment-time" datetime="2005-01-17T20:16:00-05:00">Monday, January 17, 2005 at 8:16 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1200"><time class="comment-time" datetime="2005-01-17T20:16:00-05:00">Monday, January 17, 2005 at 8:16 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -235,12 +235,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1200' data-commentid="1200" data-postid="1782" data-belowelement="comment-1200" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1200' data-commentid="1200" data-postid="1782" data-belowelement="comment-1200" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1201" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1782#comment-1201"><time class="comment-time" datetime="2005-01-20T12:44:00-05:00">Thursday, January 20, 2005 at 12:44 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1201"><time class="comment-time" datetime="2005-01-20T12:44:00-05:00">Thursday, January 20, 2005 at 12:44 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -248,12 +248,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1201' data-commentid="1201" data-postid="1782" data-belowelement="comment-1201" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1201' data-commentid="1201" data-postid="1782" data-belowelement="comment-1201" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1202" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
-      <a href="index.html?p=1782#comment-1202"><time class="comment-time" datetime="2005-01-20T15:25:00-05:00">Thursday, January 20, 2005 at 3:25 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1202"><time class="comment-time" datetime="2005-01-20T15:25:00-05:00">Thursday, January 20, 2005 at 3:25 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -261,12 +261,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1202' data-commentid="1202" data-postid="1782" data-belowelement="comment-1202" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1202' data-commentid="1202" data-postid="1782" data-belowelement="comment-1202" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1203" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11351120349941082746" class="url" rel="ugc external nofollow">TanTian</a></cite></div>
-      <a href="index.html?p=1782#comment-1203"><time class="comment-time" datetime="2005-01-22T04:12:00-05:00">Saturday, January 22, 2005 at 4:12 am</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1203"><time class="comment-time" datetime="2005-01-22T04:12:00-05:00">Saturday, January 22, 2005 at 4:12 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -274,12 +274,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1203' data-commentid="1203" data-postid="1782" data-belowelement="comment-1203" data-respondelement="respond" data-replyto="Reply to TanTian" aria-label='Reply to TanTian'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1203' data-commentid="1203" data-postid="1782" data-belowelement="comment-1203" data-respondelement="respond" data-replyto="Reply to TanTian" aria-label='Reply to TanTian'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1204" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
-      <a href="index.html?p=1782#comment-1204"><time class="comment-time" datetime="2005-01-22T06:45:00-05:00">Saturday, January 22, 2005 at 6:45 am</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1204"><time class="comment-time" datetime="2005-01-22T06:45:00-05:00">Saturday, January 22, 2005 at 6:45 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -287,12 +287,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1204' data-commentid="1204" data-postid="1782" data-belowelement="comment-1204" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1204' data-commentid="1204" data-postid="1782" data-belowelement="comment-1204" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1205" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.shiningegg.com" class="url" rel="ugc external nofollow">emily</a></cite></div>
-      <a href="index.html?p=1782#comment-1205"><time class="comment-time" datetime="2008-02-11T19:57:00-05:00">Monday, February 11, 2008 at 7:57 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1205"><time class="comment-time" datetime="2008-02-11T19:57:00-05:00">Monday, February 11, 2008 at 7:57 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -300,12 +300,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1205' data-commentid="1205" data-postid="1782" data-belowelement="comment-1205" data-respondelement="respond" data-replyto="Reply to emily" aria-label='Reply to emily'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1205' data-commentid="1205" data-postid="1782" data-belowelement="comment-1205" data-respondelement="respond" data-replyto="Reply to emily" aria-label='Reply to emily'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1206" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01282410196704062270" class="url" rel="ugc external nofollow">selena</a></cite></div>
-      <a href="index.html?p=1782#comment-1206"><time class="comment-time" datetime="2008-03-31T01:15:00-04:00">Monday, March 31, 2008 at 1:15 am</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1206"><time class="comment-time" datetime="2008-03-31T01:15:00-04:00">Monday, March 31, 2008 at 1:15 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -313,12 +313,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1206' data-commentid="1206" data-postid="1782" data-belowelement="comment-1206" data-respondelement="respond" data-replyto="Reply to selena" aria-label='Reply to selena'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1206' data-commentid="1206" data-postid="1782" data-belowelement="comment-1206" data-respondelement="respond" data-replyto="Reply to selena" aria-label='Reply to selena'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1207" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11506607710581135803" class="url" rel="ugc external nofollow">clp</a></cite></div>
-      <a href="index.html?p=1782#comment-1207"><time class="comment-time" datetime="2008-12-31T19:15:00-05:00">Wednesday, December 31, 2008 at 7:15 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1207"><time class="comment-time" datetime="2008-12-31T19:15:00-05:00">Wednesday, December 31, 2008 at 7:15 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -326,12 +326,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1207' data-commentid="1207" data-postid="1782" data-belowelement="comment-1207" data-respondelement="respond" data-replyto="Reply to clp" aria-label='Reply to clp'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1207' data-commentid="1207" data-postid="1782" data-belowelement="comment-1207" data-respondelement="respond" data-replyto="Reply to clp" aria-label='Reply to clp'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1208" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1782#comment-1208"><time class="comment-time" datetime="2009-10-31T01:22:28-04:00">Saturday, October 31, 2009 at 1:22 am</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1208"><time class="comment-time" datetime="2009-10-31T01:22:28-04:00">Saturday, October 31, 2009 at 1:22 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -340,12 +340,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1208' data-commentid="1208" data-postid="1782" data-belowelement="comment-1208" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1208' data-commentid="1208" data-postid="1782" data-belowelement="comment-1208" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1209" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1782#comment-1209"><time class="comment-time" datetime="2010-04-16T00:34:02-04:00">Friday, April 16, 2010 at 12:34 am</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1209"><time class="comment-time" datetime="2010-04-16T00:34:02-04:00">Friday, April 16, 2010 at 12:34 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -353,12 +353,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1209' data-commentid="1209" data-postid="1782" data-belowelement="comment-1209" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1209' data-commentid="1209" data-postid="1782" data-belowelement="comment-1209" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1210" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00401528107803391153" class="url" rel="ugc external nofollow">Stephfret</a></cite></div>
-      <a href="index.html?p=1782#comment-1210"><time class="comment-time" datetime="2010-05-16T20:05:39-04:00">Sunday, May 16, 2010 at 8:05 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1210"><time class="comment-time" datetime="2010-05-16T20:05:39-04:00">Sunday, May 16, 2010 at 8:05 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -366,12 +366,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1210' data-commentid="1210" data-postid="1782" data-belowelement="comment-1210" data-respondelement="respond" data-replyto="Reply to Stephfret" aria-label='Reply to Stephfret'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1210' data-commentid="1210" data-postid="1782" data-belowelement="comment-1210" data-respondelement="respond" data-replyto="Reply to Stephfret" aria-label='Reply to Stephfret'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1211" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/06696112417683056543" class="url" rel="ugc external nofollow">Eva</a></cite></div>
-      <a href="index.html?p=1782#comment-1211"><time class="comment-time" datetime="2010-10-12T18:21:33-04:00">Tuesday, October 12, 2010 at 6:21 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1211"><time class="comment-time" datetime="2010-10-12T18:21:33-04:00">Tuesday, October 12, 2010 at 6:21 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -379,12 +379,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1211' data-commentid="1211" data-postid="1782" data-belowelement="comment-1211" data-respondelement="respond" data-replyto="Reply to Eva" aria-label='Reply to Eva'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1211' data-commentid="1211" data-postid="1782" data-belowelement="comment-1211" data-respondelement="respond" data-replyto="Reply to Eva" aria-label='Reply to Eva'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1212" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17978459937891509120" class="url" rel="ugc external nofollow">Kaci Clairest</a></cite></div>
-      <a href="index.html?p=1782#comment-1212"><time class="comment-time" datetime="2013-12-03T15:28:38-05:00">Tuesday, December 3, 2013 at 3:28 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1212"><time class="comment-time" datetime="2013-12-03T15:28:38-05:00">Tuesday, December 3, 2013 at 3:28 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -392,12 +392,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1212' data-commentid="1212" data-postid="1782" data-belowelement="comment-1212" data-respondelement="respond" data-replyto="Reply to Kaci Clairest" aria-label='Reply to Kaci Clairest'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1212' data-commentid="1212" data-postid="1782" data-belowelement="comment-1212" data-respondelement="respond" data-replyto="Reply to Kaci Clairest" aria-label='Reply to Kaci Clairest'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-1213" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17978459937891509120" class="url" rel="ugc external nofollow">Kaci Clairest</a></cite></div>
-      <a href="index.html?p=1782#comment-1213"><time class="comment-time" datetime="2013-12-03T15:28:38-05:00">Tuesday, December 3, 2013 at 3:28 pm</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-1213"><time class="comment-time" datetime="2013-12-03T15:28:38-05:00">Tuesday, December 3, 2013 at 3:28 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -405,12 +405,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-1213' data-commentid="1213" data-postid="1782" data-belowelement="comment-1213" data-respondelement="respond" data-replyto="Reply to Kaci Clairest" aria-label='Reply to Kaci Clairest'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-1213' data-commentid="1213" data-postid="1782" data-belowelement="comment-1213" data-respondelement="respond" data-replyto="Reply to Kaci Clairest" aria-label='Reply to Kaci Clairest'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-79984" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Lynda</cite></div>
-      <a href="index.html?p=1782#comment-79984"><time class="comment-time" datetime="2020-10-06T10:44:48-04:00">Tuesday, October 6, 2020 at 10:44 am</time></a>    </header>
+      <a href="https://orangette.net/2005/01/on-industry-indolence-and-italian-vegetable-soup/#comment-79984"><time class="comment-time" datetime="2020-10-06T10:44:48-04:00">Tuesday, October 6, 2020 at 10:44 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -418,39 +418,39 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1782#comment-79984' data-commentid="79984" data-postid="1782" data-belowelement="comment-79984" data-respondelement="respond" data-replyto="Reply to Lynda" aria-label='Reply to Lynda'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-79984' data-commentid="79984" data-postid="1782" data-belowelement="comment-79984" data-respondelement="respond" data-replyto="Reply to Lynda" aria-label='Reply to Lynda'>Reply</a>    </div>
   </li><!-- #comment-## -->
     </ol>
 
       
   
   	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html?p=1782#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2005/01/on-industry-indolence-and-italian-vegetable-soup/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
 <p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1782' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="82509a5ff0" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="173"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="bdff3c6b3a" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="33"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	</section>
       </footer>
 </article>
         </main><!-- /.main -->
                   <aside class="content-right">
             <header class="right-header">
-  <a href="index.html?p=4">
+  <a href="https://orangette.net/about/">
     <h2 class="title">hellooooo</h2>
-    <img src="wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
   </a>
 </header>
 <nav class="right-nav">
-  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
-</ul></div>  <form role="search" method="get" class="search-form" action="index.html">
+</ul></div>  <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
@@ -458,19 +458,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </nav>
 <div class="right-section">
   <h3 class="right-heading">
-    <a href="index.html?p=8">My Books</a>
+    <a href="https://orangette.net/books/">My Books</a>
   </h3>
   <div class="right-diptych">
-                <a class="right-image-link half" href="index.html?p=8#the-fixed-stars">
-        <img src="wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
       </a>
-                <a class="right-image-link half" href="index.html?p=8#delancey">
-        <img src="wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
       </a>
       </div>
   <div class="right-image-link">
     <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
-      <img src="wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
     </a>
   </div>
 </div>
@@ -478,9 +478,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <h4 class="right-subheading">Featured Posts</h4>
   <ul class="right-post-list">
           <li>
-        <a href="index.html?p=178">
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
           <div class="thumb">
-            <img width="380" height="250" src="wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">April 7, 2014</div>
             <h5 class="title">That word is eat</h5>
@@ -488,9 +488,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </a>
       </li>
           <li>
-        <a href="index.html?p=26">
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">March 23, 2015</div>
             <h5 class="title">The bean doctor</h5>
@@ -498,9 +498,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </a>
       </li>
           <li>
-        <a href="index.html?p=1851">
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">July 23, 2015</div>
             <h5 class="title">We&#8217;ll go from left to right</h5>
@@ -508,9 +508,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </a>
       </li>
           <li>
-        <a href="index.html?p=221">
+        <a href="https://orangette.net/2014/01/in-it-together/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">January 16, 2014</div>
             <h5 class="title">In it together</h5>
@@ -524,35 +524,35 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
   </h3>
   <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
-    <img src="wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
   </a>
 </div>
 <div class="right-section">
   <h4 class="right-subheading alt">
-    <a href="index.html?p=2521">Links of Note</a>
+    <a href="https://orangette.net/links/">Links of Note</a>
   </h4>
   <ul class="right-link-list">
-    <li><a href="http://dressingfordinner.blogspot.com/">Dressing for dinner</a></li>
-<li><a href="http://www.bbc.co.uk/programmes/b006qfvv" rel="noopener" target="_blank">BBC Radio 4 Shipping Forecast</a></li>
-<li><a href="http://saipua.blogspot.com/">Saipua</a></li>
-<li><a href="http://casayellow.com/">The Yellow House</a></li>
-<li><a href="http://lookimadethat.com/">i made that</a></li>
-<li><a href="http://www.smittenkitchen.com/">Smitten Kitchen</a></li>
-<li><a href="http://www.bonappetempt.com/" rel="noopener" title="Amelia Morris is really funny" target="_blank">Bon Appetempt</a></li>
-<li><a href="http://journal.davidbyrne.com/">David Byrne Journal</a></li>
-<li><a href="http://www.chocolateandzucchini.com/">Chocolate &amp; Zucchini</a></li>
-<li><a href="http://blog.youngnapark.com/">Youngna Park</a></li>
-<li><a href="http://www.davidlebovitz.com/">David Lebovitz</a></li>
-<li><a href="http://sproutedkitchen.com/">Sprouted Kitchen</a></li>
-<li><a href="http://curiousbird.typepad.com/">Curious Bird</a></li>
+    <li><a href="http://www.poormansfeast.com/">Poor Man&#8217;s Feast</a></li>
+<li><a href="http://www.spilledmilkpodcast.com/">Spilled Milk, my podcast with Matthew Amster-Burton</a></li>
+<li><a href="http://www.eatallaboutit.com/">Eat All About It</a></li>
 <li><a href="http://www.thewednesdaychef.com/berlin_on_a_platter/">Berlin on a Platter</a></li>
-<li><a href="http://www.sweetamandine.com/">Sweet Amandine</a></li>
+<li><a href="http://www.101cookbooks.com/" rel="noopener" target="_blank">101 Cookbooks</a></li>
+<li><a href="http://www.smittenkitchen.com/">Smitten Kitchen</a></li>
+<li><a href="http://www.rootsandgrubs.com/">Roots and Grubs</a></li>
+<li><a href="http://www.leciawphinney.com/" rel="noopener" target="_blank">A Day That Is Dessert</a></li>
+<li><a href="http://mollysmadeleine.blogspot.com/">my madeleine</a></li>
+<li><a href="http://teaandcookies.blogspot.com/">Tea and Cookies</a></li>
+<li><a href="http://www.doriegreenspan.com/dorie_greenspan/">Dorie Greenspan</a></li>
+<li><a href="http://www.elise.com/recipes/">Simply Recipes</a></li>
+<li><a href="http://camillaengman.blogspot.com/">Camilla Engman</a></li>
+<li><a href="http://www.bonappetit.com/magazine/2009/01/molly_wizenberg" rel="noopener" target="_blank">“Cooking Life,” my column in Bon Appétit (2008-2011)</a></li>
+<li><a href="http://www.remedialeating.com/">remedial eating</a></li>
   </ul>
-  <a class="right-more" href="index.html?p=2521">More</a>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
                 <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="index.html">
+          <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
@@ -560,17 +560,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
           <div class="overlay--close" data-behavior="close-search"></div>
         </div>
       </div><!-- /.page-content -->
-      <script async defer data-pin-hover="true" data-pin-color="white" src="https://assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
-  <a class="footer-logo" href="index.html">
-    <img src="wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
   </a>
   <div class="footer-content">
     <nav class="footer-nav" role="navigation">
-      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
 </ul></div>    </nav>
@@ -586,7 +586,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <div class="nav-overlay" data-behavior="close-nav"></div>
       <button class="elevator" data-behavior="jettison">Back to top</button>
     </div><!-- /.container -->
-    <script type='text/javascript' src='wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
-<script type='text/javascript' src='wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+    <script type='text/javascript' src='https://orangette.net/wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
   </body>
 </html>

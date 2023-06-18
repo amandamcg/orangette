@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-2" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=2" class="print icon-print"></a>
+      <a href="/tag/food-that-looks-like-aerial-photos-of-the-desert/?print_recipe=2" class="print icon-print"></a>
     </nav>
     <p>I&#8217;ve only ever used this caramel in the Violet Butterscotch Blondie, but Ptak says you could add the shards to almost any cake, cookie, or bar &#8211; and certainly to brownies. Leftovers can be kept in a plastic container or bag in the freezer for up to three months.</p>
   </div>

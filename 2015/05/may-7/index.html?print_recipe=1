@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2015/05/may-7/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Keep in mind that unrefined cane sugar doesn’t cream with butter the same way that granulated sugar does—the mixture won’t get fluffy, but creamy. Keeping the dough cold throughout the process of making it allows this rich dough to cut neatly and to bake without spreading.</p>
   </div>

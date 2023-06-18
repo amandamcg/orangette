@@ -4,13 +4,13 @@
   <meta charset="utf-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <script src="https://cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
   <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
 
-    <link rel="shortcut icon" href="wp-content/themes/orangette/assets/icons/favicon.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
-  <link rel="mask-icon" href="wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
-  <link rel="manifest" href="wp-content/themes/orangette/assets/icons/manifest.json">
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
   <meta name="apple-mobile-web-app-title" content="Orangette">
   <meta name="application-name" content="Orangette">
   <meta name="msapplication-TileColor" content="#da532c">
@@ -21,12 +21,12 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>My lemonade fix | Orangette</title>
-	<link rel="canonical" href="http://orangette.net/2007/07/my-lemonade-fix/" />
+	<link rel="canonical" href="https://orangette.net/2007/07/my-lemonade-fix/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="My lemonade fix | Orangette" />
 	<meta property="og:description" content="I’ve got to tell you something, guys. I don’t have much of an attention span at the moment. I’m so sorry. I can’t really write. I can’t really read. I can’t do much at all, save for clutch my cell phone and the folder containing our wedding plans. I sit down and try to write something, or maybe have a conversation with someone, but lo and behold, like it or not, my train of thought choo-choos straight to the wedding. I’m like a horse with blinders, only less obedient. All I can say is this: watch out. It’s best to keep your distance unless you’re prepared to discuss the following topics: a) veils [I decided last Wednesday not to wear&hellip;" />
-	<meta property="og:url" content="http://orangette.net/2007/07/my-lemonade-fix/" />
+	<meta property="og:url" content="https://orangette.net/2007/07/my-lemonade-fix/" />
 	<meta property="og:site_name" content="Orangette" />
 	<meta property="article:publisher" content="https://www.facebook.com/molly.wizenberg" />
 	<meta property="article:published_time" content="2007-07-10T20:27:00+00:00" />
@@ -38,11 +38,11 @@
 	<meta name="twitter:data1" content="Molly" />
 	<meta name="twitter:label2" content="Est. reading time" />
 	<meta name="twitter:data2" content="5 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://orangette.net/#website","url":"https://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"http://orangette.net/2007/07/my-lemonade-fix/#primaryimage","inLanguage":"en-US","url":"http://orangette.net/wp-content/uploads/2015/09/45e83-basillemonade014-31.jpg?w=300","contentUrl":"http://orangette.net/wp-content/uploads/2015/09/45e83-basillemonade014-31.jpg?w=300"},{"@type":"WebPage","@id":"http://orangette.net/2007/07/my-lemonade-fix/#webpage","url":"http://orangette.net/2007/07/my-lemonade-fix/","name":"My lemonade fix | Orangette","isPartOf":{"@id":"https://orangette.net/#website"},"primaryImageOfPage":{"@id":"http://orangette.net/2007/07/my-lemonade-fix/#primaryimage"},"datePublished":"2007-07-10T20:27:00+00:00","dateModified":"2007-07-10T20:27:00+00:00","author":{"@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"http://orangette.net/2007/07/my-lemonade-fix/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://orangette.net/2007/07/my-lemonade-fix/"]}]},{"@type":"BreadcrumbList","@id":"http://orangette.net/2007/07/my-lemonade-fix/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://orangette.net/"},{"@type":"ListItem","position":2,"name":"My lemonade fix"}]},{"@type":"Person","@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://orangette.net/#website","url":"http://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://orangette.net/2007/07/my-lemonade-fix/#primaryimage","inLanguage":"en-US","url":"http://orangette.net/wp-content/uploads/2015/09/45e83-basillemonade014-31.jpg?w=300","contentUrl":"http://orangette.net/wp-content/uploads/2015/09/45e83-basillemonade014-31.jpg?w=300"},{"@type":"WebPage","@id":"https://orangette.net/2007/07/my-lemonade-fix/#webpage","url":"https://orangette.net/2007/07/my-lemonade-fix/","name":"My lemonade fix | Orangette","isPartOf":{"@id":"http://orangette.net/#website"},"primaryImageOfPage":{"@id":"https://orangette.net/2007/07/my-lemonade-fix/#primaryimage"},"datePublished":"2007-07-10T20:27:00+00:00","dateModified":"2007-07-10T20:27:00+00:00","author":{"@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"https://orangette.net/2007/07/my-lemonade-fix/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://orangette.net/2007/07/my-lemonade-fix/"]}]},{"@type":"BreadcrumbList","@id":"https://orangette.net/2007/07/my-lemonade-fix/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"http://orangette.net/"},{"@type":"ListItem","position":2,"name":"My lemonade fix"}]},{"@type":"Person","@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; My lemonade fix Comments Feed" href="2007/07/my-lemonade-fix/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; My lemonade fix Comments Feed" href="https://orangette.net/2007/07/my-lemonade-fix/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
 /*! This file is auto-generated */
@@ -62,24 +62,24 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('index.html?p=1453');--wp--preset--duotone--grayscale: url('index.html?p=1453');--wp--preset--duotone--purple-yellow: url('index.html?p=1453');--wp--preset--duotone--blue-red: url('index.html?p=1453');--wp--preset--duotone--midnight: url('index.html?p=1453');--wp--preset--duotone--magenta-yellow: url('index.html?p=1453');--wp--preset--duotone--purple-green: url('index.html?p=1453');--wp--preset--duotone--blue-orange: url('index.html?p=1453');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='stcr-font-awesome-css' href='wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='sage/css-css' href='wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/posts/1453" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="alternate" type="application/json" href="https://orangette.net/wp-json/wp/v2/posts/1453" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.2.2" />
-<link rel='shortlink' href='index.html?p=1453' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Forangette.net%252F2007%252F07%252Fmy-lemonade-fix%252F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Forangette.net%252F2007%252F07%252Fmy-lemonade-fix%252F&amp;format=xml" />
+<link rel='shortlink' href='https://orangette.net/?p=1453' />
+<link rel="alternate" type="application/json+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2007%2F07%2Fmy-lemonade-fix%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2007%2F07%2Fmy-lemonade-fix%2F&#038;format=xml" />
   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
 </head>
   <body class="post-template-default single single-post postid-1453 single-format-standard my-lemonade-fix sidebar-primary">
@@ -88,26 +88,26 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
     <![endif]-->
     <nav class="off-canvas-nav">
-  <a class="nav-logo" href="index.html"><img src="wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
-  <form role="search" method="get" class="search-form" action="index.html">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+  <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
 </form>
-  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
 </ul></div></nav>
     <div class="container" id="top">
       <header class="page-header" role="banner">
   <h1 class="header--title">
-    <a href="index.html">
-      <img class="title--mobile" src="wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
-      <img class="title--large" src="wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
     </a>
   </h1>
   <button class="search-toggle icon-search2" data-behavior="open-search"></button>
@@ -122,16 +122,16 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <time class="updated" datetime="2007-07-10T20:27:00+00:00">Tuesday, July 10, 2007</time>
     </div>
     <h1 class="title" >
-      <a href="index.html?p=1453">My lemonade fix</a>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/">My lemonade fix</a>
     </h1>
   </header>
   <div class="post-content" itemprop="articleBody">
     <p>I’ve got to tell you something, guys.  I don’t have much of an attention span at the moment.  I’m so sorry.  I can’t really write.  I can’t really read.  I can’t do much at all, save for clutch my cell phone and the folder containing our wedding plans.  I sit down and try to write something, or maybe have a conversation with someone, but lo and behold, like it or not, my train of thought <span style="font-style:italic;">choo-choo</span>s straight to the wedding.  I’m like a horse with blinders, only less obedient.  All I can say is this: watch out. It’s best to keep your distance unless you’re prepared to discuss the following topics:</p>
 <p>a) veils [I decided last Wednesday not to wear mine, and I feel so rebellious and <span style="font-style:italic;">free</span><span>!</span>],<br />b) party favors [ours are recipe cards for some of our favorite dishes, bundled with brown ribbon],<br />c) rented tables and chairs and linens [how does anyone keep track of all this crap?], and<br />d) the pesky Final Head Count, which eludes me still.</p>
 <p><span style="font-style:italic;">Oh, friends</span>.  I’m a total bore.  I used to scoff at stories of wild-eyed brides, running amok with checklists and fabric samples, but now I think I get it.  It’s sort of embarrassing to admit, but I know how they feel.  Even though I like to think of our wedding as less of a production and more of a big <span style="font-style:italic;">party</span>, it’s still, you know, a lot of work.  It just is.  It’s work for a good cause, but still, it’s work.  The kind of work that involves such things as 39 yards of grosgrain ribbon.  The kind of work that ties knots in your shoulders.  The kind of work that gets you thirsty.  Like, lemonade-thirsty.</p>
-<p><a href="wp-content/uploads/2015/09/45e83-basillemonade014-31.jpg"><img decoding="async" src="wp-content/uploads/2015/09/45e83-basillemonade014-31.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5085610698545449234" border="0" /></a><br />When I was a kid, I had a special thing for lemonade.  If I was lucky, my mother would buy a tub of Country Time® pink lemonade mix, the kind that came in a little cardboard cylinder that was supposed to look like a wooden barrel.  I’d load up my glass until it was hot pink, sugared to the brim, sweet enough to make my throat burn.  It was <span style="font-style:italic;">heaven</span>.  But it didn’t happen very often. More likely, I was on my own with lemon juice, sugar, and water.  This being the mid-80s, however, our lemon juice came from a squeeze bottle, and our sugar was Equal®.  I devised a standard formula.  Into one hi-ball glass I would squeeze ten squirts of bottled lemon, three packets of sweetener, and water to fill.  It was exquisite &#8211; a garish yellow, wildly sour, wildly sweet, the type of thing that, I’m quite certain, removes tooth enamel on contact.  Luckily for all of us, I have since learned a better way to get my lemonade fix &#8211; sans dentists, sans mix.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/45e83-basillemonade014-31.jpg"><img decoding="async" src="http://orangette.net/wp-content/uploads/2015/09/45e83-basillemonade014-31.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5085610698545449234" border="0" /></a><br />When I was a kid, I had a special thing for lemonade.  If I was lucky, my mother would buy a tub of Country Time® pink lemonade mix, the kind that came in a little cardboard cylinder that was supposed to look like a wooden barrel.  I’d load up my glass until it was hot pink, sugared to the brim, sweet enough to make my throat burn.  It was <span style="font-style:italic;">heaven</span>.  But it didn’t happen very often. More likely, I was on my own with lemon juice, sugar, and water.  This being the mid-80s, however, our lemon juice came from a squeeze bottle, and our sugar was Equal®.  I devised a standard formula.  Into one hi-ball glass I would squeeze ten squirts of bottled lemon, three packets of sweetener, and water to fill.  It was exquisite &#8211; a garish yellow, wildly sour, wildly sweet, the type of thing that, I’m quite certain, removes tooth enamel on contact.  Luckily for all of us, I have since learned a better way to get my lemonade fix &#8211; sans dentists, sans mix.</p>
 <p>The recipe in question comes from this month’s <span style="font-style:italic;">Gourmet</span>, and with only a few minor tweaks. It starts with a simple syrup &#8211; water and sugar, boiled briefly to dissolve &#8211; infused with strips of lemon zest. Into that goes the kicker, a whack of fresh basil, and then it’s left to steep. Then you strain the syrup and mix it with doses of fresh lemon, cold water, and ice cubes. It may not be instant, per se, but once the syrup is made, it’s lickety-split to assemble whenever the mood strikes. (Which, if you’re me, is every day, around lunchtime.) It’s the lemonade we all know and love, only more sophisticated, with a sweet, herbal whiff of basil. I worried that it might be too fussy or fiddly, a good thing pushed too far, but I needn’t have: it’s still lemonade, only a little smarter<span style="font-style:italic;">.</span> It’s lemonade with, say, a college degree. It’s just the stuff for a summer afternoon &#8211; preferably, if I may say so, alongside a salad of tomatoes, mozzarella, and fresh basil.</p>
-<p><a href="wp-content/uploads/2015/09/22daa-basillemonade028-21.jpg"><img decoding="async" src="wp-content/uploads/2015/09/22daa-basillemonade028-21.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5085455117650118914" border="0" /></a></p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/22daa-basillemonade028-21.jpg"><img decoding="async" src="http://orangette.net/wp-content/uploads/2015/09/22daa-basillemonade028-21.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5085455117650118914" border="0" /></a></p>
 <p>And not to, you know, uh, bring it back (<span style="font-style:italic;">choo-choo</span>!) to the wedding, but it’s just the stuff for that, too. Our caterers will be pouring two types of infused lemonade: a raspberry version for the rehearsal dinner, and a rosemary one for the reception.  And thank goodness, since at this rate, my own supply will be long gone.</p>
 <p><span style="font-weight:bold;">Basil Lemonade</span><br />Adapted from <span style="font-style:italic;">Gourmet</span>, July 2007</p>
 <p>I used tap water in both stages of the recipe below, but that’s only because ours tastes pretty decent.  If you don’t like the flavor of your tap water, use spring water instead.</p>
@@ -153,7 +153,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
           <a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Forangette.net%2F2007%2F07%2Fmy-lemonade-fix%2F&t=My%20lemonade%20fix" onclick="window.open(this.href, 'facebook-share', 'width=580,height=300'); return false;" title="Facebook"></a>
           <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Forangette.net%2F2007%2F07%2Fmy-lemonade-fix%2F&media=&description=My%20lemonade%20fix" data-pin-custom="true" title="Pinterest"></a></nav>
                   <nav class="navigation post-navigation left-nav" role="navigation">
-        <div class="left"><a href="index.html?p=1454" rel="prev">Every spare penny</a></div>        <div class="right"><a href="index.html?p=1443" rel="next">All so pretty</a></div>      </nav>
+        <div class="left"><a href="https://orangette.net/2007/07/every-spare-penny/" rel="prev">Every spare penny</a></div>        <div class="right"><a href="https://orangette.net/2007/07/all-so-pretty/" rel="next">All so pretty</a></div>      </nav>
       
 <section id="comments" class="comment-area">
       <h2 class="comment-area--title">Comments</h2>
@@ -162,7 +162,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         <li id="comment-8017" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Maija</cite></div>
-      <a href="index.html?p=1453#comment-8017"><time class="comment-time" datetime="2007-07-10T20:48:00-04:00">Tuesday, July 10, 2007 at 8:48 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8017"><time class="comment-time" datetime="2007-07-10T20:48:00-04:00">Tuesday, July 10, 2007 at 8:48 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -170,12 +170,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8017' data-commentid="8017" data-postid="1453" data-belowelement="comment-8017" data-respondelement="respond" data-replyto="Reply to Maija" aria-label='Reply to Maija'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8017' data-commentid="8017" data-postid="1453" data-belowelement="comment-8017" data-respondelement="respond" data-replyto="Reply to Maija" aria-label='Reply to Maija'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8018" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Meryl</cite></div>
-      <a href="index.html?p=1453#comment-8018"><time class="comment-time" datetime="2007-07-10T20:50:00-04:00">Tuesday, July 10, 2007 at 8:50 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8018"><time class="comment-time" datetime="2007-07-10T20:50:00-04:00">Tuesday, July 10, 2007 at 8:50 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -183,12 +183,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8018' data-commentid="8018" data-postid="1453" data-belowelement="comment-8018" data-respondelement="respond" data-replyto="Reply to Meryl" aria-label='Reply to Meryl'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8018' data-commentid="8018" data-postid="1453" data-belowelement="comment-8018" data-respondelement="respond" data-replyto="Reply to Meryl" aria-label='Reply to Meryl'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8019" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://wednesdaychef.typepad.com" class="url" rel="ugc external nofollow">Luisa</a></cite></div>
-      <a href="index.html?p=1453#comment-8019"><time class="comment-time" datetime="2007-07-10T21:05:00-04:00">Tuesday, July 10, 2007 at 9:05 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8019"><time class="comment-time" datetime="2007-07-10T21:05:00-04:00">Tuesday, July 10, 2007 at 9:05 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -196,12 +196,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8019' data-commentid="8019" data-postid="1453" data-belowelement="comment-8019" data-respondelement="respond" data-replyto="Reply to Luisa" aria-label='Reply to Luisa'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8019' data-commentid="8019" data-postid="1453" data-belowelement="comment-8019" data-respondelement="respond" data-replyto="Reply to Luisa" aria-label='Reply to Luisa'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8020" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13691750388627384512" class="url" rel="ugc external nofollow">randa</a></cite></div>
-      <a href="index.html?p=1453#comment-8020"><time class="comment-time" datetime="2007-07-10T21:09:00-04:00">Tuesday, July 10, 2007 at 9:09 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8020"><time class="comment-time" datetime="2007-07-10T21:09:00-04:00">Tuesday, July 10, 2007 at 9:09 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -209,12 +209,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8020' data-commentid="8020" data-postid="1453" data-belowelement="comment-8020" data-respondelement="respond" data-replyto="Reply to randa" aria-label='Reply to randa'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8020' data-commentid="8020" data-postid="1453" data-belowelement="comment-8020" data-respondelement="respond" data-replyto="Reply to randa" aria-label='Reply to randa'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8021" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07058340175438627669" class="url" rel="ugc external nofollow">Lisa</a></cite></div>
-      <a href="index.html?p=1453#comment-8021"><time class="comment-time" datetime="2007-07-10T21:29:00-04:00">Tuesday, July 10, 2007 at 9:29 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8021"><time class="comment-time" datetime="2007-07-10T21:29:00-04:00">Tuesday, July 10, 2007 at 9:29 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -222,12 +222,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8021' data-commentid="8021" data-postid="1453" data-belowelement="comment-8021" data-respondelement="respond" data-replyto="Reply to Lisa" aria-label='Reply to Lisa'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8021' data-commentid="8021" data-postid="1453" data-belowelement="comment-8021" data-respondelement="respond" data-replyto="Reply to Lisa" aria-label='Reply to Lisa'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8022" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1453#comment-8022"><time class="comment-time" datetime="2007-07-10T22:31:00-04:00">Tuesday, July 10, 2007 at 10:31 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8022"><time class="comment-time" datetime="2007-07-10T22:31:00-04:00">Tuesday, July 10, 2007 at 10:31 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -235,12 +235,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8022' data-commentid="8022" data-postid="1453" data-belowelement="comment-8022" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8022' data-commentid="8022" data-postid="1453" data-belowelement="comment-8022" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8023" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13631513706872641622" class="url" rel="ugc external nofollow">Hilda</a></cite></div>
-      <a href="index.html?p=1453#comment-8023"><time class="comment-time" datetime="2007-07-10T22:43:00-04:00">Tuesday, July 10, 2007 at 10:43 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8023"><time class="comment-time" datetime="2007-07-10T22:43:00-04:00">Tuesday, July 10, 2007 at 10:43 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -248,12 +248,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8023' data-commentid="8023" data-postid="1453" data-belowelement="comment-8023" data-respondelement="respond" data-replyto="Reply to Hilda" aria-label='Reply to Hilda'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8023' data-commentid="8023" data-postid="1453" data-belowelement="comment-8023" data-respondelement="respond" data-replyto="Reply to Hilda" aria-label='Reply to Hilda'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8024" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13036032786969885491" class="url" rel="ugc external nofollow">christianne</a></cite></div>
-      <a href="index.html?p=1453#comment-8024"><time class="comment-time" datetime="2007-07-10T22:45:00-04:00">Tuesday, July 10, 2007 at 10:45 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8024"><time class="comment-time" datetime="2007-07-10T22:45:00-04:00">Tuesday, July 10, 2007 at 10:45 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -261,12 +261,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8024' data-commentid="8024" data-postid="1453" data-belowelement="comment-8024" data-respondelement="respond" data-replyto="Reply to christianne" aria-label='Reply to christianne'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8024' data-commentid="8024" data-postid="1453" data-belowelement="comment-8024" data-respondelement="respond" data-replyto="Reply to christianne" aria-label='Reply to christianne'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8025" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05784213169853209167" class="url" rel="ugc external nofollow">nicole</a></cite></div>
-      <a href="index.html?p=1453#comment-8025"><time class="comment-time" datetime="2007-07-10T23:03:00-04:00">Tuesday, July 10, 2007 at 11:03 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8025"><time class="comment-time" datetime="2007-07-10T23:03:00-04:00">Tuesday, July 10, 2007 at 11:03 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -274,12 +274,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8025' data-commentid="8025" data-postid="1453" data-belowelement="comment-8025" data-respondelement="respond" data-replyto="Reply to nicole" aria-label='Reply to nicole'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8025' data-commentid="8025" data-postid="1453" data-belowelement="comment-8025" data-respondelement="respond" data-replyto="Reply to nicole" aria-label='Reply to nicole'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8026" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13999993579517648205" class="url" rel="ugc external nofollow">Laura</a></cite></div>
-      <a href="index.html?p=1453#comment-8026"><time class="comment-time" datetime="2007-07-10T23:19:00-04:00">Tuesday, July 10, 2007 at 11:19 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8026"><time class="comment-time" datetime="2007-07-10T23:19:00-04:00">Tuesday, July 10, 2007 at 11:19 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -287,12 +287,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8026' data-commentid="8026" data-postid="1453" data-belowelement="comment-8026" data-respondelement="respond" data-replyto="Reply to Laura" aria-label='Reply to Laura'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8026' data-commentid="8026" data-postid="1453" data-belowelement="comment-8026" data-respondelement="respond" data-replyto="Reply to Laura" aria-label='Reply to Laura'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8027" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01970997615781244805" class="url" rel="ugc external nofollow">Lisa</a></cite></div>
-      <a href="index.html?p=1453#comment-8027"><time class="comment-time" datetime="2007-07-10T23:34:00-04:00">Tuesday, July 10, 2007 at 11:34 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8027"><time class="comment-time" datetime="2007-07-10T23:34:00-04:00">Tuesday, July 10, 2007 at 11:34 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -300,12 +300,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8027' data-commentid="8027" data-postid="1453" data-belowelement="comment-8027" data-respondelement="respond" data-replyto="Reply to Lisa" aria-label='Reply to Lisa'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8027' data-commentid="8027" data-postid="1453" data-belowelement="comment-8027" data-respondelement="respond" data-replyto="Reply to Lisa" aria-label='Reply to Lisa'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8028" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08311575368105261398" class="url" rel="ugc external nofollow">Aileen</a></cite></div>
-      <a href="index.html?p=1453#comment-8028"><time class="comment-time" datetime="2007-07-11T00:18:00-04:00">Wednesday, July 11, 2007 at 12:18 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8028"><time class="comment-time" datetime="2007-07-11T00:18:00-04:00">Wednesday, July 11, 2007 at 12:18 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -313,12 +313,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8028' data-commentid="8028" data-postid="1453" data-belowelement="comment-8028" data-respondelement="respond" data-replyto="Reply to Aileen" aria-label='Reply to Aileen'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8028' data-commentid="8028" data-postid="1453" data-belowelement="comment-8028" data-respondelement="respond" data-replyto="Reply to Aileen" aria-label='Reply to Aileen'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8029" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://savvysavorer.blogspot.com/" class="url" rel="ugc external nofollow">Savvy Savorer</a></cite></div>
-      <a href="index.html?p=1453#comment-8029"><time class="comment-time" datetime="2007-07-11T01:48:00-04:00">Wednesday, July 11, 2007 at 1:48 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8029"><time class="comment-time" datetime="2007-07-11T01:48:00-04:00">Wednesday, July 11, 2007 at 1:48 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -326,12 +326,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8029' data-commentid="8029" data-postid="1453" data-belowelement="comment-8029" data-respondelement="respond" data-replyto="Reply to Savvy Savorer" aria-label='Reply to Savvy Savorer'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8029' data-commentid="8029" data-postid="1453" data-belowelement="comment-8029" data-respondelement="respond" data-replyto="Reply to Savvy Savorer" aria-label='Reply to Savvy Savorer'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8030" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://definitelyra.com" class="url" rel="ugc external nofollow">RA</a></cite></div>
-      <a href="index.html?p=1453#comment-8030"><time class="comment-time" datetime="2007-07-11T02:25:00-04:00">Wednesday, July 11, 2007 at 2:25 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8030"><time class="comment-time" datetime="2007-07-11T02:25:00-04:00">Wednesday, July 11, 2007 at 2:25 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -339,12 +339,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8030' data-commentid="8030" data-postid="1453" data-belowelement="comment-8030" data-respondelement="respond" data-replyto="Reply to RA" aria-label='Reply to RA'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8030' data-commentid="8030" data-postid="1453" data-belowelement="comment-8030" data-respondelement="respond" data-replyto="Reply to RA" aria-label='Reply to RA'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8031" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08452839369823284339" class="url" rel="ugc external nofollow">Marcia</a></cite></div>
-      <a href="index.html?p=1453#comment-8031"><time class="comment-time" datetime="2007-07-11T02:27:00-04:00">Wednesday, July 11, 2007 at 2:27 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8031"><time class="comment-time" datetime="2007-07-11T02:27:00-04:00">Wednesday, July 11, 2007 at 2:27 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -352,12 +352,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8031' data-commentid="8031" data-postid="1453" data-belowelement="comment-8031" data-respondelement="respond" data-replyto="Reply to Marcia" aria-label='Reply to Marcia'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8031' data-commentid="8031" data-postid="1453" data-belowelement="comment-8031" data-respondelement="respond" data-replyto="Reply to Marcia" aria-label='Reply to Marcia'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8032" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13106933137459089493" class="url" rel="ugc external nofollow">Rach</a></cite></div>
-      <a href="index.html?p=1453#comment-8032"><time class="comment-time" datetime="2007-07-11T03:02:00-04:00">Wednesday, July 11, 2007 at 3:02 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8032"><time class="comment-time" datetime="2007-07-11T03:02:00-04:00">Wednesday, July 11, 2007 at 3:02 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -365,12 +365,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8032' data-commentid="8032" data-postid="1453" data-belowelement="comment-8032" data-respondelement="respond" data-replyto="Reply to Rach" aria-label='Reply to Rach'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8032' data-commentid="8032" data-postid="1453" data-belowelement="comment-8032" data-respondelement="respond" data-replyto="Reply to Rach" aria-label='Reply to Rach'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8033" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13008092177327161338" class="url" rel="ugc external nofollow">Anne</a></cite></div>
-      <a href="index.html?p=1453#comment-8033"><time class="comment-time" datetime="2007-07-11T03:26:00-04:00">Wednesday, July 11, 2007 at 3:26 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8033"><time class="comment-time" datetime="2007-07-11T03:26:00-04:00">Wednesday, July 11, 2007 at 3:26 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -378,12 +378,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8033' data-commentid="8033" data-postid="1453" data-belowelement="comment-8033" data-respondelement="respond" data-replyto="Reply to Anne" aria-label='Reply to Anne'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8033' data-commentid="8033" data-postid="1453" data-belowelement="comment-8033" data-respondelement="respond" data-replyto="Reply to Anne" aria-label='Reply to Anne'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8034" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01592037240646882728" class="url" rel="ugc external nofollow">Kirsten</a></cite></div>
-      <a href="index.html?p=1453#comment-8034"><time class="comment-time" datetime="2007-07-11T04:33:00-04:00">Wednesday, July 11, 2007 at 4:33 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8034"><time class="comment-time" datetime="2007-07-11T04:33:00-04:00">Wednesday, July 11, 2007 at 4:33 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -391,12 +391,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8034' data-commentid="8034" data-postid="1453" data-belowelement="comment-8034" data-respondelement="respond" data-replyto="Reply to Kirsten" aria-label='Reply to Kirsten'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8034' data-commentid="8034" data-postid="1453" data-belowelement="comment-8034" data-respondelement="respond" data-replyto="Reply to Kirsten" aria-label='Reply to Kirsten'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8035" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/02104688950363400406" class="url" rel="ugc external nofollow">Cory</a></cite></div>
-      <a href="index.html?p=1453#comment-8035"><time class="comment-time" datetime="2007-07-11T05:24:00-04:00">Wednesday, July 11, 2007 at 5:24 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8035"><time class="comment-time" datetime="2007-07-11T05:24:00-04:00">Wednesday, July 11, 2007 at 5:24 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -404,12 +404,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8035' data-commentid="8035" data-postid="1453" data-belowelement="comment-8035" data-respondelement="respond" data-replyto="Reply to Cory" aria-label='Reply to Cory'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8035' data-commentid="8035" data-postid="1453" data-belowelement="comment-8035" data-respondelement="respond" data-replyto="Reply to Cory" aria-label='Reply to Cory'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8036" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.robinoriginals.com/eats.html" class="url" rel="ugc external nofollow">robin</a></cite></div>
-      <a href="index.html?p=1453#comment-8036"><time class="comment-time" datetime="2007-07-11T05:27:00-04:00">Wednesday, July 11, 2007 at 5:27 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8036"><time class="comment-time" datetime="2007-07-11T05:27:00-04:00">Wednesday, July 11, 2007 at 5:27 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -417,12 +417,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8036' data-commentid="8036" data-postid="1453" data-belowelement="comment-8036" data-respondelement="respond" data-replyto="Reply to robin" aria-label='Reply to robin'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8036' data-commentid="8036" data-postid="1453" data-belowelement="comment-8036" data-respondelement="respond" data-replyto="Reply to robin" aria-label='Reply to robin'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8037" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13477466400681164056" class="url" rel="ugc external nofollow">Alice Q.</a></cite></div>
-      <a href="index.html?p=1453#comment-8037"><time class="comment-time" datetime="2007-07-11T06:04:00-04:00">Wednesday, July 11, 2007 at 6:04 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8037"><time class="comment-time" datetime="2007-07-11T06:04:00-04:00">Wednesday, July 11, 2007 at 6:04 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -430,12 +430,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8037' data-commentid="8037" data-postid="1453" data-belowelement="comment-8037" data-respondelement="respond" data-replyto="Reply to Alice Q." aria-label='Reply to Alice Q.'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8037' data-commentid="8037" data-postid="1453" data-belowelement="comment-8037" data-respondelement="respond" data-replyto="Reply to Alice Q." aria-label='Reply to Alice Q.'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8038" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/10960864970030794892" class="url" rel="ugc external nofollow">Michèle</a></cite></div>
-      <a href="index.html?p=1453#comment-8038"><time class="comment-time" datetime="2007-07-11T06:48:00-04:00">Wednesday, July 11, 2007 at 6:48 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8038"><time class="comment-time" datetime="2007-07-11T06:48:00-04:00">Wednesday, July 11, 2007 at 6:48 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -443,12 +443,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8038' data-commentid="8038" data-postid="1453" data-belowelement="comment-8038" data-respondelement="respond" data-replyto="Reply to Michèle" aria-label='Reply to Michèle'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8038' data-commentid="8038" data-postid="1453" data-belowelement="comment-8038" data-respondelement="respond" data-replyto="Reply to Michèle" aria-label='Reply to Michèle'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8039" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05817049547134774699" class="url" rel="ugc external nofollow">Pille</a></cite></div>
-      <a href="index.html?p=1453#comment-8039"><time class="comment-time" datetime="2007-07-11T07:20:00-04:00">Wednesday, July 11, 2007 at 7:20 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8039"><time class="comment-time" datetime="2007-07-11T07:20:00-04:00">Wednesday, July 11, 2007 at 7:20 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -456,12 +456,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8039' data-commentid="8039" data-postid="1453" data-belowelement="comment-8039" data-respondelement="respond" data-replyto="Reply to Pille" aria-label='Reply to Pille'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8039' data-commentid="8039" data-postid="1453" data-belowelement="comment-8039" data-respondelement="respond" data-replyto="Reply to Pille" aria-label='Reply to Pille'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8040" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16366335445965850840" class="url" rel="ugc external nofollow">Aude</a></cite></div>
-      <a href="index.html?p=1453#comment-8040"><time class="comment-time" datetime="2007-07-11T08:43:00-04:00">Wednesday, July 11, 2007 at 8:43 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8040"><time class="comment-time" datetime="2007-07-11T08:43:00-04:00">Wednesday, July 11, 2007 at 8:43 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -469,12 +469,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8040' data-commentid="8040" data-postid="1453" data-belowelement="comment-8040" data-respondelement="respond" data-replyto="Reply to Aude" aria-label='Reply to Aude'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8040' data-commentid="8040" data-postid="1453" data-belowelement="comment-8040" data-respondelement="respond" data-replyto="Reply to Aude" aria-label='Reply to Aude'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8041" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.errantdreams.com/" class="url" rel="ugc external nofollow">Heather</a></cite></div>
-      <a href="index.html?p=1453#comment-8041"><time class="comment-time" datetime="2007-07-11T08:51:00-04:00">Wednesday, July 11, 2007 at 8:51 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8041"><time class="comment-time" datetime="2007-07-11T08:51:00-04:00">Wednesday, July 11, 2007 at 8:51 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -482,12 +482,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8041' data-commentid="8041" data-postid="1453" data-belowelement="comment-8041" data-respondelement="respond" data-replyto="Reply to Heather" aria-label='Reply to Heather'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8041' data-commentid="8041" data-postid="1453" data-belowelement="comment-8041" data-respondelement="respond" data-replyto="Reply to Heather" aria-label='Reply to Heather'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8042" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1453#comment-8042"><time class="comment-time" datetime="2007-07-11T10:54:00-04:00">Wednesday, July 11, 2007 at 10:54 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8042"><time class="comment-time" datetime="2007-07-11T10:54:00-04:00">Wednesday, July 11, 2007 at 10:54 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -495,12 +495,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8042' data-commentid="8042" data-postid="1453" data-belowelement="comment-8042" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8042' data-commentid="8042" data-postid="1453" data-belowelement="comment-8042" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8043" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://achickenineverygrannycart.wordpress.com" class="url" rel="ugc external nofollow">ann</a></cite></div>
-      <a href="index.html?p=1453#comment-8043"><time class="comment-time" datetime="2007-07-11T11:44:00-04:00">Wednesday, July 11, 2007 at 11:44 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8043"><time class="comment-time" datetime="2007-07-11T11:44:00-04:00">Wednesday, July 11, 2007 at 11:44 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -508,12 +508,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8043' data-commentid="8043" data-postid="1453" data-belowelement="comment-8043" data-respondelement="respond" data-replyto="Reply to ann" aria-label='Reply to ann'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8043' data-commentid="8043" data-postid="1453" data-belowelement="comment-8043" data-respondelement="respond" data-replyto="Reply to ann" aria-label='Reply to ann'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8044" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12966494025294623276" class="url" rel="ugc external nofollow">shari</a></cite></div>
-      <a href="index.html?p=1453#comment-8044"><time class="comment-time" datetime="2007-07-11T12:18:00-04:00">Wednesday, July 11, 2007 at 12:18 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8044"><time class="comment-time" datetime="2007-07-11T12:18:00-04:00">Wednesday, July 11, 2007 at 12:18 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -521,12 +521,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8044' data-commentid="8044" data-postid="1453" data-belowelement="comment-8044" data-respondelement="respond" data-replyto="Reply to shari" aria-label='Reply to shari'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8044' data-commentid="8044" data-postid="1453" data-belowelement="comment-8044" data-respondelement="respond" data-replyto="Reply to shari" aria-label='Reply to shari'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8045" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Carrie</cite></div>
-      <a href="index.html?p=1453#comment-8045"><time class="comment-time" datetime="2007-07-11T13:49:00-04:00">Wednesday, July 11, 2007 at 1:49 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8045"><time class="comment-time" datetime="2007-07-11T13:49:00-04:00">Wednesday, July 11, 2007 at 1:49 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -534,12 +534,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8045' data-commentid="8045" data-postid="1453" data-belowelement="comment-8045" data-respondelement="respond" data-replyto="Reply to Carrie" aria-label='Reply to Carrie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8045' data-commentid="8045" data-postid="1453" data-belowelement="comment-8045" data-respondelement="respond" data-replyto="Reply to Carrie" aria-label='Reply to Carrie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8046" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05375293685586497432" class="url" rel="ugc external nofollow">hannah</a></cite></div>
-      <a href="index.html?p=1453#comment-8046"><time class="comment-time" datetime="2007-07-11T14:03:00-04:00">Wednesday, July 11, 2007 at 2:03 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8046"><time class="comment-time" datetime="2007-07-11T14:03:00-04:00">Wednesday, July 11, 2007 at 2:03 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -547,12 +547,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8046' data-commentid="8046" data-postid="1453" data-belowelement="comment-8046" data-respondelement="respond" data-replyto="Reply to hannah" aria-label='Reply to hannah'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8046' data-commentid="8046" data-postid="1453" data-belowelement="comment-8046" data-respondelement="respond" data-replyto="Reply to hannah" aria-label='Reply to hannah'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8047" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.mattikaarts.com/blog" class="url" rel="ugc external nofollow">Matt Wright</a></cite></div>
-      <a href="index.html?p=1453#comment-8047"><time class="comment-time" datetime="2007-07-11T14:10:00-04:00">Wednesday, July 11, 2007 at 2:10 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8047"><time class="comment-time" datetime="2007-07-11T14:10:00-04:00">Wednesday, July 11, 2007 at 2:10 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -560,12 +560,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8047' data-commentid="8047" data-postid="1453" data-belowelement="comment-8047" data-respondelement="respond" data-replyto="Reply to Matt Wright" aria-label='Reply to Matt Wright'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8047' data-commentid="8047" data-postid="1453" data-belowelement="comment-8047" data-respondelement="respond" data-replyto="Reply to Matt Wright" aria-label='Reply to Matt Wright'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8048" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.robinoriginals.com/eats.html" class="url" rel="ugc external nofollow">Robin</a></cite></div>
-      <a href="index.html?p=1453#comment-8048"><time class="comment-time" datetime="2007-07-11T15:09:00-04:00">Wednesday, July 11, 2007 at 3:09 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8048"><time class="comment-time" datetime="2007-07-11T15:09:00-04:00">Wednesday, July 11, 2007 at 3:09 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -573,12 +573,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8048' data-commentid="8048" data-postid="1453" data-belowelement="comment-8048" data-respondelement="respond" data-replyto="Reply to Robin" aria-label='Reply to Robin'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8048' data-commentid="8048" data-postid="1453" data-belowelement="comment-8048" data-respondelement="respond" data-replyto="Reply to Robin" aria-label='Reply to Robin'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8049" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01989919734252570552" class="url" rel="ugc external nofollow">Maya</a></cite></div>
-      <a href="index.html?p=1453#comment-8049"><time class="comment-time" datetime="2007-07-11T18:28:00-04:00">Wednesday, July 11, 2007 at 6:28 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8049"><time class="comment-time" datetime="2007-07-11T18:28:00-04:00">Wednesday, July 11, 2007 at 6:28 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -586,12 +586,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8049' data-commentid="8049" data-postid="1453" data-belowelement="comment-8049" data-respondelement="respond" data-replyto="Reply to Maya" aria-label='Reply to Maya'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8049' data-commentid="8049" data-postid="1453" data-belowelement="comment-8049" data-respondelement="respond" data-replyto="Reply to Maya" aria-label='Reply to Maya'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8050" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Meg</cite></div>
-      <a href="index.html?p=1453#comment-8050"><time class="comment-time" datetime="2007-07-11T20:00:00-04:00">Wednesday, July 11, 2007 at 8:00 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8050"><time class="comment-time" datetime="2007-07-11T20:00:00-04:00">Wednesday, July 11, 2007 at 8:00 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -599,12 +599,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8050' data-commentid="8050" data-postid="1453" data-belowelement="comment-8050" data-respondelement="respond" data-replyto="Reply to Meg" aria-label='Reply to Meg'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8050' data-commentid="8050" data-postid="1453" data-belowelement="comment-8050" data-respondelement="respond" data-replyto="Reply to Meg" aria-label='Reply to Meg'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8051" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Y.M. Sam</cite></div>
-      <a href="index.html?p=1453#comment-8051"><time class="comment-time" datetime="2007-07-11T21:24:00-04:00">Wednesday, July 11, 2007 at 9:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8051"><time class="comment-time" datetime="2007-07-11T21:24:00-04:00">Wednesday, July 11, 2007 at 9:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -612,12 +612,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8051' data-commentid="8051" data-postid="1453" data-belowelement="comment-8051" data-respondelement="respond" data-replyto="Reply to Y.M. Sam" aria-label='Reply to Y.M. Sam'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8051' data-commentid="8051" data-postid="1453" data-belowelement="comment-8051" data-respondelement="respond" data-replyto="Reply to Y.M. Sam" aria-label='Reply to Y.M. Sam'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8052" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://ladleandwhisk.wordpress.com/" class="url" rel="ugc external nofollow">Laurie</a></cite></div>
-      <a href="index.html?p=1453#comment-8052"><time class="comment-time" datetime="2007-07-12T01:36:00-04:00">Thursday, July 12, 2007 at 1:36 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8052"><time class="comment-time" datetime="2007-07-12T01:36:00-04:00">Thursday, July 12, 2007 at 1:36 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -625,12 +625,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8052' data-commentid="8052" data-postid="1453" data-belowelement="comment-8052" data-respondelement="respond" data-replyto="Reply to Laurie" aria-label='Reply to Laurie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8052' data-commentid="8052" data-postid="1453" data-belowelement="comment-8052" data-respondelement="respond" data-replyto="Reply to Laurie" aria-label='Reply to Laurie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8053" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/09750893813872596478" class="url" rel="ugc external nofollow">Rose</a></cite></div>
-      <a href="index.html?p=1453#comment-8053"><time class="comment-time" datetime="2007-07-12T02:01:00-04:00">Thursday, July 12, 2007 at 2:01 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8053"><time class="comment-time" datetime="2007-07-12T02:01:00-04:00">Thursday, July 12, 2007 at 2:01 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -638,12 +638,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8053' data-commentid="8053" data-postid="1453" data-belowelement="comment-8053" data-respondelement="respond" data-replyto="Reply to Rose" aria-label='Reply to Rose'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8053' data-commentid="8053" data-postid="1453" data-belowelement="comment-8053" data-respondelement="respond" data-replyto="Reply to Rose" aria-label='Reply to Rose'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8054" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.whippedtheblog.com" class="url" rel="ugc external nofollow">Caroline</a></cite></div>
-      <a href="index.html?p=1453#comment-8054"><time class="comment-time" datetime="2007-07-12T03:07:00-04:00">Thursday, July 12, 2007 at 3:07 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8054"><time class="comment-time" datetime="2007-07-12T03:07:00-04:00">Thursday, July 12, 2007 at 3:07 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -651,12 +651,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8054' data-commentid="8054" data-postid="1453" data-belowelement="comment-8054" data-respondelement="respond" data-replyto="Reply to Caroline" aria-label='Reply to Caroline'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8054' data-commentid="8054" data-postid="1453" data-belowelement="comment-8054" data-respondelement="respond" data-replyto="Reply to Caroline" aria-label='Reply to Caroline'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8055" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.ruralmama.wordpress.com" class="url" rel="ugc external nofollow">Dawn</a></cite></div>
-      <a href="index.html?p=1453#comment-8055"><time class="comment-time" datetime="2007-07-12T04:03:00-04:00">Thursday, July 12, 2007 at 4:03 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8055"><time class="comment-time" datetime="2007-07-12T04:03:00-04:00">Thursday, July 12, 2007 at 4:03 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -664,12 +664,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8055' data-commentid="8055" data-postid="1453" data-belowelement="comment-8055" data-respondelement="respond" data-replyto="Reply to Dawn" aria-label='Reply to Dawn'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8055' data-commentid="8055" data-postid="1453" data-belowelement="comment-8055" data-respondelement="respond" data-replyto="Reply to Dawn" aria-label='Reply to Dawn'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8056" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
-      <a href="index.html?p=1453#comment-8056"><time class="comment-time" datetime="2007-07-12T04:55:00-04:00">Thursday, July 12, 2007 at 4:55 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8056"><time class="comment-time" datetime="2007-07-12T04:55:00-04:00">Thursday, July 12, 2007 at 4:55 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -677,12 +677,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8056' data-commentid="8056" data-postid="1453" data-belowelement="comment-8056" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8056' data-commentid="8056" data-postid="1453" data-belowelement="comment-8056" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8057" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15453787426889071004" class="url" rel="ugc external nofollow">Figs Olives Wine</a></cite></div>
-      <a href="index.html?p=1453#comment-8057"><time class="comment-time" datetime="2007-07-12T12:47:00-04:00">Thursday, July 12, 2007 at 12:47 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8057"><time class="comment-time" datetime="2007-07-12T12:47:00-04:00">Thursday, July 12, 2007 at 12:47 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -690,12 +690,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8057' data-commentid="8057" data-postid="1453" data-belowelement="comment-8057" data-respondelement="respond" data-replyto="Reply to Figs Olives Wine" aria-label='Reply to Figs Olives Wine'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8057' data-commentid="8057" data-postid="1453" data-belowelement="comment-8057" data-respondelement="respond" data-replyto="Reply to Figs Olives Wine" aria-label='Reply to Figs Olives Wine'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8058" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15453787426889071004" class="url" rel="ugc external nofollow">Figs Olives Wine</a></cite></div>
-      <a href="index.html?p=1453#comment-8058"><time class="comment-time" datetime="2007-07-12T12:49:00-04:00">Thursday, July 12, 2007 at 12:49 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8058"><time class="comment-time" datetime="2007-07-12T12:49:00-04:00">Thursday, July 12, 2007 at 12:49 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -703,12 +703,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8058' data-commentid="8058" data-postid="1453" data-belowelement="comment-8058" data-respondelement="respond" data-replyto="Reply to Figs Olives Wine" aria-label='Reply to Figs Olives Wine'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8058' data-commentid="8058" data-postid="1453" data-belowelement="comment-8058" data-respondelement="respond" data-replyto="Reply to Figs Olives Wine" aria-label='Reply to Figs Olives Wine'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8059" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/04578405052817943785" class="url" rel="ugc external nofollow">AnnieKNodes</a></cite></div>
-      <a href="index.html?p=1453#comment-8059"><time class="comment-time" datetime="2007-07-12T13:24:00-04:00">Thursday, July 12, 2007 at 1:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8059"><time class="comment-time" datetime="2007-07-12T13:24:00-04:00">Thursday, July 12, 2007 at 1:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -716,12 +716,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8059' data-commentid="8059" data-postid="1453" data-belowelement="comment-8059" data-respondelement="respond" data-replyto="Reply to AnnieKNodes" aria-label='Reply to AnnieKNodes'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8059' data-commentid="8059" data-postid="1453" data-belowelement="comment-8059" data-respondelement="respond" data-replyto="Reply to AnnieKNodes" aria-label='Reply to AnnieKNodes'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8060" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05502681259557109411" class="url" rel="ugc external nofollow">Sammi</a></cite></div>
-      <a href="index.html?p=1453#comment-8060"><time class="comment-time" datetime="2007-07-12T13:27:00-04:00">Thursday, July 12, 2007 at 1:27 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8060"><time class="comment-time" datetime="2007-07-12T13:27:00-04:00">Thursday, July 12, 2007 at 1:27 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -729,12 +729,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8060' data-commentid="8060" data-postid="1453" data-belowelement="comment-8060" data-respondelement="respond" data-replyto="Reply to Sammi" aria-label='Reply to Sammi'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8060' data-commentid="8060" data-postid="1453" data-belowelement="comment-8060" data-respondelement="respond" data-replyto="Reply to Sammi" aria-label='Reply to Sammi'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8061" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">DC Sarah</cite></div>
-      <a href="index.html?p=1453#comment-8061"><time class="comment-time" datetime="2007-07-12T16:41:00-04:00">Thursday, July 12, 2007 at 4:41 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8061"><time class="comment-time" datetime="2007-07-12T16:41:00-04:00">Thursday, July 12, 2007 at 4:41 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -742,12 +742,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8061' data-commentid="8061" data-postid="1453" data-belowelement="comment-8061" data-respondelement="respond" data-replyto="Reply to DC Sarah" aria-label='Reply to DC Sarah'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8061' data-commentid="8061" data-postid="1453" data-belowelement="comment-8061" data-respondelement="respond" data-replyto="Reply to DC Sarah" aria-label='Reply to DC Sarah'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8062" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/03899660466554175066" class="url" rel="ugc external nofollow">*kel</a></cite></div>
-      <a href="index.html?p=1453#comment-8062"><time class="comment-time" datetime="2007-07-12T19:57:00-04:00">Thursday, July 12, 2007 at 7:57 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8062"><time class="comment-time" datetime="2007-07-12T19:57:00-04:00">Thursday, July 12, 2007 at 7:57 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -755,12 +755,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8062' data-commentid="8062" data-postid="1453" data-belowelement="comment-8062" data-respondelement="respond" data-replyto="Reply to *kel" aria-label='Reply to *kel'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8062' data-commentid="8062" data-postid="1453" data-belowelement="comment-8062" data-respondelement="respond" data-replyto="Reply to *kel" aria-label='Reply to *kel'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8063" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15738318324942700985" class="url" rel="ugc external nofollow">Family of Four</a></cite></div>
-      <a href="index.html?p=1453#comment-8063"><time class="comment-time" datetime="2007-07-12T21:23:00-04:00">Thursday, July 12, 2007 at 9:23 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8063"><time class="comment-time" datetime="2007-07-12T21:23:00-04:00">Thursday, July 12, 2007 at 9:23 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -768,12 +768,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8063' data-commentid="8063" data-postid="1453" data-belowelement="comment-8063" data-respondelement="respond" data-replyto="Reply to Family of Four" aria-label='Reply to Family of Four'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8063' data-commentid="8063" data-postid="1453" data-belowelement="comment-8063" data-respondelement="respond" data-replyto="Reply to Family of Four" aria-label='Reply to Family of Four'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8064" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01136787629837491514" class="url" rel="ugc external nofollow">One Crabapple</a></cite></div>
-      <a href="index.html?p=1453#comment-8064"><time class="comment-time" datetime="2007-07-13T00:01:00-04:00">Friday, July 13, 2007 at 12:01 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8064"><time class="comment-time" datetime="2007-07-13T00:01:00-04:00">Friday, July 13, 2007 at 12:01 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -781,12 +781,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8064' data-commentid="8064" data-postid="1453" data-belowelement="comment-8064" data-respondelement="respond" data-replyto="Reply to One Crabapple" aria-label='Reply to One Crabapple'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8064' data-commentid="8064" data-postid="1453" data-belowelement="comment-8064" data-respondelement="respond" data-replyto="Reply to One Crabapple" aria-label='Reply to One Crabapple'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8065" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14447948861520484049" class="url" rel="ugc external nofollow">Holloway</a></cite></div>
-      <a href="index.html?p=1453#comment-8065"><time class="comment-time" datetime="2007-07-13T13:56:00-04:00">Friday, July 13, 2007 at 1:56 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8065"><time class="comment-time" datetime="2007-07-13T13:56:00-04:00">Friday, July 13, 2007 at 1:56 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -794,12 +794,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8065' data-commentid="8065" data-postid="1453" data-belowelement="comment-8065" data-respondelement="respond" data-replyto="Reply to Holloway" aria-label='Reply to Holloway'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8065' data-commentid="8065" data-postid="1453" data-belowelement="comment-8065" data-respondelement="respond" data-replyto="Reply to Holloway" aria-label='Reply to Holloway'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8066" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14822393890666142460" class="url" rel="ugc external nofollow">Inne</a></cite></div>
-      <a href="index.html?p=1453#comment-8066"><time class="comment-time" datetime="2007-07-13T15:10:00-04:00">Friday, July 13, 2007 at 3:10 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8066"><time class="comment-time" datetime="2007-07-13T15:10:00-04:00">Friday, July 13, 2007 at 3:10 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -807,12 +807,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8066' data-commentid="8066" data-postid="1453" data-belowelement="comment-8066" data-respondelement="respond" data-replyto="Reply to Inne" aria-label='Reply to Inne'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8066' data-commentid="8066" data-postid="1453" data-belowelement="comment-8066" data-respondelement="respond" data-replyto="Reply to Inne" aria-label='Reply to Inne'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8067" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/04281779182486439515" class="url" rel="ugc external nofollow">Hillary</a></cite></div>
-      <a href="index.html?p=1453#comment-8067"><time class="comment-time" datetime="2007-07-13T17:27:00-04:00">Friday, July 13, 2007 at 5:27 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8067"><time class="comment-time" datetime="2007-07-13T17:27:00-04:00">Friday, July 13, 2007 at 5:27 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -820,12 +820,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8067' data-commentid="8067" data-postid="1453" data-belowelement="comment-8067" data-respondelement="respond" data-replyto="Reply to Hillary" aria-label='Reply to Hillary'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8067' data-commentid="8067" data-postid="1453" data-belowelement="comment-8067" data-respondelement="respond" data-replyto="Reply to Hillary" aria-label='Reply to Hillary'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8068" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15960093722662773594" class="url" rel="ugc external nofollow">Katie</a></cite></div>
-      <a href="index.html?p=1453#comment-8068"><time class="comment-time" datetime="2007-07-13T18:16:00-04:00">Friday, July 13, 2007 at 6:16 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8068"><time class="comment-time" datetime="2007-07-13T18:16:00-04:00">Friday, July 13, 2007 at 6:16 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -833,12 +833,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8068' data-commentid="8068" data-postid="1453" data-belowelement="comment-8068" data-respondelement="respond" data-replyto="Reply to Katie" aria-label='Reply to Katie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8068' data-commentid="8068" data-postid="1453" data-belowelement="comment-8068" data-respondelement="respond" data-replyto="Reply to Katie" aria-label='Reply to Katie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8069" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00175785349529109084" class="url" rel="ugc external nofollow">Rhonda Jean</a></cite></div>
-      <a href="index.html?p=1453#comment-8069"><time class="comment-time" datetime="2007-07-13T22:13:00-04:00">Friday, July 13, 2007 at 10:13 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8069"><time class="comment-time" datetime="2007-07-13T22:13:00-04:00">Friday, July 13, 2007 at 10:13 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -846,12 +846,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8069' data-commentid="8069" data-postid="1453" data-belowelement="comment-8069" data-respondelement="respond" data-replyto="Reply to Rhonda Jean" aria-label='Reply to Rhonda Jean'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8069' data-commentid="8069" data-postid="1453" data-belowelement="comment-8069" data-respondelement="respond" data-replyto="Reply to Rhonda Jean" aria-label='Reply to Rhonda Jean'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8070" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16974747460871150569" class="url" rel="ugc external nofollow">Michael</a></cite></div>
-      <a href="index.html?p=1453#comment-8070"><time class="comment-time" datetime="2007-07-14T06:21:00-04:00">Saturday, July 14, 2007 at 6:21 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8070"><time class="comment-time" datetime="2007-07-14T06:21:00-04:00">Saturday, July 14, 2007 at 6:21 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -859,12 +859,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8070' data-commentid="8070" data-postid="1453" data-belowelement="comment-8070" data-respondelement="respond" data-replyto="Reply to Michael" aria-label='Reply to Michael'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8070' data-commentid="8070" data-postid="1453" data-belowelement="comment-8070" data-respondelement="respond" data-replyto="Reply to Michael" aria-label='Reply to Michael'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8071" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.davidlebovitz.com" class="url" rel="ugc external nofollow">David</a></cite></div>
-      <a href="index.html?p=1453#comment-8071"><time class="comment-time" datetime="2007-07-14T12:21:00-04:00">Saturday, July 14, 2007 at 12:21 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8071"><time class="comment-time" datetime="2007-07-14T12:21:00-04:00">Saturday, July 14, 2007 at 12:21 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -872,12 +872,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8071' data-commentid="8071" data-postid="1453" data-belowelement="comment-8071" data-respondelement="respond" data-replyto="Reply to David" aria-label='Reply to David'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8071' data-commentid="8071" data-postid="1453" data-belowelement="comment-8071" data-respondelement="respond" data-replyto="Reply to David" aria-label='Reply to David'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8072" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16474153316588551039" class="url" rel="ugc external nofollow">Zoomie</a></cite></div>
-      <a href="index.html?p=1453#comment-8072"><time class="comment-time" datetime="2007-07-14T14:38:00-04:00">Saturday, July 14, 2007 at 2:38 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8072"><time class="comment-time" datetime="2007-07-14T14:38:00-04:00">Saturday, July 14, 2007 at 2:38 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -885,12 +885,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8072' data-commentid="8072" data-postid="1453" data-belowelement="comment-8072" data-respondelement="respond" data-replyto="Reply to Zoomie" aria-label='Reply to Zoomie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8072' data-commentid="8072" data-postid="1453" data-belowelement="comment-8072" data-respondelement="respond" data-replyto="Reply to Zoomie" aria-label='Reply to Zoomie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8073" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16399897186712600230" class="url" rel="ugc external nofollow">S &amp;amp; F</a></cite></div>
-      <a href="index.html?p=1453#comment-8073"><time class="comment-time" datetime="2007-07-14T15:09:00-04:00">Saturday, July 14, 2007 at 3:09 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8073"><time class="comment-time" datetime="2007-07-14T15:09:00-04:00">Saturday, July 14, 2007 at 3:09 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -898,12 +898,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8073' data-commentid="8073" data-postid="1453" data-belowelement="comment-8073" data-respondelement="respond" data-replyto="Reply to S &amp;amp; F" aria-label='Reply to S &amp;amp; F'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8073' data-commentid="8073" data-postid="1453" data-belowelement="comment-8073" data-respondelement="respond" data-replyto="Reply to S &amp;amp; F" aria-label='Reply to S &amp;amp; F'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8074" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00608290084940445730" class="url" rel="ugc external nofollow">s&amp;apos;kat</a></cite></div>
-      <a href="index.html?p=1453#comment-8074"><time class="comment-time" datetime="2007-07-14T18:23:00-04:00">Saturday, July 14, 2007 at 6:23 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8074"><time class="comment-time" datetime="2007-07-14T18:23:00-04:00">Saturday, July 14, 2007 at 6:23 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -911,12 +911,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8074' data-commentid="8074" data-postid="1453" data-belowelement="comment-8074" data-respondelement="respond" data-replyto="Reply to s&amp;apos;kat" aria-label='Reply to s&amp;apos;kat'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8074' data-commentid="8074" data-postid="1453" data-belowelement="comment-8074" data-respondelement="respond" data-replyto="Reply to s&amp;apos;kat" aria-label='Reply to s&amp;apos;kat'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-43899" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00608290084940445730" class="url" rel="ugc external nofollow">s&amp;apos;kat</a></cite></div>
-      <a href="index.html?p=1453#comment-43899"><time class="comment-time" datetime="2007-07-14T18:23:00-04:00">Saturday, July 14, 2007 at 6:23 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-43899"><time class="comment-time" datetime="2007-07-14T18:23:00-04:00">Saturday, July 14, 2007 at 6:23 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -924,12 +924,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-43899' data-commentid="43899" data-postid="1453" data-belowelement="comment-43899" data-respondelement="respond" data-replyto="Reply to s&amp;apos;kat" aria-label='Reply to s&amp;apos;kat'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-43899' data-commentid="43899" data-postid="1453" data-belowelement="comment-43899" data-respondelement="respond" data-replyto="Reply to s&amp;apos;kat" aria-label='Reply to s&amp;apos;kat'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8075" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00608290084940445730" class="url" rel="ugc external nofollow">s&amp;apos;kat</a></cite></div>
-      <a href="index.html?p=1453#comment-8075"><time class="comment-time" datetime="2007-07-14T18:24:00-04:00">Saturday, July 14, 2007 at 6:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8075"><time class="comment-time" datetime="2007-07-14T18:24:00-04:00">Saturday, July 14, 2007 at 6:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -937,12 +937,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8075' data-commentid="8075" data-postid="1453" data-belowelement="comment-8075" data-respondelement="respond" data-replyto="Reply to s&amp;apos;kat" aria-label='Reply to s&amp;apos;kat'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8075' data-commentid="8075" data-postid="1453" data-belowelement="comment-8075" data-respondelement="respond" data-replyto="Reply to s&amp;apos;kat" aria-label='Reply to s&amp;apos;kat'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-43900" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00608290084940445730" class="url" rel="ugc external nofollow">s&amp;apos;kat</a></cite></div>
-      <a href="index.html?p=1453#comment-43900"><time class="comment-time" datetime="2007-07-14T18:24:00-04:00">Saturday, July 14, 2007 at 6:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-43900"><time class="comment-time" datetime="2007-07-14T18:24:00-04:00">Saturday, July 14, 2007 at 6:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -950,12 +950,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-43900' data-commentid="43900" data-postid="1453" data-belowelement="comment-43900" data-respondelement="respond" data-replyto="Reply to s&amp;apos;kat" aria-label='Reply to s&amp;apos;kat'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-43900' data-commentid="43900" data-postid="1453" data-belowelement="comment-43900" data-respondelement="respond" data-replyto="Reply to s&amp;apos;kat" aria-label='Reply to s&amp;apos;kat'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8076" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07342250686080706341" class="url" rel="ugc external nofollow">Lorraine</a></cite></div>
-      <a href="index.html?p=1453#comment-8076"><time class="comment-time" datetime="2007-07-15T16:11:00-04:00">Sunday, July 15, 2007 at 4:11 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8076"><time class="comment-time" datetime="2007-07-15T16:11:00-04:00">Sunday, July 15, 2007 at 4:11 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -963,12 +963,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8076' data-commentid="8076" data-postid="1453" data-belowelement="comment-8076" data-respondelement="respond" data-replyto="Reply to Lorraine" aria-label='Reply to Lorraine'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8076' data-commentid="8076" data-postid="1453" data-belowelement="comment-8076" data-respondelement="respond" data-replyto="Reply to Lorraine" aria-label='Reply to Lorraine'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8077" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/11226543756994730250" class="url" rel="ugc external nofollow">Jane Dark</a></cite></div>
-      <a href="index.html?p=1453#comment-8077"><time class="comment-time" datetime="2007-07-16T04:34:00-04:00">Monday, July 16, 2007 at 4:34 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8077"><time class="comment-time" datetime="2007-07-16T04:34:00-04:00">Monday, July 16, 2007 at 4:34 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -976,12 +976,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8077' data-commentid="8077" data-postid="1453" data-belowelement="comment-8077" data-respondelement="respond" data-replyto="Reply to Jane Dark" aria-label='Reply to Jane Dark'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8077' data-commentid="8077" data-postid="1453" data-belowelement="comment-8077" data-respondelement="respond" data-replyto="Reply to Jane Dark" aria-label='Reply to Jane Dark'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8078" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.chewonthatblog.com" class="url" rel="ugc external nofollow">Max</a></cite></div>
-      <a href="index.html?p=1453#comment-8078"><time class="comment-time" datetime="2007-07-16T19:07:00-04:00">Monday, July 16, 2007 at 7:07 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8078"><time class="comment-time" datetime="2007-07-16T19:07:00-04:00">Monday, July 16, 2007 at 7:07 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -989,12 +989,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8078' data-commentid="8078" data-postid="1453" data-belowelement="comment-8078" data-respondelement="respond" data-replyto="Reply to Max" aria-label='Reply to Max'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8078' data-commentid="8078" data-postid="1453" data-belowelement="comment-8078" data-respondelement="respond" data-replyto="Reply to Max" aria-label='Reply to Max'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8079" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08832769728193481326" class="url" rel="ugc external nofollow">candy</a></cite></div>
-      <a href="index.html?p=1453#comment-8079"><time class="comment-time" datetime="2007-07-17T03:48:00-04:00">Tuesday, July 17, 2007 at 3:48 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8079"><time class="comment-time" datetime="2007-07-17T03:48:00-04:00">Tuesday, July 17, 2007 at 3:48 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1002,12 +1002,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8079' data-commentid="8079" data-postid="1453" data-belowelement="comment-8079" data-respondelement="respond" data-replyto="Reply to candy" aria-label='Reply to candy'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8079' data-commentid="8079" data-postid="1453" data-belowelement="comment-8079" data-respondelement="respond" data-replyto="Reply to candy" aria-label='Reply to candy'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8080" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Nic Gaffney</cite></div>
-      <a href="index.html?p=1453#comment-8080"><time class="comment-time" datetime="2007-07-17T08:44:00-04:00">Tuesday, July 17, 2007 at 8:44 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8080"><time class="comment-time" datetime="2007-07-17T08:44:00-04:00">Tuesday, July 17, 2007 at 8:44 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1015,12 +1015,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8080' data-commentid="8080" data-postid="1453" data-belowelement="comment-8080" data-respondelement="respond" data-replyto="Reply to Nic Gaffney" aria-label='Reply to Nic Gaffney'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8080' data-commentid="8080" data-postid="1453" data-belowelement="comment-8080" data-respondelement="respond" data-replyto="Reply to Nic Gaffney" aria-label='Reply to Nic Gaffney'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8081" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14200220574221914227" class="url" rel="ugc external nofollow">Bad Home Cook</a></cite></div>
-      <a href="index.html?p=1453#comment-8081"><time class="comment-time" datetime="2007-07-18T22:19:00-04:00">Wednesday, July 18, 2007 at 10:19 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8081"><time class="comment-time" datetime="2007-07-18T22:19:00-04:00">Wednesday, July 18, 2007 at 10:19 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1028,12 +1028,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8081' data-commentid="8081" data-postid="1453" data-belowelement="comment-8081" data-respondelement="respond" data-replyto="Reply to Bad Home Cook" aria-label='Reply to Bad Home Cook'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8081' data-commentid="8081" data-postid="1453" data-belowelement="comment-8081" data-respondelement="respond" data-replyto="Reply to Bad Home Cook" aria-label='Reply to Bad Home Cook'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8082" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
-      <a href="index.html?p=1453#comment-8082"><time class="comment-time" datetime="2007-07-20T05:43:00-04:00">Friday, July 20, 2007 at 5:43 am</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8082"><time class="comment-time" datetime="2007-07-20T05:43:00-04:00">Friday, July 20, 2007 at 5:43 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1041,12 +1041,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8082' data-commentid="8082" data-postid="1453" data-belowelement="comment-8082" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8082' data-commentid="8082" data-postid="1453" data-belowelement="comment-8082" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-8083" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/06998002372626472607" class="url" rel="ugc external nofollow">PERFIL</a></cite></div>
-      <a href="index.html?p=1453#comment-8083"><time class="comment-time" datetime="2007-08-07T21:53:00-04:00">Tuesday, August 7, 2007 at 9:53 pm</time></a>    </header>
+      <a href="https://orangette.net/2007/07/my-lemonade-fix/#comment-8083"><time class="comment-time" datetime="2007-08-07T21:53:00-04:00">Tuesday, August 7, 2007 at 9:53 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1054,39 +1054,39 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1453#comment-8083' data-commentid="8083" data-postid="1453" data-belowelement="comment-8083" data-respondelement="respond" data-replyto="Reply to PERFIL" aria-label='Reply to PERFIL'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-8083' data-commentid="8083" data-postid="1453" data-belowelement="comment-8083" data-respondelement="respond" data-replyto="Reply to PERFIL" aria-label='Reply to PERFIL'>Reply</a>    </div>
   </li><!-- #comment-## -->
     </ol>
 
       
   
   	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html?p=1453#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2007/07/my-lemonade-fix/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
 <p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1453' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="76dd8512e8" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="71"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="62faf17daa" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="60"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	</section>
       </footer>
 </article>
         </main><!-- /.main -->
                   <aside class="content-right">
             <header class="right-header">
-  <a href="index.html?p=4">
+  <a href="https://orangette.net/about/">
     <h2 class="title">hellooooo</h2>
-    <img src="wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
   </a>
 </header>
 <nav class="right-nav">
-  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
-</ul></div>  <form role="search" method="get" class="search-form" action="index.html">
+</ul></div>  <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
@@ -1094,19 +1094,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </nav>
 <div class="right-section">
   <h3 class="right-heading">
-    <a href="index.html?p=8">My Books</a>
+    <a href="https://orangette.net/books/">My Books</a>
   </h3>
   <div class="right-diptych">
-                <a class="right-image-link half" href="index.html?p=8#the-fixed-stars">
-        <img src="wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
       </a>
-                <a class="right-image-link half" href="index.html?p=8#delancey">
-        <img src="wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
       </a>
       </div>
   <div class="right-image-link">
     <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
-      <img src="wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
     </a>
   </div>
 </div>
@@ -1114,9 +1114,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <h4 class="right-subheading">Featured Posts</h4>
   <ul class="right-post-list">
           <li>
-        <a href="index.html?p=178">
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
           <div class="thumb">
-            <img width="380" height="250" src="wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">April 7, 2014</div>
             <h5 class="title">That word is eat</h5>
@@ -1124,9 +1124,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </a>
       </li>
           <li>
-        <a href="index.html?p=26">
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">March 23, 2015</div>
             <h5 class="title">The bean doctor</h5>
@@ -1134,9 +1134,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </a>
       </li>
           <li>
-        <a href="index.html?p=1851">
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">July 23, 2015</div>
             <h5 class="title">We&#8217;ll go from left to right</h5>
@@ -1144,9 +1144,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </a>
       </li>
           <li>
-        <a href="index.html?p=221">
+        <a href="https://orangette.net/2014/01/in-it-together/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">January 16, 2014</div>
             <h5 class="title">In it together</h5>
@@ -1160,35 +1160,35 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
   </h3>
   <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
-    <img src="wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
   </a>
 </div>
 <div class="right-section">
   <h4 class="right-subheading alt">
-    <a href="index.html?p=2521">Links of Note</a>
+    <a href="https://orangette.net/links/">Links of Note</a>
   </h4>
   <ul class="right-link-list">
-    <li><a href="http://angrychicken.typepad.com/">angry chicken</a></li>
-<li><a href="http://www.spilledmilkpodcast.com/">Spilled Milk, my podcast with Matthew Amster-Burton</a></li>
-<li><a href="http://www.smittenkitchen.com/">Smitten Kitchen</a></li>
-<li><a href="http://www.kitchen-repertoire.com/" rel="noopener" target="_blank">Kitchen Repertoire</a></li>
-<li><a href="http://www.elise.com/recipes/">Simply Recipes</a></li>
-<li><a href="http://whippedtheblog.com/">Whipped</a></li>
-<li><a href="http://www.heyadamroberts.com/">Hey, Adam Roberts</a></li>
-<li><a href="http://www.101cookbooks.com/" rel="noopener" target="_blank">101 Cookbooks</a></li>
-<li><a href="http://www.eatdrinkonewoman.com/">eat drink one woman</a></li>
-<li><a href="http://www.nordljus.co.uk/en/index.php">Nordljus</a></li>
-<li><a href="http://www.bbc.co.uk/programmes/b006qfvv" rel="noopener" target="_blank">BBC Radio 4 Shipping Forecast</a></li>
-<li><a href="http://www.dinneralovestory.com/" rel="noopener" target="_blank">Dinner: A Love Story</a></li>
-<li><a href="http://www.thewednesdaychef.com/berlin_on_a_platter/">Berlin on a Platter</a></li>
-<li><a href="http://vicsrecipes.blogspot.com/">Vic&#8217;s Recipes</a></li>
+    <li><a href="http://www.remedialeating.com/">remedial eating</a></li>
+<li><a href="http://worldsendfarm.com/blog/" rel="noopener" target="_blank">World&#039;s End</a></li>
+<li><a href="http://www.chocolateandzucchini.com/">Chocolate &amp; Zucchini</a></li>
 <li><a href="http://casayellow.com/">The Yellow House</a></li>
+<li><a href="http://www.poormansfeast.com/">Poor Man&#8217;s Feast</a></li>
+<li><a href="http://camillaengman.blogspot.com/">Camilla Engman</a></li>
+<li><a href="http://3191milesapart.com/">3191</a></li>
+<li><a href="http://teaandcookies.blogspot.com/">Tea and Cookies</a></li>
+<li><a href="http://lunch.thecanalhouse.com/">Canal House Cooks Lunch</a></li>
+<li><a href="http://lookimadethat.com/">i made that</a></li>
+<li><a href="http://notwithoutsalt.com/">Not Without Salt</a></li>
+<li><a href="http://www.kitchen-repertoire.com/" rel="noopener" target="_blank">Kitchen Repertoire</a></li>
+<li><a href="http://blog.youngnapark.com/">Youngna Park</a></li>
+<li><a href="http://www.smittenkitchen.com/">Smitten Kitchen</a></li>
+<li><a href="http://dressingfordinner.blogspot.com/">Dressing for dinner</a></li>
   </ul>
-  <a class="right-more" href="index.html?p=2521">More</a>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
                 <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="index.html">
+          <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
@@ -1196,17 +1196,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
           <div class="overlay--close" data-behavior="close-search"></div>
         </div>
       </div><!-- /.page-content -->
-      <script async defer data-pin-hover="true" data-pin-color="white" src="https://assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
-  <a class="footer-logo" href="index.html">
-    <img src="wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
   </a>
   <div class="footer-content">
     <nav class="footer-nav" role="navigation">
-      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
 </ul></div>    </nav>
@@ -1222,7 +1222,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <div class="nav-overlay" data-behavior="close-nav"></div>
       <button class="elevator" data-behavior="jettison">Back to top</button>
     </div><!-- /.container -->
-    <script type='text/javascript' src='wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
-<script type='text/javascript' src='wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+    <script type='text/javascript' src='https://orangette.net/wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
   </body>
 </html>

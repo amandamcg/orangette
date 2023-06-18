@@ -1,98 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>From now on</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Gramercy Tavern Bar Nuts</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/gp/product/0316045128/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0316045128&amp;linkCode=as2&amp;tag=orangette-20" target="_blank">Mix Shake Stir</a></i>, by Danny Meyer</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2013-12-20T04:35:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2013/12/from-now-on/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>This recipe uses two different kinds of salt. I don’t know why, although I’m guessing that the different salts coat the nuts differently? In any case, my kosher salt is Diamond Crystal brand, and that’s important to note, because it’s significantly less salty than Morton brand kosher salt. If you have Morton (or another brand), you’ll want to use much less than the 1 tablespoon this recipe calls for. I’d suggest about 1 ½ teaspoons.</p>
-<p>Also, to make simple syrup, combine equal parts sugar and water in a small saucepan, bring to a simmer, stir until the sugar dissolves, and then take it off the heat and allow it to cool.  (To be honest, though, I didn’t allow mine to cool; I made it just before using and only cooled it for a few minutes.)</p>
-<p>Last, the original version of this recipe uses volume measurements, and I forgot to convert them to weight measurements when I made it.  I know, I know; I usually give you both types of measurements, and I, myself, prefer weight. I am sad. Apologies.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 cup raw almonds          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 tablespoons turbinado sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tablespoon kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ teaspoons fine sea salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 ¼ teaspoons ground cumin          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 teaspoon ground cinnamon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 teaspoon cayenne pepper          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ teaspoon ground ginger          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon freshly ground black pepper          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon freshly grated nutmeg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups pecan halves          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ cup cashews          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup (2 fluid ounces) simple syrup (see headnote)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ teaspoons light corn syrup          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tablespoon grapeseed oil, or another oil with a similarly high smoke point          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 300˚F.</p>
-<p>Spread the almonds on a rimmed baking sheet, and bake until lightly toasted and fragrant, about 10 minutes. Immediately transfer to a plate, and set aside to cool.</p>
-<p>While the almonds toast, make the spice mix. Combine the sugar, salts, cumin, cinnamon, cayenne, ginger, black pepper, and nutmeg in a small bowl. Stir to mix.</p>
-<p>Reduce the oven temperature to 275˚F.  Line a rimmed baking sheet with parchment paper.</p>
-<p>In a large bowl, combine the almonds, pecans, and cashews. Toss to mix. Add the simple syrup, corn syrup, and grapeseed oil, and stir to coat the nuts. Add the spice mix, and toss gently until the nuts are evenly coated.  Spread on the prepared baking sheet.  Bake until the spice mixture is caramelized and the nuts are toasted, about 25-40 minutes. To check for doneness, take a few nuts out of the oven and let cool for a few minutes; if done, they should be dry to the touch.</p>
-<p>Cool completely; then store in an airtight container. (The original recipe says that the nuts should keep at room temperature for a week, but I’d guess that they’ll keep longer than that.  Two weeks, easy.)</p>
-    </div>
-  
-      <p itemprop="yield">Yield: about 4 cups</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

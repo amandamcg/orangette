@@ -1,99 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>Now you know</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Broccoli Soup with Lemon-Chive Cream</h2>
-        <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2009-02-25T02:46:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2009/02/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I like this “cream” best when made with sour cream, but I’ve also used plain whole-milk yogurt, and it’s very good that way too. If you do use yogurt, keep in mind that it has less fat than sour cream, so you’ll probably need to add some olive oil to balance the acidity of the lemon. (Or just use less lemon!) I also found that the yogurt-based “cream” needed a pinch of sugar to balance it.</p>
-<p>Oh, and should you have some of the sour cream mixture left over, it makes a great dip for potato chips.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the soup:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 medium leeks, white and tender green parts only, sliced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 small yellow onion, coarsely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 cloves garlic, coarsely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ lb. broccoli, both crowns and stems, trimmed and coarsely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            5 cups chicken or vegetable stock          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 rind (about 2 inches square) from a piece of Parmesan cheese          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ tsp. kosher salt, or less if your broth is well salted          </div>
-                      <h3>For the sour cream:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 cup sour cream (not low-fat or nonfat)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 scallions, white and pale green parts only, very thinly sliced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup minced chives          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. grated lemon zest          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. fresh lemon juice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup finely grated Parmesan cheese          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. pressed or minced garlic          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In a small stockpot or Dutch oven, warm the butter and oil over medium heat. Add the leeks and onion, and cook, stirring occasionally, until they have softened and the onion is translucent, about 10 minutes. Add the garlic, and cook for one minute. Add the broccoli, stock, Parmesan rind, and salt, and stir to mix. Bring to a boil, reduce to a simmer, and cook, partially covered, until the broccoli is tender, about 20 minutes.</p>
-<p>While the soup cooks, prepare the cream. In a medium bowl, stir together the sour cream, scallions, chives, lemon zest, lemon juice, grated Parmesan, salt, and garlic, mixing until fully combined. Taste, and adjust as necessary.</p>
-<p>To finish the soup, remove the Parmesan rind. Using a blender and working in small batches – when puréeing hot liquids, never fill the blender more than one-third full – purée until very smooth. (Alternatively, purée it in the pot with an immersion blender.) Return the soup to the pot, add a few dollops of the cream mixture – I add about 1/3 cup – and stir to incorporate. Taste for seasoning, and adjust as necessary. If needed, rewarm the soup gently over low heat.</p>
-<p>Serve the soup with a spoonful or two of the remaining cream on top.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 to 6 servings</p>
-  </section>
-                                      <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

@@ -1,518 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>June 30</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Chicken Cutlets Smothered in Peas</h2>
-    <h3 class="subtitle">Inspired by <i><a href="https://www.thecanalhousebooks.com/#/volume-n-6-the-grocery-store/">Canal House Cooking, Vol. 6: The Grocery Store</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2017-07-01T00:08:18-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/home-cooking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>June didn&#8217;t like the scallion flavor in the peas, so next time, I&#8217;ll be leaving the scallions out. I like it either way.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            All-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large egg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Panko          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 (boneless, skinless) chicken cutlets          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Peanut oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tablespoons unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 ounces (half a standard-sized bag) frozen peas          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 scallions, trimmed and thinly sliced into rounds          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Set out three shallow bowls. Put a large, heaping spoonful of flour in the first, the egg in the second, and a large, heaping spoonful of panko in the third. I didn&#8217;t measure the flour or panko, and I think you can safely eyeball it. Beat the egg well with a fork.</p>
-<p>Season the cutlets with kosher salt.</p>
-<p>Working with one cutlet at a time, dredge in flour with one hand, shaking off excess. Transfer to the egg dish, turning the cutlet with your other hand to coat both sides. Lift, allowing excess egg to drain off. Transfer to the panko bowl. With your first hand, scoop panko on top of the cutlet and gently press to adhere, taking care that the whole thing is coated. Transfer to a clean plate. Repeat with remaining cutlets. If this is done properly, your first hand should touch only dry ingredients, while your second hand should touch only wet, and ideally it&#8217;s not too messy. If it is, oh well.</p>
-<p>Pour oil into a 10-inch skillet to a depth of  ¼ to 1/3 inch. Place over medium-high heat. When the oil shimmers and runs loosely around the pan when you tilt it (around 350°F), gently lower the cutlets into the pan, laying them down away from you to prevent splashes of hot fat. Don&#8217;t crowd the pan; cook in batches if necessary. Cook cutlets until the bottom side is set, and then flip and fry until the second side is set. Continue cooking, flipping occasionally for even browning, until the cutlets are golden brown &#8211; fried-chicken color &#8211; and cooked through, about 4 to 5 minutes per side. I use a <a href="http://www.thermoworks.com/Classic-Thermapen" target="_blank" rel="noopener">Thermapen</a> to test for doneness, pulling cutlets from the pan around 155°F. They will rise to 165°F (the USDA safe temperature) as they rest. Transfer to a plate lined with a paper towel.</p>
-<p>Meanwhile, melt the butter in a saucepan over medium heat. Add the peas and scallions and a generous dash of salt, stir to coat, cover, and cook until tender. I didn&#8217;t time this. Maybe 10 minutes?</p>
-<p>Serve everything hot, the buttery peas spooned over the cutlets.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 2 to 3 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Charlie Brigham Soup</h2>
-    <h3 class="subtitle">Charlie Brigham, Blanca, Tina Baylis, and Sarah Connolly</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2016-10-03T13:06:20-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/home-cooking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Charlie Brigham used <a class="u-underline" href="https://www.campbells.com/swanson/broths-and-stocks/" data-link-name="in body link">Swanson</a> canned chicken broth, fideo vermicelli, egg, and <a class="u-underline" href="http://www.forbes.com/sites/larryolmsted/2012/11/19/the-dark-side-of-parmesan-cheese-what-you-dont-know-might-hurt-you/#74f1215f71be" data-link-name="in body link">Kraft parmesan cheese</a> – the green‑canister kind that keeps for a small eternity. Today, you might swap in organic chicken broth (homemade or not), capellini and freshly grated parmesan.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 large egg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups (475 ml) chicken broth          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            About 2 ounces (65 grams) capellini, fideo vermicelli, or other thin noodle or small pasta shape          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Parmesan, grated, to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Black pepper, to taste          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Crack the egg into a small bowl, and beat well.</p>
-<p>In a small saucepan, bring the broth to a boil. Add the pasta, and cook according to package directions, until just tender. Drizzle in the beaten egg, stirring constantly with a fork so that the egg breaks into feather-like pieces rather than clumps.</p>
-<p>Divide the soup between two wide, shallow bowls. Top with grated cheese and black pepper. Serve with a fork, for twirling noodles, and a spoon.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 2 (light) servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Jimmy's Pink Cookies</h2>
-    <h3 class="subtitle">from <i>A Homemade Life</i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2016-02-19T18:40:13-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/home-cooking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I made the dough first thing on Wednesday morning, while June was watching <em>Daniel Tiger</em> &#8211; real talk &#8211; and it was ready to roll out an hour later, when our friends arrived. I <em>highly</em> recommend making the dough ahead, since waiting for dough to chill is not easy for kids. And if you can, go ahead and measure out the frosting ingredients while you&#8217;re doing the dough.</p>
-<p>Once we were ready to get started, I took charge of rolling out the dough, and then the girls went to work with their chosen cookie cutters. (The original recipe below calls for using round cookie cutters, but we used alphabet shapes.) I helped ease the dough shapes from the cutters onto the baking sheet, and I rerolled the dough scraps as needed. But mostly, I let them do their thing. While the cookies baked and cooled, June helped me beat up the frosting, and then each kid got a small knife and their own bowl of frosting for spreading on the finished cookies.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the cookies:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 ½ sticks (170 grams) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup powdered sugar, sifted          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups (210 grams) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon fine sea salt or table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon vanilla extract          </div>
-                      <h3>For the frosting:</h3>                  <div class="ingredient" itemprop="ingredients">
-            4 ounces (112 grams) cream cheese, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 tablespoons (42 grams) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups powdered sugar, sifted          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ teaspoon kirsch, or more to taste, or a half-capful of cherry extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Red food coloring (optional, but the frosting won't be pink without it)          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>To make the cookies, combine the butter and powdered sugar in the bowl of a stand mixer fitted with the paddle attachment. Beat, first on low speed and then slowly increasing to medium, until light and fluffy. Scrape down the side of the bowl as needed.</p>
-<p>In a medium bowl, whisk the flour and salt. With the mixer on low speed, add the flour mixture to the butter mixture, beating until the flour is just absorbed. Add the vanilla, and beat well to incorporate. Lay a sheet of plastic wrap on the countertop, and turn the dough out onto it. Gather the dough into a ball, and press it into a thin, smooth disk. Wrap well, and refrigerate for one hour.</p>
-<p>Preheat the oven to 325 degrees. Line two baking sheets with parchment.</p>
-<p>On a clean, lightly floured surface, roll out the dough to a thickness of about 3/8 inch. Using a cookie cutter, cut the dough into any shape you like. (My friend Jimmy uses a heart-shaped cutter when he makes these cookies; I usually use a 2 ½-inch circle.)</p>
-<p>Place the cookies on the prepared baking sheets, spacing them 1 ½ inches apart. Bake them one sheet at a time, keeping the second sheet in the fridge until the first is done, for about 16 minutes, or until the cookies look set and are just pale golden at the edge. Do not allow them to brown. Transfer the pan to a wire rack, and allow the cookies to cool completely on the pan. Repeat.</p>
-<p>To make the frosting, put the cream cheese and butter in the bowl of a stand mixer fitted with a paddle attachment, and beat on medium speed until smooth. Add the powdered sugar, and beat on low speed to incorporate. Then raise the speed to medium, and beat until there are no lumps, scraping down the side of the bowl as needed. Add the kirsch and a couple of drops of food coloring, and beat well.  The frosting should be pale pink, ideally, though June wanted it darker than that, so we added some more coloring. Spread the frosting generously &#8211; this is key! lots of frosting! &#8211; onto the fully cooled cookies.</p>
-<p>Stored in an airtight container, the frosted cookies will keep in the fridge for a few days, and they&#8217;re delicious cold. You can also freeze them.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 10 to 12 (3-inch) cookies, or more smaller cookies</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Carrot-Coconut Soup with Chile and Lime</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.bonappetit.com/recipe/carrot-coconut-soup" target="_blank"><i>Bon Appetit</i> and the Clayburn Village Store &amp; Tea Shop in Abbotsford, BC</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2014-10-24T20:42:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/home-cooking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-      </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            ½ stick (57 grams) unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 lb. (910 grams) carrots, peeled and chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 medium onion, chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 cups (950 ml) chicken broth          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ to 2 (13.5-ounce) cans unsweetened coconut milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            About 2 Tbsp. sriracha, or to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Lime wedges, for serving          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Fresh cilantro leaves, chopped, for serving, if you feel like it          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Melt the butter in a large (5-quart) pot over medium-high heat. Add the carrots and onion, season with a couple good pinches of salt, and cook, stirring often, until the carrots are softened, 15-20 minutes. Stir in the broth, 1 ½ cans of the coconut milk, and 1 tablespoon of the sriracha. Bring to a simmer, and cook, stirring occasionally, until the vegetables are very soft and the liquid is slightly reduced, about 45 minutes. Puree in small batches (<em>remember: hot liquids expand!</em>) in a blender. (Or, my preference: puree right in the pot, with an immersion blender.) Check for seasoning, and add more salt and/or sriracha, if you like. (I usually add 1 more tablespoon sriracha.) If you’d like more richness, stir in the rest of the coconut milk, and then reheat as needed.</p>
-<p>Serve with a generous squeeze of lime in each bowl, and top with cilantro, if you have it.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 6 to 8 servings</p>
-  </section>
-                              
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Zuni Café’s Four-Minute Egg Gribiche</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FZuni-Cafe-Cookbook-Compendium-Franciscos%2Fdp%2F0393020436%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1241593100%26sr%3D8-1&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">The Zuni Café Cookbook</span></a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2009-05-06T06:46:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/home-cooking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>This version is essentially a mayonnaise, and it’s particularly important to use a very mild-tasting olive oil. If your oil is at all bitter, or if you’re unsure, use a mixture of it and a more neutral-tasting oil, like canola.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 medium shallots, finely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. sherry vinegar or red wine vinegar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 large egg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. Dijon mustard          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ cups mild-tasting olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. thinly sliced chives          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. finely chopped parsley          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. finely chopped chervil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. finely chopped dill          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. capers, rinsed and dried, coarsely chopped          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Combine the shallots and the vinegar in a small bowl, and set aside to macerate while you prepare the rest of the sauce.</p>
-<p>Put the egg in a small saucepan of barely simmering water, and bring it to a boil. Then reduce the heat and simmer for about 4 minutes. Drain, and put the egg in a bowl of ice water to cool completely.</p>
-<p>When the egg is cool, crack and scrape it into a medium bowl. Add the mustard and a pinch or two of salt. Mash it all together, and then begin whisking in the oil, just a few drops at first, then gradually increasing the flow to a thin stream. Stop adding oil when the mixture is satiny and has lots of body, like – and I love that Judy Rodgers describes it this way – a hot fudge sauce. Stir in the herbs and capers. Add the vinegar and shallots, and adjust with salt to taste.</p>
-<p>Serve with grilled fish or poultry, fried seafood, roasted potatoes, boiled shrimp, or asparagus, or &#8211; my personal preference &#8211; as the dressing for a fantastic potato salad.</p>
-    </div>
-  
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Everyday Cake</h2>
-    <h3 class="subtitle">Inspired by Edna Lewis’s <a href="http://www.orangette.blogspot.com/2008/02/like-lullaby.html">Busy-Day Cake</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2009-04-28T06:57:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/home-cooking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I don’t ordinarily like baking with whole wheat flour, to be perfectly honest. I am told that this constitutes some sort of major personality flaw, like finding real enjoyment in making babies cry, but I can’t help it. However, that said, when I set out to make this cake, whole wheat flour somehow seemed right. It seemed fitting for an everyday sweet, the kind of thing you would want to snack on, rather than save for after dinner. I had a bag of <a href="http://www.kingarthurflour.com/shop/items/king-arthur-white-whole-wheat-flour-5-lb">white whole wheat flour</a> in the fridge, so that’s what I used, and it’s a great product. I combined it with regular all-purpose flour, using equal amounts of each, and the finished cake has a subtly nutty flavor and a hearty texture, which is exactly what I was after.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 stick (4 oz.) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ¼ cups granulated sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup unbleached all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup white whole wheat flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A few gratings of nutmeg, or to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup whole milk or plain yogurt, at room temperature          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 375°F. Grease a 9-inch springform pan with butter or cooking spray.</p>
-<p>In the bowl of a stand mixer, blend the butter and the sugar until light and fluffy. One by one, add the eggs, beating well after each addition. Add the vanilla extract, and beat to blend.</p>
-<p>In a medium bowl, whisk together the flours, baking powder, salt, and nutmeg.</p>
-<p>Add about ¼ of the flour mixture to the butter mixture, and beat on low speed to incorporate. Add 1/3 of the milk or yogurt, and beat again. Add the remaining flour mixture in three more doses, alternating each time with a bit of milk or yogurt, and beating to just combine. Using a rubber spatula, scrape down the sides of the bowl and stir to incorporate any flour not yet absorbed.</p>
-<p>Scrape the batter into the prepared pan, spreading it evenly across the top. Bake for about 35 minutes, or until a toothpick inserted in the center comes out clean. (This cake seems to want to brown quickly on top, so after about 20 minutes, you might want to peek into the oven and tent the cake with aluminum foil, if necessary.) Cool in the pan on a rack for 20 minutes; then remove the sides of the pan and continue to cool.</p>
-<p>Serve at room temperature. Or slightly warm, if you want.</p>
-<p>Note: I store this cake at room temperature, covered with plastic wrap. It’s very good on the first day, but I like it even better on the second. By the third day, it starts to dry out, but it still tastes good.</p>
-    </div>
-  
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Roasted Asparagus with Walnut Crema and Pecorino</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FA16-Food-Wine-Nate-Appleman%2Fdp%2F1580089070%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1239130706%26sr%3D1-1&tag=orangette-20&linkCode=ur2&camp=1789&creative=9325"><i>A16: Food + Wine</a></i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2009-04-08T05:08:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/home-cooking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>The original version of this recipe calls for Pecorino Tartufo, a sheep’s milk cheese with black truffle, but barring that, any aged pecorino works nicely. I used Pecorino Romano. The original recipe also calls for finishing the dish with some toasted walnuts, but I skipped that part. The walnut crema carried plenty of nut flavor for me, and I thought that anything more was overkill. Maybe I’m weird. Either way, I finished mine with a squeeze of lemon, and it was a nice counterbalance to the richness of the crema.</p>
-<p>This recipe is intended to serve six, and even if you don’t need to feed that many, I would go ahead and make the full amount of crema. It will keep in the fridge for a few days, and you can roast the asparagus as needed. (One bunch is perfect for two people.) Also, Brandon has a hunch that leftover crema would make a terrific sauce for pasta, tossed with fresh garlic, lemon, and a little Italian parsley.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For walnut crema:</h3>                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups raw walnuts          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup plus 1 Tbsp. extra virgin olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 small red onion, diced (about 1 cup)          </div>
-                      <h3>For asparagus:</h3>                  <div class="ingredient" itemprop="ingredients">
-            3 bunches fat asparagus (about 30 spears, total)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Extra virgin olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 block Pecorino Romano or Pecorino Tartufo          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Lemon wedges, optional          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>To make the walnut crema, bring a pot of salted water to a boil. Add the walnuts, and blanch for 8 to 10 minutes, or until tender in the middle. (I pulled mine out after 8 minutes, thinking that they seemed tender enough, but I should have left them for the full 10 minutes. My finished crema was slightly grainy, probably meaning that my walnuts weren’t soft enough.) Drain the walnuts, reserving ¼ cup of the cooking water. Set aside separately.</p>
-<p>In a small skillet, warm 1 Tbsp. olive oil over medium heat. Add the onion and a generous pinch of salt, and sweat for about 7 minutes, or until golden brown and softened. Remove from the heat.</p>
-<p>In the bowl of a food processor, combine the walnuts, the reserved cooking water, and the onion, and process until creamy. Taste for seasoning: it will probably need a decent amount of salt. With the motor running, slowly add ½ cup olive oil, processing until blended. The crema should have the consistency of a creamy hummus. If it seems too thick, add a little water. Taste again for seasoning, and then transfer to a bowl or other container. Cover, and hold at room temperature. (Crema can be stored, tightly covered, in the refrigerator for a few days. Bring to room temperature before serving.)</p>
-<p>Preheat the oven to 500°F. Line two baking sheets with aluminum foil.</p>
-<p>Snap the tough ends from the asparagus spears. Rinse them, and then dry them well. Spread them in a single layer on the prepared baking sheets. Drizzle them lightly with olive oil, and roll them around, smearing the oil with your hands, to coat evenly. Season with kosher salt. Bake for about 8 minutes, shaking the pan once or twice, until blistered, slightly charred, and tender.</p>
-<p>To serve, spoon the crema evenly across the bottom of a platter. Arrange the asparagus spears on top. Working quickly, while the asparagus is still hot, shave Pecorino generously over the platter. Finish with a drizzle of olive oil, and serve immediately, with a squeeze of lemon, if you like.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 6 (first-course) servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Sweet Potato Pound Cake</h2>
-    <h3 class="subtitle">Adapted from <i><a href="http://www.amazon.com/Southern-Cakes-Irresistible-Everyday-Celebrations/dp/0811853705/ref=sr_1_1?ie=UTF8&s=books&qid=1236042116&sr=1-1">Southern Cakes</a></i>, by Nancie McDermott</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2009-03-03T01:51:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/home-cooking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I was introduced to this cake by my friend Shari, who co-curates the inspiring site <a href="http://thisjoyride.wordpress.com/">this joy+ride</a>. (That’s me in the current issue, #12. Thank you, sweet Shari.) She not only gave me the cookbook that contains this recipe, but she also posted <a href="http://www.flickr.com/photos/86831821@N00/3305952919/">an enticing photo</a> of it on Flickr the other day. She has never led me astray in anything, so I took the hint. I immediately flipped on the oven and pulled some butter out of the fridge, and I suggest that you do the same.</p>
-<p>This cake is perfect for late winter: moist, fragrant, warmly spiced, with a flavor a little bit like – and I mean this in a very good way – a spice doughnut. Or maybe an applesauce doughnut. In short, I am going to be making it for a long, long time. You can roast, peel, and mash the sweet potatoes ahead of time, and from there, the cake comes together fairly quickly and easily. The recipe comes with an optional buttermilk glaze, which I used and liked very much, but you could go either way. The glaze is mainly for added flavor and moisture: in my experience, it isn’t one of those types that sits prettily atop the cake, but rather soaks in like a syrup. The overall effect was dangerous. I think I ate about five slices on Saturday. Consider that a warning.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the cake:</h3>                  <div class="ingredient" itemprop="ingredients">
-            3 ¼ cups all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. freshly ground nutmeg          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup milk (low-fat is okay)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 oz. (2 sticks) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup light brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups mashed cooked sweet potatoes          </div>
-                      <h3>For the buttermilk glaze (optional):</h3>                  <div class="ingredient" itemprop="ingredients">
-            ½ cup buttermilk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 Tbsp. (½ stick) unsalted butter, cubed          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ tsp. cornstarch or flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. baking soda          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 350°F. Grease and flour a 10-inch tube or Bundt pan. (If your pan is nonstick, you can get away with just some cooking spray; no need to flour.)</p>
-<p>In a medium bowl, combine the flour, baking powder, baking soda, nutmeg, and salt. Whisk well. In a small bowl or measuring cup, combine the milk and vanilla.</p>
-<p>In a large bowl, beat the butter, sugar, and light brown sugar until light and fluffy, stopping once or twice to scrape down the sides of the bowl. Add the eggs one at a time, beating well after each addition. Add the sweet potatoes, and mix until the batter is combined. (The batter may look terrible at this point: curdled, weird, terrible. Don’t worry.) With the mixer on low speed, add half of the flour mixture. Beat to just incorporate. Then add half of the milk mixture, and continue to beat on low until well blended. Add the remaining flour, followed by the remaining milk, and beat on low until the batter is thick and smooth.</p>
-<p>Scrape the batter into the prepared pan, and bake for 60 to 75 minutes, or until the cake springs back when pressed lightly and a toothpick inserted in the center comes out clean. Cool the cake in the pan on a wire rack for 20 minutes. Run a thin knife around the edge to loosen the cake, and then carefully invert it onto the rack.</p>
-<p>Meanwhile, make the glaze, if using. In a medium saucepan, combine the buttermilk, sugar, butter, cornstarch, and baking soda. Place it over medium heat, and bring it just to a gentle boil. Immediately remove it from the heat, stir well, and set it aside to cool to room temperature. Add the vanilla, and stir well.</p>
-<p>Set the wire rack &#8211; with the cake atop it &#8211; over a rimmed sheet pan. Spoon the glaze through a fine-mesh sieve over the warm cake. (I recommend using a sieve because my batch of glaze had some little gelatinous bits of clumped cornstarch in it.)</p>
-<p>Cool completely before serving.</p>
-    </div>
-  
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Broccoli Soup with Lemon-Chive Cream</h2>
-        <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2009-02-25T02:46:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/home-cooking/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I like this “cream” best when made with sour cream, but I’ve also used plain whole-milk yogurt, and it’s very good that way too. If you do use yogurt, keep in mind that it has less fat than sour cream, so you’ll probably need to add some olive oil to balance the acidity of the lemon. (Or just use less lemon!) I also found that the yogurt-based “cream” needed a pinch of sugar to balance it.</p>
-<p>Oh, and should you have some of the sour cream mixture left over, it makes a great dip for potato chips.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the soup:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 medium leeks, white and tender green parts only, sliced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 small yellow onion, coarsely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 cloves garlic, coarsely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ lb. broccoli, both crowns and stems, trimmed and coarsely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            5 cups chicken or vegetable stock          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 rind (about 2 inches square) from a piece of Parmesan cheese          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¾ tsp. kosher salt, or less if your broth is well salted          </div>
-                      <h3>For the sour cream:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 cup sour cream (not low-fat or nonfat)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 scallions, white and pale green parts only, very thinly sliced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup minced chives          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. grated lemon zest          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. fresh lemon juice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup finely grated Parmesan cheese          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. pressed or minced garlic          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In a small stockpot or Dutch oven, warm the butter and oil over medium heat. Add the leeks and onion, and cook, stirring occasionally, until they have softened and the onion is translucent, about 10 minutes. Add the garlic, and cook for one minute. Add the broccoli, stock, Parmesan rind, and salt, and stir to mix. Bring to a boil, reduce to a simmer, and cook, partially covered, until the broccoli is tender, about 20 minutes.</p>
-<p>While the soup cooks, prepare the cream. In a medium bowl, stir together the sour cream, scallions, chives, lemon zest, lemon juice, grated Parmesan, salt, and garlic, mixing until fully combined. Taste, and adjust as necessary.</p>
-<p>To finish the soup, remove the Parmesan rind. Using a blender and working in small batches – when puréeing hot liquids, never fill the blender more than one-third full – purée until very smooth. (Alternatively, purée it in the pot with an immersion blender.) Return the soup to the pot, add a few dollops of the cream mixture – I add about 1/3 cup – and stir to incorporate. Taste for seasoning, and adjust as necessary. If needed, rewarm the soup gently over low heat.</p>
-<p>Serve the soup with a spoonful or two of the remaining cream on top.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 to 6 servings</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

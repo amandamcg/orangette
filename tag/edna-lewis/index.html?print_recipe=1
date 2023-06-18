@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/edna-lewis/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I don’t ordinarily like baking with whole wheat flour, to be perfectly honest. I am told that this constitutes some sort of major personality flaw, like finding real enjoyment in making babies cry, but I can’t help it. However, that said, when I set out to make this cake, whole wheat flour somehow seemed right. It seemed fitting for an everyday sweet, the kind of thing you would want to snack on, rather than save for after dinner. I had a bag of <a href="http://www.kingarthurflour.com/shop/items/king-arthur-white-whole-wheat-flour-5-lb">white whole wheat flour</a> in the fridge, so that’s what I used, and it’s a great product. I combined it with regular all-purpose flour, using equal amounts of each, and the finished cake has a subtly nutty flavor and a hearty texture, which is exactly what I was after.</p>
   </div>

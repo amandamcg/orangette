@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2012/03/this-is-important/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This batter requires an overnight rest, so keep that in mind when you decide to make it! Most of the work is done the night before, and that requires some planning, but you’ll be amply rewarded in the morning.</p>
 <p>This recipe uses active dry yeast, which should not be confused with instant (also sold as “rapid rise”) yeast. And as for the warm water and warm milk, they need not be very warm. Tepid is fine. In any case, it’s better to err on the cool side than the hot side. The most recent time I made this recipe, I actually didn&#8217;t warm the milk at all, and it was absolutely okay. The only thing to watch out for with cold milk, though, is that it could re-solidify the melted butter. So if you happen not to warm your milk, for whatever reason, just do as I did: briefly mix together the milk, salt, sugar, and flours, and then stir in the melted butter bit by bit. This way, the cold milk and melted butter don’t run straight into each other and make trouble.</p>

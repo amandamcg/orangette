@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2010/03/not-a-likely-love/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I used whole wheat pastry flour in this recipe, and I love how it works. Whole wheat pastry flour is more finely ground and lower in protein than regular whole wheat flour, and it yields a product very similar in texture to my usual all-purpose flour scones. I considered using white whole wheat flour, which I’ve also used occasionally in baking, but I really do prefer whole wheat pastry flour. White whole wheat flour, while more delicate than regular whole wheat, is still too coarsely ground, and it’s tougher, less delicate.</p>
 <p>You can make these scones with any kind of dried fruit you want, but I like them best with dried apricots. My favorites are from Trader Joe’s, labeled “California Slab Apricots, Blenheim Variety.” They’re soft and have a very true apricot flavor, sweet and also quite tart. (They’re sulfured, which some people avoid, but I prefer the flavor.)</p>

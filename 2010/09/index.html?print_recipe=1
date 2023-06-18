@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2010/09/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I had some <a href="http://www.penzeys.com/cgi-bin/penzeys/p-penzeysaleppopepper.html">Aleppo pepper</a> in the spice drawer, and I decided to use it in place of the cayenne. It’s not as spicy, but it brings a lot of fragrance, and it was a good match for the flavors of this soup. So if you’ve got it, use it.</p>
 <p>I should note, too, that I forgot to stir the cilantro into the soup, and instead I used it as a garnish. I liked the look of it, though I might try stirring it in next time, since that’s what Melissa Clark intended.</p>
@@ -94,7 +94,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2010/09/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve written this recipe with wiggle room on the quantities of vinegar and mustard, and you should feel free to tweak it to your liking. It’s hard to go wrong, and anyway, your vinegars, oils, and leeks may taste different from mine. Whatever you do, it’s important to use a good, strong mustard for this dressing. I like the brands Edmond Fallot, Roland Extra Strong, and Beaufor. Keep in mind, too, that once a jar of mustard has been opened, it slowly loses its potency, so if you’ve had your jar for a while, you might want to invest in a new one.</p>
   </div>

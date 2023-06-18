@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2012/03/the-best-part-of-the-job/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>For this recipe, I used <a href="http://www.bobsredmill.com/" target="_blank">Bob’s Red Mill</a> dark rye flour. You can also buy light rye flour, in which some parts of the grain have been removed before milling, but Boyce suggests the dark type, which has a deeper, nuttier flavor, and I second her recommendation.</p>
 <p>As for jam, choose any one you like, but make sure that it has a good level of brightness and acidity. That’ll help it hold up to the richness of the buttery crust. Also, if you come up a little short, don’t worry. I only had 1 ¼ cups, not 1 ½ cups, and it was no problem.</p>

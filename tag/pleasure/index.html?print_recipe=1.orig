@@ -1,79 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>Even on a good day</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Carrot-Coconut Soup with Chile and Lime</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.bonappetit.com/recipe/carrot-coconut-soup" target="_blank"><i>Bon Appetit</i> and the Clayburn Village Store &amp; Tea Shop in Abbotsford, BC</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2014-10-24T20:42:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/pleasure/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-      </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            ½ stick (57 grams) unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 lb. (910 grams) carrots, peeled and chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 medium onion, chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 cups (950 ml) chicken broth          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ to 2 (13.5-ounce) cans unsweetened coconut milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            About 2 Tbsp. sriracha, or to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Lime wedges, for serving          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Fresh cilantro leaves, chopped, for serving, if you feel like it          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Melt the butter in a large (5-quart) pot over medium-high heat. Add the carrots and onion, season with a couple good pinches of salt, and cook, stirring often, until the carrots are softened, 15-20 minutes. Stir in the broth, 1 ½ cans of the coconut milk, and 1 tablespoon of the sriracha. Bring to a simmer, and cook, stirring occasionally, until the vegetables are very soft and the liquid is slightly reduced, about 45 minutes. Puree in small batches (<em>remember: hot liquids expand!</em>) in a blender. (Or, my preference: puree right in the pot, with an immersion blender.) Check for seasoning, and add more salt and/or sriracha, if you like. (I usually add 1 more tablespoon sriracha.) If you’d like more richness, stir in the rest of the coconut milk, and then reheat as needed.</p>
-<p>Serve with a generous squeeze of lime in each bowl, and top with cilantro, if you have it.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 6 to 8 servings</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

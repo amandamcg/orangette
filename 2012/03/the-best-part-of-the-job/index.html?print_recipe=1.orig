@@ -1,96 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>The best part of the job</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Rye Crumble Bars with Jam</h2>
-    <h3 class="subtitle"> Adapted slightly from <span style="font-style: italic;"><a href="http://www.amazon.com/Good-Grain-Baking-Whole-Grain-Flours/dp/1584798300/?_encoding=UTF8&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325" target="_blank">Good to the Grain</a></span>, by Kim Boyce</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2012-03-21T21:49:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2012/03/the-best-part-of-the-job/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>For this recipe, I used <a href="http://www.bobsredmill.com/" target="_blank">Bob’s Red Mill</a> dark rye flour. You can also buy light rye flour, in which some parts of the grain have been removed before milling, but Boyce suggests the dark type, which has a deeper, nuttier flavor, and I second her recommendation.</p>
-<p>As for jam, choose any one you like, but make sure that it has a good level of brightness and acidity. That’ll help it hold up to the richness of the buttery crust. Also, if you come up a little short, don’t worry. I only had 1 ¼ cups, not 1 ½ cups, and it was no problem.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>Shortbread crust:</h3>                  <div class="ingredient" itemprop="ingredients">
-            65 grams (½ cup) dark rye flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            120 grams (1 cup) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            50 grams (1/3 cup) dark brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            113 grams (1 stick) unsalted butter, melted and cooled slightly          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                      <h3>Crumble:</h3>                  <div class="ingredient" itemprop="ingredients">
-            100 grams (1 cup) rolled oats          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            32 grams (3 Tbsp.) dark brown sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            52 grams (¼ cup plus 2 Tbsp.) dark rye flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            30 grams (¼ cup) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            38 grams (3 Tbsp.) sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            85 grams (6 Tbsp.) unsalted butter, melted and cooled slightly          </div>
-                      <h3>To assemble:</h3>                  <div class="ingredient" itemprop="ingredients">
-            350 ml (1 ½ cups) jam, preserves, or fruit butter          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Set a rack in the middle of the oven, and preheat to 275°F. Rub a 9-inch springform pan with butter, or grease with cooking spray.</p>
-<p>To make the shortbread crust, combine the flours, sugar, and salt in a large bowl, and whisk to mix well. Add the melted butter and vanilla extract, and stir until thoroughly combined. (I found the mixture a little dry at first, so I put my hand in and squeezed and massaged a bit to bring the dough together.) Using your hands, press the dough evenly into the bottom of the prepared pan. Put the pan in the freezer for 30 minutes, while you make the crumble. [Or, if you’re doing this step ahead of time, wrap the pan in plastic wrap and put it in the fridge or freezer. If it’s in the fridge, just remember to transfer it to the freezer for 30 minutes before baking.]</p>
-<p>To make the crumble, put all of the crumble ingredients except the melted butter into the bowl of a food processor, and pulse until the oats are partially ground, about 5 or 10 seconds. Pour the mixture into a bowl. Add the melted butter and stir with your hands, squeezing the mixture as you stir to create small crumbly bits. Set aside. [Or, if you’re doing this step ahead of time, wrap the bowl in plastic wrap and put it in the fridge. Take it out about 30 minutes before using, and if needed, use a fork to break up any giant clumps that have hardened.]</p>
-<p>Bake the frozen shortbread until pale brown and firm when touched, about 50 to 55 minutes. Remove from the oven, and raise the oven temperature to 350°F.</p>
-<p>To assemble the bars, spread the jam over the shortbread crust, and then top with the crumble, evenly sprinkling it over the surface and squeezing bits of it together to create irregular nubs. Bake for 50 to 55 minutes, or until golden brown on top, rotating the pan halfway through for even baking.</p>
-<p>When the pan is cool enough to handle but still warm, run a sharp knife around the edge of the pan to loosen any jam that may have stuck. Remove the ring. Completely (or mostly, anyway) cool the bars on the pan base before cutting into wedges.</p>
-<p>Note: These bars are best when eaten in fairly short order. After three days or so, the flavors taste less clear.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: Boyce says 10 wedges, but these bars are rich, so I’d say more than that. Maybe 12 to 16 wedges, depending on the size you choose</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

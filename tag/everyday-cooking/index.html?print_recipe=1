@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>June didn&#8217;t like the scallion flavor in the peas, so next time, I&#8217;ll be leaving the scallions out. I like it either way.</p>
   </div>
@@ -90,7 +90,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Charlie Brigham used <a class="u-underline" href="https://www.campbells.com/swanson/broths-and-stocks/" data-link-name="in body link">Swanson</a> canned chicken broth, fideo vermicelli, egg, and <a class="u-underline" href="http://www.forbes.com/sites/larryolmsted/2012/11/19/the-dark-side-of-parmesan-cheese-what-you-dont-know-might-hurt-you/#74f1215f71be" data-link-name="in body link">Kraft parmesan cheese</a> – the green‑canister kind that keeps for a small eternity. Today, you might swap in organic chicken broth (homemade or not), capellini and freshly grated parmesan.</p>
   </div>
@@ -130,7 +130,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Kafka calls for egg noodles, but I used fusilli, because it&#8217;s what I had. I do love egg noodles, though.</p>
 <p>Also, about lemon sizes: I find it troublesome to call for &#8220;2 lemons,&#8221; because lemons vary in size and juiciness. If I were you, I would measure out the juice before you use it, and start with no more than 1/4 cup. You can always add more, but you can&#8217;t take it away.</p>
@@ -173,7 +173,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I made the dough first thing on Wednesday morning, while June was watching <em>Daniel Tiger</em> &#8211; real talk &#8211; and it was ready to roll out an hour later, when our friends arrived. I <em>highly</em> recommend making the dough ahead, since waiting for dough to chill is not easy for kids. And if you can, go ahead and measure out the frosting ingredients while you&#8217;re doing the dough.</p>
 <p>Once we were ready to get started, I took charge of rolling out the dough, and then the girls went to work with their chosen cookie cutters. (The original recipe below calls for using round cookie cutters, but we used alphabet shapes.) I helped ease the dough shapes from the cutters onto the baking sheet, and I rerolled the dough scraps as needed. But mostly, I let them do their thing. While the cookies baked and cooled, June helped me beat up the frosting, and then each kid got a small knife and their own bowl of frosting for spreading on the finished cookies.</p>
@@ -228,7 +228,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
       </div>
 
@@ -286,7 +286,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’m no fan of the liquid in cans of beans &#8211; it’s just so&#8230; <i>slimy</i> &#8211; but this is a recipe where it really is useful. Take a deep breath, and dump it in.</p>
 <p>As for butter, Katie doesn’t measure it, but she told me that she probably uses two tablespoons for four cans of beans. I prefer mine with more butter, ideally with a tablespoon per can. Brandon also suggests adding garlic, pressed or minced, and that’s very nice, too. It adds a faint depth of flavor. But I defer to you.</p>
@@ -325,7 +325,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
       </div>
 
@@ -371,7 +371,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>One word of caution: don’t slice the onions too thinly here, or they’ll be more likely to burn.  I’d aim for ½-inch-thick slices, if I were you.</p>
   </div>
@@ -418,7 +418,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Deb’s recipe calls for browning these meatballs in a pan and then finishing them in the oven, and while that certainly yields a stunner of a meatball, both in flavor and beauty, I regularly take a lazier route: I only bake them. Then I can basically walk away, and <i>ta da</i>, the meatballs cook themselves. Cleanup is also very easy, thanks to the parchment on the sheet pan.  Do what you will.</p>
   </div>
@@ -475,7 +475,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>These muffins come together quickly, especially if you mix up the dry ingredients the night before. I once managed to make them at 7:30 am while wearing a wiggly 14-month-old in a sling. FIST BUMP! (Or, <a href="http://www.youtube.com/watch?v=G_vmQrTi3aM" target="_blank">TERRORIST FIST JAB</a>!  <i>Uggghhhhh</i>.)</p>
 <p>Also, for the record, I like these best with walnuts and bittersweet chocolate as my add-ins.  I used a ¼ cup of each: that’s about 30 grams of walnuts, chopped, and 45 grams of Valrhona 64% Manjari chocolate discs, chopped.</p>
@@ -526,7 +526,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>What makes this soup different from one that uses, say, ham hocks, is that the marrow in the ham bone melts into the soup, bringing extra richness and body. So if you have a ham bone, use it! You will be rewarded. If not, a ham hock will also be good. My ham bone fit easily into the pot I used, but Melissa Clark suggests that, in general, you ask your butcher to cut it in half or thirds for you, so that it’s guaranteed to fit and also has some marrow exposed.</p>
 <p>As for beans, you could probably use any light-colored bean you like. I had a bag of <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=SFNT&amp;Store_Code=RG" target="_blank">Rancho Gordo</a>’s <a href="http://www.ranchogordo.com/mm5/merchant.mvc?Screen=PROD&amp;Store_Code=RG&amp;Product_Code=1YEL&amp;Category_Code=DHAHB4#.Uo-SlpSxOac" target="_blank">yellow eye beans</a> in the cupboard, so I used those. (Rancho Gordo beans make a great holiday present, by the way.)  Also, I find that adding a little salt when I soak dried beans makes them turn out better when I cook them, and here’s <a href="http://www.americastestkitchenfeed.com/super-quick-video-tips/2012/04/the-importance-of-brining-your-beans-video/" target="_blank">a video</a> from America’s Test Kitchen that explains why.  I don’t tend to use the full amount of salt that’s called for in the video, but I have, and it worked beautifully.  (I don’t use that much because I tend to forget to rinse the beans after soaking, and then I wind up with salty beans. Using less salt still seems to help, and then there’s no need to rinse.)</p>
@@ -584,7 +584,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
       </div>
 
@@ -626,7 +626,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>You could use any sweet-ish white wine here, though I particularly love the flavor of apricots with an off-dry riesling. (I’ve been using <a href="http://www.winesofthegorge.com/index.html" target="_blank">Memaloose</a> 2012 Idiot’s Grace Riesling.) I’ve also used <a href="http://www.alpenz.com/images/poftfolio/dolinvermouthfacts.htm" target="_blank">Dolin</a> Blanc vermouth and <a href="http://www.cocchi.it/eng/americano.htm" target="_blank">Cocchi Americano</a>, and both have yielded great results. You’re also welcome to try a drier white wine, or a rosé, and if you do, please report back.</p>
   </div>
@@ -665,7 +665,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original version of this recipe calls for <a href="http://en.wikipedia.org/wiki/Conchiglie" target="_blank">conchiglie</a>, or shell-shaped pasta, but you could use any small pasta shape you like: orecchiette, penne, farfalle, and so on.</p>
 <p>If you have some exotic type of dried chile, like Urfa chile, Aleppo chile, or Kirmizi biber, you lucky lucky dog, this is a great place to use it. If not, you can use regular red pepper flakes. I happened to have some Aleppo chile, and though it was ground, not in flakes, and probably a few years old, it worked beautifully. Oh, and if you’re worried about the amount of heat, consider starting with a little less of the chile than what is called for &#8211; or just don’t put much chile oil on your pasta.</p>
@@ -716,7 +716,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve made this oatmeal a few times with walnuts, as described below, but I also like to make it with almonds or pecans, either whole or coarsely chopped. It’s nice to toast the nuts beforehand – and it’s easy: just a few minutes on a sheet pan in a 350°F oven, until they smell fragrant – but I often skip it. No harm done.</p>
 <p>I’m a big believer in <a href="http://www.details.com/style-advice/the-body/201105/skim-milk-non-fat-milk-diet-foods" target="_blank">whole milk</a>, and I think this recipe needs its fat and richness. (I’ve had it with 1% and was disappointed in the result.) Actually, the next time I make this oatmeal, I might try replacing a cup of the milk with coconut milk.  That could be exciting.  I might also throw in a half-cup of unsweetened shredded coconut.  I’ve added coconut before &#8211; about a quarter-cup, or 25 grams &#8211; and though I can’t say that I was aware of its presence, Brandon and I both agreed that the baked oatmeal was especially good that morning.</p>
@@ -771,7 +771,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve found farro in Seattle at Whole Foods, PCC, and some grocery stores, or you can get it from <a href="http://chefshop.com/Farro-Emmer-Organic-P6425.aspx" target="_blank">ChefShop</a>. I like the farro grown by <a href="http://www.bluebirdgrainfarms.com/" target="_blank">Bluebird Grain Farms</a> of Winthrop, Washington. Farro should be soaked briefly before cooking, although Matthew often uses Trader Joe’s quick-cooking farro – done in 10 minutes! – and says that it’s great. In any case, I give instructions below for cooking standard farro, and hey, feel free to scale up and cook an even bigger batch, if you’d like. From one cup of uncooked farro, I wind up with enough cooked farro for three or four servings of this salad.</p>
 <p>Also: among types of feta, I like French feta best.</p>
@@ -827,7 +827,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
       </div>
 
@@ -872,7 +872,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>A few notes: I used homemade chicken stock to make this soup, but you could also use good-tasting store-bought chicken or vegetable stock. To me, the best brand is Better Than Bouillon. And if your celery comes with leaves still attached, save them: toss in a small handful when you add the cabbage, toward the end. Oh, and instead of parsnips, try peeled, cubed rutabaga.</p>
   </div>
@@ -926,7 +926,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I pick up kimchi whenever I’m near a Korean market or Uwajimaya, but Ballard Market, my neighborhood grocery store, also carries it. They sell a couple of different brands, but I usually buy Island Spring. It’s made about half an hour away, on Vashon Island, and it has good flavor and heat. Matthew, however, makes his own kimchi, and it’s fantastic. Maybe he’ll teach me how someday. David Lebovitz also has <a href="http://www.davidlebovitz.com/2008/02/a-kimchi-recipe/">a recipe for it</a>.</p>
 <p>As for rice, the best type for this recipe is Calrose, a medium-grain, Japanese-style white rice from California. But I’ve also used Thai jasmine rice, which is nice &#8211; though when you fry it, it tends to stick aggressively to the pan. Whatever you use, cook it a day or two ahead, cool it, and chill it. If possible, allow it to come to room temperature before frying.</p>
@@ -978,7 +978,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original recipe called for white button mushrooms, but because I like crimini mushrooms more, that’s what I chose. And for the mayonnaise, I used Best Foods (also sold as Hellmann’s). Homemade would be terrific, but there’s nothing wrong with Best Foods.</p>
 <p>Also: the flavor of this salad really deepens with time, so consider making it a day (or even two) before you want to eat it.</p>
@@ -1030,7 +1030,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>It doesn’t get simpler than this, so be sure you start with fresh, firm parsnips and decent-tasting vegetable stock. Homemade is nice, but honestly, I use <a href="http://www.superiortouch.com/retail/products/better-than-bouillon/vegetarian-bases/43/no-chicken-base">Better Than Bouillon No Chicken Base</a>, and the results are great.</p>
   </div>
@@ -1072,7 +1072,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>These are terrific with jam or, of course, honey.</p>
   </div>
@@ -1114,7 +1114,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>My host mother used regular orange carrots, but I like to use purple and yellow ones, too, when I can find them. They keep their color when cooked, so they make the dish especially handsome. Whatever carrots you use, make sure that they taste sweet in their raw state: a dull, bitter carrot cannot be fixed. I don’t bother to peel my carrots, but I do wash them well.</p>
 <p>Also, for this recipe, I like to slice my onions from stem end to root end, like <a href="http://www.thekitchn.com/thekitchn/how-to/how-to-french-cut-an-onion-home-hacks-109536">this</a>, so that they keep their shape and integrity as they cook. When you slice onions the other way – <a href="http://www.seriouseats.com/2010/04/knife-skills-how-to-cut-an-onion.html">across their equators,</a> you could say – they tend to fall apart during cooking.</p>
@@ -1158,7 +1158,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Without really planning to, I’ve played around quite a lot with this recipe. I’ve only made it twice, but each time was in a different kitchen, with different ingredients and tools. Both times, the cookies came out beautifully. Here are some thoughts:</p>
 <p>&#8211; A friend who had made this recipe suggested that I try making it with <a href="http://www.kingarthurflour.com/shop/items/king-arthur-white-whole-wheat-flour-5-lb">white whole wheat flour</a>, so I bought a fresh bag and used it in my first batch. I loved the resulting flavor – lightly wheaty, almost bran-like – and I highly recommend it. For my second batch, I used a <a href="http://www.stone-buhr.com/flours/whole-wheat-flour/">local brand</a> of whole wheat flour, and it was plenty nice, but the wheat flavor was darker and heartier. If you’re after that digestive biscuit flavor, I would use white whole wheat flour.</p>
@@ -1216,7 +1216,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Contrast is what makes this tart work: the crust is quite sweet, and the plums should be quite tart. Look for plums that are both sweet and tangy, especially the ones that make you pucker a little when you bite into the flesh closest to the skin. I’ve made this tart with some unnamed red-skinned, yellow-fleshed plums that I found at the farmers market, and also with Flavor King pluots. Medrich recommends Santa Rosa, Friar, Laroda, and Elephant Heart plums, and she advises against the small, oblong plums often called Italian prune plums. They’re not tangy enough.</p>
 <p>Also, I make the dough for this tart in a food processor, but you can make it by hand, so I’m including instructions for both. The food processor makes it especially quick and tidy, but either way is easy.</p>
@@ -1267,7 +1267,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I had some <a href="http://www.penzeys.com/cgi-bin/penzeys/p-penzeysaleppopepper.html">Aleppo pepper</a> in the spice drawer, and I decided to use it in place of the cayenne. It’s not as spicy, but it brings a lot of fragrance, and it was a good match for the flavors of this soup. So if you’ve got it, use it.</p>
 <p>I should note, too, that I forgot to stir the cilantro into the soup, and instead I used it as a garnish. I liked the look of it, though I might try stirring it in next time, since that’s what Melissa Clark intended.</p>
@@ -1322,7 +1322,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve written this recipe with wiggle room on the quantities of vinegar and mustard, and you should feel free to tweak it to your liking. It’s hard to go wrong, and anyway, your vinegars, oils, and leeks may taste different from mine. Whatever you do, it’s important to use a good, strong mustard for this dressing. I like the brands Edmond Fallot, Roland Extra Strong, and Beaufor. Keep in mind, too, that once a jar of mustard has been opened, it slowly loses its potency, so if you’ve had your jar for a while, you might want to invest in a new one.</p>
   </div>
@@ -1370,7 +1370,7 @@ To assemble a portion of salad, scoop out a couple of large spoonfuls of farro �
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/everyday-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original version of this recipe calls for fresh peas, but I used frozen instead. If you choose to use frozen, I recommend buying the kind labeled “petite peas,” which tend to be smaller and sweeter. If you think of it, try to defrost them slightly before using them here. But if not, just bang the bag around on the counter to break up any big clumps.</p>
   </div>

@@ -4,13 +4,13 @@
   <meta charset="utf-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <script src="https://cdn.polyfill.io/v2/polyfill.min.js" async></script>
+  <script src="//cdn.polyfill.io/v2/polyfill.min.js" async></script>
   <link rel="stylesheet" href="http://cloud.typography.com/663098/687828/css/fonts.css">
 
-    <link rel="shortcut icon" href="wp-content/themes/orangette/assets/icons/favicon.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
-  <link rel="mask-icon" href="wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
-  <link rel="manifest" href="wp-content/themes/orangette/assets/icons/manifest.json">
+    <link rel="shortcut icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://orangette.net/wp-content/themes/orangette/assets/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="https://orangette.net/wp-content/themes/orangette/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="manifest" href="https://orangette.net/wp-content/themes/orangette/assets/icons/manifest.json">
   <meta name="apple-mobile-web-app-title" content="Orangette">
   <meta name="application-name" content="Orangette">
   <meta name="msapplication-TileColor" content="#da532c">
@@ -21,12 +21,12 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v17.9 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Pots of gold | Orangette</title>
-	<link rel="canonical" href="index.html?p=1327" />
+	<link rel="canonical" href="http://orangette.net/2008/01/pots-of-gold/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Pots of gold | Orangette" />
 	<meta property="og:description" content="I come to you today to redeem myself. You really were terribly kind last week about the whole budino debacle. When I gave you canned beans instead, you didn’t even throw them at me. You really are angels. If I could, I would send every one of your mothers a note to thank them for raising you so well. But that would take forever, I fear. Heck, I haven’t even finished the thank-you notes from our wedding, and the blasted thing was six months ago. (I know, Mom. I know.) So how about we just keep it simple? How about we take a moment to acknowledge, right here and right now, how utterly lovely you are, and then we go&hellip;" />
-	<meta property="og:url" content="https://orangette.net/2008/01/pots-of-gold/" />
+	<meta property="og:url" content="http://orangette.net/2008/01/pots-of-gold/" />
 	<meta property="og:site_name" content="Orangette" />
 	<meta property="article:publisher" content="https://www.facebook.com/molly.wizenberg" />
 	<meta property="article:published_time" content="2008-01-28T22:38:00+00:00" />
@@ -38,11 +38,11 @@
 	<meta name="twitter:data1" content="Molly" />
 	<meta name="twitter:label2" content="Est. reading time" />
 	<meta name="twitter:data2" content="7 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://orangette.net/#website","url":"https://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://orangette.net/2008/01/pots-of-gold/#primaryimage","inLanguage":"en-US","url":"http://orangette.net/wp-content/uploads/2015/09/55564-butterscotchpotsdecreme005-11.jpg?w=300","contentUrl":"http://orangette.net/wp-content/uploads/2015/09/55564-butterscotchpotsdecreme005-11.jpg?w=300"},{"@type":"WebPage","@id":"https://orangette.net/2008/01/pots-of-gold/#webpage","url":"https://orangette.net/2008/01/pots-of-gold/","name":"Pots of gold | Orangette","isPartOf":{"@id":"https://orangette.net/#website"},"primaryImageOfPage":{"@id":"https://orangette.net/2008/01/pots-of-gold/#primaryimage"},"datePublished":"2008-01-28T22:38:00+00:00","dateModified":"2008-01-28T22:38:00+00:00","author":{"@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"https://orangette.net/2008/01/pots-of-gold/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://orangette.net/2008/01/pots-of-gold/"]}]},{"@type":"BreadcrumbList","@id":"https://orangette.net/2008/01/pots-of-gold/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://orangette.net/"},{"@type":"ListItem","position":2,"name":"Pots of gold"}]},{"@type":"Person","@id":"https://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://orangette.net/#website","url":"http://orangette.net/","name":"Orangette","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://orangette.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"http://orangette.net/2008/01/pots-of-gold/#primaryimage","inLanguage":"en-US","url":"http://orangette.net/wp-content/uploads/2015/09/55564-butterscotchpotsdecreme005-11.jpg?w=300","contentUrl":"http://orangette.net/wp-content/uploads/2015/09/55564-butterscotchpotsdecreme005-11.jpg?w=300"},{"@type":"WebPage","@id":"http://orangette.net/2008/01/pots-of-gold/#webpage","url":"http://orangette.net/2008/01/pots-of-gold/","name":"Pots of gold | Orangette","isPartOf":{"@id":"http://orangette.net/#website"},"primaryImageOfPage":{"@id":"http://orangette.net/2008/01/pots-of-gold/#primaryimage"},"datePublished":"2008-01-28T22:38:00+00:00","dateModified":"2008-01-28T22:38:00+00:00","author":{"@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe"},"breadcrumb":{"@id":"http://orangette.net/2008/01/pots-of-gold/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://orangette.net/2008/01/pots-of-gold/"]}]},{"@type":"BreadcrumbList","@id":"http://orangette.net/2008/01/pots-of-gold/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"http://orangette.net/"},{"@type":"ListItem","position":2,"name":"Pots of gold"}]},{"@type":"Person","@id":"http://orangette.net/#/schema/person/72d7c362f82fa0578c635d88a69d07fe","name":"Molly","sameAs":["http://orangette.net"],"url":"https://orangette.net/author/molly/"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; Pots of gold Comments Feed" href="2008/01/pots-of-gold/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Orangette &raquo; Pots of gold Comments Feed" href="https://orangette.net/2008/01/pots-of-gold/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orangette.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
 /*! This file is auto-generated */
@@ -62,24 +62,24 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css' href='https://orangette.net/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://orangette.net/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('index.html?p=1327');--wp--preset--duotone--grayscale: url('index.html?p=1327');--wp--preset--duotone--purple-yellow: url('index.html?p=1327');--wp--preset--duotone--blue-red: url('index.html?p=1327');--wp--preset--duotone--midnight: url('index.html?p=1327');--wp--preset--duotone--magenta-yellow: url('index.html?p=1327');--wp--preset--duotone--purple-green: url('index.html?p=1327');--wp--preset--duotone--blue-orange: url('index.html?p=1327');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='stcr-font-awesome-css' href='wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='sage/css-css' href='wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/posts/1327" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
+<link rel='stylesheet' id='stcr-font-awesome-css' href='https://orangette.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css' href='https://orangette.net/wp-content/themes/orangette/assets/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://orangette.net/wp-json/" /><link rel="alternate" type="application/json" href="https://orangette.net/wp-json/wp/v2/posts/1327" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://orangette.net/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://orangette.net/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.2.2" />
-<link rel='shortlink' href='index.html?p=1327' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Forangette.net%252F2008%252F01%252Fpots-of-gold%252F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Forangette.net%252F2008%252F01%252Fpots-of-gold%252F&amp;format=xml" />
+<link rel='shortlink' href='https://orangette.net/?p=1327' />
+<link rel="alternate" type="application/json+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2008%2F01%2Fpots-of-gold%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://orangette.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Forangette.net%2F2008%2F01%2Fpots-of-gold%2F&#038;format=xml" />
   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
 </head>
   <body class="post-template-default single single-post postid-1327 single-format-standard pots-of-gold sidebar-primary">
@@ -88,26 +88,26 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
     <![endif]-->
     <nav class="off-canvas-nav">
-  <a class="nav-logo" href="index.html"><img src="wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
-  <form role="search" method="get" class="search-form" action="index.html">
+  <a class="nav-logo" href="https://orangette.net/"><img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette"></a>
+  <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
 </form>
-  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav"><li id="menu-item-2520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li id="menu-item-9014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li id="menu-item-2588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
 </ul></div></nav>
     <div class="container" id="top">
       <header class="page-header" role="banner">
   <h1 class="header--title">
-    <a href="index.html">
-      <img class="title--mobile" src="wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
-      <img class="title--large" src="wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
+    <a href="https://orangette.net/">
+      <img class="title--mobile" src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" data-pin-no-hover="true">
+      <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
     </a>
   </h1>
   <button class="search-toggle icon-search2" data-behavior="open-search"></button>
@@ -122,16 +122,16 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <time class="updated" datetime="2008-01-28T22:38:00+00:00">Monday, January 28, 2008</time>
     </div>
     <h1 class="title" >
-      <a href="index.html?p=1327">Pots of gold</a>
+      <a href="https://orangette.net/2008/01/pots-of-gold/">Pots of gold</a>
     </h1>
   </header>
   <div class="post-content" itemprop="articleBody">
     <p>I come to you today to redeem myself.</p>
 <p>You really were terribly kind last week about the whole <a href="http://orangette.blogspot.com/2008/01/tomorrow-tomorrow.html">budino debacle</a>.  When I gave you canned beans instead, you didn’t even throw them at me.  You really are angels.  If I could, I would send every one of your mothers a note to thank them for raising you so well.  But that would take <span style="font-style:italic;">forever</span>, I fear. Heck, I haven’t even finished the thank-you notes from <a href="http://orangette.blogspot.com/2007/08/so-we-feasted.html">our wedding</a>, and the blasted thing was<span style="font-style:italic;"> six months</span> ago.  (I know, Mom.  <span>I know</span>.)  So how about we just keep it simple?  How about we take a moment to acknowledge, right here and right now, how utterly lovely you are, and then we go share a couple butterscotch pots de crème?</p>
-<p><a href="wp-content/uploads/2015/09/55564-butterscotchpotsdecreme005-11.jpg"><img decoding="async" src="wp-content/uploads/2015/09/55564-butterscotchpotsdecreme005-11.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5159969732727055714" border="0" /></a><br />I thought you might like that.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/55564-butterscotchpotsdecreme005-11.jpg"><img decoding="async" src="http://orangette.net/wp-content/uploads/2015/09/55564-butterscotchpotsdecreme005-11.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5159969732727055714" border="0" /></a><br />I thought you might like that.</p>
 <p>These little gems are my new favorite dessert, hands down. Especially after the disappointment of last week.  They’re amazing.  Like, really, REALLY amazing.  Like, “what stinkin’ budino?” amazing.  Like, tape-the-recipe-to-<br />your-fridge-and-fondle-it-each-time-you-pass amazing.  I’ve never heard Brandon cuss so much while eating dessert before.  He was swearing up and down, scraping the empty cup like a man possessed.  They’re real pots of glory, they are, real pots of gold.</p>
 <p>And to think &#8211; I’ve had the recipe sitting in my files for more than <span style="font-style:italic;">four</span> years.  The poor thing must have been lying there, losing all hope, wondering when, oh <span style="font-style:italic;">when</span>, I would take it out and let it shine.  Needless to say, now that I’ve brought it out, I don’t intend to ever put it back.  Never, ever.</p>
-<p><a href="wp-content/uploads/2015/09/0d2a0-butterscotchpotsdecreme062-31.jpg"><img decoding="async" src="wp-content/uploads/2015/09/0d2a0-butterscotchpotsdecreme062-31.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5160365814611092850" border="0" /></a><br />I clipped the recipe from the October 2003 issue of <span style="font-style:italic;">Gourmet</span> magazine, and were it not for my iffy experience with the <a href="http://www.nytimes.com/2007/05/09/dining/091mrex.html?_r=2&amp;oref=slogin&amp;oref=slogin">butterscotch budino</a>, which set me obsessively on the trail of something better, I might have completely forgotten about it.  The recipe comes from an article about a restaurant called <a href="http://www.cornexchange.com/">The Corn Exchange</a> in Rapid City, South Dakota. Its chef, <a href="http://www.cornexchange.com/history.htm">M. J. Adams</a>, sounds like someone I’d like to meet: born in Seattle, trained in New York (where she worked under <a href="http://www.nytimes.com/2006/02/14/national/14lewis.html?_r=1&amp;oref=slogin">Edna Lewis</a>, among others), a supporter of farmers’ markets and local agriculture, and the mastermind behind one of the best little recipes to cross my countertop in a long time.  You know you’ve stumbled upon something <span>really</span> good when you resent having to share it with anyone &#8211; even your husband, the person with whom you’re supposed to want to share these sorts of things.  I don’t know who wrote the rules of marriage, but they obviously never tasted a butterscotch pot de crème.</p>
+<p><a href="http://orangette.net/wp-content/uploads/2015/09/0d2a0-butterscotchpotsdecreme062-31.jpg"><img decoding="async" src="http://orangette.net/wp-content/uploads/2015/09/0d2a0-butterscotchpotsdecreme062-31.jpg?w=300" alt="" id="BLOGGER_PHOTO_ID_5160365814611092850" border="0" /></a><br />I clipped the recipe from the October 2003 issue of <span style="font-style:italic;">Gourmet</span> magazine, and were it not for my iffy experience with the <a href="http://www.nytimes.com/2007/05/09/dining/091mrex.html?_r=2&amp;oref=slogin&amp;oref=slogin">butterscotch budino</a>, which set me obsessively on the trail of something better, I might have completely forgotten about it.  The recipe comes from an article about a restaurant called <a href="http://www.cornexchange.com/">The Corn Exchange</a> in Rapid City, South Dakota. Its chef, <a href="http://www.cornexchange.com/history.htm">M. J. Adams</a>, sounds like someone I’d like to meet: born in Seattle, trained in New York (where she worked under <a href="http://www.nytimes.com/2006/02/14/national/14lewis.html?_r=1&amp;oref=slogin">Edna Lewis</a>, among others), a supporter of farmers’ markets and local agriculture, and the mastermind behind one of the best little recipes to cross my countertop in a long time.  You know you’ve stumbled upon something <span>really</span> good when you resent having to share it with anyone &#8211; even your husband, the person with whom you’re supposed to want to share these sorts of things.  I don’t know who wrote the rules of marriage, but they obviously never tasted a butterscotch pot de crème.</p>
 <p>Of course, the best part of the whole thing is that they’re <span style="font-style:italic;">easy</span>.  So easy, in fact, that I made them entirely while talking on the phone &#8211; and talking, no less, about the yet-to-be-determined title of my book, which is incredibly distracting, to say the least.  Thank goodness the method is hard to mess up, as quick and straightforward as can be.  You warm some cream in a saucepan with <a href="http://en.wikipedia.org/wiki/Muscovado">muscovado</a> sugar and salt; then, in a second saucepan, you cook a sugar syrup to brown and bubbly.  Then you combine the two, whisk the mixture into a bowl of egg yolks, pour it through a sieve to get rid of any lumps and bumps, and pour it into ramekins.  Then you bake them, cool them, and eat them.  <span style="font-style:italic;">Ta da</span>!</p>
 <p>Cold and and rich and almost hyperbolically creamy, the custard yields under the spoon the way a good down pillow does under your head: with a welcoming, slippery <span style="font-style:italic;">whoosh</span>.  The gates to heaven have never opened so easily.  Thank you, you’re welcome, I’ll see you inside.</p>
 <p>***</p>
@@ -159,7 +159,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
           <a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Forangette.net%2F2008%2F01%2Fpots-of-gold%2F&t=Pots%20of%20gold" onclick="window.open(this.href, 'facebook-share', 'width=580,height=300'); return false;" title="Facebook"></a>
           <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Forangette.net%2F2008%2F01%2Fpots-of-gold%2F&media=&description=Pots%20of%20gold" data-pin-custom="true" title="Pinterest"></a></nav>
                   <nav class="navigation post-navigation left-nav" role="navigation">
-        <div class="left"><a href="index.html?p=1331" rel="prev">Tomorrow, tomorrow</a></div>        <div class="right"><a href="index.html?p=1326" rel="next">Consider it</a></div>      </nav>
+        <div class="left"><a href="https://orangette.net/2008/01/tomorrow-tomorrow/" rel="prev">Tomorrow, tomorrow</a></div>        <div class="right"><a href="https://orangette.net/2008/02/consider-it/" rel="next">Consider it</a></div>      </nav>
       
 <section id="comments" class="comment-area">
       <h2 class="comment-area--title">Comments</h2>
@@ -168,7 +168,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         <li id="comment-9036" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://buttonsmagee.typepad.com" class="url" rel="ugc external nofollow">Rachel</a></cite></div>
-      <a href="index.html?p=1327#comment-9036"><time class="comment-time" datetime="2008-01-28T23:06:00-05:00">Monday, January 28, 2008 at 11:06 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9036"><time class="comment-time" datetime="2008-01-28T23:06:00-05:00">Monday, January 28, 2008 at 11:06 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -176,12 +176,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9036' data-commentid="9036" data-postid="1327" data-belowelement="comment-9036" data-respondelement="respond" data-replyto="Reply to Rachel" aria-label='Reply to Rachel'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9036' data-commentid="9036" data-postid="1327" data-belowelement="comment-9036" data-respondelement="respond" data-replyto="Reply to Rachel" aria-label='Reply to Rachel'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9037" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Aria</cite></div>
-      <a href="index.html?p=1327#comment-9037"><time class="comment-time" datetime="2008-01-28T23:25:00-05:00">Monday, January 28, 2008 at 11:25 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9037"><time class="comment-time" datetime="2008-01-28T23:25:00-05:00">Monday, January 28, 2008 at 11:25 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -189,12 +189,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9037' data-commentid="9037" data-postid="1327" data-belowelement="comment-9037" data-respondelement="respond" data-replyto="Reply to Aria" aria-label='Reply to Aria'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9037' data-commentid="9037" data-postid="1327" data-belowelement="comment-9037" data-respondelement="respond" data-replyto="Reply to Aria" aria-label='Reply to Aria'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9038" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17776382458522825473" class="url" rel="ugc external nofollow">JEP</a></cite></div>
-      <a href="index.html?p=1327#comment-9038"><time class="comment-time" datetime="2008-01-28T23:33:00-05:00">Monday, January 28, 2008 at 11:33 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9038"><time class="comment-time" datetime="2008-01-28T23:33:00-05:00">Monday, January 28, 2008 at 11:33 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -202,12 +202,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9038' data-commentid="9038" data-postid="1327" data-belowelement="comment-9038" data-respondelement="respond" data-replyto="Reply to JEP" aria-label='Reply to JEP'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9038' data-commentid="9038" data-postid="1327" data-belowelement="comment-9038" data-respondelement="respond" data-replyto="Reply to JEP" aria-label='Reply to JEP'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9039" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14756566474190006912" class="url" rel="ugc external nofollow">Lore</a></cite></div>
-      <a href="index.html?p=1327#comment-9039"><time class="comment-time" datetime="2008-01-28T23:41:00-05:00">Monday, January 28, 2008 at 11:41 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9039"><time class="comment-time" datetime="2008-01-28T23:41:00-05:00">Monday, January 28, 2008 at 11:41 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -215,12 +215,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9039' data-commentid="9039" data-postid="1327" data-belowelement="comment-9039" data-respondelement="respond" data-replyto="Reply to Lore" aria-label='Reply to Lore'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9039' data-commentid="9039" data-postid="1327" data-belowelement="comment-9039" data-respondelement="respond" data-replyto="Reply to Lore" aria-label='Reply to Lore'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9040" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05375293685586497432" class="url" rel="ugc external nofollow">hannah</a></cite></div>
-      <a href="index.html?p=1327#comment-9040"><time class="comment-time" datetime="2008-01-28T23:53:00-05:00">Monday, January 28, 2008 at 11:53 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9040"><time class="comment-time" datetime="2008-01-28T23:53:00-05:00">Monday, January 28, 2008 at 11:53 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -228,12 +228,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9040' data-commentid="9040" data-postid="1327" data-belowelement="comment-9040" data-respondelement="respond" data-replyto="Reply to hannah" aria-label='Reply to hannah'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9040' data-commentid="9040" data-postid="1327" data-belowelement="comment-9040" data-respondelement="respond" data-replyto="Reply to hannah" aria-label='Reply to hannah'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9041" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.cheeseandchoux.com" class="url" rel="ugc external nofollow">Liz</a></cite></div>
-      <a href="index.html?p=1327#comment-9041"><time class="comment-time" datetime="2008-01-29T00:04:00-05:00">Tuesday, January 29, 2008 at 12:04 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9041"><time class="comment-time" datetime="2008-01-29T00:04:00-05:00">Tuesday, January 29, 2008 at 12:04 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -241,12 +241,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9041' data-commentid="9041" data-postid="1327" data-belowelement="comment-9041" data-respondelement="respond" data-replyto="Reply to Liz" aria-label='Reply to Liz'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9041' data-commentid="9041" data-postid="1327" data-belowelement="comment-9041" data-respondelement="respond" data-replyto="Reply to Liz" aria-label='Reply to Liz'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9042" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.swirlingnotions.com" class="url" rel="ugc external nofollow">swirlingnotions</a></cite></div>
-      <a href="index.html?p=1327#comment-9042"><time class="comment-time" datetime="2008-01-29T00:27:00-05:00">Tuesday, January 29, 2008 at 12:27 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9042"><time class="comment-time" datetime="2008-01-29T00:27:00-05:00">Tuesday, January 29, 2008 at 12:27 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -254,12 +254,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9042' data-commentid="9042" data-postid="1327" data-belowelement="comment-9042" data-respondelement="respond" data-replyto="Reply to swirlingnotions" aria-label='Reply to swirlingnotions'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9042' data-commentid="9042" data-postid="1327" data-belowelement="comment-9042" data-respondelement="respond" data-replyto="Reply to swirlingnotions" aria-label='Reply to swirlingnotions'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9043" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.shiningegg.com" class="url" rel="ugc external nofollow">emily</a></cite></div>
-      <a href="index.html?p=1327#comment-9043"><time class="comment-time" datetime="2008-01-29T00:35:00-05:00">Tuesday, January 29, 2008 at 12:35 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9043"><time class="comment-time" datetime="2008-01-29T00:35:00-05:00">Tuesday, January 29, 2008 at 12:35 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -267,12 +267,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9043' data-commentid="9043" data-postid="1327" data-belowelement="comment-9043" data-respondelement="respond" data-replyto="Reply to emily" aria-label='Reply to emily'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9043' data-commentid="9043" data-postid="1327" data-belowelement="comment-9043" data-respondelement="respond" data-replyto="Reply to emily" aria-label='Reply to emily'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9044" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/06429805175846228093" class="url" rel="ugc external nofollow">aubrey</a></cite></div>
-      <a href="index.html?p=1327#comment-9044"><time class="comment-time" datetime="2008-01-29T00:42:00-05:00">Tuesday, January 29, 2008 at 12:42 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9044"><time class="comment-time" datetime="2008-01-29T00:42:00-05:00">Tuesday, January 29, 2008 at 12:42 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -280,12 +280,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9044' data-commentid="9044" data-postid="1327" data-belowelement="comment-9044" data-respondelement="respond" data-replyto="Reply to aubrey" aria-label='Reply to aubrey'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9044' data-commentid="9044" data-postid="1327" data-belowelement="comment-9044" data-respondelement="respond" data-replyto="Reply to aubrey" aria-label='Reply to aubrey'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9045" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17949403043017200704" class="url" rel="ugc external nofollow">RachelleLouise</a></cite></div>
-      <a href="index.html?p=1327#comment-9045"><time class="comment-time" datetime="2008-01-29T00:49:00-05:00">Tuesday, January 29, 2008 at 12:49 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9045"><time class="comment-time" datetime="2008-01-29T00:49:00-05:00">Tuesday, January 29, 2008 at 12:49 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -293,12 +293,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9045' data-commentid="9045" data-postid="1327" data-belowelement="comment-9045" data-respondelement="respond" data-replyto="Reply to RachelleLouise" aria-label='Reply to RachelleLouise'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9045' data-commentid="9045" data-postid="1327" data-belowelement="comment-9045" data-respondelement="respond" data-replyto="Reply to RachelleLouise" aria-label='Reply to RachelleLouise'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9046" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00268242308315862551" class="url" rel="ugc external nofollow">Lori Pickert</a></cite></div>
-      <a href="index.html?p=1327#comment-9046"><time class="comment-time" datetime="2008-01-29T01:19:00-05:00">Tuesday, January 29, 2008 at 1:19 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9046"><time class="comment-time" datetime="2008-01-29T01:19:00-05:00">Tuesday, January 29, 2008 at 1:19 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -306,12 +306,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9046' data-commentid="9046" data-postid="1327" data-belowelement="comment-9046" data-respondelement="respond" data-replyto="Reply to Lori Pickert" aria-label='Reply to Lori Pickert'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9046' data-commentid="9046" data-postid="1327" data-belowelement="comment-9046" data-respondelement="respond" data-replyto="Reply to Lori Pickert" aria-label='Reply to Lori Pickert'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9047" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17179048200786856941" class="url" rel="ugc external nofollow">pen and paper</a></cite></div>
-      <a href="index.html?p=1327#comment-9047"><time class="comment-time" datetime="2008-01-29T01:22:00-05:00">Tuesday, January 29, 2008 at 1:22 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9047"><time class="comment-time" datetime="2008-01-29T01:22:00-05:00">Tuesday, January 29, 2008 at 1:22 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -319,12 +319,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9047' data-commentid="9047" data-postid="1327" data-belowelement="comment-9047" data-respondelement="respond" data-replyto="Reply to pen and paper" aria-label='Reply to pen and paper'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9047' data-commentid="9047" data-postid="1327" data-belowelement="comment-9047" data-respondelement="respond" data-replyto="Reply to pen and paper" aria-label='Reply to pen and paper'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9048" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07129891069602285518" class="url" rel="ugc external nofollow">Christina</a></cite></div>
-      <a href="index.html?p=1327#comment-9048"><time class="comment-time" datetime="2008-01-29T01:40:00-05:00">Tuesday, January 29, 2008 at 1:40 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9048"><time class="comment-time" datetime="2008-01-29T01:40:00-05:00">Tuesday, January 29, 2008 at 1:40 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -332,12 +332,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9048' data-commentid="9048" data-postid="1327" data-belowelement="comment-9048" data-respondelement="respond" data-replyto="Reply to Christina" aria-label='Reply to Christina'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9048' data-commentid="9048" data-postid="1327" data-belowelement="comment-9048" data-respondelement="respond" data-replyto="Reply to Christina" aria-label='Reply to Christina'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9049" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">birdienumnums</cite></div>
-      <a href="index.html?p=1327#comment-9049"><time class="comment-time" datetime="2008-01-29T01:40:00-05:00">Tuesday, January 29, 2008 at 1:40 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9049"><time class="comment-time" datetime="2008-01-29T01:40:00-05:00">Tuesday, January 29, 2008 at 1:40 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -345,12 +345,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9049' data-commentid="9049" data-postid="1327" data-belowelement="comment-9049" data-respondelement="respond" data-replyto="Reply to birdienumnums" aria-label='Reply to birdienumnums'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9049' data-commentid="9049" data-postid="1327" data-belowelement="comment-9049" data-respondelement="respond" data-replyto="Reply to birdienumnums" aria-label='Reply to birdienumnums'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9050" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16938288764361362210" class="url" rel="ugc external nofollow">Ellen</a></cite></div>
-      <a href="index.html?p=1327#comment-9050"><time class="comment-time" datetime="2008-01-29T02:17:00-05:00">Tuesday, January 29, 2008 at 2:17 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9050"><time class="comment-time" datetime="2008-01-29T02:17:00-05:00">Tuesday, January 29, 2008 at 2:17 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -358,12 +358,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9050' data-commentid="9050" data-postid="1327" data-belowelement="comment-9050" data-respondelement="respond" data-replyto="Reply to Ellen" aria-label='Reply to Ellen'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9050' data-commentid="9050" data-postid="1327" data-belowelement="comment-9050" data-respondelement="respond" data-replyto="Reply to Ellen" aria-label='Reply to Ellen'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9051" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14413371510121644840" class="url" rel="ugc external nofollow">wendy</a></cite></div>
-      <a href="index.html?p=1327#comment-9051"><time class="comment-time" datetime="2008-01-29T02:18:00-05:00">Tuesday, January 29, 2008 at 2:18 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9051"><time class="comment-time" datetime="2008-01-29T02:18:00-05:00">Tuesday, January 29, 2008 at 2:18 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -371,12 +371,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9051' data-commentid="9051" data-postid="1327" data-belowelement="comment-9051" data-respondelement="respond" data-replyto="Reply to wendy" aria-label='Reply to wendy'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9051' data-commentid="9051" data-postid="1327" data-belowelement="comment-9051" data-respondelement="respond" data-replyto="Reply to wendy" aria-label='Reply to wendy'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9052" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://port2port.visualblogging.com" class="url" rel="ugc external nofollow">mav</a></cite></div>
-      <a href="index.html?p=1327#comment-9052"><time class="comment-time" datetime="2008-01-29T03:02:00-05:00">Tuesday, January 29, 2008 at 3:02 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9052"><time class="comment-time" datetime="2008-01-29T03:02:00-05:00">Tuesday, January 29, 2008 at 3:02 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -384,12 +384,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9052' data-commentid="9052" data-postid="1327" data-belowelement="comment-9052" data-respondelement="respond" data-replyto="Reply to mav" aria-label='Reply to mav'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9052' data-commentid="9052" data-postid="1327" data-belowelement="comment-9052" data-respondelement="respond" data-replyto="Reply to mav" aria-label='Reply to mav'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9053" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/10205920305666658534" class="url" rel="ugc external nofollow">Bellini Valli</a></cite></div>
-      <a href="index.html?p=1327#comment-9053"><time class="comment-time" datetime="2008-01-29T03:36:00-05:00">Tuesday, January 29, 2008 at 3:36 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9053"><time class="comment-time" datetime="2008-01-29T03:36:00-05:00">Tuesday, January 29, 2008 at 3:36 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -397,12 +397,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9053' data-commentid="9053" data-postid="1327" data-belowelement="comment-9053" data-respondelement="respond" data-replyto="Reply to Bellini Valli" aria-label='Reply to Bellini Valli'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9053' data-commentid="9053" data-postid="1327" data-belowelement="comment-9053" data-respondelement="respond" data-replyto="Reply to Bellini Valli" aria-label='Reply to Bellini Valli'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9054" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14003172520576869139" class="url" rel="ugc external nofollow">Veronica</a></cite></div>
-      <a href="index.html?p=1327#comment-9054"><time class="comment-time" datetime="2008-01-29T03:53:00-05:00">Tuesday, January 29, 2008 at 3:53 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9054"><time class="comment-time" datetime="2008-01-29T03:53:00-05:00">Tuesday, January 29, 2008 at 3:53 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -410,12 +410,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9054' data-commentid="9054" data-postid="1327" data-belowelement="comment-9054" data-respondelement="respond" data-replyto="Reply to Veronica" aria-label='Reply to Veronica'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9054' data-commentid="9054" data-postid="1327" data-belowelement="comment-9054" data-respondelement="respond" data-replyto="Reply to Veronica" aria-label='Reply to Veronica'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9055" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.weeklydish.com" class="url" rel="ugc external nofollow">Jennifer</a></cite></div>
-      <a href="index.html?p=1327#comment-9055"><time class="comment-time" datetime="2008-01-29T04:14:00-05:00">Tuesday, January 29, 2008 at 4:14 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9055"><time class="comment-time" datetime="2008-01-29T04:14:00-05:00">Tuesday, January 29, 2008 at 4:14 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -423,12 +423,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9055' data-commentid="9055" data-postid="1327" data-belowelement="comment-9055" data-respondelement="respond" data-replyto="Reply to Jennifer" aria-label='Reply to Jennifer'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9055' data-commentid="9055" data-postid="1327" data-belowelement="comment-9055" data-respondelement="respond" data-replyto="Reply to Jennifer" aria-label='Reply to Jennifer'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9056" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Aria</cite></div>
-      <a href="index.html?p=1327#comment-9056"><time class="comment-time" datetime="2008-01-29T04:37:00-05:00">Tuesday, January 29, 2008 at 4:37 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9056"><time class="comment-time" datetime="2008-01-29T04:37:00-05:00">Tuesday, January 29, 2008 at 4:37 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -436,12 +436,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9056' data-commentid="9056" data-postid="1327" data-belowelement="comment-9056" data-respondelement="respond" data-replyto="Reply to Aria" aria-label='Reply to Aria'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9056' data-commentid="9056" data-postid="1327" data-belowelement="comment-9056" data-respondelement="respond" data-replyto="Reply to Aria" aria-label='Reply to Aria'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9057" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/04117279224184283180" class="url" rel="ugc external nofollow">Michelle</a></cite></div>
-      <a href="index.html?p=1327#comment-9057"><time class="comment-time" datetime="2008-01-29T04:51:00-05:00">Tuesday, January 29, 2008 at 4:51 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9057"><time class="comment-time" datetime="2008-01-29T04:51:00-05:00">Tuesday, January 29, 2008 at 4:51 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -449,12 +449,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9057' data-commentid="9057" data-postid="1327" data-belowelement="comment-9057" data-respondelement="respond" data-replyto="Reply to Michelle" aria-label='Reply to Michelle'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9057' data-commentid="9057" data-postid="1327" data-belowelement="comment-9057" data-respondelement="respond" data-replyto="Reply to Michelle" aria-label='Reply to Michelle'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9058" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/09438336335801667632" class="url" rel="ugc external nofollow">Alicia</a></cite></div>
-      <a href="index.html?p=1327#comment-9058"><time class="comment-time" datetime="2008-01-29T04:53:00-05:00">Tuesday, January 29, 2008 at 4:53 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9058"><time class="comment-time" datetime="2008-01-29T04:53:00-05:00">Tuesday, January 29, 2008 at 4:53 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -462,12 +462,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9058' data-commentid="9058" data-postid="1327" data-belowelement="comment-9058" data-respondelement="respond" data-replyto="Reply to Alicia" aria-label='Reply to Alicia'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9058' data-commentid="9058" data-postid="1327" data-belowelement="comment-9058" data-respondelement="respond" data-replyto="Reply to Alicia" aria-label='Reply to Alicia'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9059" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14835978117451125796" class="url" rel="ugc external nofollow">Jules</a></cite></div>
-      <a href="index.html?p=1327#comment-9059"><time class="comment-time" datetime="2008-01-29T06:07:00-05:00">Tuesday, January 29, 2008 at 6:07 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9059"><time class="comment-time" datetime="2008-01-29T06:07:00-05:00">Tuesday, January 29, 2008 at 6:07 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -475,12 +475,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9059' data-commentid="9059" data-postid="1327" data-belowelement="comment-9059" data-respondelement="respond" data-replyto="Reply to Jules" aria-label='Reply to Jules'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9059' data-commentid="9059" data-postid="1327" data-belowelement="comment-9059" data-respondelement="respond" data-replyto="Reply to Jules" aria-label='Reply to Jules'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9060" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Corie</cite></div>
-      <a href="index.html?p=1327#comment-9060"><time class="comment-time" datetime="2008-01-29T06:39:00-05:00">Tuesday, January 29, 2008 at 6:39 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9060"><time class="comment-time" datetime="2008-01-29T06:39:00-05:00">Tuesday, January 29, 2008 at 6:39 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -488,12 +488,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9060' data-commentid="9060" data-postid="1327" data-belowelement="comment-9060" data-respondelement="respond" data-replyto="Reply to Corie" aria-label='Reply to Corie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9060' data-commentid="9060" data-postid="1327" data-belowelement="comment-9060" data-respondelement="respond" data-replyto="Reply to Corie" aria-label='Reply to Corie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9061" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12327017179707295712" class="url" rel="ugc external nofollow">Julie</a></cite></div>
-      <a href="index.html?p=1327#comment-9061"><time class="comment-time" datetime="2008-01-29T07:07:00-05:00">Tuesday, January 29, 2008 at 7:07 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9061"><time class="comment-time" datetime="2008-01-29T07:07:00-05:00">Tuesday, January 29, 2008 at 7:07 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -501,12 +501,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9061' data-commentid="9061" data-postid="1327" data-belowelement="comment-9061" data-respondelement="respond" data-replyto="Reply to Julie" aria-label='Reply to Julie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9061' data-commentid="9061" data-postid="1327" data-belowelement="comment-9061" data-respondelement="respond" data-replyto="Reply to Julie" aria-label='Reply to Julie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9062" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05817049547134774699" class="url" rel="ugc external nofollow">Pille</a></cite></div>
-      <a href="index.html?p=1327#comment-9062"><time class="comment-time" datetime="2008-01-29T08:36:00-05:00">Tuesday, January 29, 2008 at 8:36 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9062"><time class="comment-time" datetime="2008-01-29T08:36:00-05:00">Tuesday, January 29, 2008 at 8:36 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -514,12 +514,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9062' data-commentid="9062" data-postid="1327" data-belowelement="comment-9062" data-respondelement="respond" data-replyto="Reply to Pille" aria-label='Reply to Pille'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9062' data-commentid="9062" data-postid="1327" data-belowelement="comment-9062" data-respondelement="respond" data-replyto="Reply to Pille" aria-label='Reply to Pille'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9063" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07457108353179949633" class="url" rel="ugc external nofollow">tehstotehara</a></cite></div>
-      <a href="index.html?p=1327#comment-9063"><time class="comment-time" datetime="2008-01-29T08:39:00-05:00">Tuesday, January 29, 2008 at 8:39 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9063"><time class="comment-time" datetime="2008-01-29T08:39:00-05:00">Tuesday, January 29, 2008 at 8:39 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -527,12 +527,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9063' data-commentid="9063" data-postid="1327" data-belowelement="comment-9063" data-respondelement="respond" data-replyto="Reply to tehstotehara" aria-label='Reply to tehstotehara'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9063' data-commentid="9063" data-postid="1327" data-belowelement="comment-9063" data-respondelement="respond" data-replyto="Reply to tehstotehara" aria-label='Reply to tehstotehara'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9064" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13650130471790805186" class="url" rel="ugc external nofollow">Aran Goyoaga</a></cite></div>
-      <a href="index.html?p=1327#comment-9064"><time class="comment-time" datetime="2008-01-29T11:18:00-05:00">Tuesday, January 29, 2008 at 11:18 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9064"><time class="comment-time" datetime="2008-01-29T11:18:00-05:00">Tuesday, January 29, 2008 at 11:18 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -540,12 +540,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9064' data-commentid="9064" data-postid="1327" data-belowelement="comment-9064" data-respondelement="respond" data-replyto="Reply to Aran Goyoaga" aria-label='Reply to Aran Goyoaga'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9064' data-commentid="9064" data-postid="1327" data-belowelement="comment-9064" data-respondelement="respond" data-replyto="Reply to Aran Goyoaga" aria-label='Reply to Aran Goyoaga'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9065" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16593701432153785500" class="url" rel="ugc external nofollow">Fil</a></cite></div>
-      <a href="index.html?p=1327#comment-9065"><time class="comment-time" datetime="2008-01-29T11:47:00-05:00">Tuesday, January 29, 2008 at 11:47 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9065"><time class="comment-time" datetime="2008-01-29T11:47:00-05:00">Tuesday, January 29, 2008 at 11:47 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -553,12 +553,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9065' data-commentid="9065" data-postid="1327" data-belowelement="comment-9065" data-respondelement="respond" data-replyto="Reply to Fil" aria-label='Reply to Fil'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9065' data-commentid="9065" data-postid="1327" data-belowelement="comment-9065" data-respondelement="respond" data-replyto="Reply to Fil" aria-label='Reply to Fil'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9066" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01710106273998131443" class="url" rel="ugc external nofollow">Julia</a></cite></div>
-      <a href="index.html?p=1327#comment-9066"><time class="comment-time" datetime="2008-01-29T13:33:00-05:00">Tuesday, January 29, 2008 at 1:33 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9066"><time class="comment-time" datetime="2008-01-29T13:33:00-05:00">Tuesday, January 29, 2008 at 1:33 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -566,12 +566,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9066' data-commentid="9066" data-postid="1327" data-belowelement="comment-9066" data-respondelement="respond" data-replyto="Reply to Julia" aria-label='Reply to Julia'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9066' data-commentid="9066" data-postid="1327" data-belowelement="comment-9066" data-respondelement="respond" data-replyto="Reply to Julia" aria-label='Reply to Julia'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9067" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.redcook.net" class="url" rel="ugc external nofollow">kian</a></cite></div>
-      <a href="index.html?p=1327#comment-9067"><time class="comment-time" datetime="2008-01-29T14:27:00-05:00">Tuesday, January 29, 2008 at 2:27 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9067"><time class="comment-time" datetime="2008-01-29T14:27:00-05:00">Tuesday, January 29, 2008 at 2:27 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -579,12 +579,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9067' data-commentid="9067" data-postid="1327" data-belowelement="comment-9067" data-respondelement="respond" data-replyto="Reply to kian" aria-label='Reply to kian'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9067' data-commentid="9067" data-postid="1327" data-belowelement="comment-9067" data-respondelement="respond" data-replyto="Reply to kian" aria-label='Reply to kian'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9068" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16482616412359136277" class="url" rel="ugc external nofollow">Veron</a></cite></div>
-      <a href="index.html?p=1327#comment-9068"><time class="comment-time" datetime="2008-01-29T14:29:00-05:00">Tuesday, January 29, 2008 at 2:29 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9068"><time class="comment-time" datetime="2008-01-29T14:29:00-05:00">Tuesday, January 29, 2008 at 2:29 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -592,12 +592,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9068' data-commentid="9068" data-postid="1327" data-belowelement="comment-9068" data-respondelement="respond" data-replyto="Reply to Veron" aria-label='Reply to Veron'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9068' data-commentid="9068" data-postid="1327" data-belowelement="comment-9068" data-respondelement="respond" data-replyto="Reply to Veron" aria-label='Reply to Veron'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9069" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00760326698740744297" class="url" rel="ugc external nofollow">charlotte s</a></cite></div>
-      <a href="index.html?p=1327#comment-9069"><time class="comment-time" datetime="2008-01-29T14:39:00-05:00">Tuesday, January 29, 2008 at 2:39 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9069"><time class="comment-time" datetime="2008-01-29T14:39:00-05:00">Tuesday, January 29, 2008 at 2:39 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -605,12 +605,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9069' data-commentid="9069" data-postid="1327" data-belowelement="comment-9069" data-respondelement="respond" data-replyto="Reply to charlotte s" aria-label='Reply to charlotte s'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9069' data-commentid="9069" data-postid="1327" data-belowelement="comment-9069" data-respondelement="respond" data-replyto="Reply to charlotte s" aria-label='Reply to charlotte s'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9070" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1327#comment-9070"><time class="comment-time" datetime="2008-01-29T15:41:00-05:00">Tuesday, January 29, 2008 at 3:41 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9070"><time class="comment-time" datetime="2008-01-29T15:41:00-05:00">Tuesday, January 29, 2008 at 3:41 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -618,12 +618,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9070' data-commentid="9070" data-postid="1327" data-belowelement="comment-9070" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9070' data-commentid="9070" data-postid="1327" data-belowelement="comment-9070" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9071" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Sam</cite></div>
-      <a href="index.html?p=1327#comment-9071"><time class="comment-time" datetime="2008-01-29T15:50:00-05:00">Tuesday, January 29, 2008 at 3:50 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9071"><time class="comment-time" datetime="2008-01-29T15:50:00-05:00">Tuesday, January 29, 2008 at 3:50 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -631,12 +631,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9071' data-commentid="9071" data-postid="1327" data-belowelement="comment-9071" data-respondelement="respond" data-replyto="Reply to Sam" aria-label='Reply to Sam'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9071' data-commentid="9071" data-postid="1327" data-belowelement="comment-9071" data-respondelement="respond" data-replyto="Reply to Sam" aria-label='Reply to Sam'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9072" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/09655137183746112080" class="url" rel="ugc external nofollow">Sarah McColl</a></cite></div>
-      <a href="index.html?p=1327#comment-9072"><time class="comment-time" datetime="2008-01-29T16:17:00-05:00">Tuesday, January 29, 2008 at 4:17 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9072"><time class="comment-time" datetime="2008-01-29T16:17:00-05:00">Tuesday, January 29, 2008 at 4:17 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -644,12 +644,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9072' data-commentid="9072" data-postid="1327" data-belowelement="comment-9072" data-respondelement="respond" data-replyto="Reply to Sarah McColl" aria-label='Reply to Sarah McColl'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9072' data-commentid="9072" data-postid="1327" data-belowelement="comment-9072" data-respondelement="respond" data-replyto="Reply to Sarah McColl" aria-label='Reply to Sarah McColl'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9073" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/09772063270942316250" class="url" rel="ugc external nofollow">Bailey</a></cite></div>
-      <a href="index.html?p=1327#comment-9073"><time class="comment-time" datetime="2008-01-29T17:24:00-05:00">Tuesday, January 29, 2008 at 5:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9073"><time class="comment-time" datetime="2008-01-29T17:24:00-05:00">Tuesday, January 29, 2008 at 5:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -657,12 +657,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9073' data-commentid="9073" data-postid="1327" data-belowelement="comment-9073" data-respondelement="respond" data-replyto="Reply to Bailey" aria-label='Reply to Bailey'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9073' data-commentid="9073" data-postid="1327" data-belowelement="comment-9073" data-respondelement="respond" data-replyto="Reply to Bailey" aria-label='Reply to Bailey'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9074" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12764831629085215572" class="url" rel="ugc external nofollow">Amanda</a></cite></div>
-      <a href="index.html?p=1327#comment-9074"><time class="comment-time" datetime="2008-01-29T17:46:00-05:00">Tuesday, January 29, 2008 at 5:46 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9074"><time class="comment-time" datetime="2008-01-29T17:46:00-05:00">Tuesday, January 29, 2008 at 5:46 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -670,12 +670,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9074' data-commentid="9074" data-postid="1327" data-belowelement="comment-9074" data-respondelement="respond" data-replyto="Reply to Amanda" aria-label='Reply to Amanda'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9074' data-commentid="9074" data-postid="1327" data-belowelement="comment-9074" data-respondelement="respond" data-replyto="Reply to Amanda" aria-label='Reply to Amanda'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9075" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.blinkbyjennifer.com/kitchenette" class="url" rel="ugc external nofollow">kitchenettejen</a></cite></div>
-      <a href="index.html?p=1327#comment-9075"><time class="comment-time" datetime="2008-01-29T18:16:00-05:00">Tuesday, January 29, 2008 at 6:16 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9075"><time class="comment-time" datetime="2008-01-29T18:16:00-05:00">Tuesday, January 29, 2008 at 6:16 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -683,12 +683,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9075' data-commentid="9075" data-postid="1327" data-belowelement="comment-9075" data-respondelement="respond" data-replyto="Reply to kitchenettejen" aria-label='Reply to kitchenettejen'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9075' data-commentid="9075" data-postid="1327" data-belowelement="comment-9075" data-respondelement="respond" data-replyto="Reply to kitchenettejen" aria-label='Reply to kitchenettejen'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9076" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07801951533664578819" class="url" rel="ugc external nofollow">Vermonstrous</a></cite></div>
-      <a href="index.html?p=1327#comment-9076"><time class="comment-time" datetime="2008-01-29T18:29:00-05:00">Tuesday, January 29, 2008 at 6:29 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9076"><time class="comment-time" datetime="2008-01-29T18:29:00-05:00">Tuesday, January 29, 2008 at 6:29 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -696,12 +696,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9076' data-commentid="9076" data-postid="1327" data-belowelement="comment-9076" data-respondelement="respond" data-replyto="Reply to Vermonstrous" aria-label='Reply to Vermonstrous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9076' data-commentid="9076" data-postid="1327" data-belowelement="comment-9076" data-respondelement="respond" data-replyto="Reply to Vermonstrous" aria-label='Reply to Vermonstrous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9077" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://whiteonricecouple.com" class="url" rel="ugc external nofollow">White On Rice Couple</a></cite></div>
-      <a href="index.html?p=1327#comment-9077"><time class="comment-time" datetime="2008-01-29T19:42:00-05:00">Tuesday, January 29, 2008 at 7:42 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9077"><time class="comment-time" datetime="2008-01-29T19:42:00-05:00">Tuesday, January 29, 2008 at 7:42 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -709,12 +709,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9077' data-commentid="9077" data-postid="1327" data-belowelement="comment-9077" data-respondelement="respond" data-replyto="Reply to White On Rice Couple" aria-label='Reply to White On Rice Couple'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9077' data-commentid="9077" data-postid="1327" data-belowelement="comment-9077" data-respondelement="respond" data-replyto="Reply to White On Rice Couple" aria-label='Reply to White On Rice Couple'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9078" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07822897210808051909" class="url" rel="ugc external nofollow">Anna</a></cite></div>
-      <a href="index.html?p=1327#comment-9078"><time class="comment-time" datetime="2008-01-29T20:44:00-05:00">Tuesday, January 29, 2008 at 8:44 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9078"><time class="comment-time" datetime="2008-01-29T20:44:00-05:00">Tuesday, January 29, 2008 at 8:44 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -722,12 +722,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9078' data-commentid="9078" data-postid="1327" data-belowelement="comment-9078" data-respondelement="respond" data-replyto="Reply to Anna" aria-label='Reply to Anna'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9078' data-commentid="9078" data-postid="1327" data-belowelement="comment-9078" data-respondelement="respond" data-replyto="Reply to Anna" aria-label='Reply to Anna'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9079" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13398183896832281972" class="url" rel="ugc external nofollow">Elizabeth</a></cite></div>
-      <a href="index.html?p=1327#comment-9079"><time class="comment-time" datetime="2008-01-29T21:34:00-05:00">Tuesday, January 29, 2008 at 9:34 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9079"><time class="comment-time" datetime="2008-01-29T21:34:00-05:00">Tuesday, January 29, 2008 at 9:34 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -735,12 +735,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9079' data-commentid="9079" data-postid="1327" data-belowelement="comment-9079" data-respondelement="respond" data-replyto="Reply to Elizabeth" aria-label='Reply to Elizabeth'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9079' data-commentid="9079" data-postid="1327" data-belowelement="comment-9079" data-respondelement="respond" data-replyto="Reply to Elizabeth" aria-label='Reply to Elizabeth'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9080" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00411309870666933770" class="url" rel="ugc external nofollow">cassie</a></cite></div>
-      <a href="index.html?p=1327#comment-9080"><time class="comment-time" datetime="2008-01-29T22:09:00-05:00">Tuesday, January 29, 2008 at 10:09 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9080"><time class="comment-time" datetime="2008-01-29T22:09:00-05:00">Tuesday, January 29, 2008 at 10:09 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -748,12 +748,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9080' data-commentid="9080" data-postid="1327" data-belowelement="comment-9080" data-respondelement="respond" data-replyto="Reply to cassie" aria-label='Reply to cassie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9080' data-commentid="9080" data-postid="1327" data-belowelement="comment-9080" data-respondelement="respond" data-replyto="Reply to cassie" aria-label='Reply to cassie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9081" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/08563499760002051512" class="url" rel="ugc external nofollow">B Dunlap</a></cite></div>
-      <a href="index.html?p=1327#comment-9081"><time class="comment-time" datetime="2008-01-29T22:30:00-05:00">Tuesday, January 29, 2008 at 10:30 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9081"><time class="comment-time" datetime="2008-01-29T22:30:00-05:00">Tuesday, January 29, 2008 at 10:30 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -761,12 +761,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9081' data-commentid="9081" data-postid="1327" data-belowelement="comment-9081" data-respondelement="respond" data-replyto="Reply to B Dunlap" aria-label='Reply to B Dunlap'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9081' data-commentid="9081" data-postid="1327" data-belowelement="comment-9081" data-respondelement="respond" data-replyto="Reply to B Dunlap" aria-label='Reply to B Dunlap'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9082" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.thursdaynightsmackdown.com" class="url" rel="ugc external nofollow">thursdaynightsmackdown</a></cite></div>
-      <a href="index.html?p=1327#comment-9082"><time class="comment-time" datetime="2008-01-30T01:03:00-05:00">Wednesday, January 30, 2008 at 1:03 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9082"><time class="comment-time" datetime="2008-01-30T01:03:00-05:00">Wednesday, January 30, 2008 at 1:03 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -774,12 +774,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9082' data-commentid="9082" data-postid="1327" data-belowelement="comment-9082" data-respondelement="respond" data-replyto="Reply to thursdaynightsmackdown" aria-label='Reply to thursdaynightsmackdown'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9082' data-commentid="9082" data-postid="1327" data-belowelement="comment-9082" data-respondelement="respond" data-replyto="Reply to thursdaynightsmackdown" aria-label='Reply to thursdaynightsmackdown'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9083" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://kateortiz.wordpress.com/" class="url" rel="ugc external nofollow">kateortiz</a></cite></div>
-      <a href="index.html?p=1327#comment-9083"><time class="comment-time" datetime="2008-01-30T15:03:00-05:00">Wednesday, January 30, 2008 at 3:03 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9083"><time class="comment-time" datetime="2008-01-30T15:03:00-05:00">Wednesday, January 30, 2008 at 3:03 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -787,12 +787,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9083' data-commentid="9083" data-postid="1327" data-belowelement="comment-9083" data-respondelement="respond" data-replyto="Reply to kateortiz" aria-label='Reply to kateortiz'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9083' data-commentid="9083" data-postid="1327" data-belowelement="comment-9083" data-respondelement="respond" data-replyto="Reply to kateortiz" aria-label='Reply to kateortiz'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9084" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://danamccauley.wordpress.com" class="url" rel="ugc external nofollow">dana</a></cite></div>
-      <a href="index.html?p=1327#comment-9084"><time class="comment-time" datetime="2008-01-30T17:24:00-05:00">Wednesday, January 30, 2008 at 5:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9084"><time class="comment-time" datetime="2008-01-30T17:24:00-05:00">Wednesday, January 30, 2008 at 5:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -800,12 +800,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9084' data-commentid="9084" data-postid="1327" data-belowelement="comment-9084" data-respondelement="respond" data-replyto="Reply to dana" aria-label='Reply to dana'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9084' data-commentid="9084" data-postid="1327" data-belowelement="comment-9084" data-respondelement="respond" data-replyto="Reply to dana" aria-label='Reply to dana'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9085" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.londonfoodieny.wordpress.com" class="url" rel="ugc external nofollow">Anna</a></cite></div>
-      <a href="index.html?p=1327#comment-9085"><time class="comment-time" datetime="2008-01-30T20:47:00-05:00">Wednesday, January 30, 2008 at 8:47 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9085"><time class="comment-time" datetime="2008-01-30T20:47:00-05:00">Wednesday, January 30, 2008 at 8:47 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -813,12 +813,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9085' data-commentid="9085" data-postid="1327" data-belowelement="comment-9085" data-respondelement="respond" data-replyto="Reply to Anna" aria-label='Reply to Anna'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9085' data-commentid="9085" data-postid="1327" data-belowelement="comment-9085" data-respondelement="respond" data-replyto="Reply to Anna" aria-label='Reply to Anna'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9086" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Tricia</cite></div>
-      <a href="index.html?p=1327#comment-9086"><time class="comment-time" datetime="2008-01-30T21:36:00-05:00">Wednesday, January 30, 2008 at 9:36 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9086"><time class="comment-time" datetime="2008-01-30T21:36:00-05:00">Wednesday, January 30, 2008 at 9:36 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -826,12 +826,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9086' data-commentid="9086" data-postid="1327" data-belowelement="comment-9086" data-respondelement="respond" data-replyto="Reply to Tricia" aria-label='Reply to Tricia'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9086' data-commentid="9086" data-postid="1327" data-belowelement="comment-9086" data-respondelement="respond" data-replyto="Reply to Tricia" aria-label='Reply to Tricia'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9087" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://foodwoolf.blogspot.com" class="url" rel="ugc external nofollow">Foodwoolf</a></cite></div>
-      <a href="index.html?p=1327#comment-9087"><time class="comment-time" datetime="2008-01-30T21:47:00-05:00">Wednesday, January 30, 2008 at 9:47 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9087"><time class="comment-time" datetime="2008-01-30T21:47:00-05:00">Wednesday, January 30, 2008 at 9:47 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -839,12 +839,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9087' data-commentid="9087" data-postid="1327" data-belowelement="comment-9087" data-respondelement="respond" data-replyto="Reply to Foodwoolf" aria-label='Reply to Foodwoolf'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9087' data-commentid="9087" data-postid="1327" data-belowelement="comment-9087" data-respondelement="respond" data-replyto="Reply to Foodwoolf" aria-label='Reply to Foodwoolf'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9088" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/04264301014920851640" class="url" rel="ugc external nofollow">Dana</a></cite></div>
-      <a href="index.html?p=1327#comment-9088"><time class="comment-time" datetime="2008-01-30T22:06:00-05:00">Wednesday, January 30, 2008 at 10:06 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9088"><time class="comment-time" datetime="2008-01-30T22:06:00-05:00">Wednesday, January 30, 2008 at 10:06 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -852,12 +852,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9088' data-commentid="9088" data-postid="1327" data-belowelement="comment-9088" data-respondelement="respond" data-replyto="Reply to Dana" aria-label='Reply to Dana'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9088' data-commentid="9088" data-postid="1327" data-belowelement="comment-9088" data-respondelement="respond" data-replyto="Reply to Dana" aria-label='Reply to Dana'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9089" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
-      <a href="index.html?p=1327#comment-9089"><time class="comment-time" datetime="2008-01-30T23:26:00-05:00">Wednesday, January 30, 2008 at 11:26 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9089"><time class="comment-time" datetime="2008-01-30T23:26:00-05:00">Wednesday, January 30, 2008 at 11:26 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -865,12 +865,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9089' data-commentid="9089" data-postid="1327" data-belowelement="comment-9089" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9089' data-commentid="9089" data-postid="1327" data-belowelement="comment-9089" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9090" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15164675031862285382" class="url" rel="ugc external nofollow">Patti</a></cite></div>
-      <a href="index.html?p=1327#comment-9090"><time class="comment-time" datetime="2008-01-31T03:04:00-05:00">Thursday, January 31, 2008 at 3:04 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9090"><time class="comment-time" datetime="2008-01-31T03:04:00-05:00">Thursday, January 31, 2008 at 3:04 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -878,12 +878,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9090' data-commentid="9090" data-postid="1327" data-belowelement="comment-9090" data-respondelement="respond" data-replyto="Reply to Patti" aria-label='Reply to Patti'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9090' data-commentid="9090" data-postid="1327" data-belowelement="comment-9090" data-respondelement="respond" data-replyto="Reply to Patti" aria-label='Reply to Patti'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9091" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/09772063270942316250" class="url" rel="ugc external nofollow">Bailey</a></cite></div>
-      <a href="index.html?p=1327#comment-9091"><time class="comment-time" datetime="2008-01-31T05:41:00-05:00">Thursday, January 31, 2008 at 5:41 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9091"><time class="comment-time" datetime="2008-01-31T05:41:00-05:00">Thursday, January 31, 2008 at 5:41 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -891,12 +891,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9091' data-commentid="9091" data-postid="1327" data-belowelement="comment-9091" data-respondelement="respond" data-replyto="Reply to Bailey" aria-label='Reply to Bailey'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9091' data-commentid="9091" data-postid="1327" data-belowelement="comment-9091" data-respondelement="respond" data-replyto="Reply to Bailey" aria-label='Reply to Bailey'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9092" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15500353218660552671" class="url" rel="ugc external nofollow">Sarah</a></cite></div>
-      <a href="index.html?p=1327#comment-9092"><time class="comment-time" datetime="2008-01-31T21:10:00-05:00">Thursday, January 31, 2008 at 9:10 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9092"><time class="comment-time" datetime="2008-01-31T21:10:00-05:00">Thursday, January 31, 2008 at 9:10 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -904,12 +904,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9092' data-commentid="9092" data-postid="1327" data-belowelement="comment-9092" data-respondelement="respond" data-replyto="Reply to Sarah" aria-label='Reply to Sarah'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9092' data-commentid="9092" data-postid="1327" data-belowelement="comment-9092" data-respondelement="respond" data-replyto="Reply to Sarah" aria-label='Reply to Sarah'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9093" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05008246307753272616" class="url" rel="ugc external nofollow">Katie</a></cite></div>
-      <a href="index.html?p=1327#comment-9093"><time class="comment-time" datetime="2008-01-31T21:47:00-05:00">Thursday, January 31, 2008 at 9:47 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9093"><time class="comment-time" datetime="2008-01-31T21:47:00-05:00">Thursday, January 31, 2008 at 9:47 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -917,12 +917,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9093' data-commentid="9093" data-postid="1327" data-belowelement="comment-9093" data-respondelement="respond" data-replyto="Reply to Katie" aria-label='Reply to Katie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9093' data-commentid="9093" data-postid="1327" data-belowelement="comment-9093" data-respondelement="respond" data-replyto="Reply to Katie" aria-label='Reply to Katie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9094" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1327#comment-9094"><time class="comment-time" datetime="2008-02-01T02:42:00-05:00">Friday, February 1, 2008 at 2:42 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9094"><time class="comment-time" datetime="2008-02-01T02:42:00-05:00">Friday, February 1, 2008 at 2:42 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -930,12 +930,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9094' data-commentid="9094" data-postid="1327" data-belowelement="comment-9094" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9094' data-commentid="9094" data-postid="1327" data-belowelement="comment-9094" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9095" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01660451357546814278" class="url" rel="ugc external nofollow">Angstia</a></cite></div>
-      <a href="index.html?p=1327#comment-9095"><time class="comment-time" datetime="2008-02-01T02:47:00-05:00">Friday, February 1, 2008 at 2:47 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9095"><time class="comment-time" datetime="2008-02-01T02:47:00-05:00">Friday, February 1, 2008 at 2:47 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -943,12 +943,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9095' data-commentid="9095" data-postid="1327" data-belowelement="comment-9095" data-respondelement="respond" data-replyto="Reply to Angstia" aria-label='Reply to Angstia'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9095' data-commentid="9095" data-postid="1327" data-belowelement="comment-9095" data-respondelement="respond" data-replyto="Reply to Angstia" aria-label='Reply to Angstia'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9096" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://chewonthatblog.com" class="url" rel="ugc external nofollow">Hillary</a></cite></div>
-      <a href="index.html?p=1327#comment-9096"><time class="comment-time" datetime="2008-02-01T18:03:00-05:00">Friday, February 1, 2008 at 6:03 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9096"><time class="comment-time" datetime="2008-02-01T18:03:00-05:00">Friday, February 1, 2008 at 6:03 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -956,12 +956,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9096' data-commentid="9096" data-postid="1327" data-belowelement="comment-9096" data-respondelement="respond" data-replyto="Reply to Hillary" aria-label='Reply to Hillary'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9096' data-commentid="9096" data-postid="1327" data-belowelement="comment-9096" data-respondelement="respond" data-replyto="Reply to Hillary" aria-label='Reply to Hillary'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9097" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
-      <a href="index.html?p=1327#comment-9097"><time class="comment-time" datetime="2008-02-01T19:13:00-05:00">Friday, February 1, 2008 at 7:13 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9097"><time class="comment-time" datetime="2008-02-01T19:13:00-05:00">Friday, February 1, 2008 at 7:13 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -969,12 +969,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9097' data-commentid="9097" data-postid="1327" data-belowelement="comment-9097" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9097' data-commentid="9097" data-postid="1327" data-belowelement="comment-9097" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9098" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://theflouredapron.wordpress.com/" class="url" rel="ugc external nofollow">theflouredapron</a></cite></div>
-      <a href="index.html?p=1327#comment-9098"><time class="comment-time" datetime="2008-02-02T00:10:00-05:00">Saturday, February 2, 2008 at 12:10 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9098"><time class="comment-time" datetime="2008-02-02T00:10:00-05:00">Saturday, February 2, 2008 at 12:10 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -982,12 +982,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9098' data-commentid="9098" data-postid="1327" data-belowelement="comment-9098" data-respondelement="respond" data-replyto="Reply to theflouredapron" aria-label='Reply to theflouredapron'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9098' data-commentid="9098" data-postid="1327" data-belowelement="comment-9098" data-respondelement="respond" data-replyto="Reply to theflouredapron" aria-label='Reply to theflouredapron'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9099" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15164675031862285382" class="url" rel="ugc external nofollow">Patti</a></cite></div>
-      <a href="index.html?p=1327#comment-9099"><time class="comment-time" datetime="2008-02-02T02:19:00-05:00">Saturday, February 2, 2008 at 2:19 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9099"><time class="comment-time" datetime="2008-02-02T02:19:00-05:00">Saturday, February 2, 2008 at 2:19 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -995,12 +995,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9099' data-commentid="9099" data-postid="1327" data-belowelement="comment-9099" data-respondelement="respond" data-replyto="Reply to Patti" aria-label='Reply to Patti'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9099' data-commentid="9099" data-postid="1327" data-belowelement="comment-9099" data-respondelement="respond" data-replyto="Reply to Patti" aria-label='Reply to Patti'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9100" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">AOC</cite></div>
-      <a href="index.html?p=1327#comment-9100"><time class="comment-time" datetime="2008-02-03T07:08:00-05:00">Sunday, February 3, 2008 at 7:08 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9100"><time class="comment-time" datetime="2008-02-03T07:08:00-05:00">Sunday, February 3, 2008 at 7:08 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1008,12 +1008,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9100' data-commentid="9100" data-postid="1327" data-belowelement="comment-9100" data-respondelement="respond" data-replyto="Reply to AOC" aria-label='Reply to AOC'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9100' data-commentid="9100" data-postid="1327" data-belowelement="comment-9100" data-respondelement="respond" data-replyto="Reply to AOC" aria-label='Reply to AOC'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9101" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://profile.typekey.com/ohsundayschool/" class="url" rel="ugc external nofollow">ohsundayschool</a></cite></div>
-      <a href="index.html?p=1327#comment-9101"><time class="comment-time" datetime="2008-02-04T03:40:00-05:00">Monday, February 4, 2008 at 3:40 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9101"><time class="comment-time" datetime="2008-02-04T03:40:00-05:00">Monday, February 4, 2008 at 3:40 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1021,12 +1021,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9101' data-commentid="9101" data-postid="1327" data-belowelement="comment-9101" data-respondelement="respond" data-replyto="Reply to ohsundayschool" aria-label='Reply to ohsundayschool'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9101' data-commentid="9101" data-postid="1327" data-belowelement="comment-9101" data-respondelement="respond" data-replyto="Reply to ohsundayschool" aria-label='Reply to ohsundayschool'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9102" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13552721454371060936" class="url" rel="ugc external nofollow">Cheryl A</a></cite></div>
-      <a href="index.html?p=1327#comment-9102"><time class="comment-time" datetime="2008-02-04T04:14:00-05:00">Monday, February 4, 2008 at 4:14 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9102"><time class="comment-time" datetime="2008-02-04T04:14:00-05:00">Monday, February 4, 2008 at 4:14 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1034,12 +1034,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9102' data-commentid="9102" data-postid="1327" data-belowelement="comment-9102" data-respondelement="respond" data-replyto="Reply to Cheryl A" aria-label='Reply to Cheryl A'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9102' data-commentid="9102" data-postid="1327" data-belowelement="comment-9102" data-respondelement="respond" data-replyto="Reply to Cheryl A" aria-label='Reply to Cheryl A'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-43905" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13552721454371060936" class="url" rel="ugc external nofollow">Cheryl A</a></cite></div>
-      <a href="index.html?p=1327#comment-43905"><time class="comment-time" datetime="2008-02-04T04:14:00-05:00">Monday, February 4, 2008 at 4:14 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-43905"><time class="comment-time" datetime="2008-02-04T04:14:00-05:00">Monday, February 4, 2008 at 4:14 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1047,12 +1047,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-43905' data-commentid="43905" data-postid="1327" data-belowelement="comment-43905" data-respondelement="respond" data-replyto="Reply to Cheryl A" aria-label='Reply to Cheryl A'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-43905' data-commentid="43905" data-postid="1327" data-belowelement="comment-43905" data-respondelement="respond" data-replyto="Reply to Cheryl A" aria-label='Reply to Cheryl A'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9103" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.yummymummycooks.com" class="url" rel="ugc external nofollow">The Yummy Mummy</a></cite></div>
-      <a href="index.html?p=1327#comment-9103"><time class="comment-time" datetime="2008-02-07T03:30:00-05:00">Thursday, February 7, 2008 at 3:30 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9103"><time class="comment-time" datetime="2008-02-07T03:30:00-05:00">Thursday, February 7, 2008 at 3:30 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1060,12 +1060,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9103' data-commentid="9103" data-postid="1327" data-belowelement="comment-9103" data-respondelement="respond" data-replyto="Reply to The Yummy Mummy" aria-label='Reply to The Yummy Mummy'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9103' data-commentid="9103" data-postid="1327" data-belowelement="comment-9103" data-respondelement="respond" data-replyto="Reply to The Yummy Mummy" aria-label='Reply to The Yummy Mummy'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9104" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/05153910403783107480" class="url" rel="ugc external nofollow">amisha</a></cite></div>
-      <a href="index.html?p=1327#comment-9104"><time class="comment-time" datetime="2008-02-07T03:55:00-05:00">Thursday, February 7, 2008 at 3:55 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9104"><time class="comment-time" datetime="2008-02-07T03:55:00-05:00">Thursday, February 7, 2008 at 3:55 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1073,12 +1073,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9104' data-commentid="9104" data-postid="1327" data-belowelement="comment-9104" data-respondelement="respond" data-replyto="Reply to amisha" aria-label='Reply to amisha'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9104' data-commentid="9104" data-postid="1327" data-belowelement="comment-9104" data-respondelement="respond" data-replyto="Reply to amisha" aria-label='Reply to amisha'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9105" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16673726727402668186" class="url" rel="ugc external nofollow">Kitt</a></cite></div>
-      <a href="index.html?p=1327#comment-9105"><time class="comment-time" datetime="2008-02-08T21:25:00-05:00">Friday, February 8, 2008 at 9:25 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9105"><time class="comment-time" datetime="2008-02-08T21:25:00-05:00">Friday, February 8, 2008 at 9:25 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1086,12 +1086,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9105' data-commentid="9105" data-postid="1327" data-belowelement="comment-9105" data-respondelement="respond" data-replyto="Reply to Kitt" aria-label='Reply to Kitt'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9105' data-commentid="9105" data-postid="1327" data-belowelement="comment-9105" data-respondelement="respond" data-replyto="Reply to Kitt" aria-label='Reply to Kitt'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9106" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/12795753563127975720" class="url" rel="ugc external nofollow">Meg</a></cite></div>
-      <a href="index.html?p=1327#comment-9106"><time class="comment-time" datetime="2008-02-11T17:45:00-05:00">Monday, February 11, 2008 at 5:45 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9106"><time class="comment-time" datetime="2008-02-11T17:45:00-05:00">Monday, February 11, 2008 at 5:45 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1099,12 +1099,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9106' data-commentid="9106" data-postid="1327" data-belowelement="comment-9106" data-respondelement="respond" data-replyto="Reply to Meg" aria-label='Reply to Meg'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9106' data-commentid="9106" data-postid="1327" data-belowelement="comment-9106" data-respondelement="respond" data-replyto="Reply to Meg" aria-label='Reply to Meg'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9107" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15385416355149914202" class="url" rel="ugc external nofollow">Stephanie</a></cite></div>
-      <a href="index.html?p=1327#comment-9107"><time class="comment-time" datetime="2008-02-13T19:29:00-05:00">Wednesday, February 13, 2008 at 7:29 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9107"><time class="comment-time" datetime="2008-02-13T19:29:00-05:00">Wednesday, February 13, 2008 at 7:29 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1112,12 +1112,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9107' data-commentid="9107" data-postid="1327" data-belowelement="comment-9107" data-respondelement="respond" data-replyto="Reply to Stephanie" aria-label='Reply to Stephanie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9107' data-commentid="9107" data-postid="1327" data-belowelement="comment-9107" data-respondelement="respond" data-replyto="Reply to Stephanie" aria-label='Reply to Stephanie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9108" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1327#comment-9108"><time class="comment-time" datetime="2008-02-14T01:59:00-05:00">Thursday, February 14, 2008 at 1:59 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9108"><time class="comment-time" datetime="2008-02-14T01:59:00-05:00">Thursday, February 14, 2008 at 1:59 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1125,12 +1125,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9108' data-commentid="9108" data-postid="1327" data-belowelement="comment-9108" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9108' data-commentid="9108" data-postid="1327" data-belowelement="comment-9108" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9109" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Ellie</cite></div>
-      <a href="index.html?p=1327#comment-9109"><time class="comment-time" datetime="2008-02-15T01:41:00-05:00">Friday, February 15, 2008 at 1:41 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9109"><time class="comment-time" datetime="2008-02-15T01:41:00-05:00">Friday, February 15, 2008 at 1:41 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1138,12 +1138,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9109' data-commentid="9109" data-postid="1327" data-belowelement="comment-9109" data-respondelement="respond" data-replyto="Reply to Ellie" aria-label='Reply to Ellie'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9109' data-commentid="9109" data-postid="1327" data-belowelement="comment-9109" data-respondelement="respond" data-replyto="Reply to Ellie" aria-label='Reply to Ellie'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9110" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/13413647957983446590" class="url" rel="ugc external nofollow">Audrey</a></cite></div>
-      <a href="index.html?p=1327#comment-9110"><time class="comment-time" datetime="2008-02-21T23:51:00-05:00">Thursday, February 21, 2008 at 11:51 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9110"><time class="comment-time" datetime="2008-02-21T23:51:00-05:00">Thursday, February 21, 2008 at 11:51 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1151,12 +1151,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9110' data-commentid="9110" data-postid="1327" data-belowelement="comment-9110" data-respondelement="respond" data-replyto="Reply to Audrey" aria-label='Reply to Audrey'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9110' data-commentid="9110" data-postid="1327" data-belowelement="comment-9110" data-respondelement="respond" data-replyto="Reply to Audrey" aria-label='Reply to Audrey'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9111" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/02789972069667237774" class="url" rel="ugc external nofollow">Il Fornaio</a></cite></div>
-      <a href="index.html?p=1327#comment-9111"><time class="comment-time" datetime="2008-02-22T23:24:00-05:00">Friday, February 22, 2008 at 11:24 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9111"><time class="comment-time" datetime="2008-02-22T23:24:00-05:00">Friday, February 22, 2008 at 11:24 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1164,12 +1164,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9111' data-commentid="9111" data-postid="1327" data-belowelement="comment-9111" data-respondelement="respond" data-replyto="Reply to Il Fornaio" aria-label='Reply to Il Fornaio'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9111' data-commentid="9111" data-postid="1327" data-belowelement="comment-9111" data-respondelement="respond" data-replyto="Reply to Il Fornaio" aria-label='Reply to Il Fornaio'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9112" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16673726727402668186" class="url" rel="ugc external nofollow">Kitt</a></cite></div>
-      <a href="index.html?p=1327#comment-9112"><time class="comment-time" datetime="2008-02-24T17:50:00-05:00">Sunday, February 24, 2008 at 5:50 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9112"><time class="comment-time" datetime="2008-02-24T17:50:00-05:00">Sunday, February 24, 2008 at 5:50 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1177,12 +1177,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9112' data-commentid="9112" data-postid="1327" data-belowelement="comment-9112" data-respondelement="respond" data-replyto="Reply to Kitt" aria-label='Reply to Kitt'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9112' data-commentid="9112" data-postid="1327" data-belowelement="comment-9112" data-respondelement="respond" data-replyto="Reply to Kitt" aria-label='Reply to Kitt'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9113" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/00870362935944149329" class="url" rel="ugc external nofollow">Rin</a></cite></div>
-      <a href="index.html?p=1327#comment-9113"><time class="comment-time" datetime="2008-02-25T06:28:00-05:00">Monday, February 25, 2008 at 6:28 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9113"><time class="comment-time" datetime="2008-02-25T06:28:00-05:00">Monday, February 25, 2008 at 6:28 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1190,12 +1190,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9113' data-commentid="9113" data-postid="1327" data-belowelement="comment-9113" data-respondelement="respond" data-replyto="Reply to Rin" aria-label='Reply to Rin'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9113' data-commentid="9113" data-postid="1327" data-belowelement="comment-9113" data-respondelement="respond" data-replyto="Reply to Rin" aria-label='Reply to Rin'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9114" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/14037376815222790938" class="url" rel="ugc external nofollow">Nasia</a></cite></div>
-      <a href="index.html?p=1327#comment-9114"><time class="comment-time" datetime="2008-03-11T00:27:00-04:00">Tuesday, March 11, 2008 at 12:27 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9114"><time class="comment-time" datetime="2008-03-11T00:27:00-04:00">Tuesday, March 11, 2008 at 12:27 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1203,12 +1203,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9114' data-commentid="9114" data-postid="1327" data-belowelement="comment-9114" data-respondelement="respond" data-replyto="Reply to Nasia" aria-label='Reply to Nasia'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9114' data-commentid="9114" data-postid="1327" data-belowelement="comment-9114" data-respondelement="respond" data-replyto="Reply to Nasia" aria-label='Reply to Nasia'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9115" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://www.oxfordkitchenyarns.com/blog/" class="url" rel="ugc external nofollow">katieh</a></cite></div>
-      <a href="index.html?p=1327#comment-9115"><time class="comment-time" datetime="2008-06-28T14:20:00-04:00">Saturday, June 28, 2008 at 2:20 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9115"><time class="comment-time" datetime="2008-06-28T14:20:00-04:00">Saturday, June 28, 2008 at 2:20 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1216,12 +1216,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9115' data-commentid="9115" data-postid="1327" data-belowelement="comment-9115" data-respondelement="respond" data-replyto="Reply to katieh" aria-label='Reply to katieh'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9115' data-commentid="9115" data-postid="1327" data-belowelement="comment-9115" data-respondelement="respond" data-replyto="Reply to katieh" aria-label='Reply to katieh'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9116" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/15138691648281616958" class="url" rel="ugc external nofollow">machi16</a></cite></div>
-      <a href="index.html?p=1327#comment-9116"><time class="comment-time" datetime="2008-10-16T01:50:00-04:00">Thursday, October 16, 2008 at 1:50 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9116"><time class="comment-time" datetime="2008-10-16T01:50:00-04:00">Thursday, October 16, 2008 at 1:50 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1229,12 +1229,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9116' data-commentid="9116" data-postid="1327" data-belowelement="comment-9116" data-respondelement="respond" data-replyto="Reply to machi16" aria-label='Reply to machi16'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9116' data-commentid="9116" data-postid="1327" data-belowelement="comment-9116" data-respondelement="respond" data-replyto="Reply to machi16" aria-label='Reply to machi16'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9117" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://nocounterspace.net" class="url" rel="ugc external nofollow">Livia</a></cite></div>
-      <a href="index.html?p=1327#comment-9117"><time class="comment-time" datetime="2008-11-18T02:19:00-05:00">Tuesday, November 18, 2008 at 2:19 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9117"><time class="comment-time" datetime="2008-11-18T02:19:00-05:00">Tuesday, November 18, 2008 at 2:19 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1242,12 +1242,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9117' data-commentid="9117" data-postid="1327" data-belowelement="comment-9117" data-respondelement="respond" data-replyto="Reply to Livia" aria-label='Reply to Livia'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9117' data-commentid="9117" data-postid="1327" data-belowelement="comment-9117" data-respondelement="respond" data-replyto="Reply to Livia" aria-label='Reply to Livia'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9118" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1327#comment-9118"><time class="comment-time" datetime="2009-08-22T05:31:12-04:00">Saturday, August 22, 2009 at 5:31 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9118"><time class="comment-time" datetime="2009-08-22T05:31:12-04:00">Saturday, August 22, 2009 at 5:31 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1255,12 +1255,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9118' data-commentid="9118" data-postid="1327" data-belowelement="comment-9118" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9118' data-commentid="9118" data-postid="1327" data-belowelement="comment-9118" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9119" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1327#comment-9119"><time class="comment-time" datetime="2009-11-14T16:57:04-05:00">Saturday, November 14, 2009 at 4:57 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9119"><time class="comment-time" datetime="2009-11-14T16:57:04-05:00">Saturday, November 14, 2009 at 4:57 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1268,12 +1268,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9119' data-commentid="9119" data-postid="1327" data-belowelement="comment-9119" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9119' data-commentid="9119" data-postid="1327" data-belowelement="comment-9119" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-9120" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
-      <a href="index.html?p=1327#comment-9120"><time class="comment-time" datetime="2010-04-19T04:06:45-04:00">Monday, April 19, 2010 at 4:06 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-9120"><time class="comment-time" datetime="2010-04-19T04:06:45-04:00">Monday, April 19, 2010 at 4:06 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1281,12 +1281,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-9120' data-commentid="9120" data-postid="1327" data-belowelement="comment-9120" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-9120' data-commentid="9120" data-postid="1327" data-belowelement="comment-9120" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-56745" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">sarah</cite></div>
-      <a href="index.html?p=1327#comment-56745"><time class="comment-time" datetime="2016-08-24T04:49:27-04:00">Wednesday, August 24, 2016 at 4:49 am</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-56745"><time class="comment-time" datetime="2016-08-24T04:49:27-04:00">Wednesday, August 24, 2016 at 4:49 am</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1295,12 +1295,12 @@ For those who are interested &#8211; after the first time I made this, I swapped
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-56745' data-commentid="56745" data-postid="1327" data-belowelement="comment-56745" data-respondelement="respond" data-replyto="Reply to sarah" aria-label='Reply to sarah'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-56745' data-commentid="56745" data-postid="1327" data-belowelement="comment-56745" data-respondelement="respond" data-replyto="Reply to sarah" aria-label='Reply to sarah'>Reply</a>    </div>
   </li><!-- #comment-## -->
   <li id="comment-94763" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">perla</cite></div>
-      <a href="index.html?p=1327#comment-94763"><time class="comment-time" datetime="2021-08-25T20:26:28-04:00">Wednesday, August 25, 2021 at 8:26 pm</time></a>    </header>
+      <a href="https://orangette.net/2008/01/pots-of-gold/#comment-94763"><time class="comment-time" datetime="2021-08-25T20:26:28-04:00">Wednesday, August 25, 2021 at 8:26 pm</time></a>    </header>
 
     
     <div class="comment--content">
@@ -1308,39 +1308,39 @@ For those who are interested &#8211; after the first time I made this, I swapped
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='index.html?p=1327#comment-94763' data-commentid="94763" data-postid="1327" data-belowelement="comment-94763" data-respondelement="respond" data-replyto="Reply to perla" aria-label='Reply to perla'>Reply</a>    </div>
+      <a rel='nofollow' class='comment-reply-link' href='#comment-94763' data-commentid="94763" data-postid="1327" data-belowelement="comment-94763" data-respondelement="respond" data-replyto="Reply to perla" aria-label='Reply to perla'>Reply</a>    </div>
   </li><!-- #comment-## -->
     </ol>
 
       
   
   	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html?p=1327#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2008/01/pots-of-gold/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
 <p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1327' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="bf2ab73d8d" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="114"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="dafd378c08" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="229"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	</section>
       </footer>
 </article>
         </main><!-- /.main -->
                   <aside class="content-right">
             <header class="right-header">
-  <a href="index.html?p=4">
+  <a href="https://orangette.net/about/">
     <h2 class="title">hellooooo</h2>
-    <img src="wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/portrait.jpg" alt="Molly Wizenberg" data-pin-no-hover="true">
   </a>
 </header>
 <nav class="right-nav">
-  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+  <div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
-</ul></div>  <form role="search" method="get" class="search-form" action="index.html">
+</ul></div>  <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
@@ -1348,19 +1348,19 @@ For those who are interested &#8211; after the first time I made this, I swapped
 </nav>
 <div class="right-section">
   <h3 class="right-heading">
-    <a href="index.html?p=8">My Books</a>
+    <a href="https://orangette.net/books/">My Books</a>
   </h3>
   <div class="right-diptych">
-                <a class="right-image-link half" href="index.html?p=8#the-fixed-stars">
-        <img src="wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
+                <a class="right-image-link half" href="https://orangette.net/books/#the-fixed-stars">
+        <img src="https://orangette.net/wp-content/uploads/2019/10/3-331x500.jpg" alt="The Fixed Stars" data-pin-no-hover="true">
       </a>
-                <a class="right-image-link half" href="index.html?p=8#delancey">
-        <img src="wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
+                <a class="right-image-link half" href="https://orangette.net/books/#delancey">
+        <img src="https://orangette.net/wp-content/uploads/2015/07/delancey-book-328x500.jpg" alt="Delancey" data-pin-no-hover="true">
       </a>
       </div>
   <div class="right-image-link">
     <a href="http://www.jamesbeard.org/blog/2015-james-beard-award-winners">
-      <img src="wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/james-beard.jpg" alt="James Beard Foundation Award for Excellence" data-pin-no-hover="true">
     </a>
   </div>
 </div>
@@ -1368,9 +1368,9 @@ For those who are interested &#8211; after the first time I made this, I swapped
   <h4 class="right-subheading">Featured Posts</h4>
   <ul class="right-post-list">
           <li>
-        <a href="index.html?p=178">
+        <a href="https://orangette.net/2014/04/that-word-is-eat/">
           <div class="thumb">
-            <img width="380" height="250" src="wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
+            <img width="380" height="250" src="https://orangette.net/wp-content/uploads/2015/09/0499d-photo141-380x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">April 7, 2014</div>
             <h5 class="title">That word is eat</h5>
@@ -1378,9 +1378,9 @@ For those who are interested &#8211; after the first time I made this, I swapped
         </a>
       </li>
           <li>
-        <a href="index.html?p=26">
+        <a href="https://orangette.net/2015/03/the-bean-doctor/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/5da6c-_f7a5017-21-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">March 23, 2015</div>
             <h5 class="title">The bean doctor</h5>
@@ -1388,9 +1388,9 @@ For those who are interested &#8211; after the first time I made this, I swapped
         </a>
       </li>
           <li>
-        <a href="index.html?p=1851">
+        <a href="https://orangette.net/2015/07/well-go-from-left-to-right/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/22cef-_f7a57891-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">July 23, 2015</div>
             <h5 class="title">We&#8217;ll go from left to right</h5>
@@ -1398,9 +1398,9 @@ For those who are interested &#8211; after the first time I made this, I swapped
         </a>
       </li>
           <li>
-        <a href="index.html?p=221">
+        <a href="https://orangette.net/2014/01/in-it-together/">
           <div class="thumb">
-            <img src="wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
+            <img src="https://orangette.net/wp-content/uploads/2015/09/7fce5-9f7a03461-380x250.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />          </div>
           <div class="details">
             <div class="dateline">January 16, 2014</div>
             <h5 class="title">In it together</h5>
@@ -1414,35 +1414,35 @@ For those who are interested &#8211; after the first time I made this, I swapped
     <a href="http://www.spilledmilkpodcast.com">My Podcast</a>
   </h3>
   <a class="right-image-link" href="http://www.spilledmilkpodcast.com">
-    <img src="wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/spilled-milk.png" alt="Spilled Milk" data-pin-no-hover="true">
   </a>
 </div>
 <div class="right-section">
   <h4 class="right-subheading alt">
-    <a href="index.html?p=2521">Links of Note</a>
+    <a href="https://orangette.net/links/">Links of Note</a>
   </h4>
   <ul class="right-link-list">
-    <li><a href="http://sproutedkitchen.com/">Sprouted Kitchen</a></li>
-<li><a href="http://www.bonappetempt.com/" rel="noopener" title="Amelia Morris is really funny" target="_blank">Bon Appetempt</a></li>
-<li><a href="http://www.eatallaboutit.com/">Eat All About It</a></li>
-<li><a href="http://curiousbird.typepad.com/">Curious Bird</a></li>
-<li><a href="http://whippedtheblog.com/">Whipped</a></li>
-<li><a href="http://www.smittenkitchen.com/">Smitten Kitchen</a></li>
-<li><a href="http://www.doriegreenspan.com/dorie_greenspan/">Dorie Greenspan</a></li>
-<li><a href="http://www.bonappetit.com/magazine/2009/01/molly_wizenberg" rel="noopener" target="_blank">“Cooking Life,” my column in Bon Appétit (2008-2011)</a></li>
-<li><a href="http://lookimadethat.com/">i made that</a></li>
+    <li><a href="http://www.thewednesdaychef.com/berlin_on_a_platter/">Berlin on a Platter</a></li>
 <li><a href="http://worldsendfarm.com/blog/" rel="noopener" target="_blank">World&#039;s End</a></li>
-<li><a href="http://www.sweetamandine.com/">Sweet Amandine</a></li>
-<li><a href="http://angrychicken.typepad.com/">angry chicken</a></li>
-<li><a href="http://www.chocolateandzucchini.com/">Chocolate &amp; Zucchini</a></li>
-<li><a href="http://www.lottieanddoof.com/" rel="noopener" target="_blank">Lottie + Doof</a></li>
-<li><a href="https://glutenfreegirl.com">Gluten-Free Girl</a></li>
+<li><a href="http://www.elise.com/recipes/">Simply Recipes</a></li>
+<li><a href="http://www.poormansfeast.com/">Poor Man&#8217;s Feast</a></li>
+<li><a href="http://wednesdaychef.typepad.com/">The Wednesday Chef</a></li>
+<li><a href="http://www.bonappetempt.com/" rel="noopener" title="Amelia Morris is really funny" target="_blank">Bon Appetempt</a></li>
+<li><a href="http://www.101cookbooks.com/" rel="noopener" target="_blank">101 Cookbooks</a></li>
+<li><a href="http://jessthomson.wordpress.com/">Hogwash</a></li>
+<li><a href="http://www.eatdrinkonewoman.com/">eat drink one woman</a></li>
+<li><a href="http://www.leciawphinney.com/" rel="noopener" target="_blank">A Day That Is Dessert</a></li>
+<li><a href="http://camillaengman.blogspot.com/">Camilla Engman</a></li>
+<li><a href="http://coffeeinthewoodshed.com/" rel="noopener" target="_blank">Coffee in the Woodshed</a></li>
+<li><a href="http://www.bonappetit.com/magazine/2009/01/molly_wizenberg" rel="noopener" target="_blank">“Cooking Life,” my column in Bon Appétit (2008-2011)</a></li>
+<li><a href="http://journal.davidbyrne.com/">David Byrne Journal</a></li>
+<li><a href="http://www.36words.typepad.com/">habit</a></li>
   </ul>
-  <a class="right-more" href="index.html?p=2521">More</a>
+  <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
                 <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="index.html">
+          <form role="search" method="get" class="search-form" action="https://orangette.net/">
   <label>Search for:</label>
   <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
   <button type="submit" class="search-button icon-search"></button>
@@ -1450,17 +1450,17 @@ For those who are interested &#8211; after the first time I made this, I swapped
           <div class="overlay--close" data-behavior="close-search"></div>
         </div>
       </div><!-- /.page-content -->
-      <script async defer data-pin-hover="true" data-pin-color="white" src="https://assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
-  <a class="footer-logo" href="index.html">
-    <img src="wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
+      <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
+  <a class="footer-logo" href="https://orangette.net/">
+    <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo-footer.png" alt="Orangette">
   </a>
   <div class="footer-content">
     <nav class="footer-nav" role="navigation">
-      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="index.html?p=4">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="index.html?p=2567">Recipes</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="index.html?p=9012">Archive</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="index.html?p=8">Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="index.html?p=6">Events</a></li>
+      <div class="menu-primary-menu-container"><ul id="menu-primary-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2520"><a href="https://orangette.net/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="https://orangette.net/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9014"><a href="https://orangette.net/archive/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://orangette.net/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://orangette.net/events/">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a href="http://www.spilledmilkpodcast.com/">Podcast</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2588"><a href="http://feeds.feedburner.com/Orangette">Subscribe</a></li>
 </ul></div>    </nav>
@@ -1476,7 +1476,7 @@ For those who are interested &#8211; after the first time I made this, I swapped
       <div class="nav-overlay" data-behavior="close-nav"></div>
       <button class="elevator" data-behavior="jettison">Back to top</button>
     </div><!-- /.container -->
-    <script type='text/javascript' src='wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
-<script type='text/javascript' src='wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
+    <script type='text/javascript' src='https://orangette.net/wp-includes/js/comment-reply.min.js?ver=6.2.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://orangette.net/wp-content/themes/orangette/assets/js/main.js' id='sage/js-js'></script>
   </body>
 </html>

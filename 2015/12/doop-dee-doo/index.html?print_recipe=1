@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2015/12/doop-dee-doo/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I&#8217;ve made this with homemade chicken broth, and it was great, but it&#8217;s also great with a good not-homemade chicken broth, like <a href="http://www.betterthanbouillon.com/products/" target="_blank">Better Than Bouillon</a>.  No shame in that. (I use Better Than Bouillon&#8217;s organic line.)  Also, all quantities here are approximate.  If you want more carrots or zucchini, go for it, and feel free to try other vegetables, too. Maybe fennel? Onion?</p>
   </div>

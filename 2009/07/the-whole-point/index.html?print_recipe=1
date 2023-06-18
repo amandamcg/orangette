@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2009/07/the-whole-point/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>For this recipe, we use capers in brine, and we don’t rinse them after draining. And just so you know, you can multiply this recipe to make a lot at a time, but you’ll want to watch out for the garlic. Its flavor tends to grow exponentially, and it can quickly become overpowering. For large quantities, add garlic to taste.</p>
 <p>Oh, and just in case of confusion: the term salsa verde is a sort of catch-all used to describe a variety of green herb-based sauces, so if you’ve seen other salsa verde recipes that looked different from this one, that’s why. (For example, there’s a salsa verde in my book that uses cilantro, chiles, and lime juice. Nothing like this one, but pretty killer on roasted cauliflower.)</p>

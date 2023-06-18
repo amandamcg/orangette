@@ -1,96 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>Dinner, with a garden and lilies</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Rigatoni with Five Lilies and Ricotta Salata</h2>
-    <h3 class="subtitle">Adapted from <i>The Babbo Cookbook</i> and the <i>San Francisco Chronicle</i></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2006-07-11T19:27:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/pasta/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I tore this recipe out of the <span style="font-style: italic;">Chronicle</span> a few years ago, back when <span style="font-style: italic;">The Babbo Cookbook </span>first came out, and I’m kicking myself for not trying it earlier. If you feel any sort of affinity for either leeks or caramelized onions, do not delay: this recipe will be a keeper in your kitchen. It certainly will be in ours. To wit: between mouthfuls, Brandon said to me, “You know, your blog is really good for us. We’re such creatures of habit. If it weren’t for Orangette, we’d probably eat this every night for weeks.” I nodded, but what I really wanted to say was, “Screw the variety-for-the-sake-of-the-blog thing! I want more rigatoni.” Oh, Orangette, the sacrifices I make for you.</p>
-<p>A final note: Brandon tried squeezing a bit of lemon over his serving, and he found it quite tasty. At his suggestion, I have included optional lemon wedges below.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            3 Tbs extra-virgin olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 lb. sweet onions, such as Walla Walla or Vidalia, cut in half from stem to root and then into ¼-inch slices          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbs unsalted butter          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            5 medium garlic cloves, minced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ lb. leeks, cut into 1/8-inch rings and washed          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ lb. red onions, quartered and sliced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 bunch scallions, trimmed and cut into 2-inch lengths          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ cup water          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Salt, to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Pepper, to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 lb. rigatoni          </div>
-                      <h3>To serve:</h3>                  <div class="ingredient" itemprop="ingredients">
-            4 oz. ricotta salata, coarsely grated          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup finely chopped fresh Italian parsley          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 small handful chives, finely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Flaky sea salt, such as Maldon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Lemon wedges, optional          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In a large (12- to 14-inch) skillet, warm the olive oil over medium heat until hot but not smoking. Add the sweet onions, and reduce the heat. Cook over medium-low, stirring occasionally, until softened and translucent; then raise the heat to medium and cook, stirring often, until deeply golden and caramelized. Remove the pan from the heat, and transfer the onions to a bowl. Set aside.</p>
-<p>In the same skillet, heat the butter over medium heat. When it has stopped foaming and is thoroughly melted, add the garlic, leeks, red onion, and scallions, and cook, stirring regularly, until very soft and golden. Add the water, and cook until the liquid evaporates. Season lightly with salt. Remove from the heat, and stir in the sweet onions.</p>
-<p>Bring a large pot of salted water to a boil, and cook the rigatoni until tender but al dente. In the last minute of cooking, return the onion mixture to medium-high heat. Drain the pasta, add it to the onion mixture, and toss over medium-high heat for 1 minute. Remove from the heat and toss more, if necessary, to thoroughly disperse the onions amidst the pasta. Serve immediately, topped with plenty of ricotta salata and sprinklings of parsley and chives. Salt as needed, and finish with a quick squeeze of lemon, if you like.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 servings</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

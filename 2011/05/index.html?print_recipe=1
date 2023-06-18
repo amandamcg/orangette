@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2011/05/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I pick up kimchi whenever I’m near a Korean market or Uwajimaya, but Ballard Market, my neighborhood grocery store, also carries it. They sell a couple of different brands, but I usually buy Island Spring. It’s made about half an hour away, on Vashon Island, and it has good flavor and heat. Matthew, however, makes his own kimchi, and it’s fantastic. Maybe he’ll teach me how someday. David Lebovitz also has <a href="http://www.davidlebovitz.com/2008/02/a-kimchi-recipe/">a recipe for it</a>.</p>
 <p>As for rice, the best type for this recipe is Calrose, a medium-grain, Japanese-style white rice from California. But I’ve also used Thai jasmine rice, which is nice &#8211; though when you fry it, it tends to stick aggressively to the pan. Whatever you use, cook it a day or two ahead, cool it, and chill it. If possible, allow it to come to room temperature before frying.</p>
@@ -91,7 +91,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2011/05/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original recipe called for white button mushrooms, but because I like crimini mushrooms more, that’s what I chose. And for the mayonnaise, I used Best Foods (also sold as Hellmann’s). Homemade would be terrific, but there’s nothing wrong with Best Foods.</p>
 <p>Also: the flavor of this salad really deepens with time, so consider making it a day (or even two) before you want to eat it.</p>

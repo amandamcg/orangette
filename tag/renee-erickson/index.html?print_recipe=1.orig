@@ -1,138 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>No one awake but us</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Renee's Messy Prawns</h2>
-    <h3 class="subtitle">Adapted very slightly from <a href="http://amzn.to/1nT7V24">A Boat, A Whale, and A Walrus</a>, by Renee Erickson</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2016-02-08T17:19:50-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/renee-erickson/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Renee&#8217;s original recipe calls for spot prawns, but they&#8217;re highly seasonal and tough to find outside the Pacific Northwest, and anyway, this is delicious with any shell-on large (31/35) or extra-large (26/30) shrimp. Renee used local Baja shrimp to make the recipe at Rancho Pescadero.</p>
-<p>In any case, eat these prawns from the outside in, sucking the sauce from the shell before peeling the shrimp, dredging it in the buttery sauce, and popping it in your mouth. As Renee says, &#8220;Start by making a mental commitment to getting a little messy. Suck on the open end of the shell first, then on the tail. Finally, uncurl the thing, so its legs are splayed out, the same way you used to eat an orange wedge when you were a kid. Only after you&#8217;ve sucked the juices and seasonings out of the legs can you peel and eat it.&#8221; Serve with a baguette for sopping up juices, and a wet towel for each guest, for cleaning hands.</p>
-<p>Oh, and this recipe comes together very, very quickly, so be sure to prep all the ingredients before you begin, and keep them close at hand.</p>
-<p>Note, also, that this recipe doubles easily &#8211; but you&#8217;ll want to cook the shrimp in two pans, so as not to crowd them.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            1 ½ pounds (680 grams) shrimp or spot prawns, shells on          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 stick (113 grams) unsalted butter, divided          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large garlic cloves, peeled and very thinly sliced, divided          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 teaspoons piment d'Espelette or hot paprika (<i>not</i> smoked), divided          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tablespoons freshly squeezed lemon juice, divided          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            About 1/4 cup chives, snipped into ½-inch pieces          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Heat a large, heavy skillet over high heat. When hot, add half of the butter (56 grams) to the pan. When the butter is melted and bubbling, add enough shrimp to cover the pan in a single layer, using about half of them. (You don&#8217;t want to overcrowd the pan, because the shrimp need to brown, not steam.) Season them generously with salt, and let them cook for 1 minute on the first side. Sprinkle the shrimp evenly with half of the garlic and half of the piment d&#8217;Espelette, and flip them over in the pan. Add half of the lemon juice to the pan &#8211; this will prevent the butter from browning too much &#8211; and cook for another minute or two, until the prawns curl and the shells begin to brown.</p>
-<p>Transfer the shrimp and Espelette butter to a large platter, and repeat with the remaining butter, prawns, salt, garlic, piment d&#8217;Espelette, and lemon juice, letting the pan come back up to temperature between batches, if necessary.</p>
-<p>Serve the prawns hot, garnished with the chives, and go at it.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 3 to 4 servings</p>
-  </section>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Salted Chocolate Cookies</h2>
-    <h3 class="subtitle"> Adapted from <span style="font-style: italic;"><a href="http://www.amazon.com/Tartine-Elisabeth-Prueitt/dp/0811851508/?_encoding=UTF8&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325" target="_blank">Tartine</a></span>, by Elisabeth M. Prueitt and Chad Robertson, and from Renee Erickson and <a href="http://www.boatstreetcafe.com/" target="_blank">Boat Street Café</a></h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2012-01-12T06:51:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/renee-erickson/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Renee tells me that when they make these cookies at Boat Street, they use Valrhona “Guanaja” 70% chocolate, so that’s what I used, too. Whatever brand of chocolate you choose, make sure you love it, because that’s what the finished cookies will taste like. 70% cacao is ideal, but anything above 60% will do the job. And if you can’t find Maldon salt, a coarse sea salt will probably be just fine.</p>
-<p>At Boat Street, they make these cookies quite small, about 1 ½ inches across. At home, I made half of the dough into small cookies, and I made the other half into more normal-sized ones, about 2 ¼ to 2 ½ inches across. I think I prefer the latter. In any case, if you want small cookies, divide your dough into four portions, and shape each portion into a skinny log, about an inch in diameter. For larger cookies, shape your dough into two logs, each about 1 ½-inches in diameter. Whichever way, you’ll wind up with a lot of cookies. I forgot to count them before we started eating them, so I don’t have an accurate yield size for you. Sorry! But really, you’ll have a LOT.</p>
-<p>Last, note that this dough tastes best &#8211; and is easiest to work with &#8211; when it’s been allowed to rest in the fridge for a day or so before baking.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            225 grams (8 ounces) bittersweet chocolate, coarsely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            155 grams (1 ¼ cups) all-purpose flour          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            50 grams (½ cup plus 2 Tbsp.) unsweetened cocoa powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. baking powder          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            115 grams (8 Tbsp.) unsalted butter, at room temperature          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            225 grams (1 cup plus 2 Tbsp.) sugar, plus more for rolling the logs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. table salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            75 ml (1/3 cup) whole milk          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Maldon salt, for finishing          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Pour water into a saucepan to a depth of about 2 inches. Bring to a simmer. Put the chocolate in a heatproof bowl that will rest securely on the rim of the saucepan, and place it over – not touching – the simmering water. (Make sure that the bowl is completely dry before putting the chocolate into it, and take care that no moisture gets into the chocolate. Moisture will cause it to seize.) Heat, stirring occasionally, just until the chocolate melts and is smooth. Remove from the heat and set aside to cool.</p>
-<p>In a medium bowl, whisk together the flour, cocoa, and baking powder. Using a stand mixer fitted with the paddle attachment, beat the butter on medium-high speed until creamy. Slowly add the sugar, and continue to beat until the mixture is completely smooth and soft, stopping to scrape down the sides of the bowl with a rubber spatula as needed. Add the eggs one at a time, mixing well after each addition. Beat in the salt and the vanilla, and then add the melted chocolate, beating to incorporate. Add the milk, and beat until combined. Finally, add the flour mixture and beat on low speed until just incorporated. The dough will be quite thick and stiff.</p>
-<p>Depending on what size cookie you’d like to wind up with (see headnote, above), divide the dough into 2 or 4 portions. Put each portion on a large piece of plastic wrap, and shape into a log, using the wrap to help you smoosh, roll, and smooth it. Twist the ends to seal. Chill overnight. (If you’re into advance planning, the dough can probably be kept in the fridge for at least a week, or frozen for longer keeping.)</p>
-<p>When you’re ready to bake the cookies, preheat the oven to 350°F, and line a baking sheet with parchment paper.</p>
-<p>Put another sheet of parchment paper on your work surface. Take a spoonful or two of sugar, and pour it onto the parchment, making a ridge of sugar of approximately the same length as your dough logs. Remove a log from the fridge, unwrap it, and roll in the sugar to evenly coat. Using a thin, sharp knife, slice the dough into ¼- to 1/3-inch slices. (If you’re making small cookies, the 1/3-inch thickness is best.) Lay the slices on the baking sheet, leaving about 2 inches between each cookie. Sprinkle each cookie with a few flakes of Maldon salt.</p>
-<p>Bake for 10 minutes, or until the top of the cookies looks set but still feels a little soft to the touch. Transfer to a wire rack, and leave the cookies on the pan to cool. Repeat with remaining dough.</p>
-<p>Note: These cookies will keep at room temperature for several days.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: a lot</p>
-  </section>
-                  <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

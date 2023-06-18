@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/le-repaire-de-cartouche/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I use golden brown sugar here, because it’s what I usually have, but if you have dark brown sugar, go ahead and try it. And then let me know how it is.  Also, I know this seems like a lot of sugar, but trust me.</p>
   </div>

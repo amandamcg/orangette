@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2014/10/?print_recipe=1" class="print icon-print"></a>
     </nav>
       </div>
 
@@ -85,7 +85,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2014/10/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Note that you’ll want to pit the plums before weighing them. You’re doing this recipe by weight, and you don’t want the pits to mess up your 2:1 plum-to-sugar ratio.</p>
 <p>Also, listen: I know the instructions that follow are <i>long</i>. I wanted to go into as much detail as possible, because I understand that jam-making can seem mysterious. But once you’ve tried it, I doubt you’ll need to read the instructions again. Jam-making is a very tactile thing, all about watching and listening and prodding, and I get better at it, more instinctual, every time I do it.</p>

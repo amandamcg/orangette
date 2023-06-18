@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2010/05/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original version of this recipe calls for fresh peas, but I used frozen instead. If you choose to use frozen, I recommend buying the kind labeled “petite peas,” which tend to be smaller and sweeter. If you think of it, try to defrost them slightly before using them here. But if not, just bang the bag around on the counter to break up any big clumps.</p>
   </div>
@@ -82,7 +82,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2010/05/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This recipe uses dry yeast, which is often sold as “active dry” yeast. It’s different from instant yeast (often sold as “rapid rise”), so be careful not to confuse the two, even though the packaging often looks similar.</p>
 <p>Most waffle recipes work in any kind of waffle maker, but I get the sense that this one is intended for use on a standard (not Belgian) waffle maker. Mine is Belgian-style, and the batter was a bit too thin to really fill it properly. It wasn’t a biggie – they still taste great, and they’re pretty on one side, at least – but just, you know, FYI.</p>
@@ -132,7 +132,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2010/05/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This recipe in its original form calls for dipping the bread in butter. On both sides. I tried it, and the bread got so saturated that it sort of terrified me. There was a LOT of butter in that little piece of bread. I found that brushing on the butter is a more moderate, palatable approach, and it still works very well. Either way, you’re going to use quite a bit of butter, and please don’t freak out about that. If it helps, keep reminding yourself that this is not breakfast; this is a cookie. Make it your mantra.</p>
 <p>Also, the original version of the recipe calls specifically for Pepperidge Farm white bread. My grocery store didn’t have any, so I used Franz brand “Milk and Honey” bread instead. Whatever brand you use, make sure that it’s not too squishy and spongy. The quantities of butter and cinnamon sugar listed below should be pretty close to perfect for six slices of sandwich bread, but if you have extra butter or sugar, just use more bread.</p>

@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>June didn&#8217;t like the scallion flavor in the peas, so next time, I&#8217;ll be leaving the scallions out. I like it either way.</p>
   </div>
@@ -90,7 +90,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>You could use any kind of cucumber here, but the fewer the seeds, the better. Oh, and if you can get it, Daisy is my favorite brand of sour cream. And for eating, potato chips with ridges are key for getting the &#8220;very most amount of dip possible,&#8221; in Natalie&#8217;s words.</p>
   </div>
@@ -123,11 +123,11 @@
   </header>
 
       <figure class="hero">
-      <img width="1324" height="882" src="../../wp-content/uploads/2015/09/2359b-_f7a59991-1324x882.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" itemprop="photo" srcset="../../wp-content/uploads/2015/09/2359b-_f7a59991-1324x882.jpg 1324w, ../../wp-content/uploads/2015/09/2359b-_f7a59991-662x441.jpg 662w, ../../wp-content/uploads/2015/09/2359b-_f7a59991-870x580.jpg 870w, ../../wp-content/uploads/2015/09/2359b-_f7a59991.jpg 1600w" sizes="(max-width: 1324px) 100vw, 1324px" />    </figure>
+      <img width="1324" height="882" src="https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-1324x882.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" itemprop="photo" srcset="https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-1324x882.jpg 1324w, https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-662x441.jpg 662w, https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991-870x580.jpg 870w, https://orangette.net/wp-content/uploads/2015/09/2359b-_f7a59991.jpg 1600w" sizes="(max-width: 1324px) 100vw, 1324px" />    </figure>
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>These popsicles will only taste as good as the watermelon you start with, so start with a sweet, flavorful one. Oh, and you can omit the vodka, if you want.</p>
   </div>
@@ -167,7 +167,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>You will note that there’s no sugar in this recipe, which means that you need to be thoughtful about the chocolate you use, because that’s what will bring sweetness. Brown calls only for &#8220;bittersweet chocolate,&#8221; but when I tried using 70% cacao chocolate, which I think of as a pretty standard percentage for bittersweet, it made for a <i>very</i> bittersweet popsicle. More bitter than sweet. Brandon loved it, and June ate it, but it wasn’t really my thing. I like to combine two types of chocolate for this recipe: Valrhona “<a href="http://www.valrhona-chocolate.com/shop/Jivara-40-10978.html" target="_blank">Jivara</a>” 40% milk chocolate, and Valrhona “<a href="http://www.valrhona-chocolate.com/shop/Manjari-64-10976.html" target="_blank">Manjari</a>” 64% dark chocolate. I use four ounces, or 113 grams, of each. (Yes, they are wildly expensive! I know. We buy them in 3-kg bags at the restaurant, and I regularly steal some for my home use. I am a lucky bastard.) If you don’t want to shell out like that, Scharffen Berger also has a good <a href="http://shop.scharffenberger.com/41-Milk-Chocolate-Bar/p/SFB-CBMILK&amp;c=ScharffenBerger@Chocolate@Milk" target="_blank">41% milk chocolate</a>, and my guess is that it would blend nicely here with either the <a href="http://shop.scharffenberger.com/62-Semisweet-Chocolate-Bar/p/SFB-CBSEMI&amp;c=ScharffenBerger@Chocolate@Dark" target="_blank">62% semisweet</a> or the <a href="http://shop.scharffenberger.com/70-Bittersweet-Chocolate-Bar/p/SFB-CBBITTER&amp;c=ScharffenBerger@Chocolate@Dark" target="_blank">70% bittersweet</a>. Whatever chocolate you choose, I wouldn’t recommend going above 64%, at the highest.</p>
 <p>And as for popsicle molds, I use <a href="http://coldmolds.com/index.php/pop-molds/product/41-cmp4210" target="_blank">these</a>.</p>
@@ -207,7 +207,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The season for sour cherries is short, and they can be hard to find. But keep an eye out: they’re small, bright red, and often labeled as Montmorency cherries. (Or, if they’re dark red, they’re probably the other main sour variety, morello.) You can pit them with a cherry pitter, or you can do it by hand: just pull gently on the stem with one hand while you gently squeeze the cherry with the other. Usually the pit will slip right out with the stem. Usually. (And if not, they’re still easy to pit by hand, tearing them open and pulling out the pit with your fingers. Be sure to do it over a bowl, so as not to lose any juice.) If you can’t get fresh sour cherries, Matthew says that jarred or canned sour cherries (note: not pie filling!) make a good substitute, and that the jarred morello cherries from Trader Joe’s are his favorite.</p>
 <p>Oh, and don’t feel as though you have to have two full pounds of cherries on hand to make this recipe! Sour cherries are expensive! I get it. I only had about 12 ounces last weekend, myself, so I just scaled back accordingly, using about one and a half cups of ice cream. We wound up with three small shakes, perfect for an afternoon snack.</p>
@@ -240,7 +240,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>A word about popsicle molds: I use <a href="http://coldmolds.com/index.php/pop-molds/product/41-cmp4210" target="_blank">these silicone ones</a>, which I learned about from the book <i><a href="http://www.amazon.com/gp/product/1607743906/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1607743906&amp;linkCode=as2&amp;tag=orangette-20&amp;linkId=D74SRCKETJDQ5J3Y" target="_blank">Modern Art Desserts</a></i>, by Caitlin Freeman. (And high five to my talented friend <a href="http://leahrosenberg.com/" target="_blank">Leah Rosenberg</a>, who called my attention to the <a href="http://www.mercurynews.com/ci_23132267/recipe-zurier-ice-pop" target="_blank">Zurier Pops</a> recipe and inspired me to get these molds. Leah, when I bought strawberries last week, I <i>meant</i> to make Zurier Pops, but I got lazy. But I still will. I swear.) Anyway, if you’re using silicone molds like mine, which are soft and pliable, don’t forget to set the molds on a sheet pan before filling them! That way, they’ll be easy to transport to the freezer. And don’t forget to insert the popsicle sticks into the mold before filling, either. It all sounds obvious, but you never know.</p>
 <p>I also have <a href="http://www.amazon.com/Norpro-423-Ice-Pop-Maker/dp/B0002IBJOG/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=popsicle%20molds&amp;linkCode=ur2&amp;qid=1403542718&amp;sr=8-2&amp;tag=orangette-20&amp;linkId=ELB7VLU4D37UMIGN" target="_blank">this popsicle mold</a>, but we loaned it to a friend (ahem, Katie), so I haven’t been able to try it yet. I’ll report back. I have a feeling it’ll be better for very liquid-y pops than the silicone molds, which might leak. Lastly, if you’re using <a href="http://www.amazon.com/Luminarc-6-Piece-Drink-Islande-2-25-Ounce/dp/B005EEYKQC/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=vodka%20shot%20glass&amp;linkCode=ur2&amp;qid=1403408105&amp;sr=8-8&amp;tag=orangette-20&amp;linkId=BU6MQMWLKTFVMFLM" target="_blank">vodka shooter glasses</a>, which is what I used when we served popsicles at <a href="http://delanceyseattle.com/" target="_blank">Delancey</a>, you’ll want to pour the mixture into the glasses; freeze them for 20 to 30 minutes, or until the mixture begins to set; insert the popsicle sticks; and then freeze them until they’re hard. To serve, briefly run the sides of the glass under tepid water to loosen the popsicle, and gently twist the stick as you lift.</p>
@@ -281,7 +281,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>You could use any sweet-ish white wine here, though I particularly love the flavor of apricots with an off-dry riesling. (I’ve been using <a href="http://www.winesofthegorge.com/index.html" target="_blank">Memaloose</a> 2012 Idiot’s Grace Riesling.) I’ve also used <a href="http://www.alpenz.com/images/poftfolio/dolinvermouthfacts.htm" target="_blank">Dolin</a> Blanc vermouth and <a href="http://www.cocchi.it/eng/americano.htm" target="_blank">Cocchi Americano</a>, and both have yielded great results. You’re also welcome to try a drier white wine, or a rosé, and if you do, please report back.</p>
   </div>
@@ -320,7 +320,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>A word (or many words) about flour: using <a href="http://glutenfreegirl.com/2012/07/how-to-make-a-gluten-free-all-purpose-flour-mix/" target="_blank">Shauna’s 40/60 ratio</a> for gluten-free baking, I whisked up a batch of all-purpose flour mix from 100 grams of buckwheat flour, 100 grams of brown rice flour, and 300 grams of tapioca flour.  (I then used 170 grams of this mixture in the recipe.)  I have no idea how well this mix of flours would work in other recipes, and I probably did everything wrong, but it worked nicely here, yielding a crust with a crunchy, slightly nubbly texture and great buckwheaty flavor.  The one thing that I will say, however, is that the crust wept a not-insignificant amount of butter onto the sheet pan.  I have to assume that this had something to do with the mix of flours I used, and their properties? Anyway, I doubt that the original recipe, as Heidi conceived it, has a butter-weeping problem.  In any case, consider yourself alerted. If your crust leaks a little butter onto the sheet pan, don’t worry.  That’s why the sheet pan is there.</p>
 <p>And one more word about flour: even if you do eat gluten, as I do, you really should consider using some buckwheat flour. The next time I make this tart, I might try using a mixture of buckwheat flour and standard all-purpose flour &#8211; maybe one-third buckwheat and two-thirds all-purpose?  Not that white whole wheat flour or whole wheat pastry flour are not interesting enough, but I really love what buckwheat brings to this crust.</p>
@@ -376,7 +376,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I bought my corn late last week and didn’t have time to cook it before we went camping, so I cut it off the cob, spread it in a single layer on a sheet pan, and froze it. Then, before I cooked it today, I let it defrost in a colander for about 30 minutes, shaking the colander a couple of times. It worked very nicely, and based on that, I am happy to say that you don’t have to use fresh corn kernels for this recipe! You can make it at any time of year, with frozen corn. If it simplifies things, note that you will need 10 to 12 ounces of kernels for a single batch.</p>
 <p>Also, I used a 10-inch cast-iron skillet here, but you can use whatever kind of skillet you have.</p>
@@ -419,7 +419,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Lindsey Shere was Chez Panisse’s original pastry chef, and I love her style. She approaches even the simplest desserts with elegance and great precision. This cobbler is a good example of that.</p>
 <p>The original version of this recipe calls for boysenberries, blueberries, and raspberries. I make it with roughly 3 cups of blueberries and 1½ cups of raspberries, and I love the flavor that results. I think I’ll be sticking with that combination for a while, although I might be tempted to work in some blackberries. The only berries that don’t work so nicely here are strawberries. The texture gets weird: spongy and slimy, a little reminiscent of a jellyfish. Oh, and if you’re using frozen berries, I recommend thawing them at least partially, or else they take a little longer to cook.</p>
@@ -471,7 +471,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>These pops are perfectly tangy and perfectly sweet, and the best part is, the yogurt flavor really shines. Be sure to use whole-milk yogurt, not low-fat or nonfat. It tastes better, and it makes for a better tasting popsicle. I buy my popsicle sticks at Fred Meyer, but you can also find them at craft stores.</p>
 <p>Lastly, I should tell you that these popsicles will not be as smooth, texture-wise, as churned frozen yogurt. They will be a little icy &#8211; you know, like a popsicle.</p>
@@ -510,7 +510,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I’ve tried this method with a couple of different wines, but my favorite is <a href="http://www.charlesnealselections.com/wine/southwest/pellehaut-cotes-gascogne/">Domaine de Pellehaut “Harmonie de Gascogne.”</a> It’s on our wine list, and it’s hard not to love: crisp and light, a little grapefruity, not too expensive &#8211; and perfect, perfect for peaches. And about the peaches themselves: be sure to choose specimens that are firm and meaty, not watery or mealy.</p>
   </div>
@@ -545,7 +545,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/summer/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I made my own breadcrumbs for this, but it’s not really necessary. It is nice, though. If you happen to have some leftover baguette lying around, or some crusty white bread or something like that, it will take you about 5 minutes. Just cut off the crust, cut the soft center into cubes, and whirl the cubes in a food processor until they are reduced to fine crumbs. (Only process a couple of handfuls at a time, though, or the motor of the machine could overheat.)</p>
   </div>

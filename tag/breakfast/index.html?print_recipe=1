@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/breakfast/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>You can use any nuts you like here – or even seeds, if you want to. That’s the beauty of measuring by weight: as long as you use about 400 grams in all, it doesn’t matter which nuts or seeds you use or how much of each. I most often use almonds and walnuts, which I coarsely chop, but I also like to throw in some pecans now and then.</p>
 <p>About kosher salt, take note: I use Diamond Crystal brand, which is less salty than Morton. If you use the latter, you’ll probably only want to use about 1 ½ teaspoons.</p>
@@ -82,7 +82,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/breakfast/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This batter requires an overnight rest, so keep that in mind when you decide to make it! Most of the work is done the night before, and that requires some planning, but you’ll be amply rewarded in the morning.</p>
 <p>This recipe uses active dry yeast, which should not be confused with instant (also sold as “rapid rise”) yeast. And as for the warm water and warm milk, they need not be very warm. Tepid is fine. In any case, it’s better to err on the cool side than the hot side. The most recent time I made this recipe, I actually didn&#8217;t warm the milk at all, and it was absolutely okay. The only thing to watch out for with cold milk, though, is that it could re-solidify the melted butter. So if you happen not to warm your milk, for whatever reason, just do as I did: briefly mix together the milk, salt, sugar, and flours, and then stir in the melted butter bit by bit. This way, the cold milk and melted butter don’t run straight into each other and make trouble.</p>
@@ -136,7 +136,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/breakfast/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This recipe uses dry yeast, which is often sold as “active dry” yeast. It’s different from instant yeast (often sold as “rapid rise”), so be careful not to confuse the two, even though the packaging often looks similar.</p>
 <p>Most waffle recipes work in any kind of waffle maker, but I get the sense that this one is intended for use on a standard (not Belgian) waffle maker. Mine is Belgian-style, and the batter was a bit too thin to really fill it properly. It wasn’t a biggie – they still taste great, and they’re pretty on one side, at least – but just, you know, FYI.</p>
@@ -186,7 +186,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/breakfast/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>If you want to add blueberries here, you can use fresh or frozen. (And if you’re using frozen, there’s no need to thaw them. The hot pan will do that for you.) I don’t like to stir the berries into the batter, because then you wind up with weird purple streaks, so I press them into the individual pancakes as they cook. You can use however many berries you want, but be sure to add them after the pancakes have cooked on their first side for a minute or two, so that the batter has time to start to set. When you flip the pancakes, the heat of the pan will make the berries sizzle and soften nicely.</p>
 <p>Also, if you find yourself with any leftover pancakes, as I often do, know that they are delicious. This past Saturday, I had three left over, so I put them in a plastic bag on the kitchen counter, and I ate them cold that night, after going out for a drink, a completely undrinkable drink, with a girlfriend. I love gin, and I love Lillet, and I have nothing against Scotch, but apparently I do not care for the union of gin, Lillet, and Scotch. Cold pancakes saved the day.</p>

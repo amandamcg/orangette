@@ -1,3 +1,0 @@
-# orangette
-
-hello world

@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/jerzy-boyz/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>My neighborhood grocery store carries <a href="http://www.lylesgoldensyrup.com/index.php" target="_blank">golden syrup</a>, and in general, I think it’s getting easier to find in the US every day. I usually keep a jar in the cabinet for making <a href="http://www.bonappetit.com/recipes/2010/03/british_flapjacks" target="_blank">flapjacks</a>. I didn’t have quite enough golden syrup for this cake recipe, so I added honey to make up the difference. Worked just fine.</p>
   </div>

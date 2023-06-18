@@ -1,89 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>Let&#8217;s wing it</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Stir-fried Minced Beef with Chiles and Basil</h2>
-    <h3 class="subtitle">Adapted from <a href="http://www.rootsandgrubs.com/2011/11/01/pork-and-rice/">Matthew-Amster Burton</a> and <i><a href="http://www.amazon.com/Thai-Street-Food-David-Thompson/dp/158008284X/?_encoding=UTF8&amp;tag=orangette-20&amp;linkCode=ur2&amp;qid=1338012181&amp;camp=1789&amp;sr=8-1&amp;creative=9325">Thai Street Food</a></i>, by David Thompson</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2012-06-18T22:39:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2012/06/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>In Thailand, the eggs would be fried in the wok, either before or after cooking the rest of the dish. But Matthew claims that he always breaks the yolk when he does it that way, and he’s ten times better at stir-frying than I am, so I cook the eggs separately, in a skillet.</p>
-<p>As for the chiles, the number that you use is up to you. I used five chiles the first time I made this, and it was pleasantly fiery. The second time I made it, I was eating solo and decided to go a little milder, so I used only three chiles. (You can always remove some of the seeds, too.)  Oh, and if you have an exhaust fan over your stove, turn it on. I always forget until the chiles hit the hot wok and I have a coughing fit.</p>
-<p>Also note: this dish comes together very, very quickly, so be sure that you’ve measured out and prepped your ingredients and have them close at hand.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            3 to 4 large garlic cloves, chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 to 10 Thai (also called bird’s eye) chiles, sliced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A pinch of salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. peanut oil, divided          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 oz. (170 grams) ground beef          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. fish sauce, or more to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A pinch of sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/4 cup (60 ml) chicken stock or water          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large handfuls of basil leaves          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Hot cooked jasmine rice          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large eggs          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 lime wedges          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Stir together the garlic, chiles, and salt. Heat a wok or large skillet over high heat, add 1 tablespoon oil, and add the garlic, chiles, and salt. Stir-fry for a few seconds until fragrant, then add the beef. Continue to cook, stirring, until the beef is cooked through and just starting to brown. Add 1 tablespoon fish sauce and the sugar. Add the basil and stock or water, and stir just until the basil is wilted. Remove from the heat.</p>
-<p>Meanwhile, warm the remaining 1 tablespoon oil in a separate skillet, and fry the eggs. The proper fried egg for this dish, Matthew says, has a runny yolk but a browned and crispy underside.</p>
-<p>Scoop the rice into bowls, and then divide the beef and its juices over the top. Crown with the fried eggs. Serve immediately, with a good squeeze of lime.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 2 servings</p>
-  </section>
-                  <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/better-than-it-looks/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original recipe called for white button mushrooms, but because I like crimini mushrooms more, that’s what I chose. And for the mayonnaise, I used Best Foods (also sold as Hellmann’s). Homemade would be terrific, but there’s nothing wrong with Best Foods.</p>
 <p>Also: the flavor of this salad really deepens with time, so consider making it a day (or even two) before you want to eat it.</p>

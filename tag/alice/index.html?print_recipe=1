@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/alice/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Hot Cakes Confections uses a brand of natural peanut butter called Aunt Patty’s, but I used <a href="http://www.adamspeanutbutter.com/product" target="_blank">Adams</a> Natural Peanut Butter, which is what I keep at home. (Note that I buy the kind that needs to be stirred well before using, not the no-stir kind. And make sure not to accidentally buy the unsalted one. Hate it when that happens.)</p>
 <p>For the milk chocolate, Hot Cakes uses <a href="https://www.theochocolate.com/store/products/chocolate-bars/classic-collection/45-milk-chocolate" target="_blank">Theo milk chocolate</a>. I also love the milk chocolate made by <a href="http://shop.scharffenberger.com/41-Cacao-Extra-Rich-Milk-Chocolate/p/SFB-CBMILK&amp;c=ScharffenBerger@Bars" target="_blank">Scharffen Berger</a>. I’ve also tried <a href="http://ghirardelli.com/products/chips_milk.aspx" target="_blank">Ghirardelli</a> milk chocolate chips, which aren’t great, but they get the job done. Whichever you use, note that I call for a larger amount than the original recipe: it calls for about 115 grams (4 ounces) milk chocolate, but I like 170 grams (6 ounces).</p>

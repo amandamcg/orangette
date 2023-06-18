@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2010/10/drop-everything/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>My friend Keena learned to make this gazpacho from her sister-in-law Margot. But I still call it Keena’s Gazpacho, because she’s put her own twist on it. Here are some notes to consider before you start:</p>
 <p>&#8211; Keena uses heirloom tomatoes for their flavor and color, and at a minimum, she uses at least one yellow tomato, so that the finished gazpacho has a beautiful orange color. She tells me that when she tried making the recipe with only red tomatoes, it worked fine, but the taste seemed a little flatter and the color was less pretty. Her sister-in-law once made it using all Green Zebra heirloom tomatoes and a yellow pepper instead of a red one, and the resulting gazpacho was a pretty shade of green. Whatever tomatoes she uses, Keena makes this gazpacho in a 7-cup blender, and the size of the blender determines how many tomatoes you can use. She uses as many as will fit in her blender jar.</p>

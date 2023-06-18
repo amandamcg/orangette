@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2011/02/by-popular-demand/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>At home, I serve this drink in a Champagne coupe, but at the Walrus and the Carpenter, they put it in a martini glass. Frankly, I like it so much that I could probably be convinced to drink it out of a rusty bucket, so serve it in whatever you like.</p>
 <p>Also, consider the amount of Aperol below a starting point. I like to use a little more. And if you have sparkling wine on hand, try substituting it for the white wine &#8211; a great variation.</p>

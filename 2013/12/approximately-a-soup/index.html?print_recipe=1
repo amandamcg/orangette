@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2013/12/approximately-a-soup/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This soup is very thick, but not quite as thick as risotto.  You could, in theory, eat it with a fork, but you’ll want to use a spoon.</p>
 <p>I should also add that I didn’t make my broth from scratch.  I used <a href="http://www.superiortouch.com/retail/products/better-than-bouillon/organic-bases/38/organic-chicken-base" target="_blank">Better Than Bouillon Organic Chicken Base</a>, my store-bought standby.</p>

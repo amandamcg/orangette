@@ -1,85 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>Every Tuesday</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Ricardo's Famous Guacamole</h2>
-    <h3 class="subtitle">Adapted from Ricardo Valdes</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2014-09-27T04:45:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/tag/guacamole/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>If you don’t mind the expense, it’s a good idea to buy a couple more avocados than you actually need for this recipe. Inevitably, one will have some gnarly spots of rot inside, and you’ll want to throw it out. Also, don’t cut open your avocados until you’ve prepped the rest of the ingredients, because the flesh browns quickly when exposed to air.</p>
-<p>Last, note that this recipe scales up nicely. At Essex, our batches are ten times this size, and we mix them in a bowl big enough to sit in.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 teaspoons lime zest (about 1 lime’s worth)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ cup (60 ml) lime juice (about 2 limes’ worth)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 tablespoons finely chopped red onion (about 1/8 of an onion)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A handful of chopped cilantro (about ¼ of a bunch)          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ of a jalapeno, seeded and finely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ of a serrano, seeded and finely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ of a garlic clove, pressed          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 teaspoons olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A couple of generous pinches of kosher salt          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A couple of grinds of black pepper          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 firm-ripe avocados          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Prepare all of the ingredients, and keep them close at hand. Then, and only then, cut the avocados in half, remove and discard the pits, and (very carefully, with the avocado skin still on) cube the flesh of the avocados with a small knife. Use a spoon to scoop the cubed flesh into a medium bowl. Dump the rest of the ingredients on top of the avocados, and then go after the mixture with two forks or a potato masher, stirring and smashing until you like the texture. Taste, and adjust seasoning. It will likely need more salt, and you may also want more black pepper. If you’d like your guacamole to be spicier, add more chopped jalapeno or serrano. If you’d like more garlic flavor, add another half a clove. Note that the freshly made guacamole will be quite lime-y, but don’t worry, because the lime flavor will mellow with time. (That said, if you still think the lime is too dominant, feel free to add a dribble of olive oil.)</p>
-<p>When the flavor is to your liking, press plastic wrap directly against the surface to keep air away, and chill for at least 1 hour before serving. Guacamole will keep this way without browning for at least a day, and it’ll still taste good after a few days, though it will probably discolor at the surface.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: depends on how guacamole-crazed you are, but probably enough for 4 to 8 adults</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

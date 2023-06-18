@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2012/10/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>I think of this as a garbage disposal-style recipe, and I hope you won’t take that the wrong way. What I mean is, you can throw your nearly dead bananas at it, and your leftover hot cereal from this morning, and that bag of dark rye flour you’ve had lying around in the refrigerator since <a href="http://orangette.blogspot.com/2012/03/best-part-of-job.html" target="_blank">last March</a>. Or, if you’re short a banana but happen to have some applesauce, put a little of that in instead. I might even try using leftover oatmeal next time, instead of the cracked grain cereal.</p>
 <p>Another note: Boyce calls for creaming butter when it’s cold, rather than room temperature. I can’t say for sure, but I think she does it as a convenience: that way, you don’t have to plan ahead. I was nervous, but when beaten on high speed, it really does cream just fine.</p>

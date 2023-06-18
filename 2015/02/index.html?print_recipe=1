@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2015/02/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>A few introductory side notes: for the stock, I used Better Than Bouillon, and for dried apricots, I like Trader Joe’s “California Slab Apricots.” For chickpeas, I used canned. For harissa, I stole some from the Delancey walk-in, <i>wa ha haaaa</i>, but you can <a href="http://smittenkitchen.com/blog/2014/10/homemade-harissa/" target="_blank">make your own</a>, or you can <a href="http://www.amazon.com/Mina-Harissa-Red-Pepper-Sauce/dp/B004U771H4/?_encoding=UTF8&amp;amp%3Bkeywords=mina%20harissa&amp;amp%3Bqid=1424578834&amp;amp%3Bsr=8-1&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=DC2MTOC4B7VQMC7U" target="_blank">buy</a> <a href="http://www.amazon.com/Moulin-Mahjoub-Organic-Traditional-Harissa/dp/B003TQY0GW/?_encoding=UTF8&amp;amp%3Bkeywords=harissa&amp;amp%3Bqid=1424578902&amp;amp%3Bsr=8-10&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=CNMV33JKLQB3RVFG" target="_blank">it</a>. For preserved lemons, we make tons of them at Delancey – preserved Meyer lemons, actually! The best – and use them on pizzas and in starters, and if you’ve got time, hey, <a href="http://www.npr.org/2013/04/08/176577903/preserved-lemons-older-wiser-and-full-of-flavor" target="_blank">you can make some too</a>. If not, they’re usually available at shops selling Mediterrean or Middle Eastern ingredients, and I’ll bet Whole Foods has them, too. And really, I know: this ingredients list is long &#8211; long enough that, in my experience, it can be easy to get lost and forget to add something. I’ve tried to make it more foolproof here by dividing it up according to what is added when. Maybe it’ll help?</p>
   </div>
@@ -116,7 +116,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2015/02/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Matthew says that this formula makes one serving, but I find that it&#8217;s also a nice amount for one adult and one young child. Be sure to use a high-fat, natural (not Dutch-processed) cocoa powder, like Penzey’s or Scharffen-Berger.</p>
   </div>

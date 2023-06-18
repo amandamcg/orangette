@@ -1,136 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>A quiet soup</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Red Lentil Soup with Lemon</h2>
-    <h3 class="subtitle"> Adapted slightly from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FKitchen-Good-Appetite-Recipes-Stories%2Fdp%2F1401323766&amp;tag=orangette-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><span style="font-style: italic;">In the Kitchen with a Good Appetite</span></a>, by Melissa Clark</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-09-30T07:09:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2010/09/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I had some <a href="http://www.penzeys.com/cgi-bin/penzeys/p-penzeysaleppopepper.html">Aleppo pepper</a> in the spice drawer, and I decided to use it in place of the cayenne. It’s not as spicy, but it brings a lot of fragrance, and it was a good match for the flavors of this soup. So if you’ve got it, use it.</p>
-<p>I should note, too, that I forgot to stir the cilantro into the soup, and instead I used it as a garnish. I liked the look of it, though I might try stirring it in next time, since that’s what Melissa Clark intended.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            4 Tbsp. olive oil, plus additional good oil for drizzling          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large yellow onions, chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 garlic cloves, minced or pressed          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. tomato paste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 tsp. ground cumin          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ tsp. kosher salt, or more to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A few grinds of freshly ground black pepper          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Pinch of cayenne or Aleppo pepper, or more to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 quarts chicken or vegetable broth          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cups red lentils, picked through for stones and debris          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 large carrots, peeled and diced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Juice of 1 lemon, or more to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1/3 cup chopped fresh cilantro          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In a large pot, warm the oil over medium-high heat until hot and shimmering. Add the onions and garlic and cook until golden, about 4 minutes. Stir in the tomato paste, cumin, salt, pepper, and cayenne, and cook for 2 minutes longer. Add the broth, 2 cups water, the lentils, and the carrots. Bring to a simmer, then partially cover the pot and reduce the heat to maintain a gentle simmer. Continue to cook until the lentils are soft, about 30 minutes. Taste, and add more salt if necessary. Using an immersion or regular blender, puree about half of the soup. It should still be somewhat chunky, not completely smooth. Reheat if necessary, then stir in the lemon juice and cilantro. Serve the soup drizzled with good olive oil and dusted very lightly with cayenne, if desired.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 6 to 8 servings</p>
-  </section>
-                    
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Leeks vinaigrette</h2>
-        <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2010-09-11T23:12:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2010/09/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>I’ve written this recipe with wiggle room on the quantities of vinegar and mustard, and you should feel free to tweak it to your liking. It’s hard to go wrong, and anyway, your vinegars, oils, and leeks may taste different from mine. Whatever you do, it’s important to use a good, strong mustard for this dressing. I like the brands Edmond Fallot, Roland Extra Strong, and Beaufor. Keep in mind, too, that once a jar of mustard has been opened, it slowly loses its potency, so if you’ve had your jar for a while, you might want to invest in a new one.</p>
-  </div>
-
-      <div class="recipe-list">
-                                <div class="ingredient" itemprop="ingredients">
-            2 to 3 Tbsp. white wine vinegar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 to 2 tsp. Dijon mustard          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. salt, or more to taste          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 Tbsp. olive oil          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 small to medium shallot, minced          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 lb. small leeks (about 7 or 8)          </div>
-                      <h3>Optional garnishes:</h3>                  <div class="ingredient" itemprop="ingredients">
-            Finely chopped bacon          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Finely chopped hard-boiled egg          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>In a small bowl, whisk together 2 tablespoons white wine vinegar, 1 teaspoon mustard, and salt. Gradually whisk in the olive oil, mixing until emulsified. Taste. This dressing should be fairly bright, and the mustard flavor should come through, but not too powerfully. Adjust as needed with vinegar, mustard, and/or salt. When you’re happy with it, add the shallots, whisking to blend. Set aside. Be sure to taste it again later, just before tossing it with the leeks, so that if necessary, you can adjust it according to their flavor.</p>
-<p>Lay a clean kitchen towel on the counter near the stove. Bring a large pot of water to a boil, and salt it well. It should taste like sea water.</p>
-<p>While the water comes to a boil, prepare the leeks. Trim away the hair-like roots, but take care not too cut in too far; you want the leek to stay intact. Cut off and discard the dark green leafy parts, leaving just the white and pale green stalk. Starting about 1 inch from the root end, so as to keep the white part intact, cut lengthwise down the middle of the leek. (If you were to splay the cut leek open, it should look like a stubby Y.) Wash the leeks well under running water, flushing any dirt from between the layers. Boil until they are very, very tender and yield easily to a knife. Their color will become muted, and they may be falling apart a little. That’s okay. To be sure they’re done, taste one: it should taste sweet, with no trace of raw flavor. The amount of time that this will take depends on their size, but it will probably take longer than you think. Ten minutes is a good bet.</p>
-<p>Draining the leeks as well as you can, transfer them to the kitchen towel on the counter. Blot and press them dry. (Don’t burn yourself!) While they’re still hot, put them in a bowl, and toss them with a generous amount of the dressing. Allow to cool at least slightly before serving.</p>
-<p>Serve warm or at room temperature, with more dressing spooned on top and a pinch or two of salt. If you want to make it a little fancier, garnish with bacon and/or chopped egg.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 3 to 4 servings (as a side dish or first course)</p>
-  </section>
-                  <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

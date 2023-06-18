@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-2" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=2" class="print icon-print"></a>
+      <a href="/tag/deviled-eggs/?print_recipe=2" class="print icon-print"></a>
     </nav>
     <p>Homemade mayonnaise is terrific, but if I’m making deviled eggs, it’s usually summer, which means that it’s hot outside and I want to limit my exertion in the kitchen. So I generally use Best Foods – also sold as Hellmann’s – mayonnaise for this recipe.</p>
 <p>A note on the first step: when I make this aioli, the basil mixture sometimes gets wonderfully smooth, like pesto. Other times, though, it doesn’t seem to want to get that smooth, and instead looks more like a mess of chopped basil. I’m not sure what goes wrong, but I think it has to do with the age and texture of the basil leaves: when they’re bigger and hardier, they don’t process as easily. Either way, though, the aioli will taste fine.</p>

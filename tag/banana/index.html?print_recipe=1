@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/banana/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This cake is a cinch to make — perfect for a weeknight dinner with friends or a lazy weekend treat. The original recipe calls for bananas that are “well mashed,” but I almost always prefer to purée mine. A little zizz in the blender or food processor makes them smooth, airy, and blissfully free of lumps, and that, in my opinion, makes for a better, more consistent crumb. For this recipe, I found that about 2 medium very ripe bananas yielded ¾ cup purée.</p>
   </div>

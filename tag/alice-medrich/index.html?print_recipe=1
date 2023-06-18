@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/alice-medrich/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This recipe is particularly quick to assemble if you get out a scale and use weight measurements. <i>So</i> quick! I used whole wheat pastry flour because I keep it around (for <a href="http://orangette.blogspot.com/2010/03/not-likely-love.html">scones</a>, mostly), but you can also use a mixture of regular whole wheat flour and white flour. And I don’t see any reason why you couldn’t substitute white whole wheat flour for the regular whole wheat, if you have it. Oh, and if you live in Seattle or nearby, try the cacao nibs from <a href="http://www.theochocolate.com/">Theo</a>. They’re the best I’ve had.</p>
   </div>
@@ -84,7 +84,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/alice-medrich/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Contrast is what makes this tart work: the crust is quite sweet, and the plums should be quite tart. Look for plums that are both sweet and tangy, especially the ones that make you pucker a little when you bite into the flesh closest to the skin. I’ve made this tart with some unnamed red-skinned, yellow-fleshed plums that I found at the farmers market, and also with Flavor King pluots. Medrich recommends Santa Rosa, Friar, Laroda, and Elephant Heart plums, and she advises against the small, oblong plums often called Italian prune plums. They’re not tangy enough.</p>
 <p>Also, I make the dough for this tart in a food processor, but you can make it by hand, so I’m including instructions for both. The food processor makes it especially quick and tidy, but either way is easy.</p>

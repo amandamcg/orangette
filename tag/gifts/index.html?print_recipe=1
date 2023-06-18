@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/gifts/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>My mother’s version doesn’t call for toasting the pecans, but I think the cookies would be best if you toasted them. And it would be easy to do: before chopping them, pop them in a 325°F oven for a few minutes, until they’re fragrant. Allow to cool, and then chop away.</p>
   </div>
@@ -80,7 +80,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/gifts/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>This recipe uses two different kinds of salt. I don’t know why, although I’m guessing that the different salts coat the nuts differently? In any case, my kosher salt is Diamond Crystal brand, and that’s important to note, because it’s significantly less salty than Morton brand kosher salt. If you have Morton (or another brand), you’ll want to use much less than the 1 tablespoon this recipe calls for. I’d suggest about 1 ½ teaspoons.</p>
 <p>Also, to make simple syrup, combine equal parts sugar and water in a small saucepan, bring to a simmer, stir until the sugar dissolves, and then take it off the heat and allow it to cool.  (To be honest, though, I didn’t allow mine to cool; I made it just before using and only cooled it for a few minutes.)</p>

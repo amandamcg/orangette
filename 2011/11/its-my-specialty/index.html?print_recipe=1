@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/2011/11/its-my-specialty/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>A few notes: I used homemade chicken stock to make this soup, but you could also use good-tasting store-bought chicken or vegetable stock. To me, the best brand is Better Than Bouillon. And if your celery comes with leaves still attached, save them: toss in a small handful when you add the cabbage, toward the end. Oh, and instead of parsnips, try peeled, cubed rutabaga.</p>
   </div>

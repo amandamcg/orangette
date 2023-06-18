@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/extremely-repetitive-cooking/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>You can use any nuts you like here – or even seeds, if you want to. That’s the beauty of measuring by weight: as long as you use about 400 grams in all, it doesn’t matter which nuts or seeds you use or how much of each. I most often use almonds and walnuts, which I coarsely chop, but I also like to throw in some pecans now and then.</p>
 <p>About kosher salt, take note: I use Diamond Crystal brand, which is less salty than Morton. If you use the latter, you’ll probably only want to use about 1 ½ teaspoons.</p>

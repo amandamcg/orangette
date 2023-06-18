@@ -1,110 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>She knows</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">The Ultimate Winter Couscous</h2>
-    <h3 class="subtitle">Adapted very slightly from <i><a href="http://www.amazon.com/gp/product/1452101248/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1452101248&linkCode=as2&tag=orangette-20&linkId=R6SA2ZU5RG3YXVXG" target="_blank">Plenty</a></i>, by Yotam Ottolenghi</h3>    <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2015-02-23T06:38:00-05:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2015/02/she-knows/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>A few introductory side notes: for the stock, I used Better Than Bouillon, and for dried apricots, I like Trader Joe’s “California Slab Apricots.” For chickpeas, I used canned. For harissa, I stole some from the Delancey walk-in, <i>wa ha haaaa</i>, but you can <a href="http://smittenkitchen.com/blog/2014/10/homemade-harissa/" target="_blank">make your own</a>, or you can <a href="http://www.amazon.com/Mina-Harissa-Red-Pepper-Sauce/dp/B004U771H4/?_encoding=UTF8&amp;amp%3Bkeywords=mina%20harissa&amp;amp%3Bqid=1424578834&amp;amp%3Bsr=8-1&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=DC2MTOC4B7VQMC7U" target="_blank">buy</a> <a href="http://www.amazon.com/Moulin-Mahjoub-Organic-Traditional-Harissa/dp/B003TQY0GW/?_encoding=UTF8&amp;amp%3Bkeywords=harissa&amp;amp%3Bqid=1424578902&amp;amp%3Bsr=8-10&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;tag=orangette-20&amp;linkId=CNMV33JKLQB3RVFG" target="_blank">it</a>. For preserved lemons, we make tons of them at Delancey – preserved Meyer lemons, actually! The best – and use them on pizzas and in starters, and if you’ve got time, hey, <a href="http://www.npr.org/2013/04/08/176577903/preserved-lemons-older-wiser-and-full-of-flavor" target="_blank">you can make some too</a>. If not, they’re usually available at shops selling Mediterrean or Middle Eastern ingredients, and I’ll bet Whole Foods has them, too. And really, I know: this ingredients list is long &#8211; long enough that, in my experience, it can be easy to get lost and forget to add something. I’ve tried to make it more foolproof here by dividing it up according to what is added when. Maybe it’ll help?</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>First:</h3>                  <div class="ingredient" itemprop="ingredients">
-            2 medium carrots, peeled and cut into ¾-inch chunks          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 medium parsnips, peeled and cut into ¾-inch chunks          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            8 shallots, peeled          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            5 tablespoons olive oil, divided          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            2 cinnamon sticks          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            4 star anise          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 bay leaves          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon ground ginger          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon ground turmeric          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon paprika          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon red pepper flakes          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
-                      <h3>Then:</h3>                  <div class="ingredient" itemprop="ingredients">
-            2 ½ cups peeled, cubed pumpkin or butternut squash (from a 10-ounce / 285-gram squash)          </div>
-                      <h3>Then:</h3>                  <div class="ingredient" itemprop="ingredients">
-            ½ cup (about 70 grams) dried apricots, roughly chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup (about 200 grams) chickpeas, canned or freshly cooked          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups (350 ml) water or chickpea cooking liquid          </div>
-                      <h3>Couscous:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 cup (200 grams) couscous          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A large pinch of saffron          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 cup (240 ml) boiling vegetable or chicken stock          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            3 tablespoons (40 grams) unsalted butter, diced          </div>
-                      <h3>Last:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1-2 tablespoons harissa          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            1 ounce (28 grams) preserved lemon or preserved Meyer lemon peel, finely chopped          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Cilantro leaves          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Preheat the oven to 375°F, and set a rack in the middle position. Put the carrots, parsnips, and shallots in a large ovenproof dish (a 9&#215;13-inch is perfect). Add 4 tablespoons of the olive oil, and toss to coat. Add the spices, cinnamon sticks through pepper flakes, as well as ¾ teaspoon kosher salt. Mix well. Bake for 15 minutes. Then add the pumpkin or squash, and stir to mix. Return to the oven, and continue cooking for about 35 minutes more, by which time the vegetables should have softened while retaining a bite. Now, add the dried apricots, chickpeas, and water or chickpea cooking liquid. Stir to mix, then continue to bake for 10 minutes more, or until hot.</p>
-<p>About 15 minutes before the vegetables are ready, put the couscous in a large heatproof bowl with the remaining 1 tablespoon olive oil, the saffron, and ½ teaspoon kosher salt. Pour the boiling stock over the couscous, and immediately cover the bowl with plastic wrap or a tight-fitting lid. Set aside for 10 minutes. Then add the butter, and fluff with a fork until the butter melts in. Cover again, and leave somewhere warm.</p>
-<p>Just before serving, take the vegetables out of the oven, and stir the harissa and preserved lemon. Taste for salt.</p>
-<p>Serve the vegetables over the couscous, with plenty of cilantro leaves on top.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 good-sized servings</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>

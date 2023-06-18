@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/chocolate-mousse/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>The original recipe calls for brandy, not whiskey, but I never seem to have brandy around. We’re whiskey people. You can use whichever you want.</p>
 <p>About the chocolate: the good people at Cook’s Illustrated use Ghirardelli bittersweet (60% cacao) chocolate for this recipe, and I do too. You could use a fancier brand, if you want, but whatever you use, it should contain about 60% cacao. Chocolates with a higher cacao percentage have less sugar and a starchier consistency, and they won’t work well in this recipe.</p>

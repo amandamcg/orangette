@@ -23,7 +23,7 @@
   </head>
   <body>
     <header>
-      <img src="../../wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
+      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
     </header>
           
 <section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
@@ -39,7 +39,7 @@
   
   <div class="recipe-intro" itemprop="summary">
     <nav class="recipe-utility-nav">
-      <a href="index.html?print_recipe=1" class="print icon-print"></a>
+      <a href="/tag/lemons/?print_recipe=1" class="print icon-print"></a>
     </nav>
     <p>Three notes before we get started: I tend to have regular whole-milk yogurt on hand, not Greek yogurt, and I used what I had. I haven’t had this cake when made with Greek yogurt, but I can imagine that it could only be better. It was plenty moist and tender with regular yogurt. Also, re: the mildly fiddly step of rubbing the sugar and lemon zest together with your fingers, I know I know I know, but do it. It infuses the sugar with lemon flavor, and lemon flavor is what this cake is all about. Lastly, because coconut oil is very hard and crumbly at room temperature, I find it difficult to measure by volume. So I measure it by weight, scraping and chipping it from the jar onto the scale, and <em>then</em> I melt it.</p>
   </div>

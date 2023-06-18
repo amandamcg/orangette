@@ -1,92 +1,0 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>The satisfaction</title>
-    <style>
-      * { margin: 0; padding: 0; }
-      body { max-width: 60em; margin: 0 auto; padding: 2em; font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 12px; line-height: 1.4; }
-      h2 { margin-bottom: 0.5em; font-size: 1.5em; text-transform: uppercase; letter-spacing: 0.05em; }
-      h3 { margin-bottom: 0.5em; font-size: 1.15em; }
-      img { max-width: 100%; height: auto; }
-      p { margin-bottom: 0.75em; }
-      a { color: inherit; text-decoration: none; }
-      .recipe a[href]:after { content: " (" attr(href) ")"; }
-      header { margin-bottom: 2em; text-align: center; }
-      .logo { width: 200px; }
-      .recipe-utility-nav { display: none; }
-      .recipe-intro { margin-bottom: 1em; }
-      .recipe-list { margin-bottom: 1em; }
-      .recipe-list .ingredient { padding: 0.25em 0; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer { margin-top: 4em; font-size: 0.75em; text-align: center; color: #aaa; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <img src="https://orangette.net/wp-content/themes/orangette/assets/images/logo.png" alt="Orangette" class="logo">
-    </header>
-          
-<section id="recipe-1" class="recipe" itemscope itemtype="http://schema.org/Recipe">
-  <header class="post-header">
-    <div class="kicker">Recipe</div>
-    <h2 class="title" itemprop="name">Italian Plum Jam</h2>
-        <meta itemprop="author" content="Molly">
-    <meta itemprop="published" content="2014-10-07T19:02:00-04:00">
-  </header>
-
-      <figure class="hero">
-          </figure>
-  
-  <div class="recipe-intro" itemprop="summary">
-    <nav class="recipe-utility-nav">
-      <a href="/2014/10/the-satisfaction/?print_recipe=1" class="print icon-print"></a>
-    </nav>
-    <p>Note that you’ll want to pit the plums before weighing them. You’re doing this recipe by weight, and you don’t want the pits to mess up your 2:1 plum-to-sugar ratio.</p>
-<p>Also, listen: I know the instructions that follow are <i>long</i>. I wanted to go into as much detail as possible, because I understand that jam-making can seem mysterious. But once you’ve tried it, I doubt you’ll need to read the instructions again. Jam-making is a very tactile thing, all about watching and listening and prodding, and I get better at it, more instinctual, every time I do it.</p>
-<p>Oh, and: My current breakfast of choice is a spoonful of this jam stirred into a bowl of plain whole-milk yogurt.</p>
-  </div>
-
-      <div class="recipe-list">
-              <h3>For the jam:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 kilogram (2 pounds 3 ounces) pitted and quartered Italian prune plums          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            500 grams (1 pound 1 ounce) granulated sugar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Juice of ½ lemon          </div>
-                      <h3>Equipment:</h3>                  <div class="ingredient" itemprop="ingredients">
-            A Dutch oven, or similar          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            6 (8-ounce) canning jars, with lids and rings          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A rimmed sheet pan          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A couple of clean kitchen towels          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A few saucers          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A large pot for boiling the filled jars          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            A rack that fits inside the large pot          </div>
-                  <div class="ingredient" itemprop="ingredients">
-            Tongs, or a jar lifter          </div>
-                  </div>
-  
-      <div itemprop="instructions">
-      <p>Combine the plums, sugar, and lemon juice in a Dutch oven (or other wide, deep pot of similar volume), and let it sit at room temperature for 2 hours, until very juicy. (If your schedule makes this tricky, don’t worry: you can let the mixture sit longer, if needed. I’ve let it hang out for up to 4 or 5 hours.)</p>
-<p>While the fruit is hanging out, wash the jars, lids, and rings in hot, soapy water, so that they’re perfectly clean, and then put the jars (upright) on a rimmed sheet pan. Lay the lids and rings on a clean towel to dry completely. Put a few saucers in the freezer; you’ll need these later, for testing the jam.</p>
-<p>Shortly before you begin cooking the jam, preheat the oven to 225°F, and slide the sheet pan of jars into the preheated oven. It will need to stay there for 30 minutes to sterilize the jars. (I find this oven method easier than boiling the empty jars, because I used to always splash boiling water everywhere when I was lifting them out to fill them. But do whatever you prefer. Or, you can entirely skip this sterilizing-before-filling step, because, as it turns out, safety experts no longer consider it necessary. When in doubt, <a href="http://nchfp.uga.edu/publications/uga/uga_jams_jellies.pdf" target="_blank">this</a> is a great resource.)</p>
-<p>After you put the jars in the oven, take out a large pot, place a rack inside of it, fill it with water, and set it over high heat. (I use a <a href="http://www.amazon.com/Andersons-Baking-Cooling-Round-4-Inch/dp/B000HM9TGM/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;keywords=round%20cooling%20rack&amp;linkCode=ur2&amp;qid=1412714524&amp;sr=8-1&amp;tag=orangette-20&amp;linkId=FGB6T3YPHKQ72QBX" target="_blank">round cooling rack</a>; <a href="http://foodinjars.com/2013/07/new-to-canning-start-here-boiling-water-bath-canning/" target="_blank">Marisa</a> uses <a href="http://www.amazon.com/Spice-Ratchet-16813-Multi-Use-Silicone/dp/B005FPD6X8/?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;qid=1412714434&amp;s=kitchen&amp;sr=1-1&amp;tag=orangette-20&amp;linkId=6DQ4OSFM3Q2YDC32" target="_blank">a silicone trivet</a>; and you can also use a folded dish towel, though it tends to float until you put jars on top of it.) The pot must be large enough to hold 4 or 5 jars in a single layer, and the water should be deep enough to cover the jars by 1 or 2 inches. You’ll want it to be simmering by the time the jam has finished cooking, because you’ll use it for processing the filled jam jars.</p>
-<p>When you’re ready to cook the jam, place the pot of fruit over medium-high heat, and bring the mixture to a rolling boil. Soon, you’ll notice a pale-colored foam rise to the surface. Use a spoon or a skimmer to remove as much of the foam as possible. Keep the jam rolling along at a boil, stirring frequently to prevent scorching, and keep an eye on it: first it will be very juicy, and then it will start to cook down ever so slightly, the texture unifying, the color darkening, the surface glossy. Around this point, maybe 20 minutes into cooking, it will probably also start sputtering like lava when you stir it: be careful! That scary sputtering is how I know to start testing the jam for doneness. It probably won’t be ready on the first try, but it’s good to get a feel for it.</p>
-<p><b>How to test for doneness</b>: In general, the setting point for jam is 220°F, so you can test by taking its temperature as it boils: when it hits 220°F, it’s generally ready. <i>However</i>, that said, pectin-rich fruits set at a slightly lower temperature, so if you always just sit back and let your jam go to 220°F, you could wind up with a too-stiff jam. I prefer to use a more tactile test for doneness: the saucer test. Here’s how to do it:</p>
-<p>Take the pot off the heat while you test it. Take 1 saucer out of the freezer, and dribble a little jam on it, maybe a silver dollar-sized puddle. Return the saucer to the freezer for 15 seconds or so, so that the puddle of jam is neither warm nor cold. Then remove the saucer from the freezer, and sweep a fingertip through the jam: does it feel like it’s developing a certain solidity, as <a href="http://foodinjars.com/2010/07/canning-101-how-to-ensure-that-your-jam-sets/" target="_blank">Marisa</a> explains, so that your finger leaves a trail? Or, on the other hand, is the jam still runny, so that it quickly runs to fill in the trail? If it’s the latter, the jam isn’t quite ready, so return the pot to the heat, stirring, and test again in a few minutes. The jam is ready when your finger <i>just begins</i> to leave a clean trail. Another indication is that when you tilt the saucer, the jam slides very slowly, not quickly. It won’t look like jam, per se, quite yet &#8211; it’ll be softer, gloppier than that &#8211; but it will continue to thicken as it cools. (When in doubt, err on the side of undercooking, I’d say. You can always use it as a syrup on pancakes! You’ll nail it next time!)</p>
-<p>When the jam is ready, remove the sheet pan from the oven. Working carefully – the jars and the jam are very hot! – use a ladle to divide the jam among the jars, leaving ¼ inch of room at the top. (A batch of jam will probably fill 4 jars, and maybe 5, but I like to sterilize 6 jars, just to be safe.) Wipe the rims of the jars with a clean, damp cloth to remove any drips. Put the lids and rings on, taking care to screw them just until they are snug (not crazy-tight). Use tongs or a jar lifter to carefully place the jars, standing upright, on the rack in the pot of simmering water. Bring it up to a boil, and boil for 10 minutes. Remove the jars (carefully!) with tongs or a jar lifter, set them on a rack, and leave them alone to cool completely. As the jars cool, you may hear little pops: that’s the lids sealing. When they’re cool, press each lid lightly to make sure it has sealed: it should curve downward very slightly in the middle. Properly sealed jam is safe to store at room temperature, but refrigerate after opening.</p>
-    </div>
-  
-      <p itemprop="yield">Yield: 4 or 5 (8-ounce) jars</p>
-  </section>
-        <footer>
-      <p>Copyright &copy; 2005&ndash;2023 by Orangette</p>
-    </footer>
-    <script>window.print();</script>
-  </body>
-</html>
