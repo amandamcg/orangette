@@ -156,38 +156,56 @@ But Brandon, bless his optimistic heart, apparently believes that I am still cap
   </div>
 
       <div class="recipe-list">
-              <h3>For the soup:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. unsalted butter          </div>
+              <h3>For the soup:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 Tbsp. unsalted butter
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. olive oil          </div>
+            1 Tbsp. olive oil
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 medium leeks, white and tender green parts only, sliced          </div>
+            2 medium leeks, white and tender green parts only, sliced
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 small yellow onion, coarsely chopped          </div>
+            1 small yellow onion, coarsely chopped
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            3 cloves garlic, coarsely chopped          </div>
+            3 cloves garlic, coarsely chopped
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 ½ lb. broccoli, both crowns and stems, trimmed and coarsely chopped          </div>
+            1 ½ lb. broccoli, both crowns and stems, trimmed and coarsely chopped
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            5 cups chicken or vegetable stock          </div>
+            5 cups chicken or vegetable stock
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 rind (about 2 inches square) from a piece of Parmesan cheese          </div>
+            1 rind (about 2 inches square) from a piece of Parmesan cheese
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ¾ tsp. kosher salt, or less if your broth is well salted          </div>
-                      <h3>For the sour cream:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 cup sour cream (not low-fat or nonfat)          </div>
+            ¾ tsp. kosher salt, or less if your broth is well salted
+          </div>
+                      <h3>For the sour cream:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 cup sour cream (not low-fat or nonfat)
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 scallions, white and pale green parts only, very thinly sliced          </div>
+            2 scallions, white and pale green parts only, very thinly sliced
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ¼ cup minced chives          </div>
+            ¼ cup minced chives
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 tsp. grated lemon zest          </div>
+            1 tsp. grated lemon zest
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. fresh lemon juice          </div>
+            2 Tbsp. fresh lemon juice
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ½ cup finely grated Parmesan cheese          </div>
+            ½ cup finely grated Parmesan cheese
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ½ tsp. kosher salt          </div>
+            ½ tsp. kosher salt
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             ¼ tsp. pressed or minced garlic          </div>
                   </div>
@@ -2260,14 +2278,7 @@ But Brandon, bless his optimistic heart, apparently believes that I am still cap
 
     <div class="reply">
       <a rel='nofollow' class='comment-reply-link' href='#comment-15823' data-commentid="15823" data-postid="1017" data-belowelement="comment-15823" data-respondelement="respond" data-replyto="Reply to Mary" aria-label='Reply to Mary'>Reply</a>    </div>
-  </li><!-- #comment-## -->
-  <li id="comment-15825" class="comment even thread-even depth-1">
-    <header class="comment--meta">
-      <div class="vcard"><cite class="comment-author fn"><a href="http://foododelmundo.com" class="url" rel="ugc external nofollow">Mary</a></cite></div>
-      <a href="https://orangette.net/2009/02/now-you-know/#comment-15825"><time class="comment-time" datetime="2014-02-06T22:47:35-05:00">Thursday, February 6, 2014 at 10:47 pm</time></a>    </header>
-
-    
-    <div class="comment--content">
+  <    <div class="comment--content">
       <p>WOW!  This soup is delicious, thank you!  The only reason I found it was because your blog is indexed on &#8220;Eat Your Books&#8221;.</p>
     </div>
 
@@ -2278,14 +2289,7 @@ But Brandon, bless his optimistic heart, apparently believes that I am still cap
 
       
   
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2009/02/now-you-know/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
-<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1017' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="77d1bb84bf" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="164"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-	</section>
+  		</section>
       </footer>
 </article>
         </main><!-- /.main -->

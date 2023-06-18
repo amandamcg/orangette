@@ -159,29 +159,41 @@ I only wish I had thought to put chopped cilantro on top before I took this pict
 
       <div class="recipe-list">
                                 <div class="ingredient" itemprop="ingredients">
-            4 Tbsp. olive oil, plus additional good oil for drizzling          </div>
+            4 Tbsp. olive oil, plus additional good oil for drizzling
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 large yellow onions, chopped          </div>
+            2 large yellow onions, chopped
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            4 garlic cloves, minced or pressed          </div>
+            4 garlic cloves, minced or pressed
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. tomato paste          </div>
+            2 Tbsp. tomato paste
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 tsp. ground cumin          </div>
+            2 tsp. ground cumin
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ½ tsp. kosher salt, or more to taste          </div>
+            ½ tsp. kosher salt, or more to taste
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            A few grinds of freshly ground black pepper          </div>
+            A few grinds of freshly ground black pepper
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            Pinch of cayenne or Aleppo pepper, or more to taste          </div>
+            Pinch of cayenne or Aleppo pepper, or more to taste
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 quarts chicken or vegetable broth          </div>
+            2 quarts chicken or vegetable broth
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 cups red lentils, picked through for stones and debris          </div>
+            2 cups red lentils, picked through for stones and debris
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 large carrots, peeled and diced          </div>
+            2 large carrots, peeled and diced
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            Juice of 1 lemon, or more to taste          </div>
+            Juice of 1 lemon, or more to taste
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             1/3 cup chopped fresh cilantro          </div>
                   </div>
@@ -2141,26 +2153,12 @@ I only wish I had thought to put chopped cilantro on top before I took this pict
       <div class="vcard"><cite class="comment-author fn"><a href="https://pijanopile.wordpress.com/" class="url" rel="ugc external nofollow">pianopile</a></cite></div>
       <a href="https://orangette.net/2010/09/a-quiet-soup/#comment-21503"><time class="comment-time" datetime="2015-05-11T10:56:59-04:00">Monday, May 11, 2015 at 10:56 am</time></a>    </header>
 
-    
-    <div class="comment--content">
-      <p>Just recovering from a cold so this soup came at the right time. Turned out really nice and the lemon gave it an interesting twist.<br />What surprised me was that the recipe asked for adding the salt at the beginning. I was taught that you should never add salt to lentils until they were done as it alters with their cooking time. Anyway I did what the recipe told me to and it worked out fine. I am amazed&#8230;<br />Thank you for the recipe!</p>
-    </div>
-
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-21503' data-commentid="21503" data-postid="730" data-belowelement="comment-21503" data-respondelement="respond" data-replyto="Reply to pianopile" aria-label='Reply to pianopile'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+     </li><!-- #comment-## -->
     </ol>
 
       
   
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2010/09/a-quiet-soup/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
-<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='730' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="c27141a3ea" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="98"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-	</section>
+  		</section>
       </footer>
 </article>
         </main><!-- /.main -->

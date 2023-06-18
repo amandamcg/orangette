@@ -166,26 +166,38 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   </div>
 
       <div class="recipe-list">
-              <h3>For the jam:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 kilogram (2 pounds 3 ounces) pitted and quartered Italian prune plums          </div>
+              <h3>For the jam:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 kilogram (2 pounds 3 ounces) pitted and quartered Italian prune plums
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            500 grams (1 pound 1 ounce) granulated sugar          </div>
+            500 grams (1 pound 1 ounce) granulated sugar
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            Juice of ½ lemon          </div>
-                      <h3>Equipment:</h3>                  <div class="ingredient" itemprop="ingredients">
-            A Dutch oven, or similar          </div>
+            Juice of ½ lemon
+          </div>
+                      <h3>Equipment:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            A Dutch oven, or similar
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            6 (8-ounce) canning jars, with lids and rings          </div>
+            6 (8-ounce) canning jars, with lids and rings
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            A rimmed sheet pan          </div>
+            A rimmed sheet pan
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            A couple of clean kitchen towels          </div>
+            A couple of clean kitchen towels
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            A few saucers          </div>
+            A few saucers
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            A large pot for boiling the filled jars          </div>
+            A large pot for boiling the filled jars
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            A rack that fits inside the large pot          </div>
+            A rack that fits inside the large pot
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             Tongs, or a jar lifter          </div>
                   </div>
@@ -1174,26 +1186,12 @@ Plum jam, great, take an almost uneatable fuit and turn it into a great jam, I u
 <p>Regardless of whether the jars are treated in wet or dry heat, the lids should be in hot water before use.  This is not for sterilization, but to soften the glue.  Place the lids in water, boil and leave them until you&#8217;re ready to use.</p>
 <p>One more thing about sugar.  We are all using Italian plums that vary in the amount of sugar they have.  The season, date picked, genetics of the tree, location, and weather means that each of us starts with fruit that varies as to the sugar in the fruit itself.  That is part of the reason for different amounts of sugar added.  Take the sugar added with a grain of &#8230;&#8230;errr.  As they say, your mileage may vary.  </p>
 <p>But the amount of sugar in the final batch is part of what protect it against dangerous bacteria.  One shouldn&#8217;t need a pressure cooker as the amount of sugar, the acidity and heat are enough to prevent pathogenic bacteria.  </p>
-<p>If you are not an experienced canner, make small batches and store in the refrigerator or freezer.  The more levels of security make it safer including using it quickly, preparing in small amounts, keeping it at 212 F from start to finish, using sterile jars/lids/tools, and checking your vacuum.</p>
-<p>High acid, high sugar, and high salted foods are less likely to become contaminated with dangerous bacteria.  For all OTHER foods, you must use a pressure canner or other methods such as dehydration/freezing. </p>
-<p>A great resource is <a href="https://nchfp.uga.edu/publications/publications_usda.html" rel="nofollow ugc">https://nchfp.uga.edu/publications/publications_usda.html</a>, the National Center for Food Preservation.</p>
-    </div>
-
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-78836' data-commentid="78836" data-postid="79" data-belowelement="comment-78836" data-respondelement="respond" data-replyto="Reply to Ryq G" aria-label='Reply to Ryq G'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+<p>  </li><!-- #comment-## -->
     </ol>
 
       
   
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/10/the-satisfaction/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
-<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='79' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="1207dfa57a" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="194"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-	</section>
+  		</section>
       </footer>
 </article>
         </main><!-- /.main -->

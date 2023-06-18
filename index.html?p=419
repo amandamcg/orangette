@@ -159,33 +159,49 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   </div>
 
       <div class="recipe-list">
-              <h3>Shortbread crust:</h3>                  <div class="ingredient" itemprop="ingredients">
-            65 grams (½ cup) dark rye flour          </div>
+              <h3>Shortbread crust:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            65 grams (½ cup) dark rye flour
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            120 grams (1 cup) all-purpose flour          </div>
+            120 grams (1 cup) all-purpose flour
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            50 grams (1/3 cup) dark brown sugar          </div>
+            50 grams (1/3 cup) dark brown sugar
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ½ tsp. kosher salt          </div>
+            ½ tsp. kosher salt
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            113 grams (1 stick) unsalted butter, melted and cooled slightly          </div>
+            113 grams (1 stick) unsalted butter, melted and cooled slightly
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 tsp. vanilla extract          </div>
-                      <h3>Crumble:</h3>                  <div class="ingredient" itemprop="ingredients">
-            100 grams (1 cup) rolled oats          </div>
+            1 tsp. vanilla extract
+          </div>
+                      <h3>Crumble:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            100 grams (1 cup) rolled oats
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            32 grams (3 Tbsp.) dark brown sugar          </div>
+            32 grams (3 Tbsp.) dark brown sugar
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            52 grams (¼ cup plus 2 Tbsp.) dark rye flour          </div>
+            52 grams (¼ cup plus 2 Tbsp.) dark rye flour
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            30 grams (¼ cup) all-purpose flour          </div>
+            30 grams (¼ cup) all-purpose flour
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            38 grams (3 Tbsp.) sugar          </div>
+            38 grams (3 Tbsp.) sugar
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 tsp. kosher salt          </div>
+            1 tsp. kosher salt
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            85 grams (6 Tbsp.) unsalted butter, melted and cooled slightly          </div>
-                      <h3>To assemble:</h3>                  <div class="ingredient" itemprop="ingredients">
+            85 grams (6 Tbsp.) unsalted butter, melted and cooled slightly
+          </div>
+                      <h3>To assemble:
+</h3>                  <div class="ingredient" itemprop="ingredients">
             350 ml (1 ½ cups) jam, preserves, or fruit butter          </div>
                   </div>
   
@@ -2736,14 +2752,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <li id="comment-67048" class="comment byuser comment-author-molly bypostauthor odd alt depth-2">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="http://orangette.net" class="url" rel="ugc">Molly</a></cite></div>
-      <a href="https://orangette.net/2012/03/the-best-part-of-the-job/#comment-67048"><time class="comment-time" datetime="2017-09-21T18:37:18-04:00">Thursday, September 21, 2017 at 6:37 pm</time></a>    </header>
-
-    
-    <div class="comment--content">
-      <p>I imagine you could get away with using a 9&#8243; square pan. Try it! When in doubt, I generally lean on conversation charts like <a href="http://dish.allrecipes.com/cake-pan-size-conversions/" rel="nofollow">this one</a>.</p>
-    </div>
-
-    <div class="reply">
+       <div class="reply">
           </div>
   </li><!-- #comment-## -->
 </ol><!-- .children -->
@@ -2752,14 +2761,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
       
   
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2012/03/the-best-part-of-the-job/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
-<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='419' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="72958031b2" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="87"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-	</section>
+  		</section>
       </footer>
 </article>
         </main><!-- /.main -->

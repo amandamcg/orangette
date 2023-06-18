@@ -165,24 +165,34 @@ Just a single caution: see this teacup? It’s a standard size, as teacups go, b
 
       <div class="recipe-list">
                                 <div class="ingredient" itemprop="ingredients">
-            8 oz. bittersweet chocolate, ideally 60% cacao, finely chopped          </div>
+            8 oz. bittersweet chocolate, ideally 60% cacao, finely chopped
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. Dutch-processed cocoa powder          </div>
+            2 Tbsp. Dutch-processed cocoa powder
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 tsp. instant espresso powder          </div>
+            1 tsp. instant espresso powder
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            5 Tbsp. water          </div>
+            5 Tbsp. water
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. whiskey or brandy          </div>
+            1 Tbsp. whiskey or brandy
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 large eggs, separated          </div>
+            2 large eggs, separated
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. sugar, divided          </div>
+            1 Tbsp. sugar, divided
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1/8 tsp. salt          </div>
+            1/8 tsp. salt
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 cup plus 2 Tbsp. cold heavy cream          </div>
-                      <h3>For serving:</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 cup plus 2 Tbsp. cold heavy cream
+          </div>
+                      <h3>For serving:
+</h3>                  <div class="ingredient" itemprop="ingredients">
             Very lightly sweetened whipped cream          </div>
                   </div>
   
@@ -2515,24 +2525,10 @@ Just a single caution: see this teacup? It’s a standard size, as teacups go, b
     <div class="comment--content">
       <p>I loved this mousse too!  It has the perfect mousse texture.  However, I don&#39;t think I am a mousse expert, because I also liked the America&#39;s Test Kitchen mousse (an older recipe), Ina Garten&#39;s Chocolate Orange Mousse, and another mousse recipe, all equally and I could not choose!  I did care much more for the original version of this recipe than the chocolate-orange version (with grand marnier), which tasted pretty weak in the orange department compared to Ina&#39;s version, IMO.  Of course everyone has different taste especially when it comes to chocolate.  </p>
 <p>Also wanted to add that Cook&#39;s Illustrated did make a version just for fancy chocolates that contain a higher percentage of cacao than the 60% Ghirardelli bittersweet chocolate that they developed this recipe for.  If you are using a boutique chocolate containing 62 to 70% cacao, simply add 2 Tablespoons of sugar to the chocolate-cocoa powder-espresso powder-water mixture, AND use an extra two Tablespoons of water in the same step.  (I.e., use 5 Tbsp instead of 3 Tbsp).  Also, use 3 large eggs instead of 2 large eggs.  Cook&#39;s Illustrated calls this recipe Premium Dark Chocolate Mousse on their website, but if you read it, it&#39;s just their explanation of how to work with a higher % cacao chocolate, and they explain that they modified the recipe.  Those are the three changes they made (sugar, water, eggs).</p>
-<p>Bon appetit!</p>
-    </div>
-
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-18583' data-commentid="18583" data-postid="906" data-belowelement="comment-18583" data-respondelement="respond" data-replyto="Reply to Analyze A" aria-label='Reply to Analyze A'>Reply</a>    </div>
-  </li><!-- #comment-## -->
-    </ol>
-
+<p>
       
   
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2010/01/a-nasty-habit/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
-<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='906' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="f9362d3cdf" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="12"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-	</section>
+  		</section>
       </footer>
 </article>
         </main><!-- /.main -->

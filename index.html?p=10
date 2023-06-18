@@ -161,15 +161,20 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
       <div class="recipe-list">
                                 <div class="ingredient" itemprop="ingredients">
-            One 2- to 3-pound chicken, at room temperature for an hour or so, if possible          </div>
+            One 2- to 3-pound chicken, at room temperature for an hour or so, if possible
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
+            Kosher salt
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            Freshly ground black pepper (optional)          </div>
+            Freshly ground black pepper (optional)
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 teaspoons minced thyme (optional)          </div>
+            2 teaspoons minced thyme (optional)
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            Unsalted butter          </div>
+            Unsalted butter
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             Dijon mustard          </div>
                   </div>
@@ -753,14 +758,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
     <div class="reply">
       <a rel='nofollow' class='comment-reply-link' href='#comment-70189' data-commentid="70189" data-postid="10" data-belowelement="comment-70189" data-respondelement="respond" data-replyto="Reply to Dawn Zook" aria-label='Reply to Dawn Zook'>Reply</a>    </div>
-  </li><!-- #comment-## -->
-    </ol>
-
-      
-  
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2015/06/one-tuesday-late-morning/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
+  <<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='10' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />

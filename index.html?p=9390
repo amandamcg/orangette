@@ -173,24 +173,35 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   </div>
 
       <div class="recipe-list">
-              <h3>For the cookies:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 ½ sticks (170 grams) unsalted butter, at room temperature          </div>
+              <h3>For the cookies:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 ½ sticks (170 grams) unsalted butter, at room temperature
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ½ cup powdered sugar, sifted          </div>
+            ½ cup powdered sugar, sifted
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 ½ cups (210 grams) all-purpose flour          </div>
+            1 ½ cups (210 grams) all-purpose flour
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ¼ teaspoon fine sea salt or table salt          </div>
+            ¼ teaspoon fine sea salt or table salt
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ½ teaspoon vanilla extract          </div>
-                      <h3>For the frosting:</h3>                  <div class="ingredient" itemprop="ingredients">
-            4 ounces (112 grams) cream cheese, at room temperature          </div>
+            ½ teaspoon vanilla extract
+          </div>
+                      <h3>For the frosting:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            4 ounces (112 grams) cream cheese, at room temperature
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            3 tablespoons (42 grams) unsalted butter, at room temperature          </div>
+            3 tablespoons (42 grams) unsalted butter, at room temperature
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 ½ cups powdered sugar, sifted          </div>
+            1 ½ cups powdered sugar, sifted
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ¾ teaspoon kirsch, or more to taste, or a half-capful of cherry extract          </div>
+            ¾ teaspoon kirsch, or more to taste, or a half-capful of cherry extract
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             Red food coloring (optional, but the frosting won't be pink without it)          </div>
                   </div>
@@ -1933,25 +1944,11 @@ Enjoy!</p>
       <a href="https://orangette.net/2016/02/9390/#comment-64198"><time class="comment-time" datetime="2017-05-03T12:08:36-04:00">Wednesday, May 3, 2017 at 12:08 pm</time></a>    </header>
 
     
-    <div class="comment--content">
-      <p>I loved reading this. Honestly, I needed to read this. I have a almost three year old, who wants to be in every corner of the kitchen. And I have a cook (yes, I know. Yes, I live in that part of the world where people have cooks) who refuses to let him do anything in there. We aren&#8217;t so fond of her cooking, and I am seriously thinking of taking matters in our own hands, and I am so looking forward to doing some of the things you suggest. Thank you!</p>
-    </div>
-
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-64198' data-commentid="64198" data-postid="9390" data-belowelement="comment-64198" data-respondelement="respond" data-replyto="Reply to Asmita" aria-label='Reply to Asmita'>Reply</a>    </div>
-  </li><!-- #comment-## -->
-    </ol>
+       </ol>
 
       
   
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/02/9390/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
-<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='9390' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="b1612e0303" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="61"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-	</section>
+  		</section>
       </footer>
 </article>
         </main><!-- /.main -->

@@ -156,17 +156,23 @@ P.P.S. What are your greatest hits, recipe-wise?</p>
 
       <div class="recipe-list">
                                 <div class="ingredient" itemprop="ingredients">
-            2 to 3 tablespoons olive oil, enough to seem generous without leaving the zucchini oily          </div>
+            2 to 3 tablespoons olive oil, enough to seem generous without leaving the zucchini oily
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 large garlic cloves, peeled and left whole          </div>
+            2 large garlic cloves, peeled and left whole
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 ½ pounds (680 grams, or about six medium) zucchini, sliced into ¼-inch-thick rounds          </div>
+            1 ½ pounds (680 grams, or about six medium) zucchini, sliced into ¼-inch-thick rounds
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
+            Kosher salt
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            A handful of fresh basil leaves          </div>
+            A handful of fresh basil leaves
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            Fresh mozzarella, for serving          </div>
+            Fresh mozzarella, for serving
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             Crusty bread, for serving          </div>
                   </div>
@@ -1895,14 +1901,7 @@ Honestly, I&#39;m trying to branch out. However, when it comes to the granola I 
     </div>
 
     <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-36797' data-commentid="36797" data-postid="282" data-belowelement="comment-36797" data-respondelement="respond" data-replyto="Reply to lucy" aria-label='Reply to lucy'>Reply</a>    </div>
-  </li><!-- #comment-## -->
-    </ol>
-
-      
-  
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/09/over-and-over-and-over/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+   		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/09/over-and-over-and-over/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
 <p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='282' id='comment_post_ID' />

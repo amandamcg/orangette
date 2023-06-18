@@ -155,15 +155,20 @@ I don’t know where this white table is going to live in our new place. Right n
 
       <div class="recipe-list">
                                 <div class="ingredient" itemprop="ingredients">
-            3 to 3 ½ lb. parsnips          </div>
+            3 to 3 ½ lb. parsnips
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 quarts vegetable stock          </div>
+            2 quarts vegetable stock
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. unsalted butter, diced          </div>
+            2 Tbsp. unsalted butter, diced
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            Water or additional stock, as needed          </div>
+            Water or additional stock, as needed
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ½ cup heavy cream          </div>
+            ½ cup heavy cream
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             Salt, to taste          </div>
                   </div>
@@ -1506,14 +1511,7 @@ I don’t know where this white table is going to live in our new place. Right n
 
     <div class="reply">
       <a rel='nofollow' class='comment-reply-link' href='#comment-24698' data-commentid="24698" data-postid="612" data-belowelement="comment-24698" data-respondelement="respond" data-replyto="Reply to Marie" aria-label='Reply to Marie'>Reply</a>    </div>
-  </li><!-- #comment-## -->
-    </ol>
-
-      
-  
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2011/03/easy-enough/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
+  <<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='612' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />

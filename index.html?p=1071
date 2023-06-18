@@ -161,15 +161,20 @@ It begins with a pound of butter. The key, I think, is that it calls for <a href
 
       <div class="recipe-list">
                                 <div class="ingredient" itemprop="ingredients">
-            4 cups all-purpose flour          </div>
+            4 cups all-purpose flour
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 tsp. baking soda          </div>
+            1 tsp. baking soda
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 lb. unsalted Lurpak butter, at room temperature for 1 hour          </div>
+            1 lb. unsalted Lurpak butter, at room temperature for 1 hour
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ¾ cup granulated sugar          </div>
+            ¾ cup granulated sugar
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 large egg, beaten          </div>
+            1 large egg, beaten
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             3 to 4 Tbsp. sanding or other coarse-grain sugar, such as Turbinado          </div>
                   </div>
@@ -1277,14 +1282,7 @@ It begins with a pound of butter. The key, I think, is that it calls for <a href
 
     <div class="reply">
       <a rel='nofollow' class='comment-reply-link' href='#comment-68134' data-commentid="68134" data-postid="1071" data-belowelement="comment-68134" data-respondelement="respond" data-replyto="Reply to Michele" aria-label='Reply to Michele'>Reply</a>    </div>
-  </li><!-- #comment-## -->
-    </ol>
-
-      
-  
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2008/12/for-that-very-reason/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
+  <<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1071' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />

@@ -161,19 +161,27 @@ Usually I would just steam the leeks, blot them to get rid of excess water, and 
 
       <div class="recipe-list">
                                 <div class="ingredient" itemprop="ingredients">
-            2 to 3 Tbsp. white wine vinegar          </div>
+            2 to 3 Tbsp. white wine vinegar
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 to 2 tsp. Dijon mustard          </div>
+            1 to 2 tsp. Dijon mustard
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ¼ tsp. salt, or more to taste          </div>
+            ¼ tsp. salt, or more to taste
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            6 Tbsp. olive oil          </div>
+            6 Tbsp. olive oil
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 small to medium shallot, minced          </div>
+            1 small to medium shallot, minced
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 lb. small leeks (about 7 or 8)          </div>
-                      <h3>Optional garnishes:</h3>                  <div class="ingredient" itemprop="ingredients">
-            Finely chopped bacon          </div>
+            2 lb. small leeks (about 7 or 8)
+          </div>
+                      <h3>Optional garnishes:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            Finely chopped bacon
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             Finely chopped hard-boiled egg          </div>
                   </div>
@@ -1785,22 +1793,8 @@ Usually I would just steam the leeks, blot them to get rid of excess water, and 
     <div class="comment--content">
       <p>Holy heck, these were good. My husband was dubious, but I knew in my bones we&#39;d both dig them and I was right.</p>
     </div>
-
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-21685' data-commentid="21685" data-postid="741" data-belowelement="comment-21685" data-respondelement="respond" data-replyto="Reply to poppy" aria-label='Reply to poppy'>Reply</a>    </div>
-  </li><!-- #comment-## -->
-    </ol>
-
-      
   
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2010/09/before-you-know-it/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
-<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='741' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="264e8f1b1e" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="206"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-	</section>
+  		</section>
       </footer>
 </article>
         </main><!-- /.main -->

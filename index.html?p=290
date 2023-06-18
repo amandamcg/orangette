@@ -163,11 +163,14 @@ P.P.S. Ask, and ye shall receive:</p>
 
       <div class="recipe-list">
                                 <div class="ingredient" itemprop="ingredients">
-            2 tablespoons (24 grams) sugar          </div>
+            2 tablespoons (24 grams) sugar
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            7 or 8 apricots (450 grams, or 1 pound), halved and pitted          </div>
+            7 or 8 apricots (450 grams, or 1 pound), halved and pitted
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 vanilla bean, split and seeds scraped free          </div>
+            1 vanilla bean, split and seeds scraped free
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             1/2 cup riesling          </div>
                   </div>
@@ -1630,13 +1633,6 @@ P.P.S. Ask, and ye shall receive:</p>
       <a rel='nofollow' class='comment-reply-link' href='#comment-36978' data-commentid="36978" data-postid="290" data-belowelement="comment-36978" data-respondelement="respond" data-replyto="Reply to Meagan" aria-label='Reply to Meagan'>Reply</a>    </div>
   </li><!-- #comment-## -->
     </ol>
-
-      
-  
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/08/a-new-reason/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='290' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
 </p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="82d6dadbb5" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="67"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->

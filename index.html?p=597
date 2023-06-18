@@ -158,23 +158,32 @@ This is not a recipe with a long, involved origin story. The story of this recip
 
       <div class="recipe-list">
                                 <div class="ingredient" itemprop="ingredients">
-            5 Tbsp. canola oil          </div>
+            5 Tbsp. canola oil
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 lb. mushrooms, roughly chopped (see note, above)          </div>
+            1 lb. mushrooms, roughly chopped (see note, above)
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ½ medium yellow onion, roughly chopped          </div>
+            ½ medium yellow onion, roughly chopped
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1/3 cup finely chopped fresh dill          </div>
+            1/3 cup finely chopped fresh dill
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            4 hard-boiled eggs, roughly chopped          </div>
+            4 hard-boiled eggs, roughly chopped
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ¾ cup mayonnaise          </div>
+            ¾ cup mayonnaise
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. Dijon mustard          </div>
+            2 Tbsp. Dijon mustard
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 Tbsp. fresh lemon juice          </div>
+            1 Tbsp. fresh lemon juice
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            Kosher salt          </div>
+            Kosher salt
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             Freshly ground black pepper          </div>
                   </div>
@@ -2237,23 +2246,9 @@ This is not a recipe with a long, involved origin story. The story of this recip
     
     <div class="comment--content">
       <p>Molly &#8211; I’ve made this egg salad more times than I have hyperbolics to describe. I’ve made it alone and have eaten it with relish in aloneness. I also made it for my boyfriend and simply said, “I know it looks like cat vomit, but&#8230;” and set down the plate. Seven years later we’re now engaged. I’ve been following your blog since I was sixteen &#8211; and I’m now 31 and not at all sorry for the math I just set down in front of you. Thank you for this and for your book and your hands, elbows and heart. When my partner and I moved to Orcas Island I made sure we stopped at Delancey and it was truly something special. I’m the head pastry chef now at Roses Bakery and Cafe on Orcas. Stop by anytime with your not so wee one and Ash and I’d love to try and fail repaying you with sweets.</p>
-    </div>
-
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-69477' data-commentid="69477" data-postid="597" data-belowelement="comment-69477" data-respondelement="respond" data-replyto="Reply to Maximillian Baden" aria-label='Reply to Maximillian Baden'>Reply</a>    </div>
-  </li><!-- #comment-## -->
-    </ol>
-
-      
+         
   
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2011/05/pile-it-on/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
-<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='597' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="ee14ed1e28" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="64"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-	</section>
+  		</section>
       </footer>
 </article>
         </main><!-- /.main -->

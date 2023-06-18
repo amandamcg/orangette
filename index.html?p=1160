@@ -156,30 +156,44 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       </div>
 
       <div class="recipe-list">
-              <h3>For bread:</h3>                  <div class="ingredient" itemprop="ingredients">
-            1 ½ cups all-purpose flour          </div>
+              <h3>For bread:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            1 ½ cups all-purpose flour
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 cup sugar          </div>
+            1 cup sugar
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 tsp. ground cinnamon          </div>
+            1 tsp. ground cinnamon
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 tsp. baking soda          </div>
+            1 tsp. baking soda
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ½ tsp. salt          </div>
+            ½ tsp. salt
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 cup mashed ripe banana (about 3 medium bananas)          </div>
+            1 cup mashed ripe banana (about 3 medium bananas)
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            2 large eggs          </div>
+            2 large eggs
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ½ cup vegetable oil          </div>
+            ½ cup vegetable oil
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ¼ cup honey          </div>
+            ¼ cup honey
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            ¼ cup water          </div>
-                      <h3>For topping:</h3>                  <div class="ingredient" itemprop="ingredients">
-            2 Tbsp. sugar          </div>
+            ¼ cup water
+          </div>
+                      <h3>For topping:
+</h3>                  <div class="ingredient" itemprop="ingredients">
+            2 Tbsp. sugar
+          </div>
                   <div class="ingredient" itemprop="ingredients">
-            1 tsp. ground cinnamon          </div>
+            1 tsp. ground cinnamon
+          </div>
                   <div class="ingredient" itemprop="ingredients">
             2 ½ Tbsp. packed dark brown sugar          </div>
                   </div>
@@ -2070,28 +2084,14 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <li id="comment-98099" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">P</cite></div>
-      <a href="https://orangette.net/2008/08/a-clear-sign/#comment-98099"><time class="comment-time" datetime="2021-12-31T00:47:03-05:00">Friday, December 31, 2021 at 12:47 am</time></a>    </header>
-
-    
-    <div class="comment--content">
-      <p>I spent the holidays on my own as I tested positive  ( yey covid! ) so I&#8217;ve been waking up very , very early these days . I found myself in the kitchen this morning when the light was still blue ,with 3 ripe bananas and an hour later a wonderful banana bread . I went back to bed by 6 am and had a bowl of your chocolate granola with whole milk . Thank you for making me feel less alone and well fed  . I hope that this craziness will subside soon . Happy holidays Molly!</p>
-    </div>
-
-    <div class="reply">
+       <div class="reply">
       <a rel='nofollow' class='comment-reply-link' href='#comment-98099' data-commentid="98099" data-postid="1160" data-belowelement="comment-98099" data-respondelement="respond" data-replyto="Reply to P" aria-label='Reply to P'>Reply</a>    </div>
   </li><!-- #comment-## -->
     </ol>
 
       
   
-  	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2008/08/a-clear-sign/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
-<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1160' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4415a4d392" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="42"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-	</section>
+  		</section>
       </footer>
 </article>
         </main><!-- /.main -->
