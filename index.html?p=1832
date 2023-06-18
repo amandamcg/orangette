@@ -153,9 +153,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p>R</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-8' data-commentid="8" data-postid="1832" data-belowelement="comment-8" data-respondelement="respond" data-replyto="Reply to Pedaler" aria-label='Reply to Pedaler'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-9" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
@@ -166,9 +164,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Ah yes, Pedaler, good thinking.  Very good.</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-9' data-commentid="9" data-postid="1832" data-belowelement="comment-9" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
     </ol>
 
       
@@ -293,14 +289,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
-                <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="https://orangette.net/">
-  <label>Search for:</label>
-  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
-  <button type="submit" class="search-button icon-search"></button>
-</form>
-          <div class="overlay--close" data-behavior="close-search"></div>
-        </div>
+                
       </div><!-- /.page-content -->
       <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
   <a class="footer-logo" href="https://orangette.net/">

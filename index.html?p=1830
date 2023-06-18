@@ -157,9 +157,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>This is the first time I have read your blog and think you are the &#8220;cats meow!&#8221;  I have a feeling I will love getting to know you through your musings and recipes!  And we are just across the lake from each other!</>Scottie</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-2' data-commentid="2" data-postid="1830" data-belowelement="comment-2" data-respondelement="respond" data-replyto="Reply to Scottie" aria-label='Reply to Scottie'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-3" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17996420409446817352" class="url" rel="ugc external nofollow">Jenn Adams</a></cite></div>
@@ -170,9 +168,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Larb or Larp is one of my favorite things ever.  I even made it for part of my wedding meal.  I love your book and for some reason am just now visiting your blog.  Silly me for waiting so long.  Enjoy your new babe.  Mine is 3 1/2 and it really does go so fast.  Fast enough that I don&#39;t get my age correct either&#8230;Thank you Molly!</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-3' data-commentid="3" data-postid="1830" data-belowelement="comment-3" data-respondelement="respond" data-replyto="Reply to Jenn Adams" aria-label='Reply to Jenn Adams'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-4" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17996420409446817352" class="url" rel="ugc external nofollow">Jenn Adams</a></cite></div>
@@ -183,9 +179,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Larb or Larp is one of my favorite things ever.  I even made it for part of my wedding meal.  I love your book and for some reason am just now visiting your blog.  Silly me for waiting so long.  Enjoy your new babe.  Mine is 3 1/2 and it really does go so fast.  Fast enough that I don&#39;t get my age correct either&#8230;Thank you Molly!</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-4' data-commentid="4" data-postid="1830" data-belowelement="comment-4" data-respondelement="respond" data-replyto="Reply to Jenn Adams" aria-label='Reply to Jenn Adams'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
     </ol>
 
       
@@ -310,14 +304,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
-                <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="https://orangette.net/">
-  <label>Search for:</label>
-  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
-  <button type="submit" class="search-button icon-search"></button>
-</form>
-          <div class="overlay--close" data-behavior="close-search"></div>
-        </div>
+                
       </div><!-- /.page-content -->
       <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
   <a class="footer-logo" href="https://orangette.net/">

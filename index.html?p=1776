@@ -155,9 +155,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Thanks for playing Molly! See you soon!</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-1073' data-commentid="1073" data-postid="1776" data-belowelement="comment-1073" data-respondelement="respond" data-replyto="Reply to megwoo" aria-label='Reply to megwoo'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-1074" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Anonymous</cite></div>
@@ -168,9 +166,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Hmm&#8230; les savy fav&#8230; will you marry me?</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-1074' data-commentid="1074" data-postid="1776" data-belowelement="comment-1074" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-1075" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
@@ -181,9 +177,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Anonymous, I do love Les Savy Fav, so there may be hope for you too.  You&#8217;ll have to work a bit harder, though&#8230;</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-1075' data-commentid="1075" data-postid="1776" data-belowelement="comment-1075" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
     </ol>
 
       
@@ -308,14 +302,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
-                <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="https://orangette.net/">
-  <label>Search for:</label>
-  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
-  <button type="submit" class="search-button icon-search"></button>
-</form>
-          <div class="overlay--close" data-behavior="close-search"></div>
-        </div>
+                
       </div><!-- /.page-content -->
       <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
   <a class="footer-logo" href="https://orangette.net/">

@@ -159,9 +159,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Reading your blog from the beginning while battling insomnia&#8230; James Wright was one of the first poets I ever noticed, as an 18-year-old, and I love him still.</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-682' data-commentid="682" data-postid="1828" data-belowelement="comment-682" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-683" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">clepro</cite></div>
@@ -172,9 +170,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>I am so happy to see this poem here, coupled with those grapevines.</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-683' data-commentid="683" data-postid="1828" data-belowelement="comment-683" data-respondelement="respond" data-replyto="Reply to clepro" aria-label='Reply to clepro'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
     </ol>
 
       
@@ -299,14 +295,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
-                <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="https://orangette.net/">
-  <label>Search for:</label>
-  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
-  <button type="submit" class="search-button icon-search"></button>
-</form>
-          <div class="overlay--close" data-behavior="close-search"></div>
-        </div>
+                
       </div><!-- /.page-content -->
       <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
   <a class="footer-logo" href="https://orangette.net/">

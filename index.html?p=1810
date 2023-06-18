@@ -154,9 +154,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Oh I also love dinner alone. I think it&#8217;s because you have the opportunity to enjoy a dinner that in someone else&#8217;s eyes might not qualify as dinner material. I love rummaging through my cupboards and fridge to find the perfect taste sensation for that evening!</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-450' data-commentid="450" data-postid="1810" data-belowelement="comment-450" data-respondelement="respond" data-replyto="Reply to pipstar" aria-label='Reply to pipstar'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
     </ol>
 
       
@@ -281,14 +279,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
-                <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="https://orangette.net/">
-  <label>Search for:</label>
-  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
-  <button type="submit" class="search-button icon-search"></button>
-</form>
-          <div class="overlay--close" data-behavior="close-search"></div>
-        </div>
+                
       </div><!-- /.page-content -->
       <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
   <a class="footer-logo" href="https://orangette.net/">

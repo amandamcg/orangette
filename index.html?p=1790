@@ -157,9 +157,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Molly Molly Molly, that&#8217;s so fantastic! I am really happy for you and am going to vote right now.</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-729' data-commentid="729" data-postid="1790" data-belowelement="comment-729" data-respondelement="respond" data-replyto="Reply to amylou" aria-label='Reply to amylou'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-730" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01346291537784641980" class="url" rel="ugc external nofollow">amylou</a></cite></div>
@@ -170,9 +168,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Okay, you are now at least one vote closer to winning. Good luck!</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-730' data-commentid="730" data-postid="1790" data-belowelement="comment-730" data-respondelement="respond" data-replyto="Reply to amylou" aria-label='Reply to amylou'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-731" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
@@ -183,9 +179,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Well thank you, Amy dear!  Are you still in snowy Sweden, or are you already in snowy Jersey?  I have to say that I&#8217;m a bit jealous of the &#8220;white Christmas&#8221; thing, although I really can&#8217;t complain&#8211;I&#8217;ve got a sunny Northern California morning on the other side of the window.  Ahh.  But sun on snow would be nice too.</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-731' data-commentid="731" data-postid="1790" data-belowelement="comment-731" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-732" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/02638700874093907879" class="url" rel="ugc external nofollow">Pusekatt</a></cite></div>
@@ -196,9 +190,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Hi Molly,<br />Congratulations on the nomination!<br />I have cast my vote for you and wish yu the best of luck. Now I know that it is not about winning but well, it is nice to win anyway 🙂<br />Good Luck.</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-732' data-commentid="732" data-postid="1790" data-belowelement="comment-732" data-respondelement="respond" data-replyto="Reply to Pusekatt" aria-label='Reply to Pusekatt'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-733" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/17217592165259825588" class="url" rel="ugc external nofollow">Mark</a></cite></div>
@@ -210,9 +202,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p>Have a very merry Christmas, Molly!</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-733' data-commentid="733" data-postid="1790" data-belowelement="comment-733" data-respondelement="respond" data-replyto="Reply to Mark" aria-label='Reply to Mark'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-734" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/16416476385064754429" class="url" rel="ugc external nofollow">pipstar</a></cite></div>
@@ -224,9 +214,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p>And Merry Xmas of course!</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-734' data-commentid="734" data-postid="1790" data-belowelement="comment-734" data-respondelement="respond" data-replyto="Reply to pipstar" aria-label='Reply to pipstar'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
     </ol>
 
       
@@ -351,14 +339,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
-                <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="https://orangette.net/">
-  <label>Search for:</label>
-  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
-  <button type="submit" class="search-button icon-search"></button>
-</form>
-          <div class="overlay--close" data-behavior="close-search"></div>
-        </div>
+                
       </div><!-- /.page-content -->
       <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
   <a class="footer-logo" href="https://orangette.net/">

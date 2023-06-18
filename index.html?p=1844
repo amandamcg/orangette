@@ -151,9 +151,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p>So far, I&#39;ve had no luck in convincing my wife that chickens would make good pets.</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-267' data-commentid="267" data-postid="1844" data-belowelement="comment-267" data-respondelement="respond" data-replyto="Reply to Big Jim" aria-label='Reply to Big Jim'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-268" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/07802770391781787581" class="url" rel="ugc external nofollow">Callie</a></cite></div>
@@ -164,9 +162,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Molly, did you know that the title sequence for Six Feet Under was filmed in Seattle? The scene where the clasped hands part, with the bird fluttering and the lone tree on the hill, was filmed on Kite Hill in Magnuson Park. Lovely. How I miss Seattle&#8230;.</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-268' data-commentid="268" data-postid="1844" data-belowelement="comment-268" data-respondelement="respond" data-replyto="Reply to Callie" aria-label='Reply to Callie'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
     </ol>
 
       
@@ -291,14 +287,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
-                <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="https://orangette.net/">
-  <label>Search for:</label>
-  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
-  <button type="submit" class="search-button icon-search"></button>
-</form>
-          <div class="overlay--close" data-behavior="close-search"></div>
-        </div>
+                
       </div><!-- /.page-content -->
       <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
   <a class="footer-logo" href="https://orangette.net/">

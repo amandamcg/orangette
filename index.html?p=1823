@@ -165,9 +165,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p>love,<br />elizabeth</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-656' data-commentid="656" data-postid="1823" data-belowelement="comment-656" data-respondelement="respond" data-replyto="Reply to Elizabeth" aria-label='Reply to Elizabeth'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-657" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/18427674380604683146" class="url" rel="ugc external nofollow">afterthoughtsdog</a></cite></div>
@@ -178,9 +176,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>I love your blog, your photo, and your attitude.  And Happy Birthday!!</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-657' data-commentid="657" data-postid="1823" data-belowelement="comment-657" data-respondelement="respond" data-replyto="Reply to afterthoughtsdog" aria-label='Reply to afterthoughtsdog'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-658" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/01493708300940204826" class="url" rel="ugc external nofollow">Molly</a></cite></div>
@@ -192,9 +188,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p>And thank you for the kind words, afterthoughtsdog!  I&#8217;m honored!  But I must say that if it&#8217;s the photo of me you&#8217;re referring to, credit actually goes to Elizabeth, impromptu shutter-clicker extraordinaire&#8230;</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-658' data-commentid="658" data-postid="1823" data-belowelement="comment-658" data-respondelement="respond" data-replyto="Reply to Molly" aria-label='Reply to Molly'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-659" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn"><a href="https://www.blogger.com/profile/02837213469167899209" class="url" rel="ugc external nofollow">Pedaler</a></cite></div>
@@ -205,9 +199,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Love, food and sex.  Well, I would say you know your way to a man&#8217;s heart at the very least.  My feeling is that it&#8217;s just a matter of time.</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-659' data-commentid="659" data-postid="1823" data-belowelement="comment-659" data-respondelement="respond" data-replyto="Reply to Pedaler" aria-label='Reply to Pedaler'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-660" class="comment even thread-even depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Bette Hanauer</cite></div>
@@ -218,9 +210,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Hi Molly,<br />   I made your chocolate cake for a family dinner tonight and my children, grandchildren, and husband agreed that it was the best chocolate cake ever. Not too sweet, light and fluffy. Thank you for a wonderful recipe!<br />   Bette Hanauer</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-660' data-commentid="660" data-postid="1823" data-belowelement="comment-660" data-respondelement="respond" data-replyto="Reply to Bette Hanauer" aria-label='Reply to Bette Hanauer'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
   <li id="comment-661" class="comment odd alt thread-odd thread-alt depth-1">
     <header class="comment--meta">
       <div class="vcard"><cite class="comment-author fn">Bette Hanauer</cite></div>
@@ -231,9 +221,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>Hi Molly,<br />   I made your chocolate cake for a family dinner tonight and my children, grandchildren, and husband agreed that it was the best chocolate cake ever. Not too sweet, light and fluffy. Thank you for a wonderful recipe!<br />   Bette Hanauer</p>
     </div>
 
-    <div class="reply">
-      <a rel='nofollow' class='comment-reply-link' href='#comment-661' data-commentid="661" data-postid="1823" data-belowelement="comment-661" data-respondelement="respond" data-replyto="Reply to Bette Hanauer" aria-label='Reply to Bette Hanauer'>Reply</a>    </div>
-  </li><!-- #comment-## -->
+      </li><!-- #comment-## -->
     </ol>
 
       
@@ -358,14 +346,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <a class="right-more" href="https://orangette.net/links/">More</a>
 </div>
           </aside><!-- /.sidebar -->
-                <div class="search-overlay" data-class="search-overlay">
-          <form role="search" method="get" class="search-form" action="https://orangette.net/">
-  <label>Search for:</label>
-  <input type="search" class="search-input" placeholder="Search …" value="" name="s" title="Search for:" />
-  <button type="submit" class="search-button icon-search"></button>
-</form>
-          <div class="overlay--close" data-behavior="close-search"></div>
-        </div>
+                
       </div><!-- /.page-content -->
       <script async defer data-pin-hover="true" data-pin-color="white" src="//assets.pinterest.com/js/pinit.js"></script><footer class="page-footer">
   <a class="footer-logo" href="https://orangette.net/">
