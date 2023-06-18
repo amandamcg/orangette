@@ -1922,14 +1922,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <p>I just looked in at your blog to look up a recipe, and I&#8217;m flooded with childhood memories!  First, it was the breadcrumb soup and now the peas&#8211;the canned peas!  Dad&#8217;s favorite comfort food.  When Mom would be working late or gallivanting (she was rather modern woman in the 50&#8217;s) , she could always rely on Dad fixin&#8217; his bacon and peas along with a big sandwich thrown in for good measure.  Talk about olive green peas&#8211;he loved those canned peas.  Just fry up some bacon and pour in the can.  How simple&#8230;and he was in hog heaven.  My sister and I would roll our eyes, but I think the last laugh was with him.  Now, he&#8217;d probably wink at us as if to say &#8220;I told you so.&#8221;</p>
     </div>
 
-    <div class="reply">
-   		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2010/05/peas-without-apology/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://orangette.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" autocomplete="email" required /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
-<p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of followup comments via e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='817' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="dedb698ac3" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="146"/><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-	</section>
+    	</section>
       </footer>
 </article>
         </main><!-- /.main -->
