@@ -98,7 +98,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <img class="title--large" src="https://orangette.net/wp-content/themes/orangette/assets/images/title.jpg" alt="Orangette" data-pin-no-hover="true">
     </a>
   </h1>
-  <button class="search-toggle icon-search2" data-behavior="open-search"></button>
   <button class="nav-toggle" data-behavior="open-nav"></button>
 </header>
       <div class="page-content">
